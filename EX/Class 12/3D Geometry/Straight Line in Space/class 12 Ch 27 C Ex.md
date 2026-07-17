@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - Straight Line in Space - Section C
 tags:
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Angle-Between-Two-Lines/Exercise
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Perpendicular-Lines/Exercise
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Angle-Between-Two-Lines
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Perpendicular-Lines
 class: 12
 unit: 4
 chapter: 27

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 7 - Statistics and Probability - Mean Median Mode of Grouped Data Cumulative Frequency Graph and Ogive - Section B
 tags:
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Calculating-Median-for-Grouped-Data/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Finding-Missing-Frequencies-using-Median/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Converting-Inclusive-to-Exclusive-Class-Intervals/Exercise
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Calculating-Median-for-Grouped-Data
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Finding-Missing-Frequencies-using-Median
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Converting-Inclusive-to-Exclusive-Class-Intervals
 class: 10
 unit: 7
 chapter: 18

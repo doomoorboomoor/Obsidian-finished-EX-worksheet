@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Continuity-and-Differentiability - Section A
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Continuity-and-Differentiability/Collinearity-in-3D-Space/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Continuity-and-Differentiability/Position-Vectors/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Continuity-and-Differentiability/Collinearity-in-3D-Space
+  - Class-12/Unit-3/Differential-Calculus/Continuity-and-Differentiability/Position-Vectors
 class: 12
 unit: 3
 chapter: 09

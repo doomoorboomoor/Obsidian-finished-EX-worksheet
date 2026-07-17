@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 6 - Probability - Binomial Distribution - Section Q
 tags:
-  - Class-12/Unit-6/Probability/Binomial-Distribution/Bernoulli-Trials/Exercise
-  - Class-12/Unit-6/Probability/Binomial-Distribution/Mean-and-Variance/Exercise
+  - Class-12/Unit-6/Probability/Binomial-Distribution/Bernoulli-Trials
+  - Class-12/Unit-6/Probability/Binomial-Distribution/Mean-and-Variance
 class: 12
 unit: 6
 chapter: 32

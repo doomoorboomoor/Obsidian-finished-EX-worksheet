@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Functions - Section D
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Inverse-Functions/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Composite-Functions/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Inverse-Functions
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Composite-Functions
 class: 12
 unit: 1
 chapter: 02

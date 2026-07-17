@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 5 - Mathematical-Reasoning - Mathematical-Reasoning - Section C
 tags:
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Implications/Exercise
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Logical-Equivalence/Exercise
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Implications
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Logical-Equivalence
 class: 11
 unit: 5
 chapter: 29

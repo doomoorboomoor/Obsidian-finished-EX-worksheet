@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Sets - Section C
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Sets/Subsets-and-Intervals/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Sets/Power-Sets-and-Universal-Sets/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Sets/Subsets-and-Intervals
+  - Class-11/Unit-1/Set-and-Functions/Sets/Power-Sets-and-Universal-Sets
 class: 11
 unit: 1
 chapter: 01

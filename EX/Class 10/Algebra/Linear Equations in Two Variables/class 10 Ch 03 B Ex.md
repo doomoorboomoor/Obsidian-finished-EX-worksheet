@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Linear Equations in Two Variables - Section B
 tags:
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Simultaneous-Linear-Equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solving-Equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Algebraic-Methods/Exercise
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Simultaneous-Linear-Equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solving-Equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Algebraic-Methods
 class: 10
 unit: 2
 chapter: 03

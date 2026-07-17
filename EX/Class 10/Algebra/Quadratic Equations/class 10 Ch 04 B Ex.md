@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Quadratic Equations - Section B
 tags:
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Solving-quadratic-equations/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Method-of-completing-the-square/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Nature-of-roots/Exercise
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Solving-quadratic-equations
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Method-of-completing-the-square
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Nature-of-roots
 class: 10
 unit: 2
 chapter: 04

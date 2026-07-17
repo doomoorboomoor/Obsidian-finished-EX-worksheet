@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Geometrical-Progression - Section G
 tags:
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Infinite-Geometric-Series/Exercise
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Recurring-Decimals/Exercise
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Infinite-Geometric-Series
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Recurring-Decimals
 class: 11
 unit: 2
 chapter: 12

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - Straight Line in Space - Section D
 tags:
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Shortest-Distance-Between-Lines/Exercise
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Intersection-of-Lines/Exercise
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Shortest-Distance-Between-Lines
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Intersection-of-Lines
 class: 12
 unit: 4
 chapter: 27

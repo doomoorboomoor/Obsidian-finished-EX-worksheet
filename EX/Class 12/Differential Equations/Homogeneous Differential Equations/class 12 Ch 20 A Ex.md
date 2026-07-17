@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Equations - Homogeneous-Differential-Equations - Section A
 tags:
-  - Class-12/Unit-3/Differential-Equations/Homogeneous-Differential-Equations/Solving-Homogeneous-Differential-Equations/Exercise
-  - Class-12/Unit-3/Differential-Equations/Homogeneous-Differential-Equations/Particular-Solutions/Exercise
+  - Class-12/Unit-3/Differential-Equations/Homogeneous-Differential-Equations/Solving-Homogeneous-Differential-Equations
+  - Class-12/Unit-3/Differential-Equations/Homogeneous-Differential-Equations/Particular-Solutions
 class: 12
 unit: 3
 chapter: 20

@@ -1,9 +1,9 @@
 ---
 Title: Exercise worksheet - Class 09 - Unit 1 - Number Systems - Number Systems - section E
 tags:
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Representation-of-irrational-numbers-on-the-number-line/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Geometrical-representation-of-square-roots/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Successive-magnification/Exercise
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Representation-of-irrational-numbers-on-the-number-line
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Geometrical-representation-of-square-roots
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Successive-magnification
 class: 09
 Unit: 1
 chapter: 01

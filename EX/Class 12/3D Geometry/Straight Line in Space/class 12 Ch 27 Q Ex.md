@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - Straight Line in Space - Section Q
 tags:
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Angle-Between-Lines/Exercise
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Vector-and-Cartesian-Equations/Exercise
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Angle-Between-Lines
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Vector-and-Cartesian-Equations
 class: 12
 unit: 4
 chapter: 27

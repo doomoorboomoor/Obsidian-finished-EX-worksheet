@@ -1,11 +1,11 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 5 - Mensuration - Volume and Surface Area of Solids - section Q
 Tags:
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-of-Cuboids-and-Cubes/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Surface-Area-of-Cylinders/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-and-Surface-Area-of-Cones/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-and-Surface-Area-of-Spheres/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Conversion-of-Solids/Exercise
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-of-Cuboids-and-Cubes
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Surface-Area-of-Cylinders
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-and-Surface-Area-of-Cones
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-and-Surface-Area-of-Spheres
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Conversion-of-Solids
 Class: 09
 Unit: 5
 Chapter: 15

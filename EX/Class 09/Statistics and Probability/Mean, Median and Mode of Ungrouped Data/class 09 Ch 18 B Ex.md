@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 6 - Statistics and Probability - Mean Median and Mode of Ungrouped Data - section B
 Tags:
-  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Mean-of-ungrouped-frequency-distribution/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Finding-missing-frequencies/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Mean-of-tabular-data/Exercise
+  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Mean-of-ungrouped-frequency-distribution
+  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Finding-missing-frequencies
+  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Mean-of-tabular-data
 Class: 09
 Unit: 6
 Chapter: 18

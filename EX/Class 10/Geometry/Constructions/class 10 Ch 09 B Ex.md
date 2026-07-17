@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Constructions - Section B
 tags:
-  - Class-10/Unit-4/Geometry/Constructions/Constructing-tangents-from-an-external-point/Exercise
-  - Class-10/Unit-4/Geometry/Constructions/Tangents-inclined-at-an-angle/Exercise
-  - Class-10/Unit-4/Geometry/Constructions/Tangents-to-concentric-circles/Exercise
-  - Class-10/Unit-4/Geometry/Constructions/Steps-of-construction/Exercise
+  - Class-10/Unit-4/Geometry/Constructions/Constructing-tangents-from-an-external-point
+  - Class-10/Unit-4/Geometry/Constructions/Tangents-inclined-at-an-angle
+  - Class-10/Unit-4/Geometry/Constructions/Tangents-to-concentric-circles
+  - Class-10/Unit-4/Geometry/Constructions/Steps-of-construction
 class: 10
 unit: 4
 chapter: 09

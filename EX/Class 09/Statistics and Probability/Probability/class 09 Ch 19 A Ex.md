@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 6 - Statistics and Probability - Probability - section A
 Tags:
-  - Class-09/Unit-6/Statistics-and-Probability/Probability/Empirical-Probability/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Probability/Coin-Tossing-Experiments/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Probability/Tabular-Data-Probability/Exercise
+  - Class-09/Unit-6/Statistics-and-Probability/Probability/Empirical-Probability
+  - Class-09/Unit-6/Statistics-and-Probability/Probability/Coin-Tossing-Experiments
+  - Class-09/Unit-6/Statistics-and-Probability/Probability/Tabular-Data-Probability
 Class: 09
 Unit: 6
 Chapter: 19

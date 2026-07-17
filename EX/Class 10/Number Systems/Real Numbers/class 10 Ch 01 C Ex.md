@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 1 - Number Systems - Real Numbers - Section C
 tags:
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Terminating-and-non-terminating-decimals/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Prime-factorization-of-denominators/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Conversion-of-repeating-decimals-to-fractions/Exercise
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Terminating-and-non-terminating-decimals
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Prime-factorization-of-denominators
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Conversion-of-repeating-decimals-to-fractions
 class: 10
 unit: 1
 chapter: 01

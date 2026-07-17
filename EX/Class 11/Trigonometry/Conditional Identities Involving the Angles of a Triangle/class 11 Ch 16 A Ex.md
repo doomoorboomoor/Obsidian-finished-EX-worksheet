@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Trigonometry - Conditional-Identities-Involving-the-Angles-of-a-Triangle - Section A
 tags:
-  - Class-11/Unit-1/Trigonometry/Conditional-Identities-Involving-the-Angles-of-a-Triangle/Conditional-Identities/Exercise
-  - Class-11/Unit-1/Trigonometry/Conditional-Identities-Involving-the-Angles-of-a-Triangle/Angle-Sum-Property/Exercise
+  - Class-11/Unit-1/Trigonometry/Conditional-Identities-Involving-the-Angles-of-a-Triangle/Conditional-Identities
+  - Class-11/Unit-1/Trigonometry/Conditional-Identities-Involving-the-Angles-of-a-Triangle/Angle-Sum-Property
 class: 11
 unit: 1
 chapter: 16

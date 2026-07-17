@@ -1,12 +1,12 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 6 - Mensuration - Perimeter and Area of Plane Figures - Section B
 tags:
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Perimeter-and-Area-of-Rectangles/Exercise
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Pathways-and-Borders-in-Rectangles/Exercise
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Perimeter-and-Area-of-Squares/Exercise
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Area-of-General-Quadrilaterals/Exercise
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Area-of-Parallelograms-and-Rhombuses/Exercise
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Area-of-Trapeziums/Exercise
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Perimeter-and-Area-of-Rectangles
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Pathways-and-Borders-in-Rectangles
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Perimeter-and-Area-of-Squares
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Area-of-General-Quadrilaterals
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Area-of-Parallelograms-and-Rhombuses
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Area-of-Trapeziums
 class: 10
 unit: 6
 chapter: 15

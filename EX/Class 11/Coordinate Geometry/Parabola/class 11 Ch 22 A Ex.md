@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Parabola - Section A
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Parabola/Focus-and-Vertex/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Parabola/Equation-of-Parabola/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Parabola/Focus-and-Vertex
+  - Class-11/Unit-3/Coordinate-Geometry/Parabola/Equation-of-Parabola
 class: 11
 unit: 3
 chapter: 22

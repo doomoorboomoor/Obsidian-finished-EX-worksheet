@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - Vector-Algebra - Product-of-Three-Vectors - Section B
 tags:
-  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Scalar-and-Vector-Products/Exercise
-  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Direction-Cosines-and-Ratios/Exercise
+  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Scalar-and-Vector-Products
+  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Direction-Cosines-and-Ratios
 class: 12
 unit: 4
 chapter: 25

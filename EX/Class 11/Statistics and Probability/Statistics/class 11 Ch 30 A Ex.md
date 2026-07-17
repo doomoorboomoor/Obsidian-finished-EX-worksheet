@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 6 - Statistics-and-Probability - Statistics - Section A
 tags:
-  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Mean-Deviation-About-Mean/Exercise
-  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Mean-Deviation-About-Median/Exercise
+  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Mean-Deviation-About-Mean
+  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Mean-Deviation-About-Median
 class: 11
 unit: 6
 chapter: 30

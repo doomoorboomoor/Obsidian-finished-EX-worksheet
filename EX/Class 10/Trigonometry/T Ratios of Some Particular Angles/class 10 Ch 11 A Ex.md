@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 5 - Trigonometry - T-Ratios of Some Particular Angles - Section A
 tags:
-  - Class-10/Unit-5/Trigonometry/T-Ratios-of-Some-Particular-Angles/Evaluating-Trigonometric-Expressions/Exercise
-  - Class-10/Unit-5/Trigonometry/T-Ratios-of-Some-Particular-Angles/Verifying-Trigonometric-Identities/Exercise
-  - Class-10/Unit-5/Trigonometry/T-Ratios-of-Some-Particular-Angles/Solving-Right-Triangles/Exercise
-  - Class-10/Unit-5/Trigonometry/T-Ratios-of-Some-Particular-Angles/Finding-Unknown-Angles/Exercise
+  - Class-10/Unit-5/Trigonometry/T-Ratios-of-Some-Particular-Angles/Evaluating-Trigonometric-Expressions
+  - Class-10/Unit-5/Trigonometry/T-Ratios-of-Some-Particular-Angles/Verifying-Trigonometric-Identities
+  - Class-10/Unit-5/Trigonometry/T-Ratios-of-Some-Particular-Angles/Solving-Right-Triangles
+  - Class-10/Unit-5/Trigonometry/T-Ratios-of-Some-Particular-Angles/Finding-Unknown-Angles
 class: 10
 unit: 5
 chapter: 11

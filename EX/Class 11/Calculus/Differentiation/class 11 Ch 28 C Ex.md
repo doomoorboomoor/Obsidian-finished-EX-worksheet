@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 4 - Calculus - Differentiation - Section C
 tags:
-  - Class-11/Unit-4/Calculus/Differentiation/Product-Rule/Exercise
-  - Class-11/Unit-4/Calculus/Differentiation/Exponential-and-Trigonometric-Derivatives/Exercise
+  - Class-11/Unit-4/Calculus/Differentiation/Product-Rule
+  - Class-11/Unit-4/Calculus/Differentiation/Exponential-and-Trigonometric-Derivatives
 class: 11
 unit: 4
 chapter: 28

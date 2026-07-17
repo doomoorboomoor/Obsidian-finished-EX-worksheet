@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Trigonometry - Trigonometric-or-Circular-Functions - Section C
 tags:
-  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Sum-and-Difference-Formulas/Exercise
-  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Product-to-Sum-Formulas/Exercise
+  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Sum-and-Difference-Formulas
+  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Product-to-Sum-Formulas
 class: 11
 unit: 1
 chapter: 15

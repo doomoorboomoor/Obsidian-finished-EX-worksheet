@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 5 - Trigonometry - Heights and Distances - Section Q
 tags:
-  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Angle-of-Elevation/Exercise
-  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Angle-of-Depression/Exercise
-  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Shadow-and-Pole-Problems/Exercise
-  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Kite-Flying-Problems/Exercise
+  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Angle-of-Elevation
+  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Angle-of-Depression
+  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Shadow-and-Pole-Problems
+  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Kite-Flying-Problems
 class: 10
 unit: 5
 chapter: 14

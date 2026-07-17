@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Continuity-and-Differentiability - Section C
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Continuity-and-Differentiability/Matrix-Algebra/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Continuity-and-Differentiability/Matrix-Operations/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Continuity-and-Differentiability/Matrix-Algebra
+  - Class-12/Unit-3/Differential-Calculus/Continuity-and-Differentiability/Matrix-Operations
 class: 12
 unit: 3
 chapter: 09

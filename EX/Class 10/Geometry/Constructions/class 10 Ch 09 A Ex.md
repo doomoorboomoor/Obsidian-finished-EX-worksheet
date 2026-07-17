@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Constructions - Section A
 tags:
-  - Class-10/Unit-4/Geometry/Constructions/Division-of-a-line-segment/Exercise
-  - Class-10/Unit-4/Geometry/Constructions/Construction-of-similar-triangles/Exercise
-  - Class-10/Unit-4/Geometry/Constructions/Scale-factor-in-triangle-construction/Exercise
+  - Class-10/Unit-4/Geometry/Constructions/Division-of-a-line-segment
+  - Class-10/Unit-4/Geometry/Constructions/Construction-of-similar-triangles
+  - Class-10/Unit-4/Geometry/Constructions/Scale-factor-in-triangle-construction
 class: 10
 unit: 4
 chapter: 09

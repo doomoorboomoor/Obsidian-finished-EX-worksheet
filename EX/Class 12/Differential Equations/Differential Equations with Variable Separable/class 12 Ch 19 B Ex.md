@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential Equations - Differential Equations with Variable Separable - Section B
 tags:
-  - Class-12/Unit-3/Differential-Equations/Differential-Equations-with-Variable-Separable/General-Solutions/Exercise
-  - Class-12/Unit-3/Differential-Equations/Differential-Equations-with-Variable-Separable/Integration-Techniques/Exercise
+  - Class-12/Unit-3/Differential-Equations/Differential-Equations-with-Variable-Separable/General-Solutions
+  - Class-12/Unit-3/Differential-Equations/Differential-Equations-with-Variable-Separable/Integration-Techniques
 class: 12
 unit: 3
 chapter: 19

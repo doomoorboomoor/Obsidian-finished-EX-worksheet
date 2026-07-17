@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Applications-of-Derivatives - Section Q
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Differentiation/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Logarithmic-Differentiation/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Differentiation
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Logarithmic-Differentiation
 class: 12
 unit: 3
 chapter: 11

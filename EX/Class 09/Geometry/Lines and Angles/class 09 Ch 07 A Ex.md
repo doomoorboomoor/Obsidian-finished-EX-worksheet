@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Lines and Angles - Section A
 tags:
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Definitions-of-Angles/Exercise
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Complementary-and-Supplementary-Angles/Exercise
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Algebraic-Angle-Problems/Exercise
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Definitions-of-Angles
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Complementary-and-Supplementary-Angles
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Algebraic-Angle-Problems
 class: 09
 unit: 4
 chapter: 07

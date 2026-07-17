@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 6 - Mensuration - Volume and Surface Areas of Solids - Section A
 tags:
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Surface-area-of-combination-of-solids/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Volume-of-combination-of-solids/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Conversion-of-solid-from-one-shape-to-another/Exercise
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Surface-area-of-combination-of-solids
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Volume-of-combination-of-solids
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Conversion-of-solid-from-one-shape-to-another
 class: 10
 unit: 6
 chapter: 17

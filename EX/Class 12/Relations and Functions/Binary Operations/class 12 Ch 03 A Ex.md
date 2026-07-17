@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Binary-Operations - Section A
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Binary-Operations/Properties-of-Binary-Operations/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Binary-Operations/Identity-and-Inverse-Elements/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Binary-Operations/Properties-of-Binary-Operations
+  - Class-12/Unit-1/Relations-and-Functions/Binary-Operations/Identity-and-Inverse-Elements
 class: 12
 unit: 1
 chapter: 3

@@ -2,9 +2,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Circles - Section Q
 tags:
-  - Class-09/Unit-4/Geometry/Circles/Properties-of-Chords/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Angles-Subtended-by-Arcs/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Cyclic-Quadrilaterals/Exercise
+  - Class-09/Unit-4/Geometry/Circles/Properties-of-Chords
+  - Class-09/Unit-4/Geometry/Circles/Angles-Subtended-by-Arcs
+  - Class-09/Unit-4/Geometry/Circles/Cyclic-Quadrilaterals
 class: 09
 unit: 4
 chapter: 12

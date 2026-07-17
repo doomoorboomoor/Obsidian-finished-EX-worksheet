@@ -1,12 +1,12 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Linear Equations in Two Variables - Section F
 tags:
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Number-of-solutions-of-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Infinite-solutions-of-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/No-solution-of-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Unique-solution-of-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems-on-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Equations-reducible-to-linear-equations/Exercise
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Number-of-solutions-of-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Infinite-solutions-of-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/No-solution-of-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Unique-solution-of-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems-on-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Equations-reducible-to-linear-equations
 class: 10
 unit: 2
 chapter: 03

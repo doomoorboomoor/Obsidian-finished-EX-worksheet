@@ -1,10 +1,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 5 - Mensuration - Areas of Triangles and Quadrilaterals - section Q
 Tags:
-  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Triangle/Exercise
-  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Equilateral-Triangle/Exercise
-  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Isosceles-Triangle/Exercise
-  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Multiple-Choice-Questions/Exercise
+  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Triangle
+  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Equilateral-Triangle
+  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Isosceles-Triangle
+  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Multiple-Choice-Questions
 Class: 09
 Unit: 5
 Chapter: 14

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section J
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Translation-of-Axes/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Transformation-of-Equations/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Translation-of-Axes
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Transformation-of-Equations
 class: 11
 unit: 3
 chapter: 20

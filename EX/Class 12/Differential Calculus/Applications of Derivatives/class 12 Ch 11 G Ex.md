@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Applications-of-Derivatives - Section G
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Increasing-and-Decreasing-Functions/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Monotonicity/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Increasing-and-Decreasing-Functions
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Monotonicity
 class: 12
 unit: 3
 chapter: 11

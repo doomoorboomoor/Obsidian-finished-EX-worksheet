@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Definite-Integrals - Section A
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Evaluation-of-Definite-Integrals/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Definite-Integrals-of-Trigonometric-Functions/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Evaluation-of-Definite-Integrals
+  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Definite-Integrals-of-Trigonometric-Functions
 class: 12
 unit: 3
 chapter: 16

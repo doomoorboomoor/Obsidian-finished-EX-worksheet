@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 5 - Mathematical-Reasoning - Mathematical-Reasoning - Section B
 tags:
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Compound-Statements-and-Logical-Connectives/Exercise
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Quantifiers-and-Truth-Sets/Exercise
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Compound-Statements-and-Logical-Connectives
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Quantifiers-and-Truth-Sets
 class: 11
 unit: 5
 chapter: 29

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section F
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Normal-Form/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Equation-of-a-Line/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Normal-Form
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Equation-of-a-Line
 class: 11
 unit: 3
 chapter: 20

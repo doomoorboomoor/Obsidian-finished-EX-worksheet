@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Factorisation of Polynomials - section E
 Tags:
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Expansion-of-cubic-expressions/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-algebraic-identities/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Evaluation-using-cubic-identities/Exercise
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Expansion-of-cubic-expressions
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-algebraic-identities
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Evaluation-using-cubic-identities
 Class: 09
 Unit: 2
 Chapter: 03

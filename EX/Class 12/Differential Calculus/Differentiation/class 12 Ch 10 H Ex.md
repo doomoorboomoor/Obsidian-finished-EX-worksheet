@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Differentiation - Section H
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Differentiation-of-a-Function-with-respect-to-another-Function/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Differentiation-of-Inverse-Trigonometric-Functions/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Differentiation-of-a-Function-with-respect-to-another-Function
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Differentiation-of-Inverse-Trigonometric-Functions
 class: 12
 unit: 3
 chapter: 10

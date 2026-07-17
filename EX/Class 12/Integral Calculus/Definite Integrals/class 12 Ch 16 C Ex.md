@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Definite-Integrals - Section C
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Properties-of-Definite-Integrals/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Evaluation-of-Definite-Integrals/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Properties-of-Definite-Integrals
+  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Evaluation-of-Definite-Integrals
 class: 12
 unit: 3
 chapter: 16

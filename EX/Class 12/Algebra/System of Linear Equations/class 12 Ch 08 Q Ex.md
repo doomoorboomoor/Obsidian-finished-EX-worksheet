@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - System-of-Linear-Equations - Section Q
 tags:
-  - Class-12/Unit-2/Algebra/System-of-Linear-Equations/Matrix-Operations/Exercise
-  - Class-12/Unit-2/Algebra/System-of-Linear-Equations/Matrix-Algebra/Exercise
+  - Class-12/Unit-2/Algebra/System-of-Linear-Equations/Matrix-Operations
+  - Class-12/Unit-2/Algebra/System-of-Linear-Equations/Matrix-Algebra
 class: 12
 unit: 2
 chapter: 08

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 6 - Mensuration - Volume and Surface Areas of Solids - Section Q
 tags:
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Combination-of-solids/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Conversion-of-solid-from-one-shape-to-another/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Frustum-of-a-cone/Exercise
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Combination-of-solids
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Conversion-of-solid-from-one-shape-to-another
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Frustum-of-a-cone
 class: 10
 unit: 6
 chapter: 17

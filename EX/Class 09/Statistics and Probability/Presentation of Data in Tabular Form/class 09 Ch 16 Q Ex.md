@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 6 - Statistics and Probability - Presentation of Data in Tabular Form - section Q
 Tags:
-  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Range-of-Data/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Class-Marks-and-Intervals/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Class-Limits-and-Boundaries/Exercise
+  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Range-of-Data
+  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Class-Marks-and-Intervals
+  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Class-Limits-and-Boundaries
 Class: 09
 Unit: 6
 Chapter: 16

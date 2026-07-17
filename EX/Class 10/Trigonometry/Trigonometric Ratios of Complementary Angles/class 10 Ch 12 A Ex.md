@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 5 - Trigonometry - Trigonometric Ratios of Complementary Angles - Section A
 tags:
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios-of-Complementary-Angles/Evaluating-trigonometric-ratios-of-complementary-angles/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios-of-Complementary-Angles/Proving-trigonometric-identities/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios-of-Complementary-Angles/Solving-for-unknown-angles/Exercise
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios-of-Complementary-Angles/Evaluating-trigonometric-ratios-of-complementary-angles
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios-of-Complementary-Angles/Proving-trigonometric-identities
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios-of-Complementary-Angles/Solving-for-unknown-angles
 class: 10
 unit: 5
 chapter: 12

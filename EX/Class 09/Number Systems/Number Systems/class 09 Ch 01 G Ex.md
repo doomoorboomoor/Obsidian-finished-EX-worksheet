@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 1 - Number Systems - Number Systems - section G
 Tags:
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Laws-of-rational-exponents/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Simplification-of-surds/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Exponential-equations/Exercise
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Laws-of-rational-exponents
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Simplification-of-surds
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Exponential-equations
 Class: 09
 Unit: 1
 Chapter: 01

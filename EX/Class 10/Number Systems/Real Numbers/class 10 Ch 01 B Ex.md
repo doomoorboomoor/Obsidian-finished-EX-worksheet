@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 1 - Number Systems - Real Numbers - Section B
 tags:
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Prime-Factorisation/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/HCF-and-LCM/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Word-Problems-on-HCF-and-LCM/Exercise
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Prime-Factorisation
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/HCF-and-LCM
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Word-Problems-on-HCF-and-LCM
 class: 10
 unit: 1
 chapter: 01

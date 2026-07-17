@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Three-Dimensional-Geometry - Section C
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Section-Formula/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Centroid-of-a-Triangle/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Section-Formula
+  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Centroid-of-a-Triangle
 class: 11
 unit: 3
 chapter: 26

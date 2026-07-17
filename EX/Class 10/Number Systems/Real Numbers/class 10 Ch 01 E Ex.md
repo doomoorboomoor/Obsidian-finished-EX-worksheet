@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 1 - Number Systems - Real Numbers - Section E
 tags:
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Euclids-Division-Lemma/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Fundamental-Theorem-of-Arithmetic/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/HCF-and-LCM/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Rational-and-Irrational-Numbers/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Terminating-and-Non-Terminating-Decimals/Exercise
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Euclids-Division-Lemma
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Fundamental-Theorem-of-Arithmetic
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/HCF-and-LCM
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Rational-and-Irrational-Numbers
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Terminating-and-Non-Terminating-Decimals
 class: 10
 unit: 1
 chapter: 01

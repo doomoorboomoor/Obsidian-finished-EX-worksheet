@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Trigonometry - Measurement-of-Angles - Section A
 tags:
-  - Class-11/Unit-1/Trigonometry/Measurement-of-Angles/Angle-Conversions/Exercise
-  - Class-11/Unit-1/Trigonometry/Measurement-of-Angles/Arc-Length-and-Sectors/Exercise
+  - Class-11/Unit-1/Trigonometry/Measurement-of-Angles/Angle-Conversions
+  - Class-11/Unit-1/Trigonometry/Measurement-of-Angles/Arc-Length-and-Sectors
 class: 11
 unit: 1
 chapter: 14

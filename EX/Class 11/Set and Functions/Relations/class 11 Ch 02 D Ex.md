@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Relations - Section D
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Relations/Binary-Relations/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Relations/Equivalence-Relations/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Relations/Binary-Relations
+  - Class-11/Unit-1/Set-and-Functions/Relations/Equivalence-Relations
 class: 11
 unit: 1
 chapter: 02

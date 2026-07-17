@@ -1,11 +1,11 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 3 - Coordinate Geometry - Coordinate Geometry - section Q
 Tags:
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Quadrants/Exercise
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Coordinates-of-a-Point/Exercise
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Distance-from-Axes/Exercise
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Plotting-Points/Exercise
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Area-of-Geometric-Figures/Exercise
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Quadrants
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Coordinates-of-a-Point
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Distance-from-Axes
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Plotting-Points
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Area-of-Geometric-Figures
 Class: 09
 Unit: 3
 Chapter: 05

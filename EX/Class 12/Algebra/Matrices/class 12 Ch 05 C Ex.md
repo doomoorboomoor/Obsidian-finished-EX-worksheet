@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Matrices - Section C
 tags:
-  - Class-12/Unit-2/Algebra/Matrices/Matrix-Multiplication/Exercise
-  - Class-12/Unit-2/Algebra/Matrices/Matrix-Equations/Exercise
+  - Class-12/Unit-2/Algebra/Matrices/Matrix-Multiplication
+  - Class-12/Unit-2/Algebra/Matrices/Matrix-Equations
 class: 12
 unit: 2
 chapter: 05

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 4 - Calculus - Limits - Section A
 tags:
-  - Class-11/Unit-4/Calculus/Limits/Evaluating-Limits/Exercise
-  - Class-11/Unit-4/Calculus/Limits/Algebraic-Limits/Exercise
-  - Class-11/Unit-4/Calculus/Limits/Exponential-Limits/Exercise
+  - Class-11/Unit-4/Calculus/Limits/Evaluating-Limits
+  - Class-11/Unit-4/Calculus/Limits/Algebraic-Limits
+  - Class-11/Unit-4/Calculus/Limits/Exponential-Limits
 class: 11
 unit: 4
 chapter: 27

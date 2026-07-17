@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Principle-of-Mathematical-Induction - Section A
 tags:
-  - Class-11/Unit-2/Algebra/Principle-of-Mathematical-Induction/Summation-Series/Exercise
-  - Class-11/Unit-2/Algebra/Principle-of-Mathematical-Induction/Divisibility-Proofs/Exercise
-  - Class-11/Unit-2/Algebra/Principle-of-Mathematical-Induction/Inequalities/Exercise
+  - Class-11/Unit-2/Algebra/Principle-of-Mathematical-Induction/Summation-Series
+  - Class-11/Unit-2/Algebra/Principle-of-Mathematical-Induction/Divisibility-Proofs
+  - Class-11/Unit-2/Algebra/Principle-of-Mathematical-Induction/Inequalities
 class: 11
 unit: 2
 chapter: 04

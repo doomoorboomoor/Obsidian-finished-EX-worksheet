@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Arithmetic-Progression - Section D
 tags:
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Arithmetic-Mean/Exercise
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Insertion-of-AMs/Exercise
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Arithmetic-Mean
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Insertion-of-AMs
 class: 11
 unit: 2
 chapter: 11

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Equations - Linear-Differential-Equations - Section Q
 tags:
-  - Class-12/Unit-3/Differential-Equations/Linear-Differential-Equations/First-Order-Equations/Exercise
-  - Class-12/Unit-3/Differential-Equations/Linear-Differential-Equations/Homogeneous-Equations/Exercise
+  - Class-12/Unit-3/Differential-Equations/Linear-Differential-Equations/First-Order-Equations
+  - Class-12/Unit-3/Differential-Equations/Linear-Differential-Equations/Homogeneous-Equations
 class: 12
 unit: 3
 chapter: 21

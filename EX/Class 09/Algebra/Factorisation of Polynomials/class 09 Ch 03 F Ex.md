@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Factorisation of Polynomials - section F
 Tags:
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Sum-and-difference-of-cubes/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-using-algebraic-identities/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Mixed-factorisation-problems/Exercise
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Sum-and-difference-of-cubes
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-using-algebraic-identities
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Mixed-factorisation-problems
 Class: 09
 Unit: 2
 Chapter: 03

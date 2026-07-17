@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 6 - Mensuration - Perimeter and Area of Plane Figures - Section A
 tags:
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Area-of-Triangles/Exercise
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Herons-Formula/Exercise
-  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Equilateral-and-Isosceles-Triangles/Exercise
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Area-of-Triangles
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Herons-Formula
+  - Class-10/Unit-6/Mensuration/Perimeter-and-Area-of-Plane-Figures/Equilateral-and-Isosceles-Triangles
 class: 10
 unit: 6
 chapter: 15

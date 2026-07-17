@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Three-Dimensional-Geometry - Section A
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Introduction-to-3D-Coordinate-System/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Distance-Formula-in-3D/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Introduction-to-3D-Coordinate-System
+  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Distance-Formula-in-3D
 class: 11
 unit: 3
 chapter: 26

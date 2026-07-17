@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Circles - Section B
 tags:
-  - Class-09/Unit-4/Geometry/Circles/Angle-subtended-by-an-arc/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Angles-in-the-same-segment/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Cyclic-quadrilaterals/Exercise
+  - Class-09/Unit-4/Geometry/Circles/Angle-subtended-by-an-arc
+  - Class-09/Unit-4/Geometry/Circles/Angles-in-the-same-segment
+  - Class-09/Unit-4/Geometry/Circles/Cyclic-quadrilaterals
 class: 09
 unit: 4
 chapter: 12

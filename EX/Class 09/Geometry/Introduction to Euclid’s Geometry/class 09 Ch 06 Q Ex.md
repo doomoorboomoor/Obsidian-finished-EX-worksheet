@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Introduction to Euclid’s Geometry - Section Q
 tags:
-  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Ancient-Indian-Geometry/Exercise
-  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Euclidean-Axioms-and-Postulates/Exercise
-  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Dimensions-and-Boundaries/Exercise
-  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Collinearity-and-Betweenness/Exercise
+  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Ancient-Indian-Geometry
+  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Euclidean-Axioms-and-Postulates
+  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Dimensions-and-Boundaries
+  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Collinearity-and-Betweenness
 class: 09
 unit: 4
 chapter: 06

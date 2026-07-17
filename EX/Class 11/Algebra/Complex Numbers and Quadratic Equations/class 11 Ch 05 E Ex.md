@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - ComplEx-Numbers-and-Quadratic-Equations - Section E
 tags:
-  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Quadratic-Equations/Exercise
-  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Complex-Roots/Exercise
+  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Quadratic-Equations
+  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Complex-Roots
 class: 11
 unit: 2
 chapter: 05

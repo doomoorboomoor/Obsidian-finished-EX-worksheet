@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 1 - Number Systems - Real Numbers - Section A
 tags:
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Euclids-division-lemma/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Euclids-division-algorithm/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Finding-HCF/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Properties-of-positive-integers/Exercise
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Euclids-division-lemma
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Euclids-division-algorithm
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Finding-HCF
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Properties-of-positive-integers
 class: 10
 unit: 1
 chapter: 01

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 6 - Probability - Probability-Distribution - Section A
 tags:
-  - Class-12/Unit-6/Probability/Probability-Distribution/Probability-Distributions/Exercise
-  - Class-12/Unit-6/Probability/Probability-Distribution/Mean-and-Variance/Exercise
+  - Class-12/Unit-6/Probability/Probability-Distribution/Probability-Distributions
+  - Class-12/Unit-6/Probability/Probability-Distribution/Mean-and-Variance
 class: 12
 unit: 6
 chapter: 31

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Lines and Angles - Section B
 tags:
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Angles-and-lines/Exercise
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Vertically-opposite-angles/Exercise
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Adjacent-angles-on-a-straight-line/Exercise
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Angles-and-lines
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Vertically-opposite-angles
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Adjacent-angles-on-a-straight-line
 class: 09
 unit: 4
 chapter: 07

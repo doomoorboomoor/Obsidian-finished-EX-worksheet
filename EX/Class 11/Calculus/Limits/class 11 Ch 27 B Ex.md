@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 4 - Calculus - Limits - Section B
 tags:
-  - Class-11/Unit-4/Calculus/Limits/Trigonometric-Limits/Exercise
-  - Class-11/Unit-4/Calculus/Limits/Evaluation-of-Limits/Exercise
+  - Class-11/Unit-4/Calculus/Limits/Trigonometric-Limits
+  - Class-11/Unit-4/Calculus/Limits/Evaluation-of-Limits
 class: 11
 unit: 4
 chapter: 27

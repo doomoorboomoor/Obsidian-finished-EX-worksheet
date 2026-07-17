@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 5 - Trigonometry - Trigonometric Identities - Section B
 tags:
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Proving-trigonometric-identities/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Elimination-of-trigonometric-ratios/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Applications-of-trigonometric-identities/Exercise
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Proving-trigonometric-identities
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Elimination-of-trigonometric-ratios
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Applications-of-trigonometric-identities
 class: 10
 unit: 5
 chapter: 13

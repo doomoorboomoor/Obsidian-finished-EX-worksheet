@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Trigonometry - Trigonometric-or-Circular-Functions - Section D
 tags:
-  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Multiple-Angle-Formulas/Exercise
-  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Trigonometric-Identities/Exercise
+  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Multiple-Angle-Formulas
+  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Trigonometric-Identities
 class: 11
 unit: 1
 chapter: 15

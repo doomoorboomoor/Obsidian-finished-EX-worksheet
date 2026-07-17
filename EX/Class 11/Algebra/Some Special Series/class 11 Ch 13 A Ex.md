@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Some-Special-Series - Section A
 tags:
-  - Class-11/Unit-2/Algebra/Some-Special-Series/Sum-of-Special-Series/Exercise
-  - Class-11/Unit-2/Algebra/Some-Special-Series/Method-of-Differences/Exercise
+  - Class-11/Unit-2/Algebra/Some-Special-Series/Sum-of-Special-Series
+  - Class-11/Unit-2/Algebra/Some-Special-Series/Method-of-Differences
 class: 11
 unit: 2
 chapter: 13

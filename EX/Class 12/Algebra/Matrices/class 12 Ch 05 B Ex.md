@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Matrices - Section B
 tags:
-  - Class-12/Unit-2/Algebra/Matrices/Matrix-Addition-and-Subtraction/Exercise
-  - Class-12/Unit-2/Algebra/Matrices/Scalar-Multiplication-of-Matrices/Exercise
+  - Class-12/Unit-2/Algebra/Matrices/Matrix-Addition-and-Subtraction
+  - Class-12/Unit-2/Algebra/Matrices/Scalar-Multiplication-of-Matrices
 class: 12
 unit: 2
 chapter: 05

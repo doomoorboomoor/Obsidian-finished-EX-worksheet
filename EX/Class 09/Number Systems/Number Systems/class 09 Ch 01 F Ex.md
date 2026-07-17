@@ -1,10 +1,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 1 - Number Systems - Number Systems - section F
 Tags:
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Rationalising-the-denominator/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Evaluating-irrational-expressions/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Finding-rational-constants/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Simplifying-algebraic-expressions/Exercise
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Rationalising-the-denominator
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Evaluating-irrational-expressions
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Finding-rational-constants
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Simplifying-algebraic-expressions
 Class: 09
 Unit: 1
 Chapter: 01

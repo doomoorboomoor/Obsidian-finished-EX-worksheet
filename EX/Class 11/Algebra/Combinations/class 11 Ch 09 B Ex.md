@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Combinations - Section B
 tags:
-  - Class-11/Unit-2/Algebra/Combinations/Selection-and-Committees/Exercise
-  - Class-11/Unit-2/Algebra/Combinations/Geometrical-Applications/Exercise
+  - Class-11/Unit-2/Algebra/Combinations/Selection-and-Committees
+  - Class-11/Unit-2/Algebra/Combinations/Geometrical-Applications
 class: 11
 unit: 2
 chapter: 09

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 4 - Calculus - Differentiation - Section B
 tags:
-  - Class-11/Unit-4/Calculus/Differentiation/First-Principles/Exercise
-  - Class-11/Unit-4/Calculus/Differentiation/Derivatives/Exercise
+  - Class-11/Unit-4/Calculus/Differentiation/First-Principles
+  - Class-11/Unit-4/Calculus/Differentiation/Derivatives
 class: 11
 unit: 4
 chapter: 28

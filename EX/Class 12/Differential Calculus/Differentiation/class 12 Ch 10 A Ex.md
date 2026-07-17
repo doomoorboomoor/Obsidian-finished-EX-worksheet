@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Differentiation - Section A
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Chain-Rule/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Trigonometric-Functions/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Chain-Rule
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Trigonometric-Functions
 class: 12
 unit: 3
 chapter: 10

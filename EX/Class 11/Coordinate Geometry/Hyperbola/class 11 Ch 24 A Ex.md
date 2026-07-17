@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Hyperbola - Section A
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Hyperbola/Standard-Equation-of-Hyperbola/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Hyperbola/Properties-of-Hyperbola/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Hyperbola/Finding-Equation-of-Hyperbola/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Hyperbola/Standard-Equation-of-Hyperbola
+  - Class-11/Unit-3/Coordinate-Geometry/Hyperbola/Properties-of-Hyperbola
+  - Class-11/Unit-3/Coordinate-Geometry/Hyperbola/Finding-Equation-of-Hyperbola
 class: 11
 unit: 3
 chapter: 24

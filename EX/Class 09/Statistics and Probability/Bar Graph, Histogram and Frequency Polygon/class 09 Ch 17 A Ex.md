@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 6 - Statistics and Probability - Bar Graph Histogram and Frequency Polygon - section A
 Tags:
-  - Class-09/Unit-6/Statistics-and-Probability/Bar-Graph-Histogram-and-Frequency-Polygon/Data-Representation/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Bar-Graph-Histogram-and-Frequency-Polygon/Drawing-Bar-Graphs/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Bar-Graph-Histogram-and-Frequency-Polygon/Reading-Bar-Graphs/Exercise
+  - Class-09/Unit-6/Statistics-and-Probability/Bar-Graph-Histogram-and-Frequency-Polygon/Data-Representation
+  - Class-09/Unit-6/Statistics-and-Probability/Bar-Graph-Histogram-and-Frequency-Polygon/Drawing-Bar-Graphs
+  - Class-09/Unit-6/Statistics-and-Probability/Bar-Graph-Histogram-and-Frequency-Polygon/Reading-Bar-Graphs
 Class: 09
 Unit: 6
 Chapter: 17

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 7 - Statistics and Probability - Probability - Section Q
 tags:
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Multiple-Choice-Questions/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Sample-Paper-I/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Sample-Paper-II/Exercise
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Multiple-Choice-Questions
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Sample-Paper-I
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Sample-Paper-II
 class: 10
 unit: 7
 chapter: 19

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 02 - Algebra - Complex-Numbers-and-Quadratic-Equations - Section F
 tags:
-  - Class-11/Unit-02/Algebra/Complex-Numbers-and-Quadratic-Equations/Square-Roots-of-Complex-Numbers/Exercise
-  - Class-11/Unit-02/Algebra/Complex-Numbers-and-Quadratic-Equations/Complex-Arithmetic/Exercise
+  - Class-11/Unit-02/Algebra/Complex-Numbers-and-Quadratic-Equations/Square-Roots-of-Complex-Numbers
+  - Class-11/Unit-02/Algebra/Complex-Numbers-and-Quadratic-Equations/Complex-Arithmetic
 class: 11
 unit: 02
 chapter: 05

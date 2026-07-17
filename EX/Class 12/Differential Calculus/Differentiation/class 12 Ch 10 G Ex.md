@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Differentiation - Section G
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Infinite-Series-Differentiation/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Logarithmic-Differentiation/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Infinite-Series-Differentiation
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Logarithmic-Differentiation
 class: 12
 unit: 3
 chapter: 10

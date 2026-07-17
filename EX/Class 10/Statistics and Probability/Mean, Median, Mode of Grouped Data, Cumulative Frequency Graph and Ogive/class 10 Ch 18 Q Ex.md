@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 7 - Statistics and Probability - Mean, Median, Mode of Grouped Data, Cumulative Frequency Graph and Ogive - Section Q
 tags:
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Measures-of-Central-Tendency/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Graphical-Representation-of-Cumulative-Frequency/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Assertion-Reason-Questions/Exercise
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Measures-of-Central-Tendency
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Graphical-Representation-of-Cumulative-Frequency
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Assertion-Reason-Questions
 class: 10
 unit: 7
 chapter: 18

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Relations - Section A
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Relations/Cartesian-Product/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Relations/Ordered-Pairs/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Relations/Cartesian-Product
+  - Class-11/Unit-1/Set-and-Functions/Relations/Ordered-Pairs
 class: 11
 unit: 1
 chapter: 02

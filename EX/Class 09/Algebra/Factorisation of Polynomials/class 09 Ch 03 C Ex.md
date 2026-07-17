@@ -1,11 +1,11 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Factorisation of Polynomials - section C
 Tags:
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-quadratic-trinomials/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Splitting-the-middle-term/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorising-polynomials-with-square-roots/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Fractional-coefficients-in-quadratics/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Evaluating-algebraic-expressions/Exercise
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-quadratic-trinomials
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Splitting-the-middle-term
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorising-polynomials-with-square-roots
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Fractional-coefficients-in-quadratics
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Evaluating-algebraic-expressions
 Class: 09
 Unit: 2
 Chapter: 03

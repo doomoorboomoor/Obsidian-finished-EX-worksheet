@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Areas of Parallelograms and Triangles - Section Q
 tags:
-  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-parallelograms/Exercise
-  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-triangles/Exercise
-  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Properties-of-medians/Exercise
+  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-parallelograms
+  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-triangles
+  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Properties-of-medians
 class: 09
 unit: 4
 chapter: 11

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Arithmetic-Progression - Section A
 tags:
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Sequences-and-Series/Exercise
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Nth-Term-of-an-AP/Exercise
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Sequences-and-Series
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Nth-Term-of-an-AP
 class: 11
 unit: 2
 chapter: 11

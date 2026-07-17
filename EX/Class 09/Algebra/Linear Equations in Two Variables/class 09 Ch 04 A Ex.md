@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Linear Equations in Two Variables - section A
 Tags:
-  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Linear-equations-form/Exercise
-  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Finding-solutions/Exercise
-  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems/Exercise
+  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Linear-equations-form
+  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Finding-solutions
+  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems
 Class: 09
 Unit: 2
 Chapter: 04

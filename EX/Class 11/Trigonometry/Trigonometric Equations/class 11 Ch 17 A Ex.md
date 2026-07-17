@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Trigonometry - Trigonometric Equations - Section A
 tags:
-  - Class-11/Unit-1/Trigonometry/Trigonometric-Equations/Principal-Solutions/Exercise
-  - Class-11/Unit-1/Trigonometry/Trigonometric-Equations/General-Solutions/Exercise
+  - Class-11/Unit-1/Trigonometry/Trigonometric-Equations/Principal-Solutions
+  - Class-11/Unit-1/Trigonometry/Trigonometric-Equations/General-Solutions
 class: 11
 unit: 1
 chapter: 17

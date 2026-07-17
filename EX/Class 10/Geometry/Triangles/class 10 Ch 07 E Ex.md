@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Triangles - Section E
 tags:
-  - Class-10/Unit-4/Geometry/Triangles/Similarity-of-Triangles/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Basic-Proportionality-Theorem/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Pythagoras-Theorem/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Areas-of-Similar-Triangles/Exercise
+  - Class-10/Unit-4/Geometry/Triangles/Similarity-of-Triangles
+  - Class-10/Unit-4/Geometry/Triangles/Basic-Proportionality-Theorem
+  - Class-10/Unit-4/Geometry/Triangles/Pythagoras-Theorem
+  - Class-10/Unit-4/Geometry/Triangles/Areas-of-Similar-Triangles
 class: 10
 unit: 4
 chapter: 07

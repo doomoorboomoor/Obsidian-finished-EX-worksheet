@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Equations - Differential-Equations-and-Their-Formation - Section C
 tags:
-  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Formation-of-Differential-Equations/Exercise
-  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Family-of-Curves/Exercise
+  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Formation-of-Differential-Equations
+  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Family-of-Curves
 class: 12
 unit: 3
 chapter: 18

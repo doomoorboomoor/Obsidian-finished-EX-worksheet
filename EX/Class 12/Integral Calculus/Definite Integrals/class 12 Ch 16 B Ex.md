@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Definite-Integrals - Section B
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Definite-Integrals/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Integration-by-Substitution/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Definite-Integrals
+  - Class-12/Unit-3/Integral-Calculus/Definite-Integrals/Integration-by-Substitution
 class: 12
 unit: 3
 chapter: 16

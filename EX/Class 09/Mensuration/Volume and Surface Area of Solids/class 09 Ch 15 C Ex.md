@@ -1,11 +1,11 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 5 - Mensuration - Volume and Surface Area of Solids - section C
 Tags:
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Surface-Area-of-Cones/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-of-Cones/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Conical-Tents-and-Canvas/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Capacity-of-Conical-Vessels/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Recasting-and-Conversion-of-Solids/Exercise
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Surface-Area-of-Cones
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-of-Cones
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Conical-Tents-and-Canvas
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Capacity-of-Conical-Vessels
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Recasting-and-Conversion-of-Solids
 Class: 09
 Unit: 5
 Chapter: 15

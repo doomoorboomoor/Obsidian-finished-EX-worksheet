@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Geometrical Progression - Section E
 tags:
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Geometric-Progression-Properties/Exercise
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Relationship-Between-AP-and-GP/Exercise
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Geometric-Progression-Properties
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Relationship-Between-AP-and-GP
 class: 11
 unit: 2
 chapter: 12

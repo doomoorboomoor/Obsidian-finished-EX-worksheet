@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Polynomials - Section C
 tags:
-  - Class-10/Unit-2/Algebra/Polynomials/Finding-zeros-of-polynomials/Exercise
-  - Class-10/Unit-2/Algebra/Polynomials/Relationship-between-zeros-and-coefficients/Exercise
-  - Class-10/Unit-2/Algebra/Polynomials/Division-algorithm-for-polynomials/Exercise
+  - Class-10/Unit-2/Algebra/Polynomials/Finding-zeros-of-polynomials
+  - Class-10/Unit-2/Algebra/Polynomials/Relationship-between-zeros-and-coefficients
+  - Class-10/Unit-2/Algebra/Polynomials/Division-algorithm-for-polynomials
 class: 10
 unit: 2
 chapter: 02

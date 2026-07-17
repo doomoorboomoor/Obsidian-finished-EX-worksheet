@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Trigonometry - Trigonometric-or-Circular-Functions - Section A
 tags:
-  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Evaluating-Trigonometric-Functions/Exercise
-  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Trigonometric-Values-for-Large-Angles/Exercise
+  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Evaluating-Trigonometric-Functions
+  - Class-11/Unit-1/Trigonometry/Trigonometric-or-Circular-Functions/Trigonometric-Values-for-Large-Angles
 class: 11
 unit: 1
 chapter: 15

@@ -1,10 +1,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 5 - Mensuration - Areas of Triangles and Quadrilaterals - section A
 Tags:
-  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Triangles/Exercise
-  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Quadrilaterals/Exercise
-  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Parallelograms/Exercise
-  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Trapeziums/Exercise
+  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Triangles
+  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Quadrilaterals
+  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Parallelograms
+  - Class-09/Unit-5/Mensuration/Areas-of-Triangles-and-Quadrilaterals/Area-of-Trapeziums
 Class: 09
 Unit: 5
 Chapter: 14

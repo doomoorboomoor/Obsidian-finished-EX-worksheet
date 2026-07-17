@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 5 - Mathematical-Reasoning - Mathematical-Reasoning - Section D
 tags:
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Method-of-Contrapositive/Exercise
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Counter-examples/Exercise
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Method-of-Contradiction/Exercise
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Method-of-Contrapositive
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Counter-examples
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Method-of-Contradiction
 class: 11
 unit: 5
 chapter: 29

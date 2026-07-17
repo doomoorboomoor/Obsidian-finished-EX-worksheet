@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Quadrilaterals - Section B
 tags:
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Parallelograms/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Rhombus/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Rectangles-and-Squares/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Applications-of-Quadrilateral-Properties/Exercise
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Parallelograms
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Rhombus
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Rectangles-and-Squares
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Applications-of-Quadrilateral-Properties
 class: 09
 unit: 4
 chapter: 10

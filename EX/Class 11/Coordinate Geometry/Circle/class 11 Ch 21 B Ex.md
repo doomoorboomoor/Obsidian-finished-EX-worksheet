@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Circle - Section B
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Circle/Equation-of-a-Circle/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Circle/Concentric-Circles/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Circle/Cyclic-Quadrilateral/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Circle/Equation-of-a-Circle
+  - Class-11/Unit-3/Coordinate-Geometry/Circle/Concentric-Circles
+  - Class-11/Unit-3/Coordinate-Geometry/Circle/Cyclic-Quadrilateral
 class: 11
 unit: 3
 chapter: 21

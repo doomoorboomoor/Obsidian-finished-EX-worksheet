@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 5 - Trigonometry - Trigonometric Identities - Section A
 tags:
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Proving-trigonometric-identities/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Algebraic-operations-in-trigonometry/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Simplification-of-trigonometric-expressions/Exercise
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Proving-trigonometric-identities
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Algebraic-operations-in-trigonometry
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Simplification-of-trigonometric-expressions
 class: 10
 unit: 5
 chapter: 13

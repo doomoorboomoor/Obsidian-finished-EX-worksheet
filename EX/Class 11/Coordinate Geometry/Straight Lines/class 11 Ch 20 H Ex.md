@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section H
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Distance-of-a-Point-from-a-Line/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Distance-Between-Parallel-Lines/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Distance-of-a-Point-from-a-Line
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Distance-Between-Parallel-Lines
 class: 11
 unit: 3
 chapter: 20

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Sets - Section B
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Sets/Types-of-Sets/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Sets/Set-Notation/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Sets/Types-of-Sets
+  - Class-11/Unit-1/Set-and-Functions/Sets/Set-Notation
 class: 11
 unit: 1
 chapter: 01

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - The-Plane - Section D
 tags:
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Parallel-Planes/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Vector-Equation-of-Plane/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Distance-Between-Planes/Exercise
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Parallel-Planes
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Vector-Equation-of-Plane
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Distance-Between-Planes
 class: 12
 unit: 4
 chapter: 28

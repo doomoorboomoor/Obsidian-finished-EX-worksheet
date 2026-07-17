@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Polynomials - section B
 Tags:
-  - Class-09/Unit-2/Algebra/Polynomials/Evaluating-Polynomials/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Finding-Zeros/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Verifying-Zeros/Exercise
+  - Class-09/Unit-2/Algebra/Polynomials/Evaluating-Polynomials
+  - Class-09/Unit-2/Algebra/Polynomials/Finding-Zeros
+  - Class-09/Unit-2/Algebra/Polynomials/Verifying-Zeros
 Class: 09
 Unit: 2
 Chapter: 02

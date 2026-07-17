@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Arithmetic Progression - Section C
 tags:
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Sum-of-first-n-terms-of-an-AP/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-nth-term-from-sum/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Word-problems-on-AP/Exercise
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Sum-of-first-n-terms-of-an-AP
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-nth-term-from-sum
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Word-problems-on-AP
 class: 10
 unit: 2
 chapter: 05

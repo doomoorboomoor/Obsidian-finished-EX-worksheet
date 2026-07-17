@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 4 - Calculus - Differentiation - Section A
 tags:
-  - Class-11/Unit-4/Calculus/Differentiation/Power-Rule/Exercise
-  - Class-11/Unit-4/Calculus/Differentiation/Trigonometric-Derivatives/Exercise
+  - Class-11/Unit-4/Calculus/Differentiation/Power-Rule
+  - Class-11/Unit-4/Calculus/Differentiation/Trigonometric-Derivatives
 class: 11
 unit: 4
 chapter: 28

@@ -1,12 +1,12 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Polynomials - section Q
 Tags:
-  - Class-09/Unit-2/Algebra/Polynomials/Identifying-polynomials/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Degree-of-polynomials/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Evaluating-polynomials/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Remainder-theorem/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Factor-theorem/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Zeros-of-polynomials/Exercise
+  - Class-09/Unit-2/Algebra/Polynomials/Identifying-polynomials
+  - Class-09/Unit-2/Algebra/Polynomials/Degree-of-polynomials
+  - Class-09/Unit-2/Algebra/Polynomials/Evaluating-polynomials
+  - Class-09/Unit-2/Algebra/Polynomials/Remainder-theorem
+  - Class-09/Unit-2/Algebra/Polynomials/Factor-theorem
+  - Class-09/Unit-2/Algebra/Polynomials/Zeros-of-polynomials
 Class: 09
 Unit: 2
 Chapter: 02

@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Linear Equations in Two Variables - Section Q
 tags:
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solving-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Consistency-of-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems-on-ages/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems-on-numbers/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems-on-geometry/Exercise
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solving-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Consistency-of-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems-on-ages
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems-on-numbers
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Word-problems-on-geometry
 class: 10
 unit: 2
 chapter: 03

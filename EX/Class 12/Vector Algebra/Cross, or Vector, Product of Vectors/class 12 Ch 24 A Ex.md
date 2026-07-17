@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - Vector-Algebra - Cross-or-Vector-Product-of-Vectors - Section A
 tags:
-  - Class-12/Unit-4/Vector-Algebra/Cross-or-Vector-Product-of-Vectors/Cross-Product-Calculation/Exercise
-  - Class-12/Unit-4/Vector-Algebra/Cross-or-Vector-Product-of-Vectors/Vector-Orthogonality/Exercise
+  - Class-12/Unit-4/Vector-Algebra/Cross-or-Vector-Product-of-Vectors/Cross-Product-Calculation
+  - Class-12/Unit-4/Vector-Algebra/Cross-or-Vector-Product-of-Vectors/Vector-Orthogonality
 class: 12
 unit: 4
 chapter: 24

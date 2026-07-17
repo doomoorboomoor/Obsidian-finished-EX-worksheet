@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Differentiation - Section B
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Exponential-Functions/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Logarithmic-Functions/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Exponential-Functions
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Logarithmic-Functions
 class: 12
 unit: 3
 chapter: 10

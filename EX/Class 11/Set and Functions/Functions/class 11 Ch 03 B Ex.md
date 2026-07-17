@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Functions - Section B
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Functions/Function-Evaluation/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Functions/Composite-Functions/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Functions/Function-Evaluation
+  - Class-11/Unit-1/Set-and-Functions/Functions/Composite-Functions
 class: 11
 unit: 1
 chapter: 03

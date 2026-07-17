@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Applications-of-Derivatives - Section C
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Rolles-Theorem/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Applicability-of-Rolles-Theorem/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Rolles-Theorem
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Applicability-of-Rolles-Theorem
 class: 12
 unit: 3
 chapter: 11

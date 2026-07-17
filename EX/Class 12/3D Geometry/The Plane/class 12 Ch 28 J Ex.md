@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - The-Plane - Section J
 tags:
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Direction-Cosines/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Intercept-Form/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Angle-Between-Planes/Exercise
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Direction-Cosines
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Intercept-Form
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Angle-Between-Planes
 class: 12
 unit: 4
 chapter: 28

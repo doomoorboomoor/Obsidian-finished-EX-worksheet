@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section E
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Equation-of-a-Line/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Intercept-Form/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Equation-of-a-Line
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Intercept-Form
 class: 11
 unit: 3
 chapter: 20

@@ -3,10 +3,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 1 - Number Systems - Number Systems - section Q
 Tags:
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Rational-and-Irrational-Numbers/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Decimal-Expansions/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Rationalisation/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Exponents-and-Powers/Exercise
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Rational-and-Irrational-Numbers
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Decimal-Expansions
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Rationalisation
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Exponents-and-Powers
 Class: 09
 Unit: 1
 Chapter: 01

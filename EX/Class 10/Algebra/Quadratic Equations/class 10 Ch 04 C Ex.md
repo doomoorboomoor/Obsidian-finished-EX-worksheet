@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Quadratic Equations - Section C
 tags:
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Discriminant/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Quadratic-formula/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Roots-of-equations/Exercise
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Discriminant
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Quadratic-formula
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Roots-of-equations
 class: 10
 unit: 2
 chapter: 04

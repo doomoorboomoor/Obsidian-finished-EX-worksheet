@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 1 - Number Systems - Real Numbers - Section D
 tags:
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Rational-and-Irrational-Numbers/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Proving-Irrationality/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Properties-of-Reals/Exercise
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Rational-and-Irrational-Numbers
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Proving-Irrationality
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Properties-of-Reals
 class: 10
 unit: 1
 chapter: 01

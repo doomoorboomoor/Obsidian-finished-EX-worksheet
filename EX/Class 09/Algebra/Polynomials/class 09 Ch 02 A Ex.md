@@ -1,11 +1,11 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Polynomials - section A
 Tags:
-  - Class-09/Unit-2/Algebra/Polynomials/Polynomial-Expressions/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Types-of-Polynomials/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Coefficients/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Degrees-of-Polynomials/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Standard-Form/Exercise
+  - Class-09/Unit-2/Algebra/Polynomials/Polynomial-Expressions
+  - Class-09/Unit-2/Algebra/Polynomials/Types-of-Polynomials
+  - Class-09/Unit-2/Algebra/Polynomials/Coefficients
+  - Class-09/Unit-2/Algebra/Polynomials/Degrees-of-Polynomials
+  - Class-09/Unit-2/Algebra/Polynomials/Standard-Form
 Class: 09
 Unit: 2
 Chapter: 02

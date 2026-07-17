@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 6 - Mensuration - Volume and Surface Areas of Solids - Section B
 tags:
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Melting-and-recasting-of-solids/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Flow-of-liquids/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Volume-of-combinations-of-solids/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Embankment-and-earth-digging/Exercise
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Melting-and-recasting-of-solids
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Flow-of-liquids
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Volume-of-combinations-of-solids
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Embankment-and-earth-digging
 class: 10
 unit: 6
 chapter: 17

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Trigonometry - Solution-of-Triangles - Section B
 tags:
-  - Class-11/Unit-1/Trigonometry/Solution-of-Triangles/Sine-and-Cosine-Rules/Exercise
-  - Class-11/Unit-1/Trigonometry/Solution-of-Triangles/Heights-and-Distances/Exercise
+  - Class-11/Unit-1/Trigonometry/Solution-of-Triangles/Sine-and-Cosine-Rules
+  - Class-11/Unit-1/Trigonometry/Solution-of-Triangles/Heights-and-Distances
 class: 11
 unit: 1
 chapter: 19

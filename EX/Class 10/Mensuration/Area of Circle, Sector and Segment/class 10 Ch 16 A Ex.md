@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 6 - Mensuration - Area of Circle, Sector and Segment - Section A
 tags:
-  - Class-10/Unit-6/Mensuration/Area-of-Circle-Sector-and-Segment/Area-and-Perimeter-of-Circles/Exercise
-  - Class-10/Unit-6/Mensuration/Area-of-Circle-Sector-and-Segment/Area-of-Sectors-and-Segments/Exercise
-  - Class-10/Unit-6/Mensuration/Area-of-Circle-Sector-and-Segment/Area-of-Combinations-of-Plane-Figures/Exercise
+  - Class-10/Unit-6/Mensuration/Area-of-Circle-Sector-and-Segment/Area-and-Perimeter-of-Circles
+  - Class-10/Unit-6/Mensuration/Area-of-Circle-Sector-and-Segment/Area-of-Sectors-and-Segments
+  - Class-10/Unit-6/Mensuration/Area-of-Circle-Sector-and-Segment/Area-of-Combinations-of-Plane-Figures
 class: 10
 unit: 6
 chapter: 16

@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Quadratic Equations - Section A
 tags:
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Identifying-quadratic-equations/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Roots-of-quadratic-equations/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Solving-quadratic-equations/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Solving-rational-equations/Exercise
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Identifying-quadratic-equations
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Roots-of-quadratic-equations
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Solving-quadratic-equations
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Solving-rational-equations
 class: 10
 unit: 2
 chapter: 04

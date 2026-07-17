@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Linear Equations in Two Variables - section Q
 Tags:
-  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Coordinate-axes-equations/Exercise
-  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solutions-of-linear-equations/Exercise
-  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Graphs-of-linear-equations/Exercise
+  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Coordinate-axes-equations
+  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solutions-of-linear-equations
+  - Class-09/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Graphs-of-linear-equations
 Class: 09
 Unit: 2
 Chapter: 04

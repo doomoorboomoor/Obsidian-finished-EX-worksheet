@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section A
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Distance-Formula/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Section-Formula/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Distance-Formula
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Section-Formula
 class: 11
 unit: 3
 chapter: 20

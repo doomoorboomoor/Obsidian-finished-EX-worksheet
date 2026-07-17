@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 3 - Coordinate Geometry - Coordinate Geometry - Section A
 tags:
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Distance-Formula/Exercise
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Equidistant-Points/Exercise
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Collinearity/Exercise
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Properties-of-Geometric-Figures/Exercise
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Distance-Formula
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Equidistant-Points
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Collinearity
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Properties-of-Geometric-Figures
 class: 10
 unit: 3
 chapter: 06

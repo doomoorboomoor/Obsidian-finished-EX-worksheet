@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Quadrilaterals - Section C
 tags:
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Midpoint-Theorem/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Parallelograms/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Rhombus-Rectangle-and-Square/Exercise
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Midpoint-Theorem
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Parallelograms
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Rhombus-Rectangle-and-Square
 class: 09
 unit: 4
 chapter: 10

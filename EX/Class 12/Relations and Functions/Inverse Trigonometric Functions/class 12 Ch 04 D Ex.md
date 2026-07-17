@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Inverse-Trigonometric-Functions - Section D
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Inverse-Trigonometric-Functions/Principal-Value-Branches/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Inverse-Trigonometric-Functions/Graphs-Of-Inverse-Functions/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Inverse-Trigonometric-Functions/Principal-Value-Branches
+  - Class-12/Unit-1/Relations-and-Functions/Inverse-Trigonometric-Functions/Graphs-Of-Inverse-Functions
 class: 12
 unit: 1
 chapter: 04

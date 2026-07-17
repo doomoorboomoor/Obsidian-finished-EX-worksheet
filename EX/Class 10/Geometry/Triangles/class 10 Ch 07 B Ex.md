@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Triangles - Section B
 tags:
-  - Class-10/Unit-4/Geometry/Triangles/Similar-Triangles-Criteria/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Properties-of-Similar-Triangles/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Proportionality-Theorem-Applications/Exercise
+  - Class-10/Unit-4/Geometry/Triangles/Similar-Triangles-Criteria
+  - Class-10/Unit-4/Geometry/Triangles/Properties-of-Similar-Triangles
+  - Class-10/Unit-4/Geometry/Triangles/Proportionality-Theorem-Applications
 class: 10
 unit: 4
 chapter: 07

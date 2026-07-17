@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Permutations - Section A
 tags:
-  - Class-11/Unit-2/Algebra/Permutations/Factorial-Notation/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Factorial-Equations/Exercise
+  - Class-11/Unit-2/Algebra/Permutations/Factorial-Notation
+  - Class-11/Unit-2/Algebra/Permutations/Factorial-Equations
 class: 11
 unit: 2
 chapter: 08

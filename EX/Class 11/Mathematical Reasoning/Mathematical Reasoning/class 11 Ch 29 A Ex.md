@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 5 - Mathematical-Reasoning - Mathematical-Reasoning - Section A
 tags:
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Statements/Exercise
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Truth-Values/Exercise
-  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Negation/Exercise
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Statements
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Truth-Values
+  - Class-11/Unit-5/Mathematical-Reasoning/Mathematical-Reasoning/Negation
 class: 11
 unit: 5
 chapter: 29

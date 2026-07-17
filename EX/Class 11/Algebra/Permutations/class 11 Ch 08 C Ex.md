@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Permutations - Section C
 tags:
-  - Class-11/Unit-2/Algebra/Permutations/Evaluation-of-Permutations/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Solving-Permutation-Equations/Exercise
+  - Class-11/Unit-2/Algebra/Permutations/Evaluation-of-Permutations
+  - Class-11/Unit-2/Algebra/Permutations/Solving-Permutation-Equations
 class: 11
 unit: 2
 chapter: 08

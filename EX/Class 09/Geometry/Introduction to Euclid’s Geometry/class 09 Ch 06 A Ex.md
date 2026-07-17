@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Introduction to Euclid’s Geometry - Section A
 tags:
-  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Basic-Geometric-Terms/Exercise
-  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Points-Lines-and-Planes/Exercise
-  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Collinear-and-Concurrent-Lines/Exercise
-  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Axioms-and-Theorems/Exercise
+  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Basic-Geometric-Terms
+  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Points-Lines-and-Planes
+  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Collinear-and-Concurrent-Lines
+  - Class-09/Unit-4/Geometry/Introduction-to-Euclid’s-Geometry/Axioms-and-Theorems
 class: 09
 unit: 4
 chapter: 06

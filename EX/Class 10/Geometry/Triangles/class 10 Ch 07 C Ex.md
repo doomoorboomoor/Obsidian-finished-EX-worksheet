@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Triangles - Section C
 tags:
-  - Class-10/Unit-4/Geometry/Triangles/Areas-of-Similar-Triangles/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Ratio-of-Areas/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Geometric-Proofs/Exercise
+  - Class-10/Unit-4/Geometry/Triangles/Areas-of-Similar-Triangles
+  - Class-10/Unit-4/Geometry/Triangles/Ratio-of-Areas
+  - Class-10/Unit-4/Geometry/Triangles/Geometric-Proofs
 class: 10
 unit: 4
 chapter: 07

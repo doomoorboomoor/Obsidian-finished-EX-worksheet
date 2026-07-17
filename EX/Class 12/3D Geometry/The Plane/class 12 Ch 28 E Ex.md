@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - The-Plane - Section E
 tags:
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Family-of-Planes/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Intersection-of-Planes/Exercise
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Family-of-Planes
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Intersection-of-Planes
 class: 12
 unit: 4
 chapter: 28

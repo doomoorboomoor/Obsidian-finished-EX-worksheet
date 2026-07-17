@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Arithmetic Progression - Section A
 tags:
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Identifying-Arithmetic-Progressions/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-the-nth-term-of-an-AP/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-the-number-of-terms-in-an-AP/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Middle-terms-and-terms-from-the-end-of-an-AP/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Applications-of-Arithmetic-Progressions/Exercise
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Identifying-Arithmetic-Progressions
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-the-nth-term-of-an-AP
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-the-number-of-terms-in-an-AP
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Middle-terms-and-terms-from-the-end-of-an-AP
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Applications-of-Arithmetic-Progressions
 class: 10
 unit: 2
 chapter: 05

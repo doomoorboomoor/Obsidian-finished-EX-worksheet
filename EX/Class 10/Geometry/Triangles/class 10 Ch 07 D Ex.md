@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Triangles - Section D
 tags:
-  - Class-10/Unit-4/Geometry/Triangles/Pythagoras-Theorem/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Converse-of-Pythagoras-Theorem/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Properties-of-Right-Triangles/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Applications-of-Pythagoras-Theorem/Exercise
+  - Class-10/Unit-4/Geometry/Triangles/Pythagoras-Theorem
+  - Class-10/Unit-4/Geometry/Triangles/Converse-of-Pythagoras-Theorem
+  - Class-10/Unit-4/Geometry/Triangles/Properties-of-Right-Triangles
+  - Class-10/Unit-4/Geometry/Triangles/Applications-of-Pythagoras-Theorem
 class: 10
 unit: 4
 chapter: 07

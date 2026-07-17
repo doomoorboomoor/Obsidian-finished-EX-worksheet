@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 1 - Number Systems - Number Systems - section B
 Tags:
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Terminating-and-Non-terminating-Decimals/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Decimal-Expansion/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Fractional-Representation/Exercise
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Terminating-and-Non-terminating-Decimals
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Decimal-Expansion
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Fractional-Representation
 Class: 09
 Unit: 1
 Chapter: 01

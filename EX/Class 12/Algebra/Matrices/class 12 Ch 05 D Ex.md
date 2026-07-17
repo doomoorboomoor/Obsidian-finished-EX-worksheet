@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Matrices - Section D
 tags:
-  - Class-12/Unit-2/Algebra/Matrices/Transpose-of-a-Matrix/Exercise
-  - Class-12/Unit-2/Algebra/Matrices/Symmetric-and-Skew-Symmetric-Matrices/Exercise
+  - Class-12/Unit-2/Algebra/Matrices/Transpose-of-a-Matrix
+  - Class-12/Unit-2/Algebra/Matrices/Symmetric-and-Skew-Symmetric-Matrices
 class: 12
 unit: 2
 chapter: 05

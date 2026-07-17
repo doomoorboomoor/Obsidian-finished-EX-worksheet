@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Factorisation of Polynomials - section Q
 Tags:
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Multiple-choice-questions/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Evaluating-algebraic-identities/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factor-theorem-applications/Exercise
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Multiple-choice-questions
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Evaluating-algebraic-identities
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factor-theorem-applications
 Class: 09
 Unit: 2
 Chapter: 03

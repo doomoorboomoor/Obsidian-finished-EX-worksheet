@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - Straight Line in Space - Section B
 tags:
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Collinearity-of-Points/Exercise
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Position-Vectors/Exercise
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Collinearity-of-Points
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Position-Vectors
 class: 12
 unit: 4
 chapter: 27

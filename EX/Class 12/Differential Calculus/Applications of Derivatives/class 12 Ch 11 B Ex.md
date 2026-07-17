@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Applications-of-Derivatives - Section B
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Approximations/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Differentials/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Approximations
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Differentials
 class: 12
 unit: 3
 chapter: 11

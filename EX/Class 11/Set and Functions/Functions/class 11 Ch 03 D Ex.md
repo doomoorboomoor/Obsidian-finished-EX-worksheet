@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Functions - Section D
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Functions/Domain-and-Range/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Functions/Graphing-Real-Functions/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Functions/Domain-and-Range
+  - Class-11/Unit-1/Set-and-Functions/Functions/Graphing-Real-Functions
 class: 11
 unit: 1
 chapter: 03

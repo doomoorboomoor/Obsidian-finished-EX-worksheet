@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Quadratic Equations - Section D
 tags:
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Nature-of-roots/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Real-and-equal-roots/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Finding-unknown-coefficients/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Discriminant-based-proofs/Exercise
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Nature-of-roots
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Real-and-equal-roots
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Finding-unknown-coefficients
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Discriminant-based-proofs
 class: 10
 unit: 2
 chapter: 04

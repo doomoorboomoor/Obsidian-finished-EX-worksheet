@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Circles - Section A
 tags:
-  - Class-10/Unit-4/Geometry/Circles/Tangents-to-a-circle/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Concentric-circles/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Quadrilaterals-circumscribing-a-circle/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Properties-of-tangents/Exercise
+  - Class-10/Unit-4/Geometry/Circles/Tangents-to-a-circle
+  - Class-10/Unit-4/Geometry/Circles/Concentric-circles
+  - Class-10/Unit-4/Geometry/Circles/Quadrilaterals-circumscribing-a-circle
+  - Class-10/Unit-4/Geometry/Circles/Properties-of-tangents
 class: 10
 unit: 4
 chapter: 08

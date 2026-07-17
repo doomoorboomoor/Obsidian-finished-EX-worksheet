@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 6 - Statistics-and-Probability - Statistics - Section B
 tags:
-  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Mean/Exercise
-  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Variance/Exercise
-  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Standard-Deviation/Exercise
+  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Mean
+  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Variance
+  - Class-11/Unit-6/Statistics-and-Probability/Statistics/Standard-Deviation
 class: 11
 unit: 6
 chapter: 30

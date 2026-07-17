@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - ComplEx-Numbers-and-Quadratic-Equations - Section D
 tags:
-  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Modulus-and-Argument/Exercise
-  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Polar-Form/Exercise
+  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Modulus-and-Argument
+  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Polar-Form
 class: 11
 unit: 2
 chapter: 05

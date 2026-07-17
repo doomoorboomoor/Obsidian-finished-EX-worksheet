@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Relations - Section Q
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Relations/Reflexive-Symmetric-Transitive/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Relations/Equivalence-Relations/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Relations/Binary-Operations/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Relations/Reflexive-Symmetric-Transitive
+  - Class-12/Unit-1/Relations-and-Functions/Relations/Equivalence-Relations
+  - Class-12/Unit-1/Relations-and-Functions/Relations/Binary-Operations
 class: 12
 unit: 1
 chapter: 01

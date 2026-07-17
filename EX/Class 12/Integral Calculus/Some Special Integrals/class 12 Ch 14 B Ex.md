@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Some-Special-Integrals - Section B
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Some-Special-Integrals/Evaluating-Special-Integrals/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Some-Special-Integrals/Substitution-Method/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Some-Special-Integrals/Evaluating-Special-Integrals
+  - Class-12/Unit-3/Integral-Calculus/Some-Special-Integrals/Substitution-Method
 class: 12
 unit: 3
 chapter: 14

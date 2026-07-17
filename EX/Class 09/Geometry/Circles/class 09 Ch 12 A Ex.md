@@ -1,12 +1,12 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Circles - Section A
 tags:
-  - Class-09/Unit-4/Geometry/Circles/Properties-of-Chords/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Distance-from-the-Centre/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Parallel-Chords/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Intersecting-Chords/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Intersecting-Circles/Exercise
-  - Class-09/Unit-4/Geometry/Circles/Geometric-Proofs/Exercise
+  - Class-09/Unit-4/Geometry/Circles/Properties-of-Chords
+  - Class-09/Unit-4/Geometry/Circles/Distance-from-the-Centre
+  - Class-09/Unit-4/Geometry/Circles/Parallel-Chords
+  - Class-09/Unit-4/Geometry/Circles/Intersecting-Chords
+  - Class-09/Unit-4/Geometry/Circles/Intersecting-Circles
+  - Class-09/Unit-4/Geometry/Circles/Geometric-Proofs
 class: 09
 unit: 4
 chapter: 12

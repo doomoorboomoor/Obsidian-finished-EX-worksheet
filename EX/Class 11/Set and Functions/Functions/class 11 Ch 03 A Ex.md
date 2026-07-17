@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Functions - Section A
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Functions/Ordered-Pairs-and-Relations/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Functions/Domain-and-Range/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Functions/Ordered-Pairs-and-Relations
+  - Class-11/Unit-1/Set-and-Functions/Functions/Domain-and-Range
 class: 11
 unit: 1
 chapter: 03

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Functions - Section C
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Types-of-Functions/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Invertible-Functions/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Composite-Functions/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Types-of-Functions
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Invertible-Functions
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Composite-Functions
 class: 12
 unit: 1
 chapter: 02

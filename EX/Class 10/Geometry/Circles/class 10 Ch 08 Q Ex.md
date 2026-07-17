@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Circles - Section Q
 tags:
-  - Class-10/Unit-4/Geometry/Circles/Tangents-to-a-Circle/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Properties-of-Tangents/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Angles-Subtended-by-Chords/Exercise
+  - Class-10/Unit-4/Geometry/Circles/Tangents-to-a-Circle
+  - Class-10/Unit-4/Geometry/Circles/Properties-of-Tangents
+  - Class-10/Unit-4/Geometry/Circles/Angles-Subtended-by-Chords
 class: 10
 unit: 4
 chapter: 08

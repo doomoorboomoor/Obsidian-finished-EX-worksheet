@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Equations - Linear-Differential-Equations - Section A
 tags:
-  - Class-12/Unit-3/Differential-Equations/Linear-Differential-Equations/General-Solution/Exercise
-  - Class-12/Unit-3/Differential-Equations/Linear-Differential-Equations/Integrating-Factor/Exercise
+  - Class-12/Unit-3/Differential-Equations/Linear-Differential-Equations/General-Solution
+  - Class-12/Unit-3/Differential-Equations/Linear-Differential-Equations/Integrating-Factor
 class: 12
 unit: 3
 chapter: 21

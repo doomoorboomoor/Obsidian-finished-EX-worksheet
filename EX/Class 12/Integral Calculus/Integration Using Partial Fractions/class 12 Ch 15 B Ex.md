@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Integration-Using-Partial-Fractions - Section B
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Integration-Using-Partial-Fractions/Indefinite-Integration/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Integration-Using-Partial-Fractions/Trigonometric-Integrals/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Integration-Using-Partial-Fractions/Indefinite-Integration
+  - Class-12/Unit-3/Integral-Calculus/Integration-Using-Partial-Fractions/Trigonometric-Integrals
 class: 12
 unit: 3
 chapter: 15

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 6 - Statistics-and-Probability - Probability - Section B
 tags:
-  - Class-11/Unit-6/Statistics-and-Probability/Probability/Mutually-Exclusive-Events/Exercise
-  - Class-11/Unit-6/Statistics-and-Probability/Probability/Addition-Theorem/Exercise
+  - Class-11/Unit-6/Statistics-and-Probability/Probability/Mutually-Exclusive-Events
+  - Class-11/Unit-6/Statistics-and-Probability/Probability/Addition-Theorem
 class: 11
 unit: 6
 chapter: 31

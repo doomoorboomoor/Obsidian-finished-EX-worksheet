@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - The-Plane - Section A
 tags:
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Equation-of-a-Plane/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Intercept-Form/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Coplanarity/Exercise
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Equation-of-a-Plane
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Intercept-Form
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Coplanarity
 class: 12
 unit: 4
 chapter: 28

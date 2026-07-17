@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Linear-Inequations-(In-two-variables) - Section A
 tags:
-  - Class-11/Unit-2/Algebra/Linear-Inequations-In-two-variables/Graphical-Solution/Exercise
-  - Class-11/Unit-2/Algebra/Linear-Inequations-In-two-variables/Feasible-Region/Exercise
+  - Class-11/Unit-2/Algebra/Linear-Inequations-In-two-variables/Graphical-Solution
+  - Class-11/Unit-2/Algebra/Linear-Inequations-In-two-variables/Feasible-Region
 class: 11
 unit: 2
 chapter: 7

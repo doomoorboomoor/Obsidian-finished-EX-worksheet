@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 6 - Probability - Probability - Section B
 tags:
-  - Class-12/Unit-6/Probability/Probability/Multiplication-Theorem/Exercise
-  - Class-12/Unit-6/Probability/Probability/Independent-Events/Exercise
+  - Class-12/Unit-6/Probability/Probability/Multiplication-Theorem
+  - Class-12/Unit-6/Probability/Probability/Independent-Events
 class: 12
 unit: 6
 chapter: 29

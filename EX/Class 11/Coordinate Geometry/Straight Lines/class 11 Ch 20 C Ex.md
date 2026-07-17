@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section C
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Equations-of-Lines/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Triangles-and-Lines/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Equations-of-Lines
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Triangles-and-Lines
 class: 11
 unit: 3
 chapter: 20

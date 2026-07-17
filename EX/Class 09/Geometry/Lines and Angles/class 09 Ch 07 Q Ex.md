@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Lines and Angles - Section C
 tags:
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Properties-of-Parallel-Lines/Exercise
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Transversals-and-Angles/Exercise
-  - Class-09/Unit-4/Geometry/Lines-and-Angles/Geometric-Proofs/Exercise
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Properties-of-Parallel-Lines
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Transversals-and-Angles
+  - Class-09/Unit-4/Geometry/Lines-and-Angles/Geometric-Proofs
 class: 09
 unit: 4
 chapter: 07

@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Circles - Section B
 tags:
-  - Class-10/Unit-4/Geometry/Circles/Tangents-to-a-circle/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Properties-of-tangents/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Length-of-tangent/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Angle-subtended-by-tangents/Exercise
-  - Class-10/Unit-4/Geometry/Circles/Inscribed-circles/Exercise
+  - Class-10/Unit-4/Geometry/Circles/Tangents-to-a-circle
+  - Class-10/Unit-4/Geometry/Circles/Properties-of-tangents
+  - Class-10/Unit-4/Geometry/Circles/Length-of-tangent
+  - Class-10/Unit-4/Geometry/Circles/Angle-subtended-by-tangents
+  - Class-10/Unit-4/Geometry/Circles/Inscribed-circles
 class: 10
 unit: 4
 chapter: 08

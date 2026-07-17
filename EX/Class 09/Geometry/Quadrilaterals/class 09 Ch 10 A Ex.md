@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Quadrilaterals - Section A
 tags:
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Angle-sum-property/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-quadrilaterals/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Geometric-proofs-and-congruence/Exercise
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Angle-sum-property
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-quadrilaterals
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Geometric-proofs-and-congruence
 class: 09
 unit: 4
 chapter: 10

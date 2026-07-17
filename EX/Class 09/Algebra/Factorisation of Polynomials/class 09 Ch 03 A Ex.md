@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Factorisation of Polynomials - section A
 Tags:
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-by-common-factors/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-by-grouping/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Advanced-algebraic-grouping/Exercise
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-by-common-factors
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-by-grouping
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Advanced-algebraic-grouping
 Class: 9
 Unit: 2
 Chapter: 3

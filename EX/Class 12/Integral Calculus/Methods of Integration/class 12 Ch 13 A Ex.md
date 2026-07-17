@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Methods-of-Integration - Section A
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Methods-of-Integration/Indefinite-Integrals/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Methods-of-Integration/Integration-by-Substitution/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Methods-of-Integration/Indefinite-Integrals
+  - Class-12/Unit-3/Integral-Calculus/Methods-of-Integration/Integration-by-Substitution
 class: 12
 unit: 3
 chapter: 13

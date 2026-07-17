@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Sets - Section F
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Sets/Venn-Diagrams/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Sets/Set-Operations/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Sets/Venn-Diagrams
+  - Class-11/Unit-1/Set-and-Functions/Sets/Set-Operations
 class: 11
 unit: 1
 chapter: 01

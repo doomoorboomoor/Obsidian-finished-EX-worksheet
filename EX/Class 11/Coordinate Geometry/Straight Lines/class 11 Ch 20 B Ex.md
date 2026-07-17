@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section B
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Slopes/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Collinearity/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Parallel-and-Perpendicular-Lines/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Slopes
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Collinearity
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Parallel-and-Perpendicular-Lines
 class: 11
 unit: 3
 chapter: 20

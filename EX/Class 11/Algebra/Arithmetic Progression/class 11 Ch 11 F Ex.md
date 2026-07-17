@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Arithmetic-Progression - Section F
 tags:
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Sum-of-n-terms/Exercise
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Arithmetic-Mean/Exercise
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Common-Difference/Exercise
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Sum-of-n-terms
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Arithmetic-Mean
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Common-Difference
 class: 11
 unit: 2
 chapter: 11

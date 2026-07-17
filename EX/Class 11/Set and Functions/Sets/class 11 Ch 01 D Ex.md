@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Sets - Section D
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Sets/Set-Operations/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Sets/Complement-of-a-Set/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Sets/Set-Operations
+  - Class-11/Unit-1/Set-and-Functions/Sets/Complement-of-a-Set
 class: 11
 unit: 1
 chapter: 01

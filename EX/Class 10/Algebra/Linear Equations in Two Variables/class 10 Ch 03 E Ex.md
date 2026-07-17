@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Linear Equations in Two Variables - Section D
 tags:
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Conditions-for-solvability-of-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Unique-solution-of-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Infinite-solutions-of-linear-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/No-solution-of-linear-equations/Exercise
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Conditions-for-solvability-of-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Unique-solution-of-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Infinite-solutions-of-linear-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/No-solution-of-linear-equations
 class: 10
 unit: 2
 chapter: 03

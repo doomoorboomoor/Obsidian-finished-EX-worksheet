@@ -1,12 +1,12 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Quadratic Equations - Section E
 tags:
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Numbers/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Some-General-Problems/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Ages/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Time-and-Distance/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Time-and-Work-and-Pipes-and-Cistern/Exercise
-  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Area-and-Geometry/Exercise
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Numbers
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Some-General-Problems
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Ages
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Time-and-Distance
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Time-and-Work-and-Pipes-and-Cistern
+  - Class-10/Unit-2/Algebra/Quadratic-Equations/Problems-on-Area-and-Geometry
 class: 10
 unit: 2
 chapter: 04

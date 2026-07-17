@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Linear-Inequations-(In-one-variable) - Section A
 tags:
-  - Class-11/Unit-2/Algebra/Linear-Inequations-In-one-variable/Inequality-Signs/Exercise
-  - Class-11/Unit-2/Algebra/Linear-Inequations-In-one-variable/Algebraic-Solutions/Exercise
+  - Class-11/Unit-2/Algebra/Linear-Inequations-In-one-variable/Inequality-Signs
+  - Class-11/Unit-2/Algebra/Linear-Inequations-In-one-variable/Algebraic-Solutions
 class: 11
 unit: 2
 chapter: 6

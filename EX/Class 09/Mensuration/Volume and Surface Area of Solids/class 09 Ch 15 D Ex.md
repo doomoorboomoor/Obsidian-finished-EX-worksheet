@@ -1,10 +1,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 1 - Number Systems - Number Systems - section A
 Tags:
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Rational-Numbers/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Number-Line-Representation/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Finding-Rational-Numbers/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Properties-of-Numbers/Exercise
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Rational-Numbers
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Number-Line-Representation
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Finding-Rational-Numbers
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Properties-of-Numbers
 Class: 09
 Unit: 1
 Chapter: 01

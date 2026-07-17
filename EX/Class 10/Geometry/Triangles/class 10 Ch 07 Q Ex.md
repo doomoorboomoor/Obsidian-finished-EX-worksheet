@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Triangles - Section Q
 tags:
-  - Class-10/Unit-4/Geometry/Triangles/Similar-Triangles/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Pythagoras-Theorem/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Properties-of-Triangles/Exercise
+  - Class-10/Unit-4/Geometry/Triangles/Similar-Triangles
+  - Class-10/Unit-4/Geometry/Triangles/Pythagoras-Theorem
+  - Class-10/Unit-4/Geometry/Triangles/Properties-of-Triangles
 class: 10
 unit: 4
 chapter: 07

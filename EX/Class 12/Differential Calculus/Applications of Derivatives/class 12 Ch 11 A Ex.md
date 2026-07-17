@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Applications-of-Derivatives - Section A
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Rate-of-Change/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Derivative-Applications/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Rate-of-Change
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Derivative-Applications
 class: 12
 unit: 3
 chapter: 11

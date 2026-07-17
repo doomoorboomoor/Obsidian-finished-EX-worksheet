@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Trigonometry - Graphs-of-Trigonometric-Functions - Section A
 tags:
-  - Class-11/Unit-1/Trigonometry/Graphs-of-Trigonometric-Functions/Sine-Functions/Exercise
-  - Class-11/Unit-1/Trigonometry/Graphs-of-Trigonometric-Functions/Cosine-Functions/Exercise
+  - Class-11/Unit-1/Trigonometry/Graphs-of-Trigonometric-Functions/Sine-Functions
+  - Class-11/Unit-1/Trigonometry/Graphs-of-Trigonometric-Functions/Cosine-Functions
 class: 11
 unit: 1
 chapter: 19

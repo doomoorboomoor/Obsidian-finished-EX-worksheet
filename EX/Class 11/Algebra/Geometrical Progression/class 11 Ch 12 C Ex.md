@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Geometrical-Progression - Section C
 tags:
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Sum-of-Geometric-Progression/Exercise
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Evaluation-of-Series/Exercise
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Sum-of-Geometric-Progression
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Evaluation-of-Series
 class: 11
 unit: 2
 chapter: 12

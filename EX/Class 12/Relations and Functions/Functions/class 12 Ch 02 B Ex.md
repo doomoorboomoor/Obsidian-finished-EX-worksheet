@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Functions - Section B
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Composition-of-Functions/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Identity-Functions/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Composition-of-Functions
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Identity-Functions
 class: 12
 unit: 1
 chapter: 02

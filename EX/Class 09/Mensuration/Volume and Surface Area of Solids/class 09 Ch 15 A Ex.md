@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 5 - Mensuration - Volume and Surface Area of Solids - section A
 Tags:
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Cuboid-volume-and-surface-area/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Cube-volume-and-surface-area/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Word-problems-on-volume-and-capacity/Exercise
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Cuboid-volume-and-surface-area
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Cube-volume-and-surface-area
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Word-problems-on-volume-and-capacity
 Class: 09
 Unit: 5
 Chapter: 15

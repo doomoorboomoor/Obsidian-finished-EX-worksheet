@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Matrices - Section E
 tags:
-  - Class-12/Unit-2/Algebra/Matrices/Elementary-Row-Transformations/Exercise
-  - Class-12/Unit-2/Algebra/Matrices/Inverse-of-Matrix/Exercise
+  - Class-12/Unit-2/Algebra/Matrices/Elementary-Row-Transformations
+  - Class-12/Unit-2/Algebra/Matrices/Inverse-of-Matrix
 class: 12
 unit: 2
 chapter: 05

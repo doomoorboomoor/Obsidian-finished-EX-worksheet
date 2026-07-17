@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Factorisation of Polynomials - section D
 Tags:
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Expansion-of-Trinomials/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-Trinomials/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Evaluating-Squares/Exercise
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Expansion-of-Trinomials
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-Trinomials
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Evaluating-Squares
 Class: 09
 Unit: 2
 Chapter: 03

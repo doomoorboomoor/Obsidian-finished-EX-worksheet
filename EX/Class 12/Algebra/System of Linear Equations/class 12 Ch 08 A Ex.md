@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - System of Linear Equations - Section A
 tags:
-  - Class-12/Unit-2/Algebra/System-of-Linear-Equations/Matrix-Method/Exercise
-  - Class-12/Unit-2/Algebra/System-of-Linear-Equations/Inconsistent-Systems/Exercise
+  - Class-12/Unit-2/Algebra/System-of-Linear-Equations/Matrix-Method
+  - Class-12/Unit-2/Algebra/System-of-Linear-Equations/Inconsistent-Systems
 class: 12
 unit: 2
 chapter: 08

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 6 - Mensuration - Volume and Surface Areas of Solids - Section C
 tags:
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Frustum-of-a-cone/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Volume-of-a-frustum/Exercise
-  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Surface-area-of-a-frustum/Exercise
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Frustum-of-a-cone
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Volume-of-a-frustum
+  - Class-10/Unit-6/Mensuration/Volume-and-Surface-Areas-of-Solids/Surface-area-of-a-frustum
 class: 10
 unit: 6
 chapter: 17

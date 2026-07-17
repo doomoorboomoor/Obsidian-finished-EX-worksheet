@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Some-Special-Series - Section B
 tags:
-  - Class-11/Unit-2/Algebra/Some-Special-Series/Sum-of-Series/Exercise
-  - Class-11/Unit-2/Algebra/Some-Special-Series/Sum-of-Squares/Exercise
+  - Class-11/Unit-2/Algebra/Some-Special-Series/Sum-of-Series
+  - Class-11/Unit-2/Algebra/Some-Special-Series/Sum-of-Squares
 class: 11
 unit: 2
 chapter: 13

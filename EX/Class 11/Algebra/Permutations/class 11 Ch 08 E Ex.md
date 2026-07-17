@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Permutations - Section E
 tags:
-  - Class-11/Unit-2/Algebra/Permutations/Word-Arrangements/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Number-Arrangements/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Dictionary-Rank/Exercise
+  - Class-11/Unit-2/Algebra/Permutations/Word-Arrangements
+  - Class-11/Unit-2/Algebra/Permutations/Number-Arrangements
+  - Class-11/Unit-2/Algebra/Permutations/Dictionary-Rank
 class: 11
 unit: 2
 chapter: 08

@@ -1,10 +1,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 1 - Number Systems - Number Systems - section D
 Tags:
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Operations-on-Irrational-Numbers/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Simplification-of-Surds/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Rational-and-Irrational-Classification/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Word-Problems-on-Real-Numbers/Exercise
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Operations-on-Irrational-Numbers
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Simplification-of-Surds
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Rational-and-Irrational-Classification
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Word-Problems-on-Real-Numbers
 Class: 09
 Unit: 1
 Chapter: 01

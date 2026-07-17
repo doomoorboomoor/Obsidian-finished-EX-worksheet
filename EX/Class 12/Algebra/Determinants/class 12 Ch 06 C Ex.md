@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Determinants - Section C
 tags:
-  - Class-12/Unit-2/Algebra/Determinants/Area-of-a-Triangle/Exercise
-  - Class-12/Unit-2/Algebra/Determinants/Collinearity-of-Points/Exercise
+  - Class-12/Unit-2/Algebra/Determinants/Area-of-a-Triangle
+  - Class-12/Unit-2/Algebra/Determinants/Collinearity-of-Points
 class: 12
 unit: 2
 chapter: 06

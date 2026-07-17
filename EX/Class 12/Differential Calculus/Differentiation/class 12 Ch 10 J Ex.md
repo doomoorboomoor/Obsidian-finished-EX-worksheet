@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Differentiation - Section J
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Higher-Order-Derivatives/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Parametric-Differentiation/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Higher-Order-Derivatives
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Parametric-Differentiation
 class: 12
 unit: 3
 chapter: 10

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - Fundamental-Concepts-of-3-Dimensional-Geometry - Section A
 tags:
-  - Class-12/Unit-4/3D-Geometry/Fundamental-Concepts-of-3-Dimensional-Geometry/Direction-Cosines/Exercise
-  - Class-12/Unit-4/3D-Geometry/Fundamental-Concepts-of-3-Dimensional-Geometry/Direction-Ratios/Exercise
-  - Class-12/Unit-4/3D-Geometry/Fundamental-Concepts-of-3-Dimensional-Geometry/Collinearity/Exercise
+  - Class-12/Unit-4/3D-Geometry/Fundamental-Concepts-of-3-Dimensional-Geometry/Direction-Cosines
+  - Class-12/Unit-4/3D-Geometry/Fundamental-Concepts-of-3-Dimensional-Geometry/Direction-Ratios
+  - Class-12/Unit-4/3D-Geometry/Fundamental-Concepts-of-3-Dimensional-Geometry/Collinearity
 class: 12
 unit: 4
 chapter: 26

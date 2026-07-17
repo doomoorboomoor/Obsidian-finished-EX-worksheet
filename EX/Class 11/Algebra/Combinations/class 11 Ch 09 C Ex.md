@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Combinations - Section C
 tags:
-  - Class-11/Unit-2/Algebra/Combinations/Permutations-and-Combinations-of-Words/Exercise
-  - Class-11/Unit-2/Algebra/Combinations/Arrangements-with-Restrictions/Exercise
+  - Class-11/Unit-2/Algebra/Combinations/Permutations-and-Combinations-of-Words
+  - Class-11/Unit-2/Algebra/Combinations/Arrangements-with-Restrictions
 class: 11
 unit: 2
 chapter: 09

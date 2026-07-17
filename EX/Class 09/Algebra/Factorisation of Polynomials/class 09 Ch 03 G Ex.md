@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Factorisation of Polynomials - section G
 Tags:
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Product-of-polynomials/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-using-algebraic-identities/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Conditional-identities/Exercise
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Product-of-polynomials
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-using-algebraic-identities
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Conditional-identities
 Class: 09
 Unit: 2
 Chapter: 03

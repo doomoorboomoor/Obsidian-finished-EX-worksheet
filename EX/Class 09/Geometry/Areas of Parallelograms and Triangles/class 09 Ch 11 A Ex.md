@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Areas of Parallelograms and Triangles - Section A
 tags:
-  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Figures-on-the-same-base-and-between-same-parallels/Exercise
-  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-a-parallelogram/Exercise
-  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-a-triangle/Exercise
-  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-a-trapezium/Exercise
-  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Properties-of-medians-of-a-triangle/Exercise
+  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Figures-on-the-same-base-and-between-same-parallels
+  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-a-parallelogram
+  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-a-triangle
+  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Area-of-a-trapezium
+  - Class-09/Unit-4/Geometry/Areas-of-Parallelograms-and-Triangles/Properties-of-medians-of-a-triangle
 class: 09
 unit: 4
 chapter: 11

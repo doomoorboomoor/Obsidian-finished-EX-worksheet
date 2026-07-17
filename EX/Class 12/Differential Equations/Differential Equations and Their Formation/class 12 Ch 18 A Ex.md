@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Equations - Differential-Equations-and-Their-Formation - Section A
 tags:
-  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Order-of-Differential-Equations/Exercise
-  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Degree-of-Differential-Equations/Exercise
+  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Order-of-Differential-Equations
+  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Degree-of-Differential-Equations
 class: 12
 unit: 3
 chapter: 18

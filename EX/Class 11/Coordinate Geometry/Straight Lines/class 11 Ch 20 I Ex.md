@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate Geometry - Straight Lines - Section I
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Intersection-and-Concurrency/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Triangle-Properties-and-Perpendiculars/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Intersection-and-Concurrency
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Triangle-Properties-and-Perpendiculars
 class: 11
 unit: 3
 chapter: 20

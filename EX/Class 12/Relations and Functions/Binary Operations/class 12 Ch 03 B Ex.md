@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Binary-Operations - Section B
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Binary-Operations/Commutative-Operations/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Binary-Operations/Associative-Operations/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Binary-Operations/Commutative-Operations
+  - Class-12/Unit-1/Relations-and-Functions/Binary-Operations/Associative-Operations
 class: 12
 unit: 1
 chapter: 03

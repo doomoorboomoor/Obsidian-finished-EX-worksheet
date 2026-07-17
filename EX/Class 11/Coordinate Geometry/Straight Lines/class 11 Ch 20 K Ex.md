@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section K
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Intersection-of-Lines/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Equations-of-Straight-Lines/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Intersection-of-Lines
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Equations-of-Straight-Lines
 class: 11
 unit: 3
 chapter: 20

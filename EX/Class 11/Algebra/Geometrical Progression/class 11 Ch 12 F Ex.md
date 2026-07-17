@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Geometrical-Progression - Section F
 tags:
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Arithmetic-and-Geometric-Means/Exercise
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Insertion-of-Geometric-Means/Exercise
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Arithmetic-and-Geometric-Means
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Insertion-of-Geometric-Means
 class: 11
 unit: 2
 chapter: 12

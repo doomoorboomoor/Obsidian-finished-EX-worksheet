@@ -1,10 +1,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 3 - Coordinate Geometry - Coordinate Geometry - section A
 Tags:
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Plotting-points/Exercise
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Identifying-quadrants/Exercise
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Identifying-axes/Exercise
-  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Area-of-polygons/Exercise
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Plotting-points
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Identifying-quadrants
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Identifying-axes
+  - Class-09/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Area-of-polygons
 Class: 09
 Unit: 3
 Chapter: 05

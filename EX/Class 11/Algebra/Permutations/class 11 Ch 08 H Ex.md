@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Permutations - Section H
 tags:
-  - Class-11/Unit-2/Algebra/Permutations/Factorial-Equations/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Number-Formations/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Word-Arrangements/Exercise
+  - Class-11/Unit-2/Algebra/Permutations/Factorial-Equations
+  - Class-11/Unit-2/Algebra/Permutations/Number-Formations
+  - Class-11/Unit-2/Algebra/Permutations/Word-Arrangements
 class: 11
 unit: 2
 chapter: 08

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Functions - Section Q
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Types-of-Functions/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Functions/Domain-and-Range/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Types-of-Functions
+  - Class-12/Unit-1/Relations-and-Functions/Functions/Domain-and-Range
 class: 12
 unit: 1
 chapter: 02

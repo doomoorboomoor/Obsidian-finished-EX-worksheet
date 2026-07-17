@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Permutations - Section G
 tags:
-  - Class-11/Unit-2/Algebra/Permutations/Circular-Permutations/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Restricted-Permutations/Exercise
+  - Class-11/Unit-2/Algebra/Permutations/Circular-Permutations
+  - Class-11/Unit-2/Algebra/Permutations/Restricted-Permutations
 class: 11
 unit: 2
 chapter: 08

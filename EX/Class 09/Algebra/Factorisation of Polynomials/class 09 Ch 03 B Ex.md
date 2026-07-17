@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Factorisation of Polynomials - section B
 Tags:
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-difference-of-two-squares/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-algebraic-expressions/Exercise
-  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Advanced-factorisation-techniques/Exercise
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-difference-of-two-squares
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Factorisation-of-algebraic-expressions
+  - Class-09/Unit-2/Algebra/Factorisation-of-Polynomials/Advanced-factorisation-techniques
 Class: 09
 Unit: 2
 Chapter: 03

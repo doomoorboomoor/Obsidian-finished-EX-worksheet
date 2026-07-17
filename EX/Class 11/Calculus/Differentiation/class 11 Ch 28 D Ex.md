@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 4 - Calculus - Differentiation - Section D
 tags:
-  - Class-11/Unit-4/Calculus/Differentiation/Quotient-Rule/Exercise
-  - Class-11/Unit-4/Calculus/Differentiation/Exponential-and-Logarithmic-Functions/Exercise
+  - Class-11/Unit-4/Calculus/Differentiation/Quotient-Rule
+  - Class-11/Unit-4/Calculus/Differentiation/Exponential-and-Logarithmic-Functions
 class: 11
 unit: 4
 chapter: 28

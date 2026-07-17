@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 6 - Statistics-and-Probability - Probability - Section A
 tags:
-  - Class-11/Unit-6/Statistics-and-Probability/Probability/Single-Events/Exercise
-  - Class-11/Unit-6/Statistics-and-Probability/Probability/Compound-Events/Exercise
-  - Class-11/Unit-6/Statistics-and-Probability/Probability/Odds/Exercise
+  - Class-11/Unit-6/Statistics-and-Probability/Probability/Single-Events
+  - Class-11/Unit-6/Statistics-and-Probability/Probability/Compound-Events
+  - Class-11/Unit-6/Statistics-and-Probability/Probability/Odds
 class: 11
 unit: 6
 chapter: 31

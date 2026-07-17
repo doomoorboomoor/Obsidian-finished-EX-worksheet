@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Combinations - Section A
 tags:
-  - Class-11/Unit-2/Algebra/Combinations/Properties-of-Combinations/Exercise
-  - Class-11/Unit-2/Algebra/Combinations/Word-Problems/Exercise
+  - Class-11/Unit-2/Algebra/Combinations/Properties-of-Combinations
+  - Class-11/Unit-2/Algebra/Combinations/Word-Problems
 class: 11
 unit: 2
 chapter: 09

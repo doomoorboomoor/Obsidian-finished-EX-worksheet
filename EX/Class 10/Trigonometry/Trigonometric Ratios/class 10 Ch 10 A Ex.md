@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 5 - Trigonometry - Trigonometric Ratios - Section A
 tags:
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios/T-Ratios-of-an-acute-angle/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios/Evaluating-T-Ratios/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios/Proving-trigonometric-identities/Exercise
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios/T-Ratios-of-an-acute-angle
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios/Evaluating-T-Ratios
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Ratios/Proving-trigonometric-identities
 class: 10
 unit: 5
 chapter: 10

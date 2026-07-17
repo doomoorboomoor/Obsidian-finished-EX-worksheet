@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Three-Dimensional-Geometry - Section B
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Distance-Formula-in-3D/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Collinearity-and-Geometric-Shapes/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Distance-Formula-in-3D
+  - Class-11/Unit-3/Coordinate-Geometry/Three-Dimensional-Geometry/Collinearity-and-Geometric-Shapes
 class: 11
 unit: 3
 chapter: 26

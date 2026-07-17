@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - Straight Line in Space - Section A
 tags:
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Vector-Equation/Exercise
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Cartesian-Equation/Exercise
-  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Intersection-of-Lines/Exercise
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Vector-Equation
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Cartesian-Equation
+  - Class-12/Unit-4/3D-Geometry/Straight-Line-in-Space/Intersection-of-Lines
 class: 12
 unit: 4
 chapter: 27

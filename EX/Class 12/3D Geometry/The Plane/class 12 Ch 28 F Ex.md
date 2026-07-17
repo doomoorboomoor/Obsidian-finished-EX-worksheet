@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - The-Plane - Section F
 tags:
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Angle-Between-Planes/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Equation-of-Plane/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Perpendicular-and-Parallel-Planes/Exercise
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Angle-Between-Planes
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Equation-of-Plane
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Perpendicular-and-Parallel-Planes
 class: 12
 unit: 4
 chapter: 28

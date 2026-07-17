@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 6 - Statistics and Probability - Probability - section Q
 Tags:
-  - Class-09/Unit-6/Statistics-and-Probability/Probability/Basic-Probability/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Probability/Empirical-Probability/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Probability/Probability-of-Events/Exercise
+  - Class-09/Unit-6/Statistics-and-Probability/Probability/Basic-Probability
+  - Class-09/Unit-6/Statistics-and-Probability/Probability/Empirical-Probability
+  - Class-09/Unit-6/Statistics-and-Probability/Probability/Probability-of-Events
 Class: 9
 Unit: 6
 Chapter: 19

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - The-Plane - Section B
 tags:
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Equation-of-a-Plane/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Distance-of-a-Point-from-a-Plane/Exercise
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Equation-of-a-Plane
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Distance-of-a-Point-from-a-Plane
 class: 12
 unit: 4
 chapter: 28

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Indefinite-Integral - Section A
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Evaluating-Indefinite-Integrals/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Algebraic-Integrals/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Evaluating-Indefinite-Integrals
+  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Algebraic-Integrals
 class: 12
 unit: 3
 chapter: 12

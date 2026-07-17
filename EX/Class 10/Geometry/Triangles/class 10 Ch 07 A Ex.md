@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Triangles - Section A
 tags:
-  - Class-10/Unit-4/Geometry/Triangles/Basic-Proportionality-Theorem/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Converse-of-BPT/Exercise
-  - Class-10/Unit-4/Geometry/Triangles/Angle-Bisector-Theorem/Exercise
+  - Class-10/Unit-4/Geometry/Triangles/Basic-Proportionality-Theorem
+  - Class-10/Unit-4/Geometry/Triangles/Converse-of-BPT
+  - Class-10/Unit-4/Geometry/Triangles/Angle-Bisector-Theorem
 class: 10
 unit: 4
 chapter: 07

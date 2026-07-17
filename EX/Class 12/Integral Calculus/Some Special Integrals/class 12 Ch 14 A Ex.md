@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Some-Special-Integrals - Section A
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Some-Special-Integrals/Evaluation-of-Rational-Functions/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Some-Special-Integrals/Special-Integration-Formulas/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Some-Special-Integrals/Evaluation-of-Rational-Functions
+  - Class-12/Unit-3/Integral-Calculus/Some-Special-Integrals/Special-Integration-Formulas
 class: 12
 unit: 3
 chapter: 14

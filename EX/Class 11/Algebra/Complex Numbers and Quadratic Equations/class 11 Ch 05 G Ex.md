@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Complex-Numbers-and-Quadratic-Equations - Section G
 tags:
-  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Evaluating-Powers-of-i/Exercise
-  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Complex-Operations/Exercise
-  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Polar-Form-and-Argument/Exercise
+  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Evaluating-Powers-of-i
+  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Complex-Operations
+  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Polar-Form-and-Argument
 class: 11
 unit: 2
 chapter: 05

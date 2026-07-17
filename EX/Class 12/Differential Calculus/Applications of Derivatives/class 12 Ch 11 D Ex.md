@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Applications-of-Derivatives - Section D
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Lagranges-Mean-Value-Theorem/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Tangents-and-Chords/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Lagranges-Mean-Value-Theorem
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Tangents-and-Chords
 class: 12
 unit: 3
 chapter: 11

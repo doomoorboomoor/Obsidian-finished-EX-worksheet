@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Inverse-Trigonometric-Functions - Section C
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Inverse-Trigonometric-Functions/Inverse-Trigonometric-Identities/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Inverse-Trigonometric-Functions/Solving-Trigonometric-Equations/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Inverse-Trigonometric-Functions/Inverse-Trigonometric-Identities
+  - Class-12/Unit-1/Relations-and-Functions/Inverse-Trigonometric-Functions/Solving-Trigonometric-Equations
 class: 12
 unit: 1
 chapter: 04

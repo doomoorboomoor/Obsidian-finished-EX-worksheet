@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Permutations - Section D
 tags:
-  - Class-11/Unit-2/Algebra/Permutations/Arrangements/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Word-Permutations/Exercise
+  - Class-11/Unit-2/Algebra/Permutations/Arrangements
+  - Class-11/Unit-2/Algebra/Permutations/Word-Permutations
 class: 11
 unit: 2
 chapter: 08

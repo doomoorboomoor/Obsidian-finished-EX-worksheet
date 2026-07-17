@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - Vector-Algebra - Product-of-Three-Vectors - Section A
 tags:
-  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Scalar-Triple-Product/Exercise
-  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Coplanarity-of-Vectors/Exercise
+  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Scalar-Triple-Product
+  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Coplanarity-of-Vectors
 class: 12
 unit: 4
 chapter: 25

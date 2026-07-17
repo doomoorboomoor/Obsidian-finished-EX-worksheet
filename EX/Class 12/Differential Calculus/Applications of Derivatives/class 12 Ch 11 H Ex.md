@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Applications-of-Derivatives - Section H
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Tangents-and-Normals/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Derivatives-and-Slopes/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Tangents-and-Normals
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Derivatives-and-Slopes
 class: 12
 unit: 3
 chapter: 11

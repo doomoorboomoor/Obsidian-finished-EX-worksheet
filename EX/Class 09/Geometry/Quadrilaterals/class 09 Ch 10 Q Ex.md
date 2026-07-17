@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Quadrilaterals - Section Q
 tags:
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Quadrilaterals/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Types-of-Quadrilaterals/Exercise
-  - Class-09/Unit-4/Geometry/Quadrilaterals/Midpoint-Theorem/Exercise
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Properties-of-Quadrilaterals
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Types-of-Quadrilaterals
+  - Class-09/Unit-4/Geometry/Quadrilaterals/Midpoint-Theorem
 class: 09
 unit: 4
 chapter: 10

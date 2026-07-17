@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Linear Equations in Two Variables - Section A
 tags:
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solving-systems-of-linear-equations-graphically/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Finding-vertices-and-areas-of-triangles/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Infinite-and-no-solutions/Exercise
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solving-systems-of-linear-equations-graphically
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Finding-vertices-and-areas-of-triangles
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Infinite-and-no-solutions
 class: 10
 unit: 2
 chapter: 03

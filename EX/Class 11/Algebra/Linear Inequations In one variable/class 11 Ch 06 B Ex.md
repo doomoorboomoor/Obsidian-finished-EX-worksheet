@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Linear-Inequations-(In-one-variable) - Section B
 tags:
-  - Class-11/Unit-2/Algebra/Linear-Inequations-In-one-variable/Rational-Inequations/Exercise
-  - Class-11/Unit-2/Algebra/Linear-Inequations-In-one-variable/Absolute-Value-Inequations/Exercise
+  - Class-11/Unit-2/Algebra/Linear-Inequations-In-one-variable/Rational-Inequations
+  - Class-11/Unit-2/Algebra/Linear-Inequations-In-one-variable/Absolute-Value-Inequations
 class: 11
 unit: 2
 chapter: 6

@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 5 - Trigonometry - Trigonometric Identities - Section Q
 tags:
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Trigonometric-ratios/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Trigonometric-identities/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Complementary-angles/Exercise
-  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Simplification-of-trigonometric-expressions/Exercise
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Trigonometric-ratios
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Trigonometric-identities
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Complementary-angles
+  - Class-10/Unit-5/Trigonometry/Trigonometric-Identities/Simplification-of-trigonometric-expressions
 class: 10
 unit: 5
 chapter: 13

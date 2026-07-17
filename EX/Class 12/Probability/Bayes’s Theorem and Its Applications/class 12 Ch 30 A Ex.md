@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 5 - Linear-Programming - Linear-Programming - Section B
 tags:
-  - Class-12/Unit-5/Linear-Programming/Linear-Programming/Optimization/Exercise
-  - Class-12/Unit-5/Linear-Programming/Linear-Programming/Formulation-and-Graphical-Solution/Exercise
+  - Class-12/Unit-5/Linear-Programming/Linear-Programming/Optimization
+  - Class-12/Unit-5/Linear-Programming/Linear-Programming/Formulation-and-Graphical-Solution
 class: 12
 unit: 5
 chapter: 33

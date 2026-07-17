@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Sets - Section H
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Sets/Power-Sets/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Sets/Set-Operations/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Sets/Cardinality-of-Sets/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Sets/Power-Sets
+  - Class-11/Unit-1/Set-and-Functions/Sets/Set-Operations
+  - Class-11/Unit-1/Set-and-Functions/Sets/Cardinality-of-Sets
 class: 11
 unit: 1
 chapter: 01

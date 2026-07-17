@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 4 - Geometry - Constructions - Section Q
 tags:
-  - Class-10/Unit-4/Geometry/Constructions/Division-of-a-line-segment/Exercise
-  - Class-10/Unit-4/Geometry/Constructions/Construction-of-similar-triangles/Exercise
-  - Class-10/Unit-4/Geometry/Constructions/Construction-of-tangents-to-a-circle/Exercise
+  - Class-10/Unit-4/Geometry/Constructions/Division-of-a-line-segment
+  - Class-10/Unit-4/Geometry/Constructions/Construction-of-similar-triangles
+  - Class-10/Unit-4/Geometry/Constructions/Construction-of-tangents-to-a-circle
 class: 10
 unit: 4
 chapter: 09

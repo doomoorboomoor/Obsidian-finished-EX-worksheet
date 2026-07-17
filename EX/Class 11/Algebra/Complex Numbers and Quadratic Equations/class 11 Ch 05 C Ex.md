@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Complex-Numbers-and-Quadratic-Equations - Section C
 tags:
-  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Conjugate-of-Complex-Numbers/Exercise
-  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Multiplicative-Inverse/Exercise
-  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Purely-Imaginary-and-Real-Parts/Exercise
+  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Conjugate-of-Complex-Numbers
+  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Multiplicative-Inverse
+  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Purely-Imaginary-and-Real-Parts
 class: 11
 unit: 2
 chapter: 05

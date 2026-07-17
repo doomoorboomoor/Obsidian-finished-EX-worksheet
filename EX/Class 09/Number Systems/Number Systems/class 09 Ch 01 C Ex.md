@@ -1,10 +1,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 1 - Number Systems - Number Systems - section C
 Tags:
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Rational-and-irrational-numbers/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Classifying-real-numbers/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Operations-on-real-numbers/Exercise
-  - Class-09/Unit-1/Number-Systems/Number-Systems/Finding-irrational-numbers-between-two-numbers/Exercise
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Rational-and-irrational-numbers
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Classifying-real-numbers
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Operations-on-real-numbers
+  - Class-09/Unit-1/Number-Systems/Number-Systems/Finding-irrational-numbers-between-two-numbers
 Class: 09
 Unit: 1
 Chapter: 01

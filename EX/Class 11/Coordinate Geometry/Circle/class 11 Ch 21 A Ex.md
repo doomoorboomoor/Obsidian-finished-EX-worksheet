@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Circle - Section A
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Circle/Equations-of-Circles/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Circle/Centre-and-Radius/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Circle/Equations-of-Circles
+  - Class-11/Unit-3/Coordinate-Geometry/Circle/Centre-and-Radius
 class: 11
 unit: 3
 chapter: 21

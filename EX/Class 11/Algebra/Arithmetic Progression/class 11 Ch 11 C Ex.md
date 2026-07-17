@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Arithmetic-Progression - Section C
 tags:
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/AP-Word-Problems/Exercise
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Sum-of-n-Terms/Exercise
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/AP-Word-Problems
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Sum-of-n-Terms
 class: 11
 unit: 2
 chapter: 11

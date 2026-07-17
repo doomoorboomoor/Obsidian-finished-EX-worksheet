@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Straight-Lines - Section G
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Slope-Intercept-Form/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Intercept-Form/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Normal-Form/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Slope-Intercept-Form
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Intercept-Form
+  - Class-11/Unit-3/Coordinate-Geometry/Straight-Lines/Normal-Form
 class: 11
 unit: 3
 chapter: 20

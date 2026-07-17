@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Congruence of Triangles and Inequalities in a Triangle - Section A
 tags:
-  - Class-09/Unit-4/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/Congruence-of-Triangles/Exercise
-  - Class-09/Unit-4/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/Properties-of-Isosceles-Triangles/Exercise
-  - Class-09/Unit-4/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/Inequalities-in-a-Triangle/Exercise
+  - Class-09/Unit-4/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/Congruence-of-Triangles
+  - Class-09/Unit-4/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/Properties-of-Isosceles-Triangles
+  - Class-09/Unit-4/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/Inequalities-in-a-Triangle
 class: 09
 unit: 4
 chapter: 09

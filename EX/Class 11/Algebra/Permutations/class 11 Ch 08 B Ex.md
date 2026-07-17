@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Permutations - Section B
 tags:
-  - Class-11/Unit-2/Algebra/Permutations/Fundamental-Principle-of-Counting/Exercise
-  - Class-11/Unit-2/Algebra/Permutations/Combinatorics/Exercise
+  - Class-11/Unit-2/Algebra/Permutations/Fundamental-Principle-of-Counting
+  - Class-11/Unit-2/Algebra/Permutations/Combinatorics
 class: 11
 unit: 2
 chapter: 08

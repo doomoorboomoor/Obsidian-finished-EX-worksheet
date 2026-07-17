@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Functions - Section E
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Functions/Algebra-of-Functions/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Functions/Domain-of-Functions/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Functions/Algebra-of-Functions
+  - Class-11/Unit-1/Set-and-Functions/Functions/Domain-of-Functions
 class: 11
 unit: 1
 chapter: 03

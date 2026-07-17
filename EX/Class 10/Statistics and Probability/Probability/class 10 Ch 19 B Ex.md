@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 7 - Statistics and Probability - Probability - Section B
 tags:
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-of-numbers-on-cards/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-with-coins-and-dice/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-with-marbles-and-balls/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-with-playing-cards/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-in-leap-years/Exercise
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-of-numbers-on-cards
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-with-coins-and-dice
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-with-marbles-and-balls
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-with-playing-cards
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-in-leap-years
 class: 10
 unit: 7
 chapter: 19

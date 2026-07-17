@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Equations - Differential-Equations-and-Their-Formation - Section B
 tags:
-  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Verifying-Solutions/Exercise
-  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/General-and-Particular-Solutions/Exercise
+  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/Verifying-Solutions
+  - Class-12/Unit-3/Differential-Equations/Differential-Equations-and-Their-Formation/General-and-Particular-Solutions
 class: 12
 unit: 3
 chapter: 18

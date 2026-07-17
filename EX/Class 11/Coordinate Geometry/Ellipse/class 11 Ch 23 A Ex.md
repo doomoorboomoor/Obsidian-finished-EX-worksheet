@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Ellipse - Section A
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Ellipse/Equations-of-Ellipse/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Ellipse/Eccentricity-and-Latus-Rectum/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Ellipse/Equations-of-Ellipse
+  - Class-11/Unit-3/Coordinate-Geometry/Ellipse/Eccentricity-and-Latus-Rectum
 class: 11
 unit: 3
 chapter: 23

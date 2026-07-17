@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 4 - Calculus - Limits - Section C
 tags:
-  - Class-11/Unit-4/Calculus/Limits/Existence-of-Limits/Exercise
-  - Class-11/Unit-4/Calculus/Limits/Piecewise-Functions/Exercise
+  - Class-11/Unit-4/Calculus/Limits/Existence-of-Limits
+  - Class-11/Unit-4/Calculus/Limits/Piecewise-Functions
 class: 11
 unit: 4
 chapter: 27

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Applications-of-Derivatives - Section F
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Maxima-and-Minima/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Optimization-Problems/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Maxima-and-Minima
+  - Class-12/Unit-3/Differential-Calculus/Applications-of-Derivatives/Optimization-Problems
 class: 12
 unit: 3
 chapter: 11

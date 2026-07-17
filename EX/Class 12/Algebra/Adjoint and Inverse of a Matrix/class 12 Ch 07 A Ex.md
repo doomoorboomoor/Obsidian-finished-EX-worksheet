@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Adjoint-and-Inverse-of-a-Matrix - Section A
 tags:
-  - Class-12/Unit-2/Algebra/Adjoint-and-Inverse-of-a-Matrix/Matrix-Adjoint/Exercise
-  - Class-12/Unit-2/Algebra/Adjoint-and-Inverse-of-a-Matrix/Matrix-Inverse/Exercise
+  - Class-12/Unit-2/Algebra/Adjoint-and-Inverse-of-a-Matrix/Matrix-Adjoint
+  - Class-12/Unit-2/Algebra/Adjoint-and-Inverse-of-a-Matrix/Matrix-Inverse
 class: 12
 unit: 2
 chapter: 07

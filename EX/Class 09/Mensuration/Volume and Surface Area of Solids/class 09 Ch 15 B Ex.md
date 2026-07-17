@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 5 - Mensuration - Volume and Surface Area of Solids - section B
 Tags:
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-of-a-Cylinder/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Surface-Area-of-a-Cylinder/Exercise
-  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Hollow-Cylinders/Exercise
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Volume-of-a-Cylinder
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Surface-Area-of-a-Cylinder
+  - Class-09/Unit-5/Mensuration/Volume-and-Surface-Area-of-Solids/Hollow-Cylinders
 Class: 09
 Unit: 5
 Chapter: 15

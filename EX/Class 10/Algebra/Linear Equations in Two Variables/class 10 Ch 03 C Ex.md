@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Linear Equations in Two Variables - Section C
 tags:
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solving-systems-of-equations/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Cross-multiplication-method/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Linear-equations-with-fractional-coefficients/Exercise
-  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Linear-equations-with-literal-coefficients/Exercise
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Solving-systems-of-equations
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Cross-multiplication-method
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Linear-equations-with-fractional-coefficients
+  - Class-10/Unit-2/Algebra/Linear-Equations-in-Two-Variables/Linear-equations-with-literal-coefficients
 class: 10
 unit: 2
 chapter: 03

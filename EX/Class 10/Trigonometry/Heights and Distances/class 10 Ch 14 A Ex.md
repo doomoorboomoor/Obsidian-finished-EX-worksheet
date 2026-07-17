@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 5 - Trigonometry - Heights and Distances - Section A
 tags:
-  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Angles-of-Elevation-and-Depression/Exercise
-  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Heights-of-Towers-and-Buildings/Exercise
-  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Trigonometric-Applications-in-Real-Life/Exercise
+  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Angles-of-Elevation-and-Depression
+  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Heights-of-Towers-and-Buildings
+  - Class-10/Unit-5/Trigonometry/Heights-and-Distances/Trigonometric-Applications-in-Real-Life
 class: 10
 unit: 5
 chapter: 14

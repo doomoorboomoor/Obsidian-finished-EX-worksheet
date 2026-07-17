@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 6 - Probability - Binomial-Distribution - Section A
 tags:
-  - Class-12/Unit-6/Probability/Binomial-Distribution/Probability-of-Success-and-Failure/Exercise
-  - Class-12/Unit-6/Probability/Binomial-Distribution/Mean-and-Variance/Exercise
+  - Class-12/Unit-6/Probability/Binomial-Distribution/Probability-of-Success-and-Failure
+  - Class-12/Unit-6/Probability/Binomial-Distribution/Mean-and-Variance
 class: 12
 unit: 6
 chapter: 32

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Relations - Section B
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Relations/Equivalence-Relations/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Relations/Types-Of-Relations/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Relations/Equivalence-Relations
+  - Class-12/Unit-1/Relations-and-Functions/Relations/Types-Of-Relations
 class: 12
 unit: 1
 chapter: 01

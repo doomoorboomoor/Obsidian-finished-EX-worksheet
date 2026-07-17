@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 7 - Statistics and Probability - Mean Median Mode of Grouped Data Cumulative Frequency Graph and Ogive - Section C
 tags:
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Calculation-of-mode-for-grouped-data/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Mode-of-frequency-distribution/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Comparison-of-mean-and-mode/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Finding-missing-frequencies-using-mode/Exercise
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Calculation-of-mode-for-grouped-data
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Mode-of-frequency-distribution
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Comparison-of-mean-and-mode
+  - Class-10/Unit-7/Statistics-and-Probability/Mean-Median-Mode-of-Grouped-Data-Cumulative-Frequency-Graph-and-Ogive/Finding-missing-frequencies-using-mode
 class: 10
 unit: 7
 chapter: 18

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Arithmetic-Progression - Section B
 tags:
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Sum-of-n-Terms-of-an-AP/Exercise
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Arithmetic-Progression-Properties/Exercise
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Sum-of-n-Terms-of-an-AP
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Arithmetic-Progression-Properties
 class: 11
 unit: 2
 chapter: 11

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 6 - Probability - Probability - Section A
 tags:
-  - Class-12/Unit-6/Probability/Probability/Conditional-Probability/Exercise
-  - Class-12/Unit-6/Probability/Probability/Probability-of-Events/Exercise
+  - Class-12/Unit-6/Probability/Probability/Conditional-Probability
+  - Class-12/Unit-6/Probability/Probability/Probability-of-Events
 class: 12
 unit: 6
 chapter: 29

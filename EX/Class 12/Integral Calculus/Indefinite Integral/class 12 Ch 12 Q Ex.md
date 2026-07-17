@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Integral-Calculus - Indefinite-Integral - Section Q
 tags:
-  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Basic-Integration/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Trigonometric-Integrals/Exercise
-  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Inverse-Trigonometric-Integrals/Exercise
+  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Basic-Integration
+  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Trigonometric-Integrals
+  - Class-12/Unit-3/Integral-Calculus/Indefinite-Integral/Inverse-Trigonometric-Integrals
 class: 12
 unit: 3
 chapter: 12

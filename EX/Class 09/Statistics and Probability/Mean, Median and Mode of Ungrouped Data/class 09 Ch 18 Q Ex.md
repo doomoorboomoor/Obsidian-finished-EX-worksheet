@@ -1,10 +1,10 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 6 - Statistics and Probability - Mean Median and Mode of Ungrouped Data - section Q
 Tags:
-  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Mean-of-ungrouped-data/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Median-of-ungrouped-data/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Mode-of-ungrouped-data/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Properties-of-Mean/Exercise
+  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Mean-of-ungrouped-data
+  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Median-of-ungrouped-data
+  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Mode-of-ungrouped-data
+  - Class-09/Unit-6/Statistics-and-Probability/Mean-Median-and-Mode-of-Ungrouped-Data/Properties-of-Mean
 Class: 09
 Unit: 6
 Chapter: 18

@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 3 - Differential-Calculus - Differentiation - Section I
 tags:
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Derivatives-of-Parametric-Functions/Exercise
-  - Class-12/Unit-3/Differential-Calculus/Differentiation/Second-Order-Derivatives/Exercise
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Derivatives-of-Parametric-Functions
+  - Class-12/Unit-3/Differential-Calculus/Differentiation/Second-Order-Derivatives
 class: 12
 unit: 3
 chapter: 10

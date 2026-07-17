@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 3 - Coordinate-Geometry - Applications-of-Conic-Sections - Section A
 tags:
-  - Class-11/Unit-3/Coordinate-Geometry/Applications-of-Conic-Sections/Parabola-Applications/Exercise
-  - Class-11/Unit-3/Coordinate-Geometry/Applications-of-Conic-Sections/Conic-Section-Real-Life-Problems/Exercise
+  - Class-11/Unit-3/Coordinate-Geometry/Applications-of-Conic-Sections/Parabola-Applications
+  - Class-11/Unit-3/Coordinate-Geometry/Applications-of-Conic-Sections/Conic-Section-Real-Life-Problems
 class: 11
 unit: 3
 chapter: 25

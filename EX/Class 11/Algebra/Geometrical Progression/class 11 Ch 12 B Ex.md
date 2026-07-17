@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Geometrical-Progression - Section B
 tags:
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Terms-of-GP/Exercise
-  - Class-11/Unit-2/Algebra/Geometrical-Progression/Properties-of-GP/Exercise
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Terms-of-GP
+  - Class-11/Unit-2/Algebra/Geometrical-Progression/Properties-of-GP
 class: 11
 unit: 2
 chapter: 12

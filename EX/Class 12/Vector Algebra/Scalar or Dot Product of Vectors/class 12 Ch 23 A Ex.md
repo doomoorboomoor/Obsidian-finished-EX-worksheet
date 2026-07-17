@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - Vector-Algebra - Scalar-or-Dot-Product-of-Vectors - Section A
 tags:
-  - Class-12/Unit-4/Vector-Algebra/Scalar-or-Dot-Product-of-Vectors/Dot-Product/Exercise
-  - Class-12/Unit-4/Vector-Algebra/Scalar-or-Dot-Product-of-Vectors/Orthogonal-Vectors/Exercise
+  - Class-12/Unit-4/Vector-Algebra/Scalar-or-Dot-Product-of-Vectors/Dot-Product
+  - Class-12/Unit-4/Vector-Algebra/Scalar-or-Dot-Product-of-Vectors/Orthogonal-Vectors
 class: 12
 unit: 4
 chapter: 23

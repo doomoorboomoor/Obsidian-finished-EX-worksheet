@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Matrices - Section F
 tags:
-  - Class-12/Unit-2/Algebra/Matrices/Matrix-Operations/Exercise
-  - Class-12/Unit-2/Algebra/Matrices/Special-Matrices/Exercise
+  - Class-12/Unit-2/Algebra/Matrices/Matrix-Operations
+  - Class-12/Unit-2/Algebra/Matrices/Special-Matrices
 class: 12
 unit: 2
 chapter: 05

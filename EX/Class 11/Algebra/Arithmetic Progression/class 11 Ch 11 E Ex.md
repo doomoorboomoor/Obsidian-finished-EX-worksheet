@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Arithmetic-Progression - Section E
 tags:
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Properties-of-Arithmetic-Progressions/Exercise
-  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Mathematical-Proofs/Exercise
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Properties-of-Arithmetic-Progressions
+  - Class-11/Unit-2/Algebra/Arithmetic-Progression/Mathematical-Proofs
 class: 11
 unit: 2
 chapter: 11

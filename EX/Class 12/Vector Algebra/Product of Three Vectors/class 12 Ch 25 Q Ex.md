@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - Vector-Algebra - Product-of-Three-Vectors - Section Q
 tags:
-  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Dot-and-Cross-Product/Exercise
-  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Scalar-Triple-Product/Exercise
-  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Vector-Projection-and-Angles/Exercise
+  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Dot-and-Cross-Product
+  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Scalar-Triple-Product
+  - Class-12/Unit-4/Vector-Algebra/Product-of-Three-Vectors/Vector-Projection-and-Angles
 class: 12
 unit: 4
 chapter: 25

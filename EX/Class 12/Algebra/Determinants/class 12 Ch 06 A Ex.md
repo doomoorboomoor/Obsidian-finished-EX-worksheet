@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Determinants - Section A
 tags:
-  - Class-12/Unit-2/Algebra/Determinants/Evaluating-Determinants/Exercise
-  - Class-12/Unit-2/Algebra/Determinants/Properties-of-Determinants/Exercise
-  - Class-12/Unit-2/Algebra/Determinants/Singular-Matrices/Exercise
+  - Class-12/Unit-2/Algebra/Determinants/Evaluating-Determinants
+  - Class-12/Unit-2/Algebra/Determinants/Properties-of-Determinants
+  - Class-12/Unit-2/Algebra/Determinants/Singular-Matrices
 class: 12
 unit: 2
 chapter: 06

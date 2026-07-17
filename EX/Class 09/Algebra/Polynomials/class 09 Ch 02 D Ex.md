@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 2 - Algebra - Polynomials - section D
 Tags:
-  - Class-09/Unit-2/Algebra/Polynomials/Factor-Theorem/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Finding-Unknown-Coefficients/Exercise
-  - Class-09/Unit-2/Algebra/Polynomials/Divisibility-Proofs/Exercise
+  - Class-09/Unit-2/Algebra/Polynomials/Factor-Theorem
+  - Class-09/Unit-2/Algebra/Polynomials/Finding-Unknown-Coefficients
+  - Class-09/Unit-2/Algebra/Polynomials/Divisibility-Proofs
 Class: 09
 Unit: 2
 Chapter: 02

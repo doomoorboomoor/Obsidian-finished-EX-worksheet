@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 2 - Algebra - Matrices - Section A
 tags:
-  - Class-12/Unit-2/Algebra/Matrices/Order-of-a-Matrix/Exercise
-  - Class-12/Unit-2/Algebra/Matrices/Construction-of-Matrices/Exercise
+  - Class-12/Unit-2/Algebra/Matrices/Order-of-a-Matrix
+  - Class-12/Unit-2/Algebra/Matrices/Construction-of-Matrices
 class: 12
 unit: 2
 chapter: 05

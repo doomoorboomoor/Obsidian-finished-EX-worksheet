@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Geometrical Constructions - Section A
 tags:
-  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Line-segment-and-angle-bisection/Exercise
-  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Construction-of-specific-angles/Exercise
-  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Basic-triangle-construction/Exercise
-  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Triangle-construction-with-given-perimeter/Exercise
-  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Triangle-construction-with-sum-or-difference-of-sides/Exercise
+  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Line-segment-and-angle-bisection
+  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Construction-of-specific-angles
+  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Basic-triangle-construction
+  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Triangle-construction-with-given-perimeter
+  - Class-09/Unit-4/Geometry/Geometrical-Constructions/Triangle-construction-with-sum-or-difference-of-sides
 class: 09
 unit: 4
 chapter: 13

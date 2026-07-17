@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 4 - 3D-Geometry - The-Plane - Section I
 tags:
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Coplanar-Lines/Exercise
-  - Class-12/Unit-4/3D-Geometry/The-Plane/Equation-of-Plane/Exercise
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Coplanar-Lines
+  - Class-12/Unit-4/3D-Geometry/The-Plane/Equation-of-Plane
 class: 12
 unit: 4
 chapter: 28

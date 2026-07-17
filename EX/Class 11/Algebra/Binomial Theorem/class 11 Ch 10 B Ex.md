@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Binomial-Theorem - Section B
 tags:
-  - Class-11/Unit-2/Algebra/Binomial-Theorem/Binomial-Expansion/Exercise
-  - Class-11/Unit-2/Algebra/Binomial-Theorem/Term-Independent-of-x/Exercise
-  - Class-11/Unit-2/Algebra/Binomial-Theorem/Middle-Term/Exercise
+  - Class-11/Unit-2/Algebra/Binomial-Theorem/Binomial-Expansion
+  - Class-11/Unit-2/Algebra/Binomial-Theorem/Term-Independent-of-x
+  - Class-11/Unit-2/Algebra/Binomial-Theorem/Middle-Term
 class: 11
 unit: 2
 chapter: 10

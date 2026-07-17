@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 1 - Number Systems - Real Numbers - Section Q
 tags:
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Co-primes-and-fundamental-theorem-of-arithmetic/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/HCF-and-LCM/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Euclids-division-lemma/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Rational-and-irrational-numbers/Exercise
-  - Class-10/Unit-1/Number-Systems/Real-Numbers/Decimal-expansions/Exercise
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Co-primes-and-fundamental-theorem-of-arithmetic
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/HCF-and-LCM
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Euclids-division-lemma
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Rational-and-irrational-numbers
+  - Class-10/Unit-1/Number-Systems/Real-Numbers/Decimal-expansions
 class: 10
 unit: 1
 chapter: 01

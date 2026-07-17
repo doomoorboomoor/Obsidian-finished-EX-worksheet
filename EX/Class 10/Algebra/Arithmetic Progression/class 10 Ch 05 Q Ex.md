@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Arithmetic Progression - Section Q
 tags:
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-the-nth-term/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Sum-of-first-n-terms/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Arithmetic-progression-properties/Exercise
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-the-nth-term
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Sum-of-first-n-terms
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Arithmetic-progression-properties
 class: 10
 unit: 2
 chapter: 05

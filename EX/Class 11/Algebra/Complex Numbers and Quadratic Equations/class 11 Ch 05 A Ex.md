@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - ComplEx-Numbers-and-Quadratic-Equations - Section A
 tags:
-  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Powers-of-i/Exercise
-  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Complex-Number-Evaluation/Exercise
+  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Powers-of-i
+  - Class-11/Unit-2/Algebra/ComplEx-Numbers-and-Quadratic-Equations/Complex-Number-Evaluation
 class: 11
 unit: 2
 chapter: 05

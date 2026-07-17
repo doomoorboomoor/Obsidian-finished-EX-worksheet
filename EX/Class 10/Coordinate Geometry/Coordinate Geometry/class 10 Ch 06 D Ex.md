@@ -1,11 +1,11 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 3 - Coordinate Geometry - Coordinate Geometry - Section D
 tags:
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Distance-Formula/Exercise
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Section-Formula/Exercise
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Midpoint-Formula/Exercise
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Collinearity/Exercise
-  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Centroid-of-a-Triangle/Exercise
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Distance-Formula
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Section-Formula
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Midpoint-Formula
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Collinearity
+  - Class-10/Unit-3/Coordinate-Geometry/Coordinate-Geometry/Centroid-of-a-Triangle
 class: 10
 unit: 3
 chapter: 06

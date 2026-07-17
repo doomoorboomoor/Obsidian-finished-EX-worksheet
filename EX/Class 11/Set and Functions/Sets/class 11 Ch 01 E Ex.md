@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 01 - Set-and-Functions - Sets - Section E
 tags:
-  - Class-11/Unit-01/Set-and-Functions/Sets/Set-Operations/Exercise
-  - Class-11/Unit-01/Set-and-Functions/Sets/Properties-of-Sets/Exercise
+  - Class-11/Unit-01/Set-and-Functions/Sets/Set-Operations
+  - Class-11/Unit-01/Set-and-Functions/Sets/Properties-of-Sets
 class: 11
 unit: 01
 chapter: 01

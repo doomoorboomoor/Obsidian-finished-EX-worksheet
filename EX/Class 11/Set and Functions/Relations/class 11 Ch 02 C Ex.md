@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 1 - Set-and-Functions - Relations - Section C
 tags:
-  - Class-11/Unit-1/Set-and-Functions/Relations/Domain-and-Range/Exercise
-  - Class-11/Unit-1/Set-and-Functions/Relations/Roster-Form/Exercise
+  - Class-11/Unit-1/Set-and-Functions/Relations/Domain-and-Range
+  - Class-11/Unit-1/Set-and-Functions/Relations/Roster-Form
 class: 11
 unit: 1
 chapter: 02

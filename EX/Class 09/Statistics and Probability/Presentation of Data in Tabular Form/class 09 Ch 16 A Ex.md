@@ -1,9 +1,9 @@
 ---
 Title: Exercise Worksheet - Class 09 - Unit 6 - Statistics and Probability - Presentation of Data in Tabular Form - section A
 Tags:
-  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Definition-and-characteristics-of-statistics/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Frequency-distribution-tables/Exercise
-  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Cumulative-frequency-tables/Exercise
+  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Definition-and-characteristics-of-statistics
+  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Frequency-distribution-tables
+  - Class-09/Unit-6/Statistics-and-Probability/Presentation-of-Data-in-Tabular-Form/Cumulative-frequency-tables
 Class: 09
 Unit: 6
 Chapter: 16

@@ -1,12 +1,12 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 7 - Statistics and Probability - Probability - Section A
 tags:
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Basic-Probability/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-of-Events/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Coin-and-Dice-Problems/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Card-Problems/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Urn-and-Bag-Problems/Exercise
-  - Class-10/Unit-7/Statistics-and-Probability/Probability/Miscellaneous-Probability/Exercise
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Basic-Probability
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Probability-of-Events
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Coin-and-Dice-Problems
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Card-Problems
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Urn-and-Bag-Problems
+  - Class-10/Unit-7/Statistics-and-Probability/Probability/Miscellaneous-Probability
 class: 10
 unit: 7
 chapter: 19

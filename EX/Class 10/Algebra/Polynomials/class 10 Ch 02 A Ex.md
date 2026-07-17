@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Polynomials - Section A
 tags:
-  - Class-10/Unit-2/Algebra/Polynomials/Zeroes-of-a-quadratic-polynomial/Exercise
-  - Class-10/Unit-2/Algebra/Polynomials/Relationship-between-zeroes-and-coefficients/Exercise
-  - Class-10/Unit-2/Algebra/Polynomials/Finding-a-polynomial-given-its-zeroes/Exercise
+  - Class-10/Unit-2/Algebra/Polynomials/Zeroes-of-a-quadratic-polynomial
+  - Class-10/Unit-2/Algebra/Polynomials/Relationship-between-zeroes-and-coefficients
+  - Class-10/Unit-2/Algebra/Polynomials/Finding-a-polynomial-given-its-zeroes
 class: 10
 unit: 2
 chapter: 02

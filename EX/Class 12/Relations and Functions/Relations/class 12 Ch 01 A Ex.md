@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 12 - Unit 1 - Relations-and-Functions - Relations - Section A
 tags:
-  - Class-12/Unit-1/Relations-and-Functions/Relations/Domain-and-Range/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Relations/Equivalence-Relations/Exercise
-  - Class-12/Unit-1/Relations-and-Functions/Relations/Reflexive-Symmetric-Transitive/Exercise
+  - Class-12/Unit-1/Relations-and-Functions/Relations/Domain-and-Range
+  - Class-12/Unit-1/Relations-and-Functions/Relations/Equivalence-Relations
+  - Class-12/Unit-1/Relations-and-Functions/Relations/Reflexive-Symmetric-Transitive
 class: 12
 unit: 1
 chapter: 01

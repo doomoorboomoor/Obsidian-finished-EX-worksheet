@@ -1,10 +1,10 @@
 ---
 title: Exercise Worksheet - Class 10 - Unit 2 - Algebra - Arithmetic Progression - Section D
 tags:
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Very-Short-and-Short-Answer-Questions/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-Terms/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Sum-of-First-n-Terms/Exercise
-  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Properties-of-Arithmetic-Progression/Exercise
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Very-Short-and-Short-Answer-Questions
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Finding-Terms
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Sum-of-First-n-Terms
+  - Class-10/Unit-2/Algebra/Arithmetic-Progression/Properties-of-Arithmetic-Progression
 class: 10
 unit: 2
 chapter: 05

@@ -1,9 +1,9 @@
 ---
 title: Exercise Worksheet - Class 09 - Unit 4 - Geometry - Triangles - Section A
 tags:
-  - Class-09/Unit-4/Geometry/Triangles/Properties-of-triangles/Exercise
-  - Class-09/Unit-4/Geometry/Triangles/Angles-of-a-triangle/Exercise
-  - Class-09/Unit-4/Geometry/Triangles/Exterior-angle-theorem/Exercise
+  - Class-09/Unit-4/Geometry/Triangles/Properties-of-triangles
+  - Class-09/Unit-4/Geometry/Triangles/Angles-of-a-triangle
+  - Class-09/Unit-4/Geometry/Triangles/Exterior-angle-theorem
 class: 09
 unit: 4
 chapter: 08

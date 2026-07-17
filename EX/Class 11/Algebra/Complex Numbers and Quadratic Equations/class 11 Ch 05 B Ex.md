@@ -1,8 +1,8 @@
 ---
 title: Exercise Worksheet - Class 11 - Unit 2 - Algebra - Complex-Numbers-and-Quadratic-Equations - Section B
 tags:
-  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Complex-Arithmetic/Exercise
-  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Conjugates-and-Modulus/Exercise
+  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Complex-Arithmetic
+  - Class-11/Unit-2/Algebra/Complex-Numbers-and-Quadratic-Equations/Conjugates-and-Modulus
 class: 11
 unit: 2
 chapter: 05
