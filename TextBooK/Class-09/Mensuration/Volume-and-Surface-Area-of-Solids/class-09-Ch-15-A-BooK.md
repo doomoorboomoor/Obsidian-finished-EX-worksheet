@@ -13,7 +13,7 @@ In the given figure, $ABCDEFGH$ is a cuboid whose:
 - **12 edges are**: $AB, BC, CD, DA, EF, FG, GH, HE, CG, BF, AE$ and $DH$.
 - **8 vertices are**: $A, B, C, D, E, F, G, H$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c3efdf2b71a5ee5eaae4g-01.jpg?height=237&width=338&top_left_y=1018&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Volume-and-Surface-Area-of-Solids/class-09-Ch-15-A-BooK-001.jpg)
 
 *REMARK*: A rectangular room is in the form of a cuboid and its 4 walls are its lateral faces.
 
@@ -73,7 +73,7 @@ $$
 LSA = 4a^{2} \text{ sq units}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c3efdf2b71a5ee5eaae4g-02.jpg?height=263&width=247&top_left_y=525&top_left_x=952)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Volume-and-Surface-Area-of-Solids/class-09-Ch-15-A-BooK-002.jpg)
 
 ---
 

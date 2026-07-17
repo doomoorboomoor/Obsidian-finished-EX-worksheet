@@ -25,7 +25,7 @@ By direct multiplication, we have:
 Given below is the Pascal's Triangle showing the coefficients of various terms in a binomial expansion.
 
 **Index & Coefficients**
-![](https://cdn.mathpix.com/cropped/2025_09_25_52cc27209592d3a5b33eg-01.jpg?height=492&width=692&top_left_y=1367&top_left_x=406)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Binomial-Theorem/class-11-Ch-10-A-BooK-001.jpg)
 
 Look at the pattern given below:
 - For $n=4$, the various coefficients are ${ }^{4} C_{0}, { }^{4} C_{1}, { }^{4} C_{2}, { }^{4} C_{3}, { }^{4} C_{4}$.

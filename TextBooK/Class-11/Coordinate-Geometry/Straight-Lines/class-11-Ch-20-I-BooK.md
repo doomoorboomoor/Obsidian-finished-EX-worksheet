@@ -215,7 +215,7 @@ Hence, the area of the triangle formed by the given lines is $\frac{1}{2} \cdot 
 #### Solution:
 Let $AB$ be the given line whose equation is $x+3y-7=0$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-70.jpg?height=393&width=454&top_left_y=473&top_left_x=743)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-I-BooK-001.jpg)
 
 Now, $x+3 y=7 \Rightarrow y=-\frac{1}{3} x+\frac{7}{3}$.
 

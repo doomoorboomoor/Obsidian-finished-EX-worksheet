@@ -4,7 +4,7 @@ Let $X'OX$ and $YOY'$ be the coordinate axes. Taking $O$ as the centre and a uni
 
 Suppose that a moving point starts from $A$ and moves along the circumference of the circle in an anticlockwise direction. Let it cover an arc length $\theta$ and take the final position $P(x, y)$. Join $OP$. Then,
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51ce93f12442103e178g-01.jpg?height=391&width=469&top_left_y=628&top_left_x=728)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Trigonometric%2C-or-Circular%2C-Functions/class-11-Ch-15-A-BooK-001.jpg)
 
 $$
 \angle AOP=\theta \quad \left[\because \angle AOP=\frac{\operatorname{arc} AP}{\operatorname{radius} OP}=\frac{\theta}{1}=\theta^{c}, \text { using } \theta=\frac{l}{r}\right].
@@ -39,7 +39,7 @@ Let $X'OX$ and $YOY'$ be the coordinate axes. Taking $O$ as the centre and a uni
 
 Then, $\cos \theta=x$ and $\sin \theta=y$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51ce93f12442103e178g-02.jpg?height=382&width=473&top_left_y=273&top_left_x=724)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Trigonometric%2C-or-Circular%2C-Functions/class-11-Ch-15-A-BooK-002.jpg)
 
 - **(i)** From right $\triangle OMP$, we have
 
@@ -91,7 +91,7 @@ If a point moves in a circle then the arc length covered by it is said to be **p
 #### **Proof**
 Let $X'OX$ and $YOY'$ be the coordinate axes. With $O$ as the centre, draw a circle of unit radius, meeting $OX$ at $A(1,0)$. Let $P(x, y)$ be a point on the circle such that $\angle AOP=\theta$. Let $\angle AOQ=-\theta$. Then, the coordinates of $Q$ are $Q(x,-y)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51ce93f12442103e178g-02.jpg?height=375&width=450&top_left_y=1492&top_left_x=745)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Trigonometric%2C-or-Circular%2C-Functions/class-11-Ch-15-A-BooK-003.jpg)
 
 $$
 \begin{aligned}
@@ -115,7 +115,7 @@ Working in this order, you can prove the remaining identities by yourself.
 | **III** | $\tan \theta$ and $\cot \theta$ are positive. <br> All others are negative. |
 | **IV** | $\cos \theta$ and $\sec \theta$ are positive. <br> All others are negative. |
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51ce93f12442103e178g-03.jpg?height=396&width=471&top_left_y=243&top_left_x=728)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Trigonometric%2C-or-Circular%2C-Functions/class-11-Ch-15-A-BooK-004.jpg)
 
 **Remember:**
 | I | II | III | IV |
@@ -159,7 +159,7 @@ $\sin (\theta+2 \pi)=\sin \theta$ and $\cos (\theta+2 \pi)=\cos \theta$.
 #### **Proof**
 Let $X'OX$ and $YOY'$ be the coordinate axes. With $O$ as the centre, draw a circle of unit radius, meeting $OX$ at $A$. The circumference of this circle of unit radius is $2 \pi$. Let $P$ be a point on this circle such that arc $AP=\theta$. If we start from the point $A$, move along the circle and after making a complete revolution, reach $P$ then the length of the arc covered is $(\theta+2 \pi)$. Since the trigonometric functions are defined in terms of the coordinates of $P$, we have:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51ce93f12442103e178g-04.jpg?height=389&width=471&top_left_y=455&top_left_x=728)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Trigonometric%2C-or-Circular%2C-Functions/class-11-Ch-15-A-BooK-005.jpg)
 
 $$
 \cos (\theta+2 \pi)=\cos \theta \text { and } \sin (\theta+2 \pi)=\sin \theta

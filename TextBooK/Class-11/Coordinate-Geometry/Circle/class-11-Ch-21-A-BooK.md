@@ -25,7 +25,7 @@ $$
 
 which is the required equation of the given circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-01.jpg?height=265&width=326&top_left_y=861&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-001.jpg)
 
 **THEOREM 2** The equation of a circle with centre at the origin and radius $r$ is given by
 
@@ -53,7 +53,7 @@ Then, the angle in a semicircle being a right angle, we have $\angle APB=90^{\ci
 Now, slope of $AP=\frac{(y-y_{1})}{(x-x_{1})}$.
 And, slope of $BP=\frac{(y-y_{2})}{(x-x_{2})}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-01.jpg?height=301&width=414&top_left_y=1655&top_left_x=781)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-002.jpg)
 
 Since $AP \perp BP$, we have
 
@@ -102,7 +102,7 @@ $$
 \Rightarrow x^{2}+y^{2}-6x+4y-12=0.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-02.jpg?height=269&width=277&top_left_y=934&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-003.jpg)
 
 ---
 
@@ -128,7 +128,7 @@ $$
 \Rightarrow x^{2}+y^{2}-4x+2y-45=0.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-02.jpg?height=268&width=328&top_left_y=1339&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-004.jpg)
 
 ---
 
@@ -167,7 +167,7 @@ $$
 \Rightarrow x^{2}+y^{2}-2x+6y-40=0.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-03.jpg?height=281&width=336&top_left_y=342&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-005.jpg)
 
 ---
 
@@ -204,7 +204,7 @@ $$
 
 $\therefore$ centre of the circle is $(6,0)$ or $(-2,0)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-03.jpg?height=269&width=336&top_left_y=926&top_left_x=859)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-006.jpg)
 
 Hence, the required equation of the circle is
 
@@ -264,7 +264,7 @@ $$
 \Rightarrow x^{2}+y^{2}-3x-2y-21=0.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-04.jpg?height=283&width=398&top_left_y=195&top_left_x=801)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-007.jpg)
 
 ---
 
@@ -298,7 +298,7 @@ $$
 \Rightarrow x^{2}+y^{2}-2x-4y=0.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-04.jpg?height=261&width=388&top_left_y=843&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-008.jpg)
 
 ---
 
@@ -320,7 +320,7 @@ $$
 \Rightarrow x^{2}+y^{2}-2hx-2ky+h^{2}=0.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-04.jpg?height=347&width=432&top_left_y=1198&top_left_x=763)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-009.jpg)
 
 ---
 
@@ -341,7 +341,7 @@ $$
 \Rightarrow x^{2}+y^{2}-2hx-2ky+k^{2}=0.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-04.jpg?height=366&width=320&top_left_y=1574&top_left_x=875)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-010.jpg)
 
 ---
 
@@ -364,7 +364,7 @@ $$
 
 where $c=h=k$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-05.jpg?height=323&width=320&top_left_y=259&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-A-BooK-011.jpg)
 
 ---
 

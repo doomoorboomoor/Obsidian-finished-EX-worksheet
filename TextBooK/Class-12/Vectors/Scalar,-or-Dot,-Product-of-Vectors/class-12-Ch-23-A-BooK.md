@@ -4,8 +4,8 @@
 
 Let $\overrightarrow{P Q}$ and $\overrightarrow{R S}$ be two given vectors. Take any point $O$, and draw $O A \| P Q$ and $O B \| R S$. Then, $\angle A O B=\theta$ is called the **angle between** $\overrightarrow{P Q}$ and $\overrightarrow{R S}$, provided $0 \leq \theta \leq \pi$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-18.jpg?height=199&width=335&top_left_y=593&top_left_x=322)
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-18.jpg?height=174&width=310&top_left_y=622&top_left_x=691)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Scalar%2C-or-Dot%2C-Product-of-Vectors/class-12-Ch-23-A-BooK-001.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Scalar%2C-or-Dot%2C-Product-of-Vectors/class-12-Ch-23-A-BooK-002.jpg)
 
 If $\theta=0$ or $\theta=\pi$ then $\overrightarrow{P Q} \| \overrightarrow{R S}$.
 
@@ -122,7 +122,7 @@ $O M=(O A) \cos \theta=|\vec{a}| \cos \theta=\frac{\vec{a} \cdot \vec{b}}{|\vec{
 
 $\therefore$ **Projection of $\vec{a}$ on $\vec{b}$} = $\frac{\vec{a} \cdot \vec{b}}{|\vec{b}|}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-20.jpg?height=215&width=312&top_left_y=322&top_left_x=895)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Scalar%2C-or-Dot%2C-Product-of-Vectors/class-12-Ch-23-A-BooK-003.jpg)
 
 ---
 
@@ -197,7 +197,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-21.jpg?height=231&width=341&top_left_y=707&top_left_x=866)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Scalar%2C-or-Dot%2C-Product-of-Vectors/class-12-Ch-23-A-BooK-004.jpg)
 
 $\therefore \quad \vec{a} \cdot(-\vec{b})=-(\vec{a} \cdot \vec{b})$.
 Similarly, $(-\vec{a}) \cdot \vec{b}=-(\vec{a} \cdot \vec{b})$.
@@ -246,7 +246,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-22.jpg?height=301&width=329&top_left_y=157&top_left_x=876)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Scalar%2C-or-Dot%2C-Product-of-Vectors/class-12-Ch-23-A-BooK-005.jpg)
 
 Hence, $\vec{a} \cdot(\vec{b}+\vec{c})=(\vec{a} \cdot \vec{b}+\vec{a} \cdot \vec{c})$.
 
@@ -1263,7 +1263,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-35.jpg?height=258&width=337&top_left_y=1324&top_left_x=864)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Scalar%2C-or-Dot%2C-Product-of-Vectors/class-12-Ch-23-A-BooK-006.jpg)
 
 $\overrightarrow{C A}=($ p.v. of $A)-($ p.v. of $C) = (2 \hat{i}-\hat{j}+\hat{k}) - (3 \hat{i}-4 \hat{j}-4 \hat{k}) =(-\hat{i}+3 \hat{j}+5 \hat{k})$.
 
@@ -1278,7 +1278,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-35.jpg?height=258&width=337&top_left_y=1324&top_left_x=864)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Scalar%2C-or-Dot%2C-Product-of-Vectors/class-12-Ch-23-A-BooK-007.jpg)
 $\overrightarrow{C A}=($ p.v. of $A)-($ p.v. of $C)=(-\hat{i}+3 \hat{j}+5 \hat{k})$.
 
 Clearly, we have $\overrightarrow{A B}+\overrightarrow{B C}+\overrightarrow{C A}=(-\hat{i}-2\hat{j}-6\hat{k}) + (2\hat{i}-\hat{j}+\hat{k}) + (-\hat{i}+3\hat{j}+5\hat{k}) = \overrightarrow{0}$.

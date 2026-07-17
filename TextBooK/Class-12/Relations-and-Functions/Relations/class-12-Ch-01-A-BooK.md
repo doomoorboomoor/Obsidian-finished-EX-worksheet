@@ -254,7 +254,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-005.jpg?height=160&width=353&top_left_y=440&top_left_x=844)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/Relations/class-12-Ch-01-A-BooK-001.jpg)
 
 $\therefore \quad R$ is symmetric.
 

@@ -9,7 +9,7 @@ $$
 
 **Proof:** Let $X'OX$ and $YOY'$ be the x-axis and y-axis respectively. Then, $O$ is the origin. Let $A(x_1, y_1)$ and $B(x_2, y_2)$ be the given points. Draw $AL \perp OX$, $BM \perp OX$ and $AN \perp BM$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-01.jpg?height=410&width=537&top_left_y=801&top_left_x=378)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-A-BooK-001.jpg)
 
 Now, $OL = x_1$, $OM = x_2$, $AL = y_1$ and $BM = y_2$.
 
@@ -364,7 +364,7 @@ Points $A(-1, y)$ and $B(5,7)$ lie on a circle with centre $O(2,-3 y)$. Find the
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-05.jpg?height=260&width=378&top_left_y=1504&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-A-BooK-002.jpg)
 
 Since the radii of a circle are equal, we have
 $$
@@ -419,7 +419,7 @@ Find the centre of a circle passing through the points $(6,-6)$, $(3,-7)$ and $(
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-06.jpg?height=289&width=386&top_left_y=833&top_left_x=549)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-A-BooK-003.jpg)
 
 Let $P(x, y)$ be the centre of a circle passing through the points $A(6,-6), B(3,-7)$ and $C(3,3)$. Then,
 $$
@@ -534,7 +534,7 @@ Prove that the points $A(-3,0), B(1,-3)$ and $C(4,1)$ are the vertices of an iso
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-08.jpg?height=250&width=229&top_left_y=165&top_left_x=962)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-A-BooK-004.jpg)
 
 Let $A(-3,0), B(1,-3)$ and $C(4,1)$ be the given points. Then,
 $$
@@ -576,7 +576,7 @@ Show that the points $(1,1),(-1,5),(7,9)$ and $(9,5)$ taken in that order are th
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-08.jpg?height=235&width=370&top_left_y=1403&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-A-BooK-005.jpg)
 
 Let $A(1,1), B(-1,5), C(7,9)$ and $D(9,5)$ be the vertices of quad. $ABCD$. Then,
 $$
@@ -618,7 +618,7 @@ Show that the points $A(3,5), B(6,0), C(1,-3)$ and $D(-2,2)$ are the vertices of
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-09.jpg?height=233&width=261&top_left_y=1145&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-A-BooK-006.jpg)
 
 Let $A(3,5), B(6,0), C(1,-3)$ and $D(-2,2)$ be the angular points of a quadrilateral $ABCD$.
 $$

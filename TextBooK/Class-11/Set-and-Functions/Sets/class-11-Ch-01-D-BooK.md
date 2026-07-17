@@ -143,7 +143,7 @@ $$
 & B = [3, 5) = \{x: x \in R, 3 \leq x < 5\}
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-19.jpg?height=61&width=895&top_left_y=1520&top_left_x=300)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-D-BooK-001.jpg)
 
 Clearly, $A \cap B = \{x: x \in R, 3 \leq x < 4\} = [3, 4)$.
 

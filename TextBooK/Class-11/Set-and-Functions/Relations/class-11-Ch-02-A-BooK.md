@@ -10,7 +10,7 @@ By interchanging the positions of the components, the ordered pair is changed. T
 
 In coordinate geometry, the position of a point in a plane is determined by an ordered pair. In the given figure, the ordered pairs $(2,3)$ and $(3,2)$ represent two different points $A$ and $B$ respectively. Thus, $(2,3) \neq (3,2)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1481dc25820428c93bfg-01.jpg?height=449&width=452&top_left_y=734&top_left_x=745)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Relations/class-11-Ch-02-A-BooK-001.jpg)
 
 ---
 
@@ -318,7 +318,7 @@ A \times B = \{(-1,1), (-1,3), (2,1), (2,3), (4,1), (4,3)\}
 $$
 These points may be plotted on the graph paper, as shown below:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1481dc25820428c93bfg-05.jpg?height=800&width=901&top_left_y=221&top_left_x=197)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Relations/class-11-Ch-02-A-BooK-002.jpg)
 
 This is the graphical representation of $A \times B$.
 
@@ -334,7 +334,7 @@ A \times B = \{(-1,1), (-1,3), (2,1), (2,3), (4,1), (4,3)\}
 $$
 Then, $A \times B$ may be represented by arrow diagram, as shown below:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1481dc25820428c93bfg-05.jpg?height=317&width=551&top_left_y=1474&top_left_x=374)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Relations/class-11-Ch-02-A-BooK-003.jpg)
 
 ---
 
@@ -343,7 +343,7 @@ Then, $A \times B$ may be represented by arrow diagram, as shown below:
 Again, $B \times A = \{(1,-1), (1,2), (1,4), (3,-1), (3,2), (3,4)\}$.
 We may exhibit $B \times A$ by arrow diagram, as shown below:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1481dc25820428c93bfg-06.jpg?height=313&width=551&top_left_y=217&top_left_x=362)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Relations/class-11-Ch-02-A-BooK-004.jpg)
 
 ---
 

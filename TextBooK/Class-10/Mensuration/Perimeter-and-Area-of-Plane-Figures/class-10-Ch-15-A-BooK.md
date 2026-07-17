@@ -22,7 +22,7 @@ Area is measured in square units such as square centimetres and square metres, w
 
     Let $a$, $b$, $c$ be the sides of a $\triangle ABC$. Then,
 
-    ![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-01.jpg?height=178&width=274&top_left_y=1057&top_left_x=904)
+    ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-A-BooK-001.jpg)
 
     $s = \frac{1}{2}(a+b+c)$ is called its **semiperimeter**.
 
@@ -41,14 +41,14 @@ Area is measured in square units such as square centimetres and square metres, w
     (ii) **Area** = $\left(\frac{\sqrt{3}}{4} a^{2}\right)$ sq units.
     (iii) **Perimeter** = $3a$ units.
 
-    ![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-01.jpg?height=258&width=224&top_left_y=1637&top_left_x=950)
+    ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-A-BooK-002.jpg)
 
 4.  For an isosceles $\triangle ABC$ in which $AB = AC = a$ and $BC = b$, we have:
     (i) **Height** = $\frac{\sqrt{4a^{2}-b^{2}}}{2}$ units.
     (ii) **Area** = $\left(\frac{1}{4} b \sqrt{4a^{2}-b^{2}}\right)$ sq units.
     (iii) **Perimeter** = $(2a+b)$ units.
 
-    ![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-02.jpg?height=269&width=228&top_left_y=189&top_left_x=934)
+    ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-A-BooK-003.jpg)
 
 ---
 

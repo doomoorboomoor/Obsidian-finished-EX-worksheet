@@ -14,7 +14,7 @@ Let $X^{\prime} O X$ and $Y O Y^{\prime}$ be the coordinate axes.
 Let $A B$ be the line cutting the $x$-axis and the $y$-axis at $A$ and $B$ respectively such that $O A=a$ and $O B=b$.
 Then, these points are $A(a, 0)$ and $B(0, b)$.
 
-![Diagram of a line AB with x-intercept a and y-intercept b](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-39.jpg?height=326&width=467&top_left_y=863&top_left_x=730)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-E-BooK-001.jpg)
 
 So, the equation of line $A B$ is given by
 
@@ -134,7 +134,7 @@ Then, $\frac{c+0}{2}=a$ and $\frac{0+d}{2}=b$
 $\Leftrightarrow c=2a$ and $d=2b$.
 So, the required equation is
 
-![Diagram showing midpoint M(a,b) of line segment AB between axes](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-41.jpg?height=331&width=465&top_left_y=324&top_left_x=732)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-E-BooK-002.jpg)
 
 $$
 \frac{x}{2 a}+\frac{y}{2 b}=1 \Leftrightarrow \frac{x}{a}+\frac{y}{b}=2
@@ -204,7 +204,7 @@ $$
 $\Rightarrow a=4$ and $b=6$.
 Hence, the required equation of the given line is
 
-![Diagram showing line segment AB bisected by point M(2,3)](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-42.jpg?height=333&width=471&top_left_y=203&top_left_x=728)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-E-BooK-003.jpg)
 
 $$
 \frac{x}{4}+\frac{y}{6}=1 \Leftrightarrow 3x+2y-12=0
@@ -222,7 +222,7 @@ Find the equation of the line so that the line segment intercepted between the a
 #### Solution
 Let $AB$ be the given line segment making intercepts $a$ and $b$ on the $x$-axis and $y$-axis respectively. Then, the equation of line $AB$ is
 
-![Diagram showing line segment AB divided by point P(-5,4)](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-42.jpg?height=333&width=470&top_left_y=662&top_left_x=727)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-E-BooK-004.jpg)
 
 $$
 \frac{x}{a}+\frac{y}{b}=1
@@ -260,7 +260,7 @@ $$
 
 Slope of the given line is $\frac{-3}{2}$.
 
-![Diagram showing a line perpendicular to another at its y-intercept](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-42.jpg?height=338&width=483&top_left_y=1606&top_left_x=716)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-E-BooK-005.jpg)
 
 Let the slope of the line perpendicular to the given line be $m$. Then,
 
@@ -325,7 +325,7 @@ Now, $ax+by=2ab \Rightarrow \frac{x}{2b}+\frac{y}{2a}=1$.
 Suppose that this line meets the $x$-axis and $y$-axis at $A$ and $B$ respectively.
 Then, $OA=2b$ and $OB=2a$.
 
-![Diagram of a triangle formed by a line and the coordinate axes](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-44.jpg?height=351&width=458&top_left_y=199&top_left_x=420)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-E-BooK-006.jpg)
 
 $$
 \begin{aligned}
@@ -349,7 +349,7 @@ Let $OA=a$ and $OB=b$.
 Then, $\frac{1}{2}ab=6 \Leftrightarrow ab=12$
 and, $a^{2}+b^{2}=25$
 
-![Diagram of a right triangle formed by a line and the coordinate axes](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-44.jpg?height=356&width=463&top_left_y=865&top_left_x=734)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-E-BooK-007.jpg)
 
 Putting $b=\frac{12}{a}$ from (i) in (ii), we get
 

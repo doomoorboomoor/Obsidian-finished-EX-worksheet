@@ -912,7 +912,7 @@ Let the speeds of the cars from $A$ and $B$ be $x \mathrm{~km} / \mathrm{hr}$ an
 
 **Case I:** When the two cars move in the same direction:
 In this case, let them meet at $M$ after 5 hours.
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-70.jpg?height=119&width=816&top_left_y=169&top_left_x=334)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-E-BooK-001.jpg)
 
 Then, $A M=5 x \mathrm{~km}$.
 And, $B M=5 y \mathrm{~km}$.
@@ -927,7 +927,7 @@ $\Rightarrow \quad 5(x-y)=100 \Rightarrow x-y=20$.
 
 **Case II:** When the two cars move in the opposite directions:
 Let one car move from $A$ to $B$ and let the other move from $B$ to $A$. Let them meet at $N$
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-70.jpg?height=126&width=461&top_left_y=587&top_left_x=734)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-E-BooK-002.jpg)
 after 1 hour.
 
 Then, $A N=x \mathrm{~km}$ and $B N=y \mathrm{~km}$.

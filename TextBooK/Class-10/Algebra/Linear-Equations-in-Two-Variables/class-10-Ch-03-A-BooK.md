@@ -138,17 +138,17 @@ Let the lines $L_1$ and $L_2$ represent the graphs of (i) and (ii) respectively.
 **Case I: When the lines $L_1$ and $L_2$ intersect at a point**
 Let the graph lines $L_1$ and $L_2$ intersect at a point $P(\alpha, \beta)$, as shown in the adjoining figure. Then, $x=\alpha, y=\beta$ is the unique solution of the given system of equations.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-03.jpg?height=321&width=388&top_left_y=1059&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-001.jpg)
 
 **Case II: When the lines $L_1$ and $L_2$ are coincident**
 In this case, the given system has infinitely many solutions.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-03.jpg?height=333&width=388&top_left_y=1486&top_left_x=811)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-002.jpg)
 
 **Case III: When the lines $L_1$ and $L_2$ are parallel**
 In this case, there is no common solution of the given system of equations. Thus, in this case, the given system is inconsistent.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-04.jpg?height=321&width=400&top_left_y=167&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-003.jpg)
 
 ## Summary
 
@@ -211,7 +211,7 @@ Thus, we have the following table for the equation $4x+3y=2$.
 
 Now, on the same graph paper as above, plot the points $P(-4,6)$ and $Q(2,-2)$. The point $B(-1,2)$ has already been plotted. Join $PB$ and $BQ$ to get the line $PBQ$. Extend it on both ways. Thus, the line $PBQ$ is the graph of $4x+3y=2$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-05.jpg?height=585&width=698&top_left_y=1055&top_left_x=346)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-004.jpg)
 
 The two graph lines intersect at the point $B(-1,2)$.
 $\therefore x=-1$ and $y=2$ is the solution of the given system of equations.
@@ -263,7 +263,7 @@ Thus, we have the following table for $2x+y-6=0$.
 
 On the same graph paper as above, plot the points $P(0,6), Q(2,2)$ and $R(3,0)$. Join $PQ$ and $QR$ to get the graph line $PQR$. Extend it on both ways. Thus, the line $PQR$ is the graph of $2x+y-6=0$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-07.jpg?height=645&width=703&top_left_y=173&top_left_x=298)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-005.jpg)
 
 The two graph lines $ABC$ and $PQR$ intersect at the point $B(1,4)$.
 $\therefore x=1$ and $y=4$ is the solution of the given system of equations.
@@ -316,7 +316,7 @@ Thus, we have the following table for $3x+5y-15=0$.
 
 On the same graph paper as above, plot the points $P(-5,6)$ and $Q(0,3)$. The third point $C(5,0)$ has already been plotted. Join $PQ$ and $QC$ to get the graph line $PQC$. Extend it on both ways.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-08.jpg?height=756&width=838&top_left_y=1180&top_left_x=316)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-006.jpg)
 
 Thus, the line $PQC$ is the graph of $3x+5y-15=0$.
 The two graph lines intersect at the point $C(5,0)$.
@@ -371,7 +371,7 @@ Thus, we have the following table for $2x-3y+10=0$.
 
 On the same graph paper as above, plot the points $P(-2,2)$ and $Q(4,6)$. The third point $B(1,4)$ has already been plotted. Now, join $PB$ and $BQ$ to obtain the graph line $PBQ$. Extend it on both ways. Thus, the line $PBQ$ is the graph of the equation $2x-3y+10=0$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-10.jpg?height=561&width=760&top_left_y=622&top_left_x=346)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-007.jpg)
 
 The two graph lines intersect at the point $B(1,4)$.
 $\therefore x=1, y=4$ is the solution of the given system of equations.
@@ -421,7 +421,7 @@ Thus, we have the following table for equation (ii).
 
 On the same graph paper as above, plot the points $P(-3,-4)$ and $Q(0,-1)$. The third point $B(3,2)$ is already plotted. Join $PQ$ and $QB$ to get the graph line $PQB$. Thus, line $PQB$ is the graph of the equation $x-y-1=0$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-12.jpg?height=985&width=648&top_left_y=173&top_left_x=390)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-008.jpg)
 
 The two graph lines intersect at the point $B(3,2)$.
 $\therefore x=3, y=2$ is the solution of the given system of equations.
@@ -479,7 +479,7 @@ Thus, we have the following table for $9x-3y=6$.
 Now, plot the points $P(-2,-8)$ and $Q(1,1)$ on the same graph paper. The point $C(2,4)$ has already been plotted. Join $PQ$ and $QC$ to obtain the line $PQC$. Thus, the line $PQC$ is the graph of $9x-3y=6$.
 Thus, we find that the two graph lines coincide. Hence, the given system of equations has an infinite number of solutions.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-13.jpg?height=791&width=356&top_left_y=1151&top_left_x=839)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-009.jpg)
 
 ---
 
@@ -534,7 +534,7 @@ Thus, we have the following table for the equation $6y-4x=3$.
 
 Now, plot the points $P(-3, \frac{-3}{2}), Q(0, \frac{1}{2})$ and $R(3, \frac{5}{2})$ on the same graph paper as above. Join $PQ$ and $QR$ to get the graph line $PQR$. Extend it on both ways. Then, the line $PQR$ is the graph of the equation $6y-4x=3$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-15.jpg?height=587&width=702&top_left_y=575&top_left_x=396)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-010.jpg)
 
 It is clear from the graph that the two graph lines are parallel and do not intersect even when produced. Hence, the given system of equations has no solution.
 
@@ -584,7 +584,7 @@ Thus, we have the following table for the equation $3x-3y=16$.
 
 Now, we plot $D(3,-2.3), E(2,-3.3)$ and $F(0,-5.3)$ on the same graph paper as above. Join $DE$ and $EF$ to get the graph line $DEF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-16.jpg?height=700&width=758&top_left_y=1242&top_left_x=362)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-A-BooK-011.jpg)
 
 It is clear from the graph that the lines $ABC$ and $DEF$ are parallel and do not meet when produced. Hence, the given system of equations has no solution and therefore, it is inconsistent.
 

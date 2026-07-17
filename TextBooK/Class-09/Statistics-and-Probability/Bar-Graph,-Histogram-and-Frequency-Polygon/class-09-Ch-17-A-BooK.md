@@ -43,7 +43,7 @@ All the bars should be of the same width and same space should be left between t
 
 These bars may be drawn as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-02.jpg?height=736&width=877&top_left_y=338&top_left_x=281)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-001.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ Draw the bars of the same width and the same space should be left between the co
 
 The heights of these bars should be proportional to their number, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-03.jpg?height=772&width=906&top_left_y=167&top_left_x=281)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-002.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ Take the difference heads of expenditure along the $x$-axis and the correspondin
 
 Draw the bars of the same width having their heights proportional to the expenditure in corresponding heads, keeping the same space between two consecutive bars, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-04.jpg?height=615&width=768&top_left_y=165&top_left_x=362)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-003.jpg)
 
 ---
 
@@ -105,7 +105,7 @@ Take the letters along the $x$-axis and their corresponding frequencies along th
 
 Draw the bars of the same width having their heights proportional to their frequencies, keeping the same space between two consecutive bars, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-04.jpg?height=700&width=834&top_left_y=1264&top_left_x=324)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-004.jpg)
 
 ---
 
@@ -132,7 +132,7 @@ Take the heads along the $x$-axis and their corresponding expenditures (in crore
 
 Draw the bars of the same width having their heights proportional to their expenditures, keeping the same space between two consecutive bars, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-05.jpg?height=862&width=922&top_left_y=1047&top_left_x=275)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-005.jpg)
 
 ---
 
@@ -161,7 +161,7 @@ Draw the bars of the same width having their heights proportional to female fata
 (i) The required information has been given above graphically.
 
 (ii) Clearly, the **reproductive health conditions** are the major cause of women's ill health and death worldwide.
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-06.jpg?height=615&width=738&top_left_y=1071&top_left_x=380)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-006.jpg)
 
 ---
 
@@ -191,7 +191,7 @@ Draw the bars of the same width having their heights proportional to the number 
 (i) The given information has been represented above graphically.
 
 (ii) From the graph, it is clear that the number of girls per thousand boys, is **maximum in schedule tribes** and it is **minimum in urban**.
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-07.jpg?height=667&width=850&top_left_y=1053&top_left_x=324)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-007.jpg)
 
 ---
 
@@ -201,7 +201,7 @@ Draw the bars of the same width having their heights proportional to the number 
 
 Given below is a bar graph showing the heights of six mountain peaks.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-08.jpg?height=685&width=774&top_left_y=326&top_left_x=348)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-008.jpg)
 
 Read the above diagram and answer the following questions:
 
@@ -234,7 +234,7 @@ $$
 
 In a survey of 85 families of a colony, the number of members in each family was recorded and the data has been represented by the following bar graph:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-09.jpg?height=643&width=1020&top_left_y=318&top_left_x=179)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-009.jpg)
 
 Read the bar graph carefully and answer the following questions:
 
@@ -261,7 +261,7 @@ Read the given bar graph and answer the questions given below:
 (iii) After which year was there a sudden fall in the production?
 (iv) Find the ratio between the maximum production and the minimum production during the given period.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-10.jpg?height=1108&width=901&top_left_y=167&top_left_x=296)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-A-BooK-010.jpg)
 
 *Production of food grains in an Indian state during 5 consecutive years*
 

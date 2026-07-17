@@ -16,7 +16,7 @@ Let $f: A \rightarrow B$. Then, $A$ is called the **domain** of $f$ and $B$ is c
 
 **Example 1** Let $A=\{1,2,3,4\}$ and $B=\{1,4,9,16,25\}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-025.jpg?height=294&width=443&top_left_y=907&top_left_x=440)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/Functions/class-12-Ch-02-A-BooK-001.jpg)
 
 Consider the rule $f: A \rightarrow B: f(x)=x^{2} \forall x \in A$.
 Then, each element in $A$ has its unique image in $B$.
@@ -57,7 +57,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-026.jpg?height=288&width=441&top_left_y=320&top_left_x=772)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/Functions/class-12-Ch-02-A-BooK-002.jpg)
 
 Clearly, two different elements, namely -1 and 1, have the same image $1 \in B$.
 Hence, $f$ is many-one.

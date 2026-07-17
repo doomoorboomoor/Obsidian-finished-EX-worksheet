@@ -141,7 +141,7 @@ Let $a, b \in R$ and $a<b$. Then, we define:
 4.  **Left Half Open Interval**: $(a, b]$ or $] a, b]=\{x \in R: a<x \leq b\}$.
 
 On the real line, we represent these intervals as shown below:
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-13.jpg?height=186&width=613&top_left_y=1053&top_left_x=344)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-C-BooK-001.jpg)
 
 **Length of an Interval**: The length of each of the intervals $[a, b]$, $(a, b)$, $[a, b)$ and $(a, b]$ is $(b-a)$.
 

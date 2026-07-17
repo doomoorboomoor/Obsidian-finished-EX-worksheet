@@ -9,7 +9,7 @@
 
 **CONSTRUCTION** Mark a point $D$ on $AC$ such that $AD = AB$. Join $BD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-26.jpg?height=200&width=332&top_left_y=1645&top_left_x=865)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-001.jpg)
 
 **PROOF** We know that in a triangle, the angles opposite to equal sides are equal.
 
@@ -84,7 +84,7 @@ Hence, $AC > AB$.
 
 **PROOF** In $\triangle PMN$, we have $\angle M=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-28.jpg?height=188&width=324&top_left_y=169&top_left_x=875)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-002.jpg)
 
 But, in a right-angled triangle, each one of the angles other than the right angle is an acute angle.
 $\therefore \quad \angle PNM < \angle PMN$.
@@ -114,7 +114,7 @@ The distance between a line and a point, not on it, is the length of perpendicul
 
 **CONSTRUCTION** Produce $BA$ to $D$ such that $AD = AC$. Join CD.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-28.jpg?height=283&width=229&top_left_y=1047&top_left_x=968)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-003.jpg)
 
 **PROOF** (i) In $\triangle ACD$, we have
 $$
@@ -149,7 +149,7 @@ Similarly, $AB+BC > AC$ and $BC+AC > AB$.
 - (ii) $BC - AC < AB$
 - (iii) $BC - AB < AC$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-29.jpg?height=168&width=318&top_left_y=173&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-004.jpg)
 
 **CONSTRUCTION** Let $AC > AB$. Then, along $AC$, set off $AD = AB$. Join $BD$.
 
@@ -183,7 +183,7 @@ Similarly, $BC - AC < AB$ and $BC - AB < AC$.
 
 **CONSTRUCTION** Produce $AD$ to $E$ such that $AD = DE$. Join $EC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-29.jpg?height=309&width=370&top_left_y=1095&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-005.jpg)
 
 **PROOF** In $\triangle ADB$ and $\triangle EDC$, we have
 $AD = DE$ (by construction)
@@ -247,7 +247,7 @@ Show that the sum of three altitudes of a triangle is less than the sum of the t
 
 Let $AL, BM, CN$ be the three altitudes of $\triangle ABC$.
 We know that, of all line segments drawn from a point outside a line to the line, the perpendicular is the shortest.
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-30.jpg?height=252&width=257&top_left_y=1329&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-006.jpg)
 
 $\therefore \quad AL < AB$, $BM < BC$ and $CN < AC$.
 Adding these inequalities, we get:
@@ -262,7 +262,7 @@ Prove that the perimeter of a triangle is greater than the sum of its three medi
 #### Solution:
 
 Let $AD, BE$ and $CF$ be the three medians of a $\triangle ABC$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-30.jpg?height=221&width=370&top_left_y=1695&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-007.jpg)
 
 We know that the sum of any two sides of a triangle is greater than twice the median drawn to the third side.
 $$
@@ -290,7 +290,7 @@ In the adjoining figure, $ABC$ is a triangle and $D$ is any point in its interio
 #### Solution:
 
 Produce $BD$ to meet $AC$ at $E$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-31.jpg?height=186&width=350&top_left_y=600&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-008.jpg)
 
 We know that in a triangle, the sum of any two sides is always greater than the third side.
 In $\triangle ABE$, we have
@@ -319,7 +319,7 @@ In the given figure, $AP \perp QR$, $PR > PQ$ and $PQ = PS$. Show that $AR > AQ$
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-31.jpg?height=221&width=398&top_left_y=1409&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-009.jpg)
 
 In $\triangle APQ$ and $\triangle APS$, we have
 - $PQ = PS$ (given)
@@ -344,7 +344,7 @@ Hence, $AR > AQ$.
 In the given figure, $O$ is the centre of the circle and $XOY$ is a diameter. If $XZ$ is any other chord, show that $XY > XZ$.
 
 **GIVEN** A circle with centre $O$ in which $XOY$ is a diameter and $XZ$ is another chord.
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-32.jpg?height=215&width=229&top_left_y=523&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-010.jpg)
 
 **TO PROVE** $XY > XZ$.
 
@@ -375,7 +375,7 @@ In $\triangle ABC$, if $D$ is any point on the side $BC$, show that $(AB + BC + 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-32.jpg?height=224&width=330&top_left_y=1216&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-011.jpg)
 
 We know that in a triangle, the sum of any two sides is always greater than the third side.
 So, in $\triangle ABD$, we have $AB + BD > AD$. (i)
@@ -403,7 +403,7 @@ In $\triangle ABC$, if $AD$ is the bisector of $\angle A$, show that $AB > BD$ a
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-33.jpg?height=216&width=322&top_left_y=177&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-012.jpg)
 
 In $\triangle ACD$, side $CD$ has been produced to $B$.
 $\therefore \quad$ ext. $\angle ADB >$ int. opp. $\angle CAD$
@@ -427,7 +427,7 @@ In the given figure, $AB > AC$. If $D$ is any point on $BC$, show that $AB > AD$
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-33.jpg?height=220&width=269&top_left_y=918&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-013.jpg)
 
 We know that the angle opposite to the larger side is larger.
 $$
@@ -459,7 +459,7 @@ In the given figure, $AC > AB$ and $AD$ is the bisector of $\angle A$. Show that
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-33.jpg?height=227&width=322&top_left_y=1566&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-014.jpg)
 
 Given $AC > AB$.
 $\Rightarrow \quad \angle B > \angle C$ (angle opposite to larger side is greater).
@@ -482,7 +482,7 @@ In the given figure, the sides $AB$ and $AC$ of $\triangle ABC$ have been extend
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-34.jpg?height=324&width=277&top_left_y=168&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-015.jpg)
 
 We are given $x > y$.
 $\angle ABC = 180^{\circ} - x$
@@ -506,7 +506,7 @@ In the given figure, $Q$ is a point on the side $SR$ of $\triangle PSR$ such tha
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-34.jpg?height=222&width=320&top_left_y=636&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-B-BooK-016.jpg)
 
 We know that the angles opposite to equal sides are equal.
 $$

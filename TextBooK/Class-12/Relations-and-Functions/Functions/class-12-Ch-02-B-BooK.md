@@ -173,9 +173,9 @@ $$
 \end{array}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-039.jpg?height=217&width=504&top_left_y=1446&top_left_x=410)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/Functions/class-12-Ch-02-B-BooK-001.jpg)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-039.jpg?height=217&width=506&top_left_y=1676&top_left_x=410)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/Functions/class-12-Ch-02-B-BooK-002.jpg)
 
 $$
 \text { And, } \begin{array}{rlrl}

@@ -11,7 +11,7 @@ $$
 
 where $\hat{n}$ is a unit vector perpendicular to both $\vec{a}$ and $\vec{b}$, such that $\vec{a}, \vec{b}, \hat{n}$ form a **right-handed system**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-45.jpg?height=351&width=290&top_left_y=430&top_left_x=919)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Cross%2C-or-Vector%2C-Product-of-Vectors/class-12-Ch-24-A-BooK-001.jpg)
 
 When a right-handed screw is rotated from $\vec{a}$ to $\vec{b}$ and it advances along $\hat{n}$ then the system is said to be right handed.
 
@@ -85,7 +85,7 @@ $$
 Let $\theta$ be the angle between $\vec{a}$ and $\vec{b}$.
 Then, the angle between $(-\vec{b})$ and $\vec{a}$ is $(\pi-\theta)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-46.jpg?height=245&width=353&top_left_y=740&top_left_x=860)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Cross%2C-or-Vector%2C-Product-of-Vectors/class-12-Ch-24-A-BooK-002.jpg)
 
 And, $(-\vec{b}), \vec{a}, \hat{n}$ form a right-handed system.
 
@@ -266,7 +266,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-49.jpg?height=215&width=367&top_left_y=389&top_left_x=842)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Cross%2C-or-Vector%2C-Product-of-Vectors/class-12-Ch-24-A-BooK-003.jpg)
 
 $\therefore \quad \operatorname{ar}(\mid \operatornamegm A B C D)=2 \times \operatorname{ar}(\triangle A B D)=|\vec{a} \times \vec{b}|$.
 
@@ -293,7 +293,7 @@ $$
 
 $\therefore \operatorname{ar}(\triangle A B C)=\frac{1}{2}|\vec{a} \times \vec{b}|$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-49.jpg?height=237&width=259&top_left_y=1188&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Cross%2C-or-Vector%2C-Product-of-Vectors/class-12-Ch-24-A-BooK-004.jpg)
 
 **REMARK** $\quad \frac{1}{2}(\vec{a} \times \vec{b})$ is called the **vector area** of $\triangle A B C$.
 
@@ -307,7 +307,7 @@ Vector area of quad. $A B C D$
 $=($ vector area of $\triangle A B C)+($ vector area of $\triangle A C D)$
 $=\frac{1}{2}(\overrightarrow{A B} \times \overrightarrow{A C})+\frac{1}{2}(\overrightarrow{A C} \times \overrightarrow{A D})$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-49.jpg?height=197&width=310&top_left_y=1719&top_left_x=903)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Cross%2C-or-Vector%2C-Product-of-Vectors/class-12-Ch-24-A-BooK-005.jpg)
 
 $$
 \begin{aligned}
@@ -339,8 +339,8 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-50.jpg?height=243&width=239&top_left_y=1123&top_left_x=412)
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-50.jpg?height=223&width=193&top_left_y=1139&top_left_x=715)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Cross%2C-or-Vector%2C-Product-of-Vectors/class-12-Ch-24-A-BooK-006.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Cross%2C-or-Vector%2C-Product-of-Vectors/class-12-Ch-24-A-BooK-007.jpg)
 
 ---
 

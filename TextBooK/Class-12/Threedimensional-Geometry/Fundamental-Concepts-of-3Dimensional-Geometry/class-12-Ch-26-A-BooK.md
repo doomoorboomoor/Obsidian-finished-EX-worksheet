@@ -22,9 +22,9 @@ It is clear from the figure alongside that:
 Also, we can say that:
 - The equation of the **xy-plane** is $z=0$.
 - The equation of the **xz-plane** is $y=0$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-001.jpg?height=356&width=455&top_left_y=998&top_left_x=758)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Fundamental-Concepts-of-3Dimensional-Geometry/class-12-Ch-26-A-BooK-001.jpg)
 - The equation of the **yz-plane** is $x=0$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-001.jpg?height=362&width=459&top_left_y=1377&top_left_x=750)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Fundamental-Concepts-of-3Dimensional-Geometry/class-12-Ch-26-A-BooK-002.jpg)
 
 #### Position Vector of a Point in Space
 
@@ -413,7 +413,7 @@ D.r.'s of $A B$ are $(2+1)$, $(3-3)$, $(5-2)$, i.e. $3,0,3$.
 
 D.r.'s of $A C$ are $(3+1),(5-3),(-2-2)$, i.e., $4,2,-4$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-008.jpg?height=247&width=306&top_left_y=518&top_left_x=899)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Fundamental-Concepts-of-3Dimensional-Geometry/class-12-Ch-26-A-BooK-003.jpg)
 
 $$
 \therefore \quad \cos A=\frac{\{3 \times 4+0 \times 2+3 \times(-4)\}}{\left\{\sqrt{3^{2}+0^{2}+3^{2}}\right\} \cdot\left\{\sqrt{4^{2}+2^{2}+(-4)^{2}}\right\}}=0 .
@@ -478,7 +478,7 @@ Then, the coordinates of $N$ are
 $$
 \left(\frac{5 k+1}{k+1}, \frac{4 k+4}{k+1}, \frac{4 k+6}{k+1}\right) .
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-009.jpg?height=235&width=506&top_left_y=856&top_left_x=408)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Fundamental-Concepts-of-3Dimensional-Geometry/class-12-Ch-26-A-BooK-004.jpg)
 
 $\therefore \quad$ d.r.'s of $A N$ are
 $$
@@ -748,7 +748,7 @@ $$
 $$
 The direction ratios of the diagonals $O P, A L, B M$ and $C N$ are $(a, b, c),(-a, b, c),(a,-b, c)$ and $(a, b,-c)$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-014.jpg?height=322&width=512&top_left_y=561&top_left_x=404)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Fundamental-Concepts-of-3Dimensional-Geometry/class-12-Ch-26-A-BooK-005.jpg)
 
 $\therefore$ the direction cosines of $O P, A L, B M$ and $C N$ are
 $$
@@ -790,7 +790,7 @@ $$
 & M(a, 0, a) \text { and } N(a, a, 0) .
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-015.jpg?height=321&width=351&top_left_y=440&top_left_x=856)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Fundamental-Concepts-of-3Dimensional-Geometry/class-12-Ch-26-A-BooK-006.jpg)
 
 The direction ratios of the diagonals $O P, A L, B M$ and $C N$ are $(a, a, a),(-a, a, a),(a,-a, a)$ and $(a, a,-a)$ respectively.
 
@@ -835,7 +835,7 @@ $$
 The direction ratios of the diagonals $O P, A L, B M$ and $C N$ are
 $(a, a, a),(-a, a, a),(a,-a, a)$ and $(a, a,-a)$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-016.jpg?height=319&width=355&top_left_y=157&top_left_x=852)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Fundamental-Concepts-of-3Dimensional-Geometry/class-12-Ch-26-A-BooK-007.jpg)
 
 $\therefore \quad$ the direction cosines of $O P, A L, B M$ and $C N$ are
 $$

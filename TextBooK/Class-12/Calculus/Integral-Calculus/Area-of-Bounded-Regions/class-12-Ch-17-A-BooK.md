@@ -11,7 +11,7 @@ $$
 \text { area }=\int_{a}^{b} y d x
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-273.jpg?height=272&width=302&top_left_y=491&top_left_x=911)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-001.jpg)
 
 **Case II: When the curve $y=f(x)$ lies below the x-axis**
 The area between the curve $y=f(x)$, the $x$-axis, and the ordinates $x=a$ and $x=b$ is given by
@@ -20,7 +20,7 @@ $$
 \text { area }=\int_{a}^{b}(-y) d x
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-273.jpg?height=302&width=292&top_left_y=809&top_left_x=915)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-002.jpg)
 
 ### 2. Area of a Curve Between Two Abscissae
 
@@ -31,7 +31,7 @@ $$
 \text { area }=\int_{c}^{d} x d y
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-273.jpg?height=271&width=298&top_left_y=1174&top_left_x=915)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-003.jpg)
 
 **Case II: When the curve $x=f(y)$ lies to the left of the y-axis**
 The area bounded by the curve $x=f(y)$, the $y$-axis, and the abscissae $y=c$ and $y=d$ is given by
@@ -40,7 +40,7 @@ $$
 \text { area }=\int_{c}^{d}(-x) d y
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-273.jpg?height=292&width=314&top_left_y=1497&top_left_x=899)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-004.jpg)
 
 ### 3. Area Between Two Curves
 
@@ -50,7 +50,7 @@ $$
 \text { area }=\int_{a}^{b}\{f(x)-g(x)\} d x
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-274.jpg?height=270&width=323&top_left_y=149&top_left_x=884)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-005.jpg)
 
 ---
 
@@ -73,7 +73,7 @@ $$
 
 Required area $=$ area $P L M Q P$
 $=$ area between the line $y=4-\frac{1}{2} x$, and the $x$-axis between $x=2$ and $x=4$
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-274.jpg?height=337&width=398&top_left_y=740&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-006.jpg)
 
 $$
 =\int_{2}^{4} y_{A B} d x=\int_{2}^{4}\left(4-\frac{1}{2} x\right) d x
@@ -114,7 +114,7 @@ $$
 \frac{y-3}{x-2}=\frac{2-3}{6-2} \Rightarrow y=\frac{-1}{4} x+\frac{7}{2}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-274.jpg?height=314&width=394&top_left_y=1528&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-007.jpg)
 
 Draw $A L \perp O X$, $B M \perp O X$ and $C N \perp O X$.
 Area of $\triangle A B C = (\text{area } A L M B A + \text{area } B M N C B) - (\text{area } A L N C A)$
@@ -153,7 +153,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-275.jpg?height=286&width=376&top_left_y=1068&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-008.jpg)
 
 ---
 
@@ -166,7 +166,7 @@ Using integration, find the area of the region bounded by the parabola $y^{2}=16
 
 $y^{2}=16 x$ is a right-handed parabola with its vertex at the origin.
 And, $x=4$ is the line parallel to the $y$-axis at a distance of 4 units from it.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-275.jpg?height=307&width=498&top_left_y=1599&top_left_x=709)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-009.jpg)
 
 Also, $y^{2}=16 x$ contains only even powers of $y$.
 So, it is symmetrical about the $x$-axis.
@@ -202,7 +202,7 @@ $$
 
 Clearly, $y^{2}=4 a x$ is a righthanded parabola, passing through the origin.
 And $y=m x$ is a line passing
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-276.jpg?height=297&width=439&top_left_y=884&top_left_x=774)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-010.jpg)
 through the origin.
 In order to find the points of intersection of the given parabola and the given line, we solve (i) and (ii) simultaneously.
 Putting $y=m x$ from (ii) into (i), we get
@@ -264,7 +264,7 @@ x^{2}=x & \Rightarrow x^{2}-x=0 \Rightarrow x(x-1)=0 \\
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-277.jpg?height=380&width=372&top_left_y=911&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-011.jpg)
 
 From (ii), ($x=0 \Rightarrow y=0$) and ($x=1 \Rightarrow y=1$).
 So, the points of intersection of (i) and (ii) are $O(0,0)$ and $A(1,1)$.
@@ -300,7 +300,7 @@ $$
 The given curve is $x^{2}=4 y$
 
 The given line is $x=4 y-2$
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-278.jpg?height=310&width=506&top_left_y=337&top_left_x=408)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-012.jpg)
 
 Putting $4 y=(x+2)$ from (ii) into (i), we get
 
@@ -342,7 +342,7 @@ Find the area bounded by the circle $x^{2}+y^{2}=16$ and the line $y=x$ in the f
 The given circle is $x^{2}+y^{2}=16$
 
 The given line is $y=x$
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-279.jpg?height=435&width=467&top_left_y=149&top_left_x=426)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-013.jpg)
 
 Putting $y=x$ from (ii) into (i), we get
 $2 x^{2}=16 \Leftrightarrow x^{2}=8 \Leftrightarrow x=2 \sqrt{2} \quad[\because x$ is +ve in the first quad. $]$.
@@ -377,7 +377,7 @@ $$
 \end{equation*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-279.jpg?height=276&width=459&top_left_y=1577&top_left_x=432)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-014.jpg)
 
 The equation of side $B C$ is
 
@@ -434,7 +434,7 @@ $$
 $$
 
 The points of intersection of the given parabola and the given line will be obtained by solving (i) and (ii) simultaneously.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-280.jpg?height=361&width=388&top_left_y=1178&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-015.jpg)
 
 Putting $y=\frac{3}{4} x^{2}$ from (i) in (ii), we get
 
@@ -473,7 +473,7 @@ Find the area bounded by the line $y=x$, the $x$-axis and the ordinates $x=-1, x
 
 We know that $y=x$ is the line passing through the origin and making an angle of $45^{\circ}$ with the $x$-axis, as shown in the given figure.
 Now, we have to find the area of the shaded region.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-281.jpg?height=346&width=563&top_left_y=996&top_left_x=379)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-016.jpg)
 
 **Required Area**
 
@@ -497,7 +497,7 @@ Find by integration, the area of the region bounded by the curve $y=2 x-x^{2}$ a
 #### Solution:
 
 The given curve is $y=2 x-x^{2}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-282.jpg?height=408&width=934&top_left_y=286&top_left_x=279)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-017.jpg)
 
 $$
 \begin{aligned}
@@ -570,7 +570,7 @@ This equation contains only even powers of $y$.
 So, the curve is symmetrical about the $x$-axis.
 Also, the above equation contains only even powers of $x$.
 So, the curve is symmetrical about the $y$-axis.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-283.jpg?height=400&width=433&top_left_y=958&top_left_x=776)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-018.jpg)
 
 Now, $x^{2}+y^{2}=r^{2} \Rightarrow y=\sqrt{r^{2}-x^{2}}$.
 Area of the circle $=4 \times($ area $O A B O)$
@@ -599,7 +599,7 @@ The ellipse $\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1$ and the line $\frac{x}{a
 
 Then, we have to find the area of the shaded region.
 **Required Area**
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-284.jpg?height=327&width=451&top_left_y=306&top_left_x=756)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-019.jpg)
 $=\left\{\right.$ area between $\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1$ and the $x$-axis from $x=0$ to $\left.x=a\right\}$
 
 - \{area between the line $\frac{x}{a}+\frac{y}{b}=1$ and the $x$-axis from $x=0$ to $x=a$ \}
@@ -621,7 +621,7 @@ Find the area of the region bounded by the parabolas $x^{2}=y$ and $y^{2}=x$.
 
 Clearly, $x^{2}=y$ is an upward parabola with its vertex at $(0,0)$ and $y^{2}=x$ is a right-handed parabola with its vertex also at $(0,0)$.
 The shaded region shows the area bounded by these parabolas.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-284.jpg?height=386&width=483&top_left_y=1481&top_left_x=726)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-020.jpg)
 
 The given equations are
 
@@ -674,7 +674,7 @@ $$
 
 In order to find the points of intersection of the given curves, we solve (i) and (ii) simultaneously.
 Putting $x=\frac{y^{2}}{4 a}$ from (i) in (ii),
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-285.jpg?height=394&width=490&top_left_y=1104&top_left_x=723)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-021.jpg)
 we get
 
 $$
@@ -724,7 +724,7 @@ x^{2}+y^{2} & =16  \tag{i}\\
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-286.jpg?height=453&width=482&top_left_y=1043&top_left_x=725)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-022.jpg)
 
 Using (ii) in (i), we get
 
@@ -788,7 +788,7 @@ x^{2}+y^{2}=4 \\
 \end{array}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-287.jpg?height=426&width=569&top_left_y=1473&top_left_x=373)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-023.jpg)
 
 Eliminating $y$ from (i) and (ii), we get
 
@@ -834,7 +834,7 @@ $$
 Clearly, we have to find the area enclosed between the curves $y^{2}=4 x$ and $4 x^{2}+4 y^{2}=9$.
 The curve $y^{2}=4 x$ is a right-handed parabola with its vertex at $(0,0)$.
 $4 x^{2}+4 y^{2}=9 \Rightarrow x^{2}+y^{2}=\left(\frac{3}{2}\right)^{2}$, which represents a circle with its centre at $O(0,0)$ and radius equal to ($3 / 2$) units.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-289.jpg?height=494&width=581&top_left_y=145&top_left_x=420)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-024.jpg)
 
 The shaded region shows the required area.
 Now,
@@ -928,7 +928,7 @@ x^{2}+(1-x)^{2}=1 & \Rightarrow 2 x^{2}-2 x=0 \\
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-290.jpg?height=390&width=425&top_left_y=1406&top_left_x=782)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-025.jpg)
 
 Now, $(x=0 \Rightarrow y=1)$ and $(x=1 \Rightarrow y=0)$.
 Thus, the points of intersection of (i) and (ii) are $A(0,1)$ and $B(1,0)$.
@@ -966,7 +966,7 @@ $$
 
 Now, clearly $x^{2}+y^{2}=2 a x$ is a circle with its centre $B(a, 0)$ and radius $=a$ units.
 And, $y^{2}=a x$ is a parabola with $O(0,0)$ as its vertex and the $x$-axis as its axis.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-291.jpg?height=437&width=469&top_left_y=833&top_left_x=738)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-026.jpg)
 
 We can draw the figure, as shown.
 Their points of intersection may be obtained by solving (i) and (ii) and keeping in view that $x \geq 0$ and $y \geq 0$.
@@ -1022,7 +1022,7 @@ Also, $y=|x|=\left\{\begin{array}{r}x, \text { when } x \geq 0 \\ -x, \text { wh
 The lines $O A$ and $O B$, each equally inclined to the axes, represent $y=|x|$.
 All the points below the lines $O A$ and $O B$, and above the $x$-axis represent $y \leq|x|$.
 Thus, the shaded portion is the
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-292.jpg?height=318&width=353&top_left_y=1013&top_left_x=854)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-027.jpg)
 required region.
 In each of the given equations, the equation remains unchanged when $x$ is replaced by $-x$.
 So, each of the given curves is symmetrical about the $y$-axis.
@@ -1090,7 +1090,7 @@ For the curve $y=x^{3}$ some values for $x$ and the corresponding values of $y$ 
 | $y$ | -1 | $-\frac{1}{8}$ | 0 | $\frac{1}{8}$ | 1 |
 
 Plotting the points $(-1,-1)$, $\left(-\frac{1}{2},-\frac{1}{8}\right),(0,0),\left(\frac{1}{2}, \frac{1}{8}\right)$, and
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-293.jpg?height=317&width=477&top_left_y=1434&top_left_x=730)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-028.jpg)
 $(1,1)$, and joining them, we get a rough sketch of $y=x^{3}$, as shown in the given figure.
 
 **Required Area**
@@ -1126,7 +1126,7 @@ Some values of $x$ and the corresponding values of $y$ are given below:
 Taking a fixed unit (distance) for $\pi$ along the $x$-axis, we can plot the points $(0,0),\left(\frac{\pi}{6}, \frac{1}{2}\right),\left(\frac{\pi}{2}, 1\right),(\pi, 0),\left(\frac{3 \pi}{2},-1\right)$ and $(2 \pi, 0)$.
 
 Join these points freehand to obtain a rough sketch of the given curve.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-294.jpg?height=313&width=458&top_left_y=1544&top_left_x=503)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-029.jpg)
 
 $$
 \begin{aligned}
@@ -1149,7 +1149,7 @@ Find the area of the region bounded by the curve $y=x^{2}+2$, and the lines $y=x
 
 $y=x^{2}+2 \Rightarrow x^{2}=(y-2)$.
 Clearly, $x^{2}=(y-2)$ represents an upward parabola with its vertex at $A(0,2)$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-295.jpg?height=367&width=518&top_left_y=785&top_left_x=404)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-030.jpg)
 
 Also, $y=x$ represents the straight line, making an angle of $45^{\circ}$ with the positive direction of the $x$-axis.
 And, $x=0$ is the $y$-axis, while $x=3$ represents a line parallel to the $y$-axis at a distance of 3 units from it.
@@ -1193,7 +1193,7 @@ Clearly, $R_{1}$ is the region consisting of the right-hand side of the $y$-axis
 Also, $R_{2}$ is the region consisting of the right-hand side of the $y$-axis, lying below the line $y=(x+1)$.
 And, $R_{3}$ is the region above the $x$-axis, lying between the ordinates $x=0$ and $x=2$.
 Thus, $R_{1} \cap R_{2} \cap R_{3}$ is the shaded region.
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-296.jpg?height=392&width=532&top_left_y=656&top_left_x=455)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-031.jpg)
 
 We have, $y=x^{2}+1$ and $y=x+1$
 
@@ -1236,7 +1236,7 @@ $$
 
 where $y-1=Y$ and $(x-1)=X$.
 This is a left-handed parabola with vertex at ($X=0, Y=0$).
-![](https://cdn.mathpix.com/cropped/2025_09_25_93c93c897264abc3217bg-297.jpg?height=325&width=353&top_left_y=222&top_left_x=860)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Integral-Calculus/Area-of-Bounded-Regions/class-12-Ch-17-A-BooK-032.jpg)
 $X=0, Y=0 \Rightarrow -x+1=0$ and $y-1=0$
 
 $$

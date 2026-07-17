@@ -13,7 +13,7 @@ Step 3. Join $O P$.
 Step 4. Construct $\angle \mathrm{OPT}=90^{\circ}$.
 Step 5. Produce $T P$ to $T^{\prime}$.
 Then $T^{\prime} P T$ is the required tangent.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-09.jpg?height=256&width=501&top_left_y=165&top_left_x=694)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-001.jpg)
 
 ## CONSTRUCTION OF A TANGENT TO A CIRCLE AT A POINT ON IT WITHOUT USING THE CENTRE
 
@@ -26,7 +26,7 @@ Step 2. Mark a point $P$ on it.
 Step 3. Draw any chord $P Q$.
 Step 4. Take a point $R$ on the major arc $Q P$.
 Step 5. Join $P R$ and $R Q$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-09.jpg?height=265&width=352&top_left_y=716&top_left_x=843)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-002.jpg)
 
 Step 6. Make $\angle Q P T=\angle P R Q$.
 Step 7. Produce $T P$ to $T^{\prime}$, as shown in the figure.
@@ -44,7 +44,7 @@ Step 2. Mark a point $P$ outside the circle such that $O P=6.5 \mathrm{~cm}$.
 
 Step 3. Join $O P$ and bisect it at $M$.
 Step 4. Draw a circle with $M$ as centre and radius equal to $M P$, to intersect the given circle at the points $T$ and $T^{\prime}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-09.jpg?height=440&width=438&top_left_y=1498&top_left_x=761)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-003.jpg)
 
 Step 5. Join $P T$ and $P T^{\prime}$.
 Then, $P T$ and $P T^{\prime}$ are the required tangents.
@@ -58,7 +58,7 @@ Step 2. Mark a point $P$ outside the circle such that $O P=10 \mathrm{~cm}$.
 
 Step 3. Join $O P$ and bisect it at a point $M$.
 Step 4. Draw a circle with $M$ as the centre and radius equal to $M P$,
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-10.jpg?height=357&width=402&top_left_y=455&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-004.jpg)
 to intersect the given circle at the points $T$ and $T^{\prime}$.
 
 Step 5. Join $P T$ and $P T^{\prime}$.
@@ -74,7 +74,7 @@ Step 2. With $A$ as centre and radius 3 cm , draw a circle.
 Step 3. With $B$ as centre and radius 2 cm , draw another circle.
 
 Step 4. Bisect the line segment $A B$ at $M$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-10.jpg?height=414&width=493&top_left_y=1280&top_left_x=702)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-005.jpg)
 
 Step 5. With $M$ as centre and radius equal to $A M$, draw a circle intersecting the first circle at $Q$ and $Q^{\prime}$ and the second circle at $P$ and $P^{\prime}$.
 
@@ -91,7 +91,7 @@ EXAMPLE 6 Draw a circle of radius 2.5 cm and take a point $P$ outside it. Withou
 Step 1. Draw a circle of radius 2.5 cm and take a point $p$ outside it.
 
 Step 2. Through $P$ draw a secant $P A B$ to intersect the circle at
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-11.jpg?height=543&width=483&top_left_y=406&top_left_x=712)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-006.jpg)
 $A$ and $B$.
 
 Step 3. Produce $A P$ to a point $C$ such that $P A=P C$.
@@ -118,7 +118,7 @@ Let $A M$ and $C N$ intersect each other at $P$.
 Then, $P A$ and $P C$ are the desired tangents to the given circle, inclined at an angle of $60^{\circ}$.
 
 PROOF $\angle A O C=\left(180^{\circ}-60^{\circ}\right)=120^{\circ}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-12.jpg?height=426&width=471&top_left_y=167&top_left_x=724)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-007.jpg)
 
 In quad. $O A P C$, we have
 
@@ -141,7 +141,7 @@ Step 2. Draw any diameter $A O B$ of this circle.
 Step 3. Construct $\angle B O X=90^{\circ}$ such that ray $O X$ meets the circle at $C$.
 
 Step 4. Draw $A M \perp A B$ and $C N \perp O C$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-12.jpg?height=424&width=452&top_left_y=908&top_left_x=743)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-008.jpg)
 
 Let $A M$ and $C N$ intersect each other at a point $P$.
 Then, $P A$ and $P C$ are the required tangents (which are perpendicular to each other).
@@ -169,7 +169,7 @@ Step 2. With $O$ as centre and radii 2 cm and 5 cm , draw two concentric circles
 Step 3. Mark a point $P$ on the outer circle.
 
 Step 4. Join $O P$ and bisect it at a point $M$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-13.jpg?height=389&width=395&top_left_y=330&top_left_x=775)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-009.jpg)
 
 Step 5. Draw a circle with $M$ as the centre and radius equal to $M P$, to intersect the inner circle in points $T$ and $T^{\prime}$.
 
@@ -194,7 +194,7 @@ Step 3. With $B$ as centre and radius 8 cm , draw an arc cutting ray $B X$ at $C
 
 Step 4. Join $A C$.
 Thus, $\triangle A B C$ is obtained.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-14.jpg?height=510&width=673&top_left_y=169&top_left_x=312)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-B-BooK-010.jpg)
 
 Step 5. From $B$, draw $B D \perp A C$.
 Step 6. Bisect $B C$ at point $O$.

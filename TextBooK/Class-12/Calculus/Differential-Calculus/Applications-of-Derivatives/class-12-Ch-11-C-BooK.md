@@ -14,8 +14,8 @@ So, in this case, the theorem follows.
 
 Now, consider the case, when $f$ is not a constant function. Since $f(a)=f(b)$, the function should either increase or decrease, when $x$ takes values slightly greater than $a$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-150.jpg?height=298&width=408&top_left_y=145&top_left_x=286)
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-150.jpg?height=300&width=409&top_left_y=147&top_left_x=725)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-C-BooK-001.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-C-BooK-002.jpg)
 
 Let $f(x)$ be increasing at $x>a$.
 Since $f(b)=f(a)$, $f(x)$ must cease to increase and begin to decrease at some point $x=c \in] a$, $b[$.

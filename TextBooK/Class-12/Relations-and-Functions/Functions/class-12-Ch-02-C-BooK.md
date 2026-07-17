@@ -521,7 +521,7 @@ Clearly $f: A \rightarrow B$ is one-one onto.
 $\therefore \quad f^{-1}: B \rightarrow A$ is one-one onto.
 Let $x \in A$ and let $f(x)=y$. Then, $f^{-1}(y)=x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-051.jpg?height=215&width=502&top_left_y=1283&top_left_x=412)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/Functions/class-12-Ch-02-C-BooK-001.jpg)
 
 $$
 \begin{aligned}
@@ -535,7 +535,7 @@ $$
 $\therefore \quad f^{-1}$ o $f=I_{A}$.
 Again, let $y \in B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-051.jpg?height=213&width=500&top_left_y=1615&top_left_x=709)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/Functions/class-12-Ch-02-C-BooK-002.jpg)
 
 Then, $f$ being onto, there exists $x \in A$ such that $f(x)=y$ and therefore, $f^{-1}(y)=x$.
 
@@ -558,7 +558,7 @@ Hence, $\left(f^{-1}\right)^{-1}=f$.
 
 **PROOF** Let $f: A \rightarrow B$ be one-one onto and $g: B \rightarrow C$ be one-one onto.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-052.jpg?height=212&width=498&top_left_y=616&top_left_x=412)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/Functions/class-12-Ch-02-C-BooK-003.jpg)
 
 We first show that $g$ o $f$ is one-one onto.
 ( $g \circ f$ ) is one-one, since

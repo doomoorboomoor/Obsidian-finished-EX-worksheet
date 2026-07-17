@@ -95,7 +95,7 @@ $$
 f^{\prime}(x)>0 \text { on }[c-h, c]
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-171.jpg?height=205&width=304&top_left_y=1497&top_left_x=903)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-E-BooK-001.jpg)
 
 and, $f^{\prime}(x)<0$ on $[c, c+h]$.
 Thus, $f^{\prime}(x)$ changes sign from *positive to negative* as $x$ increases through $c$.
@@ -105,7 +105,7 @@ Thus, $f^{\prime}(x)$ changes sign from *positive to negative* as $x$ increases 
 In this case $f(x)$ is decreasing for values of $x$ slightly less than $c$; it ceases to decrease at $x=c$ and then increases for values of $x$ slightly greater than $c$.
 $\therefore$ for small positive values of $h$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-172.jpg?height=233&width=278&top_left_y=151&top_left_x=931)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-E-BooK-002.jpg)
 
 $$
 \begin{aligned}
@@ -136,7 +136,7 @@ If $f^{\prime}(x)$ exists on an interval $[a, b]$ and $f(x)$ has a maximum or mi
 
 (iv) Local maximums and local minimums occur alternately.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-172.jpg?height=269&width=370&top_left_y=960&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-E-BooK-003.jpg)
 
 In the given figure, $A$ and $C$ are the points of local maxima, while $B$ and $D$ are the points of local minima.
 

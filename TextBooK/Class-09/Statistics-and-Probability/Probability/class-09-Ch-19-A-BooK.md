@@ -26,10 +26,10 @@ In the 20th century, important contributions were made by Russian mathematicians
 
 These days, probability theory is extensively used in various fields.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_62ecf0388298d9abdc88g-01.jpg?height=365&width=371&top_left_y=1510&top_left_x=302)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Probability/class-09-Ch-19-A-BooK-001.jpg)
 *Blaise Pascal*
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_62ecf0388298d9abdc88g-01.jpg?height=359&width=285&top_left_y=1516&top_left_x=767)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Probability/class-09-Ch-19-A-BooK-002.jpg)
 *Pierre de Fermat*
 
 ---

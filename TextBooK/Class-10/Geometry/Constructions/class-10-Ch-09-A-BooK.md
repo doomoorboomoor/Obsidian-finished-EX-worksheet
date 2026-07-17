@@ -18,7 +18,7 @@ Step 4. Join $A_{7} B$.
 Step 5. From $A_{4}$, draw $A_{4} C$ parallel to $A_{7} B$ (by making an angle equal to $\angle A A_{7} B$ ), meeting $A B$ at $C$.
 
 Then, $C$ is the point on $A B$, which divides it in the ratio $4: 3$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-01.jpg?height=402&width=436&top_left_y=1167&top_left_x=428)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-A-BooK-001.jpg)
 
 Thus, $A C: C B=4: 3$.
 PROOF Let $A A_{1}=A_{1} A_{2}=\ldots=A_{6} A_{7}=x$.
@@ -41,7 +41,7 @@ $$
 
 Step 5. Join $A_{4} B_{3}$, intersecting $A B$ at a point $C$.
 Then, $A C: C B=4: 3$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-02.jpg?height=456&width=357&top_left_y=743&top_left_x=471)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-A-BooK-002.jpg)
 proof Here, $A A_{4} \| B B_{3}$.
 $\therefore \quad \angle C A A_{4}=\angle C B B_{3} \quad$ (alt. int. $\angle$ s).
 Also, $\angle A C A_{4}=\angle B C B_{3} \quad$ (vert. opp. $\angle$ s).
@@ -62,7 +62,7 @@ Step 2. With $B$ as centre and radius equal to 5 cm , draw an arc.
 Step 3. With $C$ as centre and radius equal to 6.5 cm , draw another arc cutting the previous arc at $A$.
 Step 4. Join $A B$ and $A C$.
 Thus, $\triangle A B C$ with given lengths of
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-03.jpg?height=404&width=362&top_left_y=219&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-A-BooK-003.jpg)
 sides is obtained.
 
 Step 5. Below $B C$, make an acute angle $\angle C B X$.
@@ -89,7 +89,7 @@ Step 3. With $B$ as centre and radius 5 cm , draw an arc cutting ray $B X$ at $A
 
 Step 4. Join $A C$.
 Thus, $\triangle A B C$ is obtained.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-04.jpg?height=601&width=487&top_left_y=171&top_left_x=398)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-A-BooK-004.jpg)
 
 Step 5. Below $B C$, make an acute angle $\angle C B Y$.
 Step 6. Along $B Y$, mark off seven points $B_{1}, B_{2}, B_{3}, B_{4}, B_{5}, B_{6}$ and $B_{7}$ such that $B B_{1}=B_{1} B_{2}=B_{2} B_{3}=B_{3} B_{4}=B_{4} B_{5}=B_{5} B_{6}=B_{6} B_{7}$.
@@ -117,7 +117,7 @@ $$
 
 Suppose $B X$ and $C Y$ intersect at $A$.
 $\triangle A B C$ is thus obtained.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-05.jpg?height=422&width=603&top_left_y=169&top_left_x=346)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-A-BooK-005.jpg)
 
 Step 3. Below $B C$, make an acute angle $\angle C B Z$.
 Step 4. Along $B Z$, mark off four points $B_{1}, B_{2}, B_{3}$ and $B_{4}$ such that $B B_{1}=B_{1} B_{2}=B_{2} B_{3}=B_{3} B_{4}$.
@@ -143,7 +143,7 @@ Step 3. With $D$ as centre and radius 4 cm , draw an arc cutting $X Y$ at $A$.
 
 Step 4. Join $A B$ and $A C$.
 Thus, isosceles $\triangle A B C$ having base 6 cm and altitude 4 cm is obtained.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-06.jpg?height=567&width=464&top_left_y=173&top_left_x=418)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-A-BooK-006.jpg)
 
 Step 5. Below $B C$, make an acute angle $\angle C B Z$.
 Step 6. Along $B Z$, mark off four points $B_{1}, B_{2}, B_{3}$ and $B_{4}$ such that $B B_{1}=B_{1} B_{2}=B_{2} B_{3}=B_{3} B_{4}$.
@@ -169,7 +169,7 @@ Step 3. Draw a line $G H \| A B$ at a distance of 3 cm from $A B$, intersecting 
 Step 4. Join $C A$.
 Thus, $\triangle A B C$ is obtained.
 Step 5. Extend $A B$ to $D$ such that $A D=\frac{3}{2} A B=\left(\frac{3}{2} \times 4\right) \mathrm{cm}=6 \mathrm{~cm}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-07.jpg?height=375&width=501&top_left_y=356&top_left_x=396)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Constructions/class-10-Ch-09-A-BooK-007.jpg)
 
 Step 6. Draw $D E \| B C$, cutting $A C$ produced at $E$.
 Then, $\triangle A D E$ is the required triangle similar to $\triangle A B C$ such that each side of $\triangle A D E$ is $\frac{3}{2}$ times the corresponding side of $\triangle A B C$.

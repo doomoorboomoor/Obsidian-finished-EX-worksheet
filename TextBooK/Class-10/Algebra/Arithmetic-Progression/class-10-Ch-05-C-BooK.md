@@ -784,7 +784,7 @@ $$
 
 ### Example 27
 A spiral is made up of successive semicircles, with centres alternately at A and B, starting with centre at A, of radii $0.5 \text{ cm, } 1 \text{ cm, } 1.5 \text{ cm, } 2 \text{ cm, } \ldots$ as shown in the given figure. What is the total length of such a spiral made up of 13 consecutive semicircles? (Take $\pi=\frac{22}{7}$)
-![](https://cdn.mathpix.com/cropped/2025_09_25_6a90a2ac4c85e1f600e0g-35.jpg?height=202&width=261&top_left_y=1494&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Arithmetic-Progression/class-10-Ch-05-C-BooK-001.jpg)
 
 #### Solution:
 Let $L_{1}, L_{2}, L_{3}, \ldots, L_{13}$ be the lengths of semicircles of radii $r_1=0.5 \text{ cm}, r_2=1 \text{ cm}, r_3=1.5 \text{ cm}, \ldots, r_{13}=13 \times 0.5 = 6.5 \text{ cm}$ respectively. The length of a semicircle is $\pi r$.
@@ -818,7 +818,7 @@ Hence, the required length of the spiral is 143 cm.
 
 ### Example 28
 A ladder has rungs 25 cm apart. The rungs decrease uniformly in length from 45 cm at the bottom to 25 cm at the top. If the top and bottom rungs are 2.5 m apart, what is the length of the wood required for the rungs?
-![](https://cdn.mathpix.com/cropped/2025_09_25_6a90a2ac4c85e1f600e0g-36.jpg?height=563&width=322&top_left_y=716&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Arithmetic-Progression/class-10-Ch-05-C-BooK-002.jpg)
 
 #### Solution:
 The distance between the top and bottom rungs is $2.5 \text{ m} = 250 \text{ cm}$. The gap between two consecutive rungs is 25 cm.

@@ -4,7 +4,7 @@
 
 **Cuboid** Solids like matchbox, chalkbox, a tile, a book, an almirah, a room, etc., are in the shape of a cuboid.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-01.jpg?height=307&width=446&top_left_y=620&top_left_x=447)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-001.jpg)
 
 **FORMULAE** For a cuboid of length $=l$, breadth $=b$ and height $=h$, we have:
 - **Volume** $= (l \times b \times h)$ cubic units.
@@ -26,12 +26,12 @@
 
 **Cylinder** Solids like measuring jars, circular pillars, circular pencils, circular pipes, road rollers, gas cylinders, etc., are said to have a cylindrical shape.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-01.jpg?height=241&width=241&top_left_y=1292&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-002.jpg)
 
 **FORMULAE** For a cylinder of base radius $=r$ and height (or length) $=h$, we have:
 - **Volume** $= (\pi r^{2} h)$ cubic units.
 - **Curved surface area** $= 2 \pi rh$ sq units.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-01.jpg?height=265&width=165&top_left_y=1554&top_left_x=1026)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-003.jpg)
 - **Total surface area** $= (2 \pi rh+2 \pi r^{2})$ sq units $= 2 \pi r(h+r)$ sq units.
 
 ---
@@ -40,7 +40,7 @@
 
 **FORMULAE** Consider a hollow cylinder having external radius $=R$, internal radius $=r$ and height $=h$. Then, we have:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-02.jpg?height=284&width=233&top_left_y=157&top_left_x=962)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-004.jpg)
 
 - **Volume of material** $= (\text{external volume}) - (\text{internal volume})$
 $$
@@ -72,7 +72,7 @@ $$
 
 **FORMULAE** Consider a cone in which base radius $=r$, height $=h$ and slant height, $l=\sqrt{h^{2}+r^{2}}$. Then, we have:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-02.jpg?height=226&width=241&top_left_y=1083&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-005.jpg)
 
 - **Volume of the cone** $= \frac{1}{3} \pi r^{2} h$ cubic units.
 - **Curved surface area of the cone** $= \pi rl=\pi r \sqrt{r^{2}+h^{2}}$ sq units.
@@ -84,7 +84,7 @@ $$
 
 **FORMULAE** For a sphere of radius $r$, we have:
 - **Volume of the sphere** $= (\frac{4}{3} \pi r^{3})$ cubic units.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-02.jpg?height=172&width=177&top_left_y=1715&top_left_x=1014)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-006.jpg)
 - **Surface area of the sphere** $= (4 \pi r^{2})$ sq units.
 
 ---
@@ -93,7 +93,7 @@ $$
 
 **FORMULAE** For a hemisphere of radius $r$, we have:
 - **Volume of the hemisphere** $= \frac{2}{3} \pi r^{3}$ cubic units.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-03.jpg?height=134&width=217&top_left_y=267&top_left_x=974)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-007.jpg)
 - **Curved surface area of the hemisphere** $= (2 \pi r^{2})$ sq units.
 - **Total surface area of the hemisphere** $= (3 \pi r^{2})$ sq units.
 
@@ -125,7 +125,7 @@ Length of resulting cuboid, $l=18 \text{ cm}$.
 Breadth of resulting cuboid, $b=6 \text{ cm}$.
 Height of resulting cuboid, $h=6 \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-03.jpg?height=180&width=503&top_left_y=1401&top_left_x=398)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-008.jpg)
 
 $\therefore$ **Total surface area of the cuboid**
 $$
@@ -166,7 +166,7 @@ A vessel is in the form of a hemispherical bowl mounted by a hollow cylinder. Th
 
 Radius of the hemisphere, $r=7 \text{ cm}$. Total height of the vessel, $H=13 \text{ cm}$. Height of the cylinder, $h=(13-7) \text{ cm}=6 \text{ cm}$. Radius of the cylinder = radius of the hemisphere $= 7 \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-04.jpg?height=277&width=233&top_left_y=986&top_left_x=962)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-009.jpg)
 
 (i) **Capacity of the vessel**
 $$
@@ -239,7 +239,7 @@ Height of the cylinder, $h=9.8 \text{ cm}$.
 Radius of the hemisphere, $R=3.5 \text{ cm}$.
 Radius of the cone = radius of the hemisphere $= 3.5 \text{ cm}=\frac{7}{2} \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-06.jpg?height=277&width=297&top_left_y=380&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-010.jpg)
 
 Height of the cone, $H=(8.5-3.5) \text{ cm}=5 \text{ cm}$.
 Volume of the water in the cylindrical tub $= \pi r^{2} h=\left(\frac{22}{7} \times 5 \times 5 \times 9.8\right) \text{ cm}^{3}=770 \text{ cm}^{3}$.
@@ -300,7 +300,7 @@ Let the radius of each of the cone and the hemisphere be $r$. Let the height of 
 Then, curved surface area of the hemisphere = curved surface area of the cone
 $\Rightarrow 2 \pi r^{2}=\pi r l \Rightarrow 2 \pi r^{2}=\pi r \sqrt{r^{2}+h^{2}}$
 $\Rightarrow 2 r=\sqrt{r^{2}+h^{2}} \Rightarrow 4 r^{2}=r^{2}+h^{2}$ [squaring both sides]
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-07.jpg?height=255&width=193&top_left_y=1175&top_left_x=998)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-011.jpg)
 $\Rightarrow 3 r^{2}=h^{2} \Rightarrow \frac{r^{2}}{h^{2}}=\frac{1}{3} \Rightarrow \frac{r}{h}=\sqrt{\frac{1}{3}}=\frac{1}{\sqrt{3}}$.
 Hence, the required ratio is $1: \sqrt{3}$.
 
@@ -323,7 +323,7 @@ $$
 Volume of 12 toys $= (540 \pi) \text{ cm}^{3}$.
 $\therefore$ volume of 1 toy $= (\frac{540 \pi}{12}) \text{ cm}^{3}=(45 \pi) \text{ cm}^{3}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-08.jpg?height=264&width=289&top_left_y=165&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-012.jpg)
 
 Let the radius of each of the hemisphere and cone be $R \text{ cm}$.
 Then, height of the cone, $H=(3R) \text{ cm}$.
@@ -359,7 +359,7 @@ $$
 & = 50688 \text{ cm}^{3}.
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-08.jpg?height=549&width=227&top_left_y=1375&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-013.jpg)
 $\therefore$ weight of the pillar = volume in $\text{ cm}^{3} \times$ weight per $\text{ cm}^{3}$
 $$
 = \left(\frac{50688 \times 7.5}{1000}\right) \text{ kg}=380.16 \text{ kg}.
@@ -378,7 +378,7 @@ Radius of each hemispherical end $= 7 \text{ cm}$.
 Height of each hemispherical part = its radius $= 7 \text{ cm}$.
 Height of the cylindrical part $= (104-2 \times 7) \text{ cm}=90 \text{ cm}$.
 Area of surface to be polished = 2(curved surface area of the hemisphere) + (curved surface area of the cylinder)
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-09.jpg?height=368&width=253&top_left_y=559&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-014.jpg)
 $$
 \begin{aligned}
 & = \left[2(2 \pi r^{2})+2 \pi r h\right] \text{ sq units} \\
@@ -398,7 +398,7 @@ A gulabjamun contains sugar syrup up to about 30% of its volume. Find approximat
 #### Solution:
 
 Radius of each hemispherical part, $r=\left(\frac{2.8}{2}\right) \text{ cm}=1.4 \text{ cm}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-09.jpg?height=204&width=533&top_left_y=1695&top_left_x=382)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-015.jpg)
 Radius of the cylindrical part, $r=1.4 \text{ cm}$.
 Length of the cylindrical part, $h=(5-2 \times 1.4) \text{ cm}=2.2 \text{ cm}$.
 Volume of one gulabjamun
@@ -427,7 +427,7 @@ Rahul, an engineering student, prepared a model shaped like a cylinder with two 
 
 Radius of each conical part, $r=\frac{3}{2} \text{ cm}$.
 Radius of cylindrical part, $r=\frac{3}{2} \text{ cm}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-10.jpg?height=244&width=599&top_left_y=1631&top_left_x=443)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-016.jpg)
 Height of each conical part, $h=2 \text{ cm}$.
 Length of the cylindrical part, $H=(12-2 \times 2) \text{ cm}=8 \text{ cm}$.
 Slant height of each conical part,
@@ -468,7 +468,7 @@ A spherical glass vessel has a cylindrical neck 8 cm long, 2 cm in diameter; the
 Radius of the spherical part, $R=\left(\frac{8.5}{2}\right) \text{ cm}=4.25 \text{ cm}$.
 Radius of the cylindrical neck, $r=1 \text{ cm}$.
 Height of the cylindrical neck, $h=8 \text{ cm}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-12.jpg?height=502&width=912&top_left_y=171&top_left_x=285)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-017.jpg)
 **Volume of the vessel**
 $$
 \begin{aligned}
@@ -500,7 +500,7 @@ $$
 & = 196.25 \text{ cm}^{3}
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-12.jpg?height=245&width=354&top_left_y=1280&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-018.jpg)
 **Volume of the hemispherical part**
 $$
 \begin{aligned}
@@ -519,7 +519,7 @@ $= (196.25-32.71) \text{ cm}^{3}=163.54 \text{ cm}^{3}$.
 
 A pen stand made of wood is in the shape of a cuboid with four conical depressions to hold pens. The dimensions of the cuboid are 15 cm by 10 cm by 3.5 cm. The diameter of each of the depressions is 1 cm and the depth is 1.4 cm. Find the volume of wood in the entire stand.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-13.jpg?height=198&width=295&top_left_y=535&top_left_x=795)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-019.jpg)
 
 #### Solution:
 
@@ -545,7 +545,7 @@ A solid toy is in the form of a right circular cylinder with a hemispherical sha
 #### Solution:
 
 The shape of the toy is given below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-13.jpg?height=225&width=426&top_left_y=1699&top_left_x=531)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-020.jpg)
 Radius of the hemispherical part, $r=\left(\frac{4.2}{2}\right) \text{ cm}=2.1 \text{ cm}$.
 Radius of the cylindrical part, $r=2.1 \text{ cm}$.
 Radius of the conical part, $r=2.1 \text{ cm}$.
@@ -579,7 +579,7 @@ $$
 & = \left(\frac{539}{3}\right) \text{ cm}^{3}=179.67 \text{ cm}^{3}.
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-14.jpg?height=192&width=207&top_left_y=1232&top_left_x=982)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-021.jpg)
 (ii) Volume of the cube $= (7 \times 7 \times 7) \text{ cm}^{3}=343 \text{ cm}^{3}$.
 **Volume of wood wasted**
 = volume of cube - volume of sphere
@@ -649,7 +649,7 @@ $$
 ### Example 20:
 
 A wooden article was made by scooping out a hemisphere from each end of a solid cylinder, as shown in the figure. If the height of the cylinder is 12 cm and its base is of radius 4.2 cm, find the total surface area of the article. Also, find the volume of the wood left in the article. [CBSE 2009C]
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-16.jpg?height=250&width=165&top_left_y=167&top_left_x=1026)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-022.jpg)
 
 #### Solution:
 
@@ -680,7 +680,7 @@ $$
 ### Example 21:
 
 In the given figure, from a cuboidal solid metallic block of dimensions $15 \text{ cm} \times 10 \text{ cm} \times 5 \text{ cm}$, a cylindrical hole of diameter 7 cm is drilled out. Find the surface area of the remaining block. [HOTS] [CBSE 2015]
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-16.jpg?height=307&width=478&top_left_y=1407&top_left_x=503)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-023.jpg)
 
 #### Solution:
 
@@ -718,7 +718,7 @@ l & =\sqrt{r^{2}+h^{2}}=\sqrt{\left(\frac{5}{2}\right)^{2}+6^{2}} \text{ cm} \\
 & =\sqrt{\frac{25}{4}+36} \text{ cm}=\sqrt{\frac{169}{4}} \text{ cm}=\frac{13}{2} \text{ cm}
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-17.jpg?height=536&width=253&top_left_y=1033&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-024.jpg)
 **Area to be painted orange**
 $$
 \begin{aligned}
@@ -745,7 +745,7 @@ $$
 ### Example 23:
 
 Deepa runs an industry in a shed which is in the shape of a cuboid surmounted by a half-cylinder. The base of the shed is of dimensions $7 \text{ m} \times 15 \text{ m}$ and the height of the cuboidal portion is 8 m.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-18.jpg?height=222&width=289&top_left_y=765&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-025.jpg)
 (i) Find the volume of air that the shed can hold.
 (ii) Suppose the machinery in the shed occupies a total space of $300 \text{ m}^{3}$ and there are 20 workers, each of whom occupy about $0.08 \text{ m}^{3}$ space on an average. Then, how much air is in the shed?
 (iii) Find the internal surface area of the shed, excluding the floor. [HOTS]
@@ -783,7 +783,7 @@ $$
 ### Example 24:
 
 A solid is made up of a cube and a hemisphere attached on its top, as shown in the figure. Each edge of the cube measures 5 cm and the hemisphere has a diameter of 4.2 cm. Find the total area to be painted. [Take $\pi=22/7$.] [CBSE 2009]
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-19.jpg?height=230&width=253&top_left_y=922&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-026.jpg)
 
 #### Solution:
 
@@ -808,7 +808,7 @@ A solid toy is in the form of a hemisphere surmounted by a right circular cone o
 #### Solution:
 
 Let OAB be the cone and ACB be the hemisphere, having the same base AB. Let the right circular cylinder DEFG circumscribe the given solid. Radius of each of the cone, cylinder and hemisphere, $r=2 \text{ cm}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-20.jpg?height=274&width=364&top_left_y=163&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-A-BooK-027.jpg)
 Height of the cone, $h=2 \text{ cm}$.
 Height of the cylinder, $H=h+r=(2+2) \text{ cm}=4 \text{ cm}$.
 **Volume of the toy**

@@ -13,7 +13,7 @@ Draw $O^{\prime} X^{\prime} \| O X$, meeting $P M$ at $M^{\prime}$.
 Also, draw $O^{\prime} Y^{\prime} \| O Y$, meeting $O M$ at $L$.
 Now, we have the new origin at $O^{\prime}$ and the new axes as $O^{\prime} X^{\prime}$ and $O^{\prime} Y^{\prime}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-71.jpg?height=348&width=446&top_left_y=1469&top_left_x=751)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-J-BooK-001.jpg)
 
 Let $O^{\prime} M^{\prime}=x^{\prime}$ and $M^{\prime} P=y^{\prime}$ with reference to the new axes. Then, $P\left(x^{\prime}, y^{\prime}\right)$ are the **new coordinates** of $P$.
 

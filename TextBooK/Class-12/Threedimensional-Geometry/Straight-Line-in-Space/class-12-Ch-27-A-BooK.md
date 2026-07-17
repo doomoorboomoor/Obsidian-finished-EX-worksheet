@@ -20,7 +20,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-020.jpg?height=360&width=319&top_left_y=982&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-001.jpg)
 
 Clearly, every point on the line $L$ satisfies (i), and for any value of $\lambda$, (i) gives the position vector of a point $P$ on the line.
 Hence, $\vec{r}=\overrightarrow{r_{1}}+\lambda \vec{m}$ is the desired equation.
@@ -45,7 +45,7 @@ $$
 \vec{r}=\overrightarrow{r_{1}}+\lambda \vec{m} \quad \ldots \text { (i), where } \lambda \text { is a scalar. }
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-021.jpg?height=244&width=310&top_left_y=261&top_left_x=899)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-002.jpg)
 
 Let $P(x, y, z)$ be the given point on line with position vector $\vec{r}$.
 Then, $\vec{r}=x \hat{i}+y \hat{j}+z \hat{k}$ and $\vec{r}_{1}=x_{1} \hat{i}+y_{1} \hat{j}+z_{1} \hat{k}$.
@@ -87,7 +87,7 @@ $$
 **PROOF** Let $L$ be the given line, passing through two given points $A$ and $B$ with position vectors $\overrightarrow{r_{1}}$ and $\overrightarrow{r_{2}}$ respectively.
 Let $O$ be the origin.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-022.jpg?height=235&width=306&top_left_y=153&top_left_x=899)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-003.jpg)
 
 Then, $\overrightarrow{O A}=\overrightarrow{r_{1}}$ and $\overrightarrow{O B}=\overrightarrow{r_{2}}$.
 $\therefore \overrightarrow{A B}=($ p.v. of $B)-($ p.v. of $A)=\left(\overrightarrow{r_{2}}-\overrightarrow{r_{1}}\right)$.
@@ -138,7 +138,7 @@ $$
 Let $A\left(x_{1}, y_{1}, z_{1}\right)$ and $B\left(x_{2}, y_{2}, z_{2}\right)$ be the points on the given line with position vectors $\overrightarrow{r_{1}}$ and $\overrightarrow{r_{2}}$ respectively.
 Let $P(x, y, z)$ be an arbitrary point on this line with position vector $\vec{r}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-022.jpg?height=270&width=382&top_left_y=1654&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-004.jpg)
 
 Then, $\overrightarrow{r_{1}}=x_{1} \hat{i}+y_{1} \hat{j}+z_{1} \hat{k}, \overrightarrow{r_{2}}=x_{2} \hat{i}+y_{2} \hat{j}+z_{2} \hat{k}$ and $\vec{r}=x \hat{i}+y \hat{j}+z \hat{k}$.
 Substituting these values in (i), we get
@@ -639,7 +639,7 @@ $$
 \end{equation*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-031.jpg?height=254&width=368&top_left_y=159&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-005.jpg)
 
 The general point on this line is
 
@@ -688,7 +688,7 @@ $$
 
 Let $N$ be the foot of the perpendicular drawn from the point $P(3,-1,11)$ on
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-031.jpg?height=253&width=372&top_left_y=1009&top_left_x=835)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-006.jpg)
 
 the given line.
 Then, this point is $N(2 r, 3 r+2,4 r+3)$ for some fixed value of $r$.
@@ -730,7 +730,7 @@ Find the coordinates of the foot of perpendicular and the length of the perpendi
 The vector equation of the given line is $\vec{r}=(-\hat{i}+3 \hat{j}+\hat{k})+\lambda(2 \hat{i}+3 \hat{j}-\hat{k})$. Clearly, it passes through the point $(-1,3,1)$ and it has direction ratios $2,3,-1$.
 So, its Cartesian equations are
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-032.jpg?height=286&width=418&top_left_y=349&top_left_x=789)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-007.jpg)
 
 $$
 \begin{equation*}
@@ -786,7 +786,7 @@ $$
 
 Let $N$ be the foot of the perpendicular drawn from the point $P(1,6,3)$ on the given line.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-032.jpg?height=290&width=372&top_left_y=1634&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-008.jpg)
 
 Then, this point is $N(r, 2 r+1,3 r+2)$ for some fixed value of $r$.
 D.r.'s of $P N$ are ( $r-1,2 r-5,3 r-1$ ).
@@ -823,7 +823,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-033.jpg?height=262&width=555&top_left_y=1222&top_left_x=385)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-009.jpg)
 
 Thus, the required equations of line $A B$ are given by (i).
 From (i), we get $x=a, y=4 a+6$ and $z=-4 a-9$.
@@ -860,7 +860,7 @@ The points $A(4,5,10), B(2,3,4)$ and $C(1,2,-1)$ are three vertices of a paralle
 D.r.'s of side $A B$ are ( $2-4$ ), ( $3-5$ ), ( $4-10$ ), i.e., $-2,-2,-6$.
 Thus, side $A B$ passes through the point $A(4,5,10)$ and it has D.r.'s $-2,-2,-6$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-034.jpg?height=221&width=443&top_left_y=640&top_left_x=440)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-A-BooK-010.jpg)
 
 So, the vector equation of side $A B$ is
 

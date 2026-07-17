@@ -18,7 +18,7 @@ $$
 
 ### Hollow Cylinders
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c3efdf2b71a5ee5eaae4g-16.jpg?height=259&width=147&top_left_y=1313&top_left_x=1052)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Volume-and-Surface-Area-of-Solids/class-09-Ch-15-B-BooK-001.jpg)
 
 Solids like iron pipes, rubber tubes, etc., are in the shape of hollow cylinders.
 
@@ -160,7 +160,7 @@ Radius of the well, $r = 7 \text{ m}$, and its depth, $h = 15 \text{ m}$.
 $$
 = (\pi r^{2} h) \text{ cubic units} = \left(\frac{22}{7} \times 7 \times 7 \times 15\right) \text{ m}^{3} = 2310 \text{ m}^{3}.
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_c3efdf2b71a5ee5eaae4g-18.jpg?height=275&width=281&top_left_y=1671&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Volume-and-Surface-Area-of-Solids/class-09-Ch-15-B-BooK-002.jpg)
 
 Width of the embankment = $7 \text{ m}$.
 External radius of the embankment = $(7+7) \text{ m} = 14 \text{ m}$.
@@ -577,7 +577,7 @@ $$
 & = \left(2 \times \frac{22}{7} \times \frac{35}{10} \times 25\right) \text{ cm}^{2} = \textbf{550 cm}^{2}
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_c3efdf2b71a5ee5eaae4g-26.jpg?height=321&width=231&top_left_y=1566&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Volume-and-Surface-Area-of-Solids/class-09-Ch-15-B-BooK-003.jpg)
 
 ---
 
@@ -611,8 +611,8 @@ A rectangular sheet of paper $44 \text{ cm} \times 20 \text{ cm}$ is rolled alon
 
 When a rectangular sheet is rolled along its length then the length of the sheet becomes the circumference of the base of the cylinder and breadth of the sheet becomes the height of the cylinder.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c3efdf2b71a5ee5eaae4g-27.jpg?height=176&width=325&top_left_y=1117&top_left_x=408)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c3efdf2b71a5ee5eaae4g-27.jpg?height=168&width=140&top_left_y=1111&top_left_x=807)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Volume-and-Surface-Area-of-Solids/class-09-Ch-15-B-BooK-004.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Volume-and-Surface-Area-of-Solids/class-09-Ch-15-B-BooK-005.jpg)
 
 Clearly, the height of the cylinder is $20 \text{ cm}$.
 Let the radius of its base be $r \text{ cm}$.

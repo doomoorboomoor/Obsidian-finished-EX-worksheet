@@ -18,7 +18,7 @@ Taking the values of $x$ along the $x$-axis and the corresponding values of $\si
 
 We join these points by a freehand curve to obtain the graph of $y = \sin x$, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d005d4baa7e9fd51ad11g-1.jpg?height=688&width=875&top_left_y=1248&top_left_x=211)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Graphs-of-Trigonometric-Functions/class-11-Ch-19-A-BooK-001.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ On a graph paper, we take $1 \text{ cm}$ as $\frac{\pi}{6}$ units on the **$x$-a
 
 Taking the values of $x$ along the $x$-axis and the values of $\cos x$ along the $y$-axis, we plot the points $(0, 1)$, $(\frac{\pi}{6}, 0.87)$, $(\frac{\pi}{3}, 0.5)$, $(\frac{\pi}{2}, 0)$, $(\frac{2\pi}{3}, -0.5)$, $(\frac{5\pi}{6}, -0.87)$, $(\pi, -1)$, $(\frac{7\pi}{6}, -0.87)$, $(\frac{4\pi}{3}, -0.5)$, $(\frac{3\pi}{2}, 0)$, $(\frac{5\pi}{3}, 0.5)$, $(\frac{11\pi}{6}, 0.87)$, and $(2\pi, 1)$. Joining these points successively by a freehand curve, we obtain the graph of $\cos x$, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d005d4baa7e9fd51ad11g-2.jpg?height=780&width=991&top_left_y=938&top_left_x=155)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Graphs-of-Trigonometric-Functions/class-11-Ch-19-A-BooK-002.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ Taking the values of $x$ on the $x$-axis and the values of $\tan x$ along the $y
 
 We join these points by a freehand curve and obtain the graph of $\tan x$ as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d005d4baa7e9fd51ad11g-3.jpg?height=841&width=671&top_left_y=1097&top_left_x=314)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Graphs-of-Trigonometric-Functions/class-11-Ch-19-A-BooK-003.jpg)
 
 ---
 
@@ -99,7 +99,7 @@ Now, we plot the points $(0, 0)$, $(\frac{\pi}{6}, 2.61)$, $(\frac{\pi}{4}, 3)$,
 
 Join these points with a freehand curve to obtain the graph of $y = 3 \sin 2x$, given below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d005d4baa7e9fd51ad11g-4.jpg?height=465&width=871&top_left_y=1467&top_left_x=213)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Graphs-of-Trigonometric-Functions/class-11-Ch-19-A-BooK-004.jpg)
 
 ---
 
@@ -140,7 +140,7 @@ Now, plot the points $(0, 3)$, $(\frac{\pi}{6}, 1.5)$, $(\frac{\pi}{4}, 0)$, $(\
 
 Join them with a freehand curve to obtain the required graph, given below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d005d4baa7e9fd51ad11g-5.jpg?height=462&width=871&top_left_y=1478&top_left_x=213)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Graphs-of-Trigonometric-Functions/class-11-Ch-19-A-BooK-005.jpg)
 
 ---
 
@@ -168,7 +168,7 @@ For $y = \cos x$, we plot the points $(0, 1)$, $(\frac{\pi}{6}, 0.87)$, $(\frac{
 
 For $y = \cos \frac{1}{2}x$, we plot the points $(0, 1)$, $(\frac{\pi}{6}, 0.97)$, $(\frac{\pi}{3}, 0.87)$, $(\frac{\pi}{2}, 0.7)$, $(\frac{2\pi}{3}, 0.5)$, $(\frac{5\pi}{6}, 0.26)$, $(\pi, 0)$, $(\frac{7\pi}{6}, -0.26)$, $(\frac{4\pi}{3}, -0.5)$, $(\frac{3\pi}{2}, -0.7)$, $(\frac{5\pi}{3}, -0.87)$, $(\frac{11\pi}{6}, -0.97)$ and $(2\pi, -1)$. We join these points by a freehand curve to obtain the curve $y = \cos \frac{1}{2}x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d005d4baa7e9fd51ad11g-6.jpg?height=672&width=921&top_left_y=1284&top_left_x=189)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Graphs-of-Trigonometric-Functions/class-11-Ch-19-A-BooK-006.jpg)
 
 ---
 

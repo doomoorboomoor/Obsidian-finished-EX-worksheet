@@ -6,14 +6,14 @@ In such figures, one can be superposed on the other to cover it exactly. For con
 
 Two line segments are congruent only when their lengths are equal.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-01.jpg?height=84&width=350&top_left_y=571&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-001.jpg)
 
 Thus, $\overline{AB} \cong \overline{CD}$ if $l(AB)=l(CD)$.
 
 Two angles are congruent only when their measures are equal.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-01.jpg?height=192&width=275&top_left_y=797&top_left_x=316)
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-01.jpg?height=194&width=275&top_left_y=795&top_left_x=704)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-002.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-003.jpg)
 
 $\angle ABC \cong \angle DEF$, if $\mathrm{m}(\angle ABC)=\mathrm{m}(\angle DEF)$.
 
@@ -73,7 +73,7 @@ Hence, $\triangle ABC \cong \triangle DEF$.
 
 **CONSTRUCTION:** Draw $AD$, the bisector of $\angle A$, to meet $BC$ in $D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-02.jpg?height=245&width=350&top_left_y=1240&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-004.jpg)
 
 **PROOF:** In $\triangle ABD$ and $\triangle ACD$, we have
 $$
@@ -93,8 +93,8 @@ $$
 
 **GIVEN:** $\triangle ABC$ and $\triangle DEF$ in which $\angle ABC=\angle DEF, \angle ACB=\angle DFE$ and $BC=EF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-03.jpg?height=193&width=314&top_left_y=289&top_left_x=285)
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-03.jpg?height=237&width=317&top_left_y=249&top_left_x=696)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-005.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-006.jpg)
 
 **TO PROVE:** $\triangle ABC \cong \triangle DEF$.
 
@@ -147,7 +147,7 @@ $\therefore \triangle ABC \cong \triangle DEF$ (ASA-criteria).
 
 **CONSTRUCTION:** Draw $AD$, the bisector of $\angle A$ to meet $BC$ at $D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-04.jpg?height=223&width=311&top_left_y=412&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-007.jpg)
 
 **PROOF:** In $\triangle ABD$ and $\triangle ACD$, we have
 $$
@@ -169,8 +169,8 @@ $$
 
 **TO PROVE:** $\triangle ABC \cong \triangle DEF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-04.jpg?height=184&width=281&top_left_y=1196&top_left_x=326)
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-04.jpg?height=313&width=305&top_left_y=1192&top_left_x=668)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-008.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-009.jpg)
 
 **CONSTRUCTION:** Suppose $BC$ is the longest side of $\triangle ABC$. Draw $EG$ and $FG$ such that $\angle FEG=\angle CBA$ and $\angle EFG=\angle BCA$. Join $DG$.
 
@@ -207,7 +207,7 @@ $\therefore \triangle ABC \cong \triangle DEF$ (SAS-criteria).
 
 **CONSTRUCTION:** Produce $DE$ to $G$ such that $GE=AB$. Join $GF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-05.jpg?height=454&width=229&top_left_y=789&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-010.jpg)
 
 **PROOF:** In $\triangle ABC$ and $GEF$, we have
 $$
@@ -261,7 +261,7 @@ OC=OD & \text{(given)}
 $$
 and $\angle AOC=\angle BOD$ (vertically opposite $\angle$s).
 $\therefore \triangle OAC \cong \triangle OBD$ (by SAS-criteria).
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-06.jpg?height=299&width=223&top_left_y=871&top_left_x=972)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-011.jpg)
 
 (ii) We have, $\triangle OAC \cong \triangle OBD$ (proved above).
 $\therefore \angle OAC = \angle OBD$ (c.p.c.t.).
@@ -276,7 +276,7 @@ $AB$ is a line segment and line $l$ is its perpendicular bisector. If a point $P
 Let $M$ be the midpoint of $AB$. Then, $l \perp AB$ and passes through $M$. Let $P$ be a given point on $l$.
 Then, we have to show that $PA=PB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-06.jpg?height=381&width=378&top_left_y=1506&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-012.jpg)
 
 In $\triangle PMA$ and $\triangle PMB$, we have
 $MA=MB \quad [\because M$ is the midpoint of $AB]$,
@@ -304,7 +304,7 @@ $\Rightarrow 3x^{\circ}=180^{\circ} \Rightarrow x=60$.
 $\therefore \angle A=\angle B=\angle C=60^{\circ}$.
 Hence, each angle of an equilateral triangle is $60^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-07.jpg?height=259&width=257&top_left_y=565&top_left_x=940)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-013.jpg)
 
 ---
 ### Example 4:
@@ -319,7 +319,7 @@ In an isosceles triangle, prove that the altitude from the vertex bisects the ba
 $\therefore \triangle ADB \cong \triangle ADC$ [RHS-criteria].
 Hence, $BD=DC$ (c.p.c.t.).
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-07.jpg?height=253&width=297&top_left_y=1381&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-014.jpg)
 
 ---
 ### Example 5:
@@ -341,7 +341,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-08.jpg?height=256&width=301&top_left_y=169&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-015.jpg)
 
 ---
 ### Example 6:
@@ -371,7 +371,7 @@ $\therefore EC=AC$.
 So, $AB=AC \quad [\because EC=AB]$.
 Hence, $\triangle ABC$ is isosceles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-08.jpg?height=485&width=324&top_left_y=700&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-016.jpg)
 
 ---
 ### Example 7:
@@ -393,7 +393,7 @@ and $BC=CB$ (common).
 $\therefore \triangle BCL \cong \triangle CBM$ (AAS-criteria).
 Hence, $BL=CM$ (c.p.c.t.).
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-08.jpg?height=250&width=255&top_left_y=1631&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-017.jpg)
 
 ---
 ### Example 8:
@@ -416,7 +416,7 @@ $$
 $$
 Hence, $\triangle ABC$ is isosceles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-09.jpg?height=249&width=253&top_left_y=346&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-018.jpg)
 
 ---
 ### Example 9:
@@ -439,9 +439,9 @@ $\therefore \triangle ADC \cong \triangle BEA$ (SAS-criteria).
 $\therefore AD=BE$ (c.p.c.t.).
 Similarly, $BE=CF$.
 Hence, $AD=BE=CF$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-09.jpg?height=208&width=197&top_left_y=769&top_left_x=998)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-019.jpg)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-09.jpg?height=209&width=197&top_left_y=1010&top_left_x=998)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-020.jpg)
 
 ---
 ### Example 10:
@@ -478,7 +478,7 @@ $\therefore \triangle ABC \cong \triangle ECB$ (SAS-criteria).
 $\therefore AC=EB \Rightarrow \frac{1}{2} EB=\frac{1}{2} AC \Rightarrow BD=\frac{1}{2} AC$.
 Hence, $BD=\frac{1}{2} AC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-09.jpg?height=251&width=318&top_left_y=1453&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-021.jpg)
 
 ---
 ### Example 11:
@@ -505,9 +505,9 @@ But, $\angle 3+\angle 4=180^{\circ}$ (linear pair).
 $\therefore 2\angle 4=180^{\circ} \Rightarrow \angle 4=90^{\circ} \quad [\because \angle 3=\angle 4]$.
 Thus, $\angle 3=\angle 4=90^{\circ}$.
 Hence, $BE=CE$ and $\angle AEB=\angle AEC=90^{\circ}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-10.jpg?height=323&width=263&top_left_y=1365&top_left_x=342)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-022.jpg)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-10.jpg?height=250&width=263&top_left_y=1363&top_left_x=694)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-023.jpg)
 
 ---
 ### Example 12:
@@ -533,7 +533,7 @@ $\Rightarrow 2\angle BCD=180^{\circ} \quad [\because \text{sum of the }\angle\te
 $\Rightarrow \angle BCD=90^{\circ}$.
 Hence, $\angle BCD$ is a right angle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-11.jpg?height=361&width=233&top_left_y=769&top_left_x=962)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-024.jpg)
 
 ---
 ### Example 13:
@@ -541,7 +541,7 @@ In an isosceles $\triangle ABC$ with $AB=AC$, $D$ and $E$ are points on $BC$ suc
 
 **GIVEN:** A $\triangle ABC$ in which $AB=AC$. $D$ and $E$ are points on $BC$ such that $BE=CD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-11.jpg?height=251&width=293&top_left_y=1665&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-025.jpg)
 
 **TO PROVE:** $AD=AE$.
 
@@ -567,7 +567,7 @@ In the given figure, $D$ and $E$ are points on the side $BC$ of a $\triangle ABC
 
 **GIVEN:** A $\triangle ABC$ in which $D$ and $E$ are points on $BC$ such that $BD=CE$ and $AD=AE$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-12.jpg?height=251&width=301&top_left_y=662&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-026.jpg)
 
 **TO PROVE:** $\triangle ABD \cong \triangle ACE$.
 
@@ -606,7 +606,7 @@ $$
 \end{array}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-12.jpg?height=257&width=281&top_left_y=1554&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-027.jpg)
 
 ---
 ### Example 16:
@@ -627,7 +627,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-13.jpg?height=337&width=207&top_left_y=169&top_left_x=988)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-028.jpg)
 
 ---
 ### Example 17:
@@ -655,7 +655,7 @@ $$
 \end{array}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-13.jpg?height=301&width=342&top_left_y=700&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-029.jpg)
 
 ---
 ### Example 18:
@@ -684,7 +684,7 @@ $$
 $\therefore \triangle AYB \cong \triangle ZYX$ (SAS-criteria).
 Hence, $AB=ZX$ [c.p.c.t.].
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-13.jpg?height=391&width=382&top_left_y=1339&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-030.jpg)
 
 ---
 ### Example 19:
@@ -710,7 +710,7 @@ $$
 \end{array}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-14.jpg?height=219&width=432&top_left_y=285&top_left_x=763)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-031.jpg)
 
 (ii) $\triangle DAP \cong \triangle EBP \Rightarrow AD=BE$ (c.p.c.t.).
 
@@ -718,7 +718,7 @@ $$
 ### Example 20:
 $P$ is a point equidistant from two lines $l$ and $m$ intersecting at a point $A$, as shown in the given figure. Show that the line AP bisects the angle between them.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-14.jpg?height=255&width=485&top_left_y=1081&top_left_x=712)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-032.jpg)
 
 **GIVEN:** Two lines $l$ and $m$ intersecting at a point $A$ and $P$ is a point such that $PM=PN$, where $PM \perp l$ and $PN \perp m$.
 
@@ -743,7 +743,7 @@ In the given figure, $AB$ is a line segment. $P$ and $Q$ are points on opposite 
 
 **GIVEN:** A line segment $AB$ and two points $P$ and $Q$ such that $PA=PB$ and $QA=QB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-15.jpg?height=337&width=285&top_left_y=177&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-033.jpg)
 
 **TO PROVE:** Let $AB$ and $PQ$ intersect at $C$. Then, we have to prove that $AC=BC$ and $\angle ACP=90^{\circ}$.
 
@@ -780,7 +780,7 @@ In the given figure, $ABCD$ is a quadrilateral in which $AD=BC$ and $\angle DAB=
 
 **GIVEN:** A quadrilateral $ABCD$ in which $AD=BC$ and $\angle DAB=\angle CBA$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-15.jpg?height=347&width=342&top_left_y=1397&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-034.jpg)
 
 **TO PROVE:** (i) $\triangle ABD \cong \triangle BAC$, (ii) $BD=AC$, (iii) $\angle ABD=\angle BAC$.
 
@@ -822,7 +822,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-16.jpg?height=293&width=362&top_left_y=426&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-035.jpg)
 
 ---
 ### Example 24:
@@ -860,7 +860,7 @@ AC=CD \Rightarrow AC=2BC \quad [\because CD=BC+BD=2BC].
 $$
 Hence, $AC=2BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-16.jpg?height=287&width=283&top_left_y=1103&top_left_x=916)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-036.jpg)
 
 ---
 ### Example 25:
@@ -878,7 +878,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-17.jpg?height=298&width=373&top_left_y=434&top_left_x=819)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-037.jpg)
 
 ---
 ### Example 26:
@@ -898,7 +898,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-17.jpg?height=430&width=273&top_left_y=994&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-038.jpg)
 
 ---
 ### Example 27:
@@ -906,7 +906,7 @@ In the given figure, $ABCD$ is a square, $M$ is the midpoint of $AB$ and $PQ \pe
 
 **GIVEN:** A square $ABCD$ in which $M$ is the midpoint of $AB$. $PQ \perp CM$ meets $AD$ at $P$ and $CB$ produced at $Q$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-17.jpg?height=249&width=265&top_left_y=1598&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-039.jpg)
 
 **TO PROVE:** (i) $PA=QB$ and (ii) $CP=AB+PA$.
 
@@ -942,8 +942,8 @@ In the given figure, the two sides $AB$ and $BC$, and the median $AD$ of $\trian
 
 **GIVEN:** $\triangle ABC$ and $\triangle PQR$ in which $AB=PQ, BC=QR$ and median $AD$ of $\triangle ABC =$ median $PM$ of $\triangle PQR$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-18.jpg?height=186&width=257&top_left_y=1194&top_left_x=362)
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-18.jpg?height=188&width=265&top_left_y=1194&top_left_x=672)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-040.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-041.jpg)
 
 **TO PROVE:** $\triangle ABC \cong \triangle PQR$.
 
@@ -973,7 +973,7 @@ $$
 ### Example 29:
 In the given figure, the bisectors of $\angle B$ and $\angle C$ of $\triangle ABC$ meet at I. If $IP \perp BC, IQ \perp CA$ and $IR \perp AB$, prove that (i) $IP=IQ=IR$, (ii) $IA$ bisects $\angle A$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-19.jpg?height=228&width=352&top_left_y=330&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-042.jpg)
 
 **GIVEN:** A $\triangle ABC$ in which $BI$ and $CI$ are the bisectors of $\angle B$ and $\angle C$ respectively. $IP \perp BC, IQ \perp CA$ and $IR \perp AB$.
 
@@ -1014,7 +1014,7 @@ $\angle ABE=\angle CBF$ and $\angle EBD=\angle FBD$
 $\Rightarrow \angle ABE+\angle EBD=\angle CBF+\angle FBD$
 $\Rightarrow \angle ABD=\angle CBD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-19.jpg?height=382&width=328&top_left_y=1548&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK-043.jpg)
 
 Now, in $\triangle ABD$ and $\triangle CBD$, we have
 $$

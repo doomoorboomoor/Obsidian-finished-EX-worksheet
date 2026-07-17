@@ -4,7 +4,7 @@
 
 **Heron of Alexandria** (c. 10 AD – c. 75 AD) was a Greek mathematician and engineer who was active in his native city of Alexandria, Roman Egypt. He is considered one of the greatest experimenters of antiquity and his work is representative of the Hellenistic scientific tradition. Heron published a well-recognized formula for the area of a triangle, now known as **Heron's formula**. He also wrote three books on mensuration, dealing with the areas of squares, rectangles, triangles, trapezia, regular polygons, circles, and the surfaces of cylinders, cones, and spheres.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-16.jpg?height=314&width=241&top_left_y=438&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-001.jpg)
 
 ---
 
@@ -235,7 +235,7 @@ $$
 $$
 The area of the triangle is **$12\sqrt{3}$ cm²**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-19.jpg?height=259&width=229&top_left_y=575&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-002.jpg)
 
 ---
 
@@ -248,7 +248,7 @@ From a point in the interior of an equilateral triangle, perpendiculars are draw
 Let $\triangle ABC$ be the equilateral triangle with side length $a$. Let $P$ be the interior point.
 Let the perpendiculars from $P$ to the sides $BC$, $AC$, and $AB$ be $PL=14 \text{ cm}$, $PM=10 \text{ cm}$, and $PN=6 \text{ cm}$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-19.jpg?height=253&width=251&top_left_y=1272&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-003.jpg)
 
 The area of the large triangle is the sum of the areas of the three smaller triangles formed by joining $P$ to the vertices:
 $$
@@ -312,7 +312,7 @@ The base of an isosceles triangle measures 24 cm and its area is 192 cm². Find 
 Let $\triangle ABC$ be an isosceles triangle with base $BC = 24 \text{ cm}$. Let $AL$ be the altitude to the base.
 Given **area** $= 192 \text{ cm}^2$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-20.jpg?height=223&width=225&top_left_y=1409&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-004.jpg)
 
 We first find the height ($h = AL$):
 $$
@@ -390,7 +390,7 @@ Calculate the area of the shaded region in the given figure.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-21.jpg?height=389&width=229&top_left_y=1057&top_left_x=974)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-005.jpg)
 
 The area of the shaded region is the area of the larger triangle minus the area of the smaller triangle.
 $$
@@ -443,7 +443,7 @@ Find the area of the quadrilateral $ABCD$ in which $AB=9 \text{ cm}$, $BC=40 \te
 
 The area of the quadrilateral can be found by splitting it into two triangles, $\triangle ABC$ and $\triangle ACD$, along the diagonal $AC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-22.jpg?height=253&width=253&top_left_y=1115&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-006.jpg)
 
 First, consider the right-angled $\triangle ABC$:
 $$
@@ -483,7 +483,7 @@ The adjacent sides of a parallelogram $ABCD$ are $AB=34 \text{ cm}$, $BC=20 \tex
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-23.jpg?height=210&width=281&top_left_y=167&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-007.jpg)
 
 A diagonal divides a parallelogram into two triangles of equal area. We can find the area of $\triangle ABC$ and multiply it by 2.
 For $\triangle ABC$, the sides are $a=20 \text{ cm}$, $b=42 \text{ cm}$ (diagonal), and $c=34 \text{ cm}$.
@@ -524,7 +524,7 @@ $$
 
 ### Example: 14
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-23.jpg?height=278&width=277&top_left_y=1037&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-008.jpg)
 
 In a four-sided field, the length of the longer diagonal is 128 m. The lengths of the perpendiculars from the opposite vertices upon this diagonal are 22.7 m and 17.3 m. Find the area of the field.
 
@@ -533,7 +533,7 @@ In a four-sided field, the length of the longer diagonal is 128 m. The lengths o
 Let the diagonal $AC = 128 \text{ m}$.
 Let the perpendiculars be $h_1 = 22.7 \text{ m}$ and $h_2 = 17.3 \text{ m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-23.jpg?height=254&width=251&top_left_y=1488&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-009.jpg)
 
 Using the formula:
 $$
@@ -554,7 +554,7 @@ Find the area of the quadrilateral $ABCD$ in which $AB=9 \text{ m}$, $BC=40 \tex
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-24.jpg?height=160&width=471&top_left_y=326&top_left_x=724)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-010.jpg)
 
 First, calculate the area of the right-angled $\triangle ABC$:
 $$
@@ -601,7 +601,7 @@ $$
 $$
 Let the diagonal be $PR = 160 \text{ m}$. The diagonal splits the rhombus into two congruent triangles, $\triangle PQR$ and $\triangle PSR$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-24.jpg?height=269&width=281&top_left_y=1574&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-011.jpg)
 
 Consider $\triangle PQR$, with sides $PQ=100 \text{ m}$, $QR=100 \text{ m}$, and $PR=160 \text{ m}$.
 Semiperimeter $s$:
@@ -629,7 +629,7 @@ Find the area of the parallelogram $ABCD$ in which $BC=12 \text{ cm}$, $CD=17 \t
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-25.jpg?height=272&width=275&top_left_y=749&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-012.jpg)
 
 The diagonal $BD$ divides the parallelogram into two congruent triangles, $\triangle BCD$ and $\triangle DAB$.
 First, find the area of $\triangle BCD$ with sides $12 \text{ cm}$, $17 \text{ cm}$, and $25 \text{ cm}$.
@@ -670,7 +670,7 @@ The adjacent sides of a parallelogram are 36 cm and 27 cm in length. If the dist
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-26.jpg?height=262&width=390&top_left_y=167&top_left_x=807)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-013.jpg)
 
 Let the sides be $a = 36 \text{ cm}$ (longer side) and $b = 27 \text{ cm}$ (shorter side).
 The distance between the shorter sides is the altitude corresponding to base $b$, so $h_b = 12 \text{ cm}$.
@@ -713,7 +713,7 @@ Let the point of intersection be $O$. Then,
 $OA = \frac{1}{2} \times 48 = 24 \text{ cm}$ and $OB = \frac{1}{2} \times 20 = 10 \text{ cm}$.
 Also, $\angle AOB = 90^\circ$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-26.jpg?height=259&width=289&top_left_y=845&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-014.jpg)
 
 Using **Pythagoras' theorem** in the right-angled $\triangle AOB$ to find the side length $AB$:
 $$
@@ -735,7 +735,7 @@ Find the area of the given trapezium $PQRS$ in which $RQ \| SP$ and $PQ \perp SP
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-26.jpg?height=370&width=297&top_left_y=1449&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-015.jpg)
 
 Draw a line $RT$ perpendicular to $SP$. This forms a rectangle $PQRT$.
 So, $TP = RQ = 7 \text{ m}$.
@@ -767,7 +767,7 @@ In the given figure, $ABCD$ is a rectangle of length 51 cm and breadth 25 cm. A 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-27.jpg?height=301&width=479&top_left_y=543&top_left_x=720)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-016.jpg)
 
 **Area of rectangle** $ABCD = \text{length} \times \text{breadth} = 51 \times 25 = 1275 \text{ cm}^2$.
 
@@ -807,7 +807,7 @@ A farmer has a triangular field with sides 360 m, 200 m and 240 m, where he grow
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-28.jpg?height=387&width=396&top_left_y=167&top_left_x=801)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-017.jpg)
 
 **Area for Wheat (Triangle ABC):**
 Sides are $a=200 \text{ m}$, $b=240 \text{ m}$, $c=360 \text{ m}$.
@@ -860,7 +860,7 @@ Reenu made a picture of an aeroplane with coloured paper as shown in the figure 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-29.jpg?height=684&width=340&top_left_y=406&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-018.jpg)
 
 **Area of Region I (Isosceles Triangle):**
 Sides are $a=5 \text{ cm}$, $b=5 \text{ cm}$, $c=1 \text{ cm}$.
@@ -875,7 +875,7 @@ $\text{Area} = 6.5 \times 1 = 6.5 \text{ cm}^2$.
 Parallel sides are 1 cm and 2 cm. Equal non-parallel sides are 1 cm.
 Height $h = \sqrt{1^2 - 0.5^2} = \sqrt{0.75} = \frac{\sqrt{3}}{2} \text{ cm}$.
 $\text{Area} = \frac{1}{2}(1+2) \times \frac{\sqrt{3}}{2} = \frac{3\sqrt{3}}{4} \approx \frac{3 \times 1.732}{4} \approx 1.3 \text{ cm}^2$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-29.jpg?height=156&width=267&top_left_y=1627&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-019.jpg)
 
 **Area of Region IV (Right Triangle):**
 Base = 1.5 cm, Height = 6 cm.
@@ -897,7 +897,7 @@ A kite in the shape of a square with a diagonal 32 cm and an isosceles triangle 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-30.jpg?height=357&width=293&top_left_y=1103&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-020.jpg)
 
 The kite consists of a square $ABCD$ and an isosceles triangle $DEF$. The diagonal of the square $AC = 32 \text{ cm}$.
 
@@ -938,7 +938,7 @@ A field is in the shape of a trapezium whose parallel sides are 25 m and 10 m an
 
 Let the trapezium be $ABCD$ with $AB=25 \text{ m}$ parallel to $CD=10 \text{ m}$. Non-parallel sides are $DA=14 \text{ m}$ and $BC=13 \text{ m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-31.jpg?height=287&width=465&top_left_y=994&top_left_x=732)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Mensuration/Areas-of-Triangles-and-Quadrilaterals/class-09-Ch-14-A-BooK-021.jpg)
 
 Draw $CE \| DA$. This makes $ADCE$ a parallelogram.
 So, $AE = CD = 10 \text{ m}$ and $CE = DA = 14 \text{ m}$.

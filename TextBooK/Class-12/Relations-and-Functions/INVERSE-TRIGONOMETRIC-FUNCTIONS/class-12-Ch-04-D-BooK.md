@@ -26,7 +26,7 @@ $F\left(-0.7, \frac{-\pi}{4}\right), G\left(-0.86, \frac{-\pi}{3}\right)$ and
 $H\left(-1, \frac{-\pi}{2}\right)$.
 Join the points $O A, A B, B C, C D$, and $O E, E F, F G, G H$ successively with a
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-134.jpg?height=797&width=406&top_left_y=504&top_left_x=744)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/INVERSE-TRIGONOMETRIC-FUNCTIONS/class-12-Ch-04-D-BooK-001.jpg)
 *Graph of $\sin ^{-1} x$*
 Scale: Along the $x$-axis, 10 small divisions $=1$
 Along the $y$-axis, 5 small divisions $=\pi / 6$
@@ -69,7 +69,7 @@ $$
 
 Join $A B, B C, C D, D E, E F, F G, G H$ and $H K$ successively freehand to obtain the graph of $\cos ^{-1} x$, as shown in the given figure.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-135.jpg?height=698&width=406&top_left_y=1104&top_left_x=447)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/INVERSE-TRIGONOMETRIC-FUNCTIONS/class-12-Ch-04-D-BooK-002.jpg)
 *Graph of $\cos ^{-1} x$*
 Scale: Along the $x$-axis, 10 small divisions $=1$
 Along the $y$-axis, 5 small divisions $=\pi / 6$
@@ -98,7 +98,7 @@ Join $O A, A B, B C$, and $O D, D E, E F$ successively freehand to get the graph
 Now, when $x \rightarrow \infty$, then $\tan ^{-1} x \rightarrow \frac{\pi}{2}$.
 Also, when $x \rightarrow-\infty$, then $\tan ^{-1} x \rightarrow \frac{-\pi}{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-136.jpg?height=402&width=793&top_left_y=1387&top_left_x=267)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/INVERSE-TRIGONOMETRIC-FUNCTIONS/class-12-Ch-04-D-BooK-003.jpg)
 *Graph of $\tan ^{-1} x$*
 
 ---
@@ -124,7 +124,7 @@ We join the points $A B, B C, C D, D E, E F, F G$ successively to get the graph.
 As $x \rightarrow \infty$, then $\cot ^{-1} x \rightarrow 0$.
 And, as $x \rightarrow-\infty$, then $\cot ^{-1} x \rightarrow \pi$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-137.jpg?height=408&width=804&top_left_y=1312&top_left_x=259)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/INVERSE-TRIGONOMETRIC-FUNCTIONS/class-12-Ch-04-D-BooK-004.jpg)
 *Graph of $\cot ^{-1} x$*
 Scale: Along the $x$-axis, 10 small divisions $=1$
 Along the $y$-axis, 5 small divisions $=\pi / 6$
@@ -156,7 +156,7 @@ $$
 
 We join the points $A B, B C, C D, D E$, and $H G, G F, F E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-138.jpg?height=400&width=797&top_left_y=1296&top_left_x=263)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/INVERSE-TRIGONOMETRIC-FUNCTIONS/class-12-Ch-04-D-BooK-005.jpg)
 *Graph of $\sec ^{-1} x$*
 Scale: Along the $x$-axis, 10 small divisions = 1
 Along the $y$-axis, 5 small divisions $=\pi / 6$
@@ -189,7 +189,7 @@ Join the points as shown in the given figure, to get the graph.
 Also as $x \rightarrow 0$ from + ve values, then $\operatorname{cosec}^{-1} x \rightarrow \infty$.
 As $x \rightarrow 0$ from - ve values, then $\operatorname{cosec}^{-1} x \rightarrow-\infty$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c2030f1a984df749fceag-139.jpg?height=602&width=797&top_left_y=1196&top_left_x=263)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Relations-and-Functions/INVERSE-TRIGONOMETRIC-FUNCTIONS/class-12-Ch-04-D-BooK-006.jpg)
 *Graph of $\operatorname{cosec}^{-1} x$*
 Scale: Along the $x$-axis, 10 small divisions = 1
 Along the $y$-axis, 5 small divisions $=\pi / 6$

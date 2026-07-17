@@ -32,7 +32,7 @@ We construct rectangles with class intervals as bases and the corresponding freq
 
 Thus, we obtain a histogram as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-15.jpg?height=550&width=631&top_left_y=165&top_left_x=372)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-001.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ Clearly, the given frequency distribution is in **exclusive form**. We represent
 
 We construct rectangles with class intervals as bases and the corresponding frequencies as heights. Thus, we obtain a histogram, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-15.jpg?height=559&width=631&top_left_y=1381&top_left_x=396)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-002.jpg)
 
 ---
 
@@ -70,7 +70,7 @@ We represent the class intervals along the $x$-axis on a suitable scale and the 
 
 Since the scale along the $x$-axis starts at ₹500, a **kink**, i.e. a break ($\triangle$), is indicated at the origin. We construct rectangles with class intervals as bases and the corresponding frequencies as heights. Thus, we obtain a histogram, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-16.jpg?height=553&width=593&top_left_y=1006&top_left_x=426)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-003.jpg)
 
 ---
 
@@ -106,7 +106,7 @@ We represent the class intervals along the $x$-axis on a suitable scale and mark
 
 Since the reading along the $x$-axis does not start with 0, we use a **kink** ($\triangle$) at the origin. We construct rectangles with class intervals as bases and the corresponding frequencies as heights. Thus, we obtain the histogram as shown just below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-17.jpg?height=805&width=640&top_left_y=1115&top_left_x=428)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-004.jpg)
 
 ---
 
@@ -138,7 +138,7 @@ We represent the class intervals along the $x$-axis, using a suitable scale and 
 
 Since we do not start the length from 0, we use a **kink** ($\triangle$) at the beginning of the $x$-axis, as shown below. Now, we obtain the required histogram, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-19.jpg?height=689&width=695&top_left_y=167&top_left_x=300)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-005.jpg)
 
 ---
 
@@ -186,7 +186,7 @@ Thus, we have:
 
 Since along the $x$-axis we do not start with 0, we use a **kink** ($\triangle$) in the beginning. Now, we draw rectangles with given class intervals along the $x$-axis on a suitable scale and their corresponding heights along the $y$-axis on another suitable scale. Thus, we obtain the histogram of the given data, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-20.jpg?height=519&width=696&top_left_y=986&top_left_x=374)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-006.jpg)
 
 ---
 
@@ -227,7 +227,7 @@ The height of the rectangle for $7-10$ is $\left(\frac{9}{3} \times 1\right)=3$,
 
 Now, we draw rectangles with given class intervals along the $x$-axis on a suitable scale and their corresponding heights along the $y$-axis on another suitable scale. Thus, we obtain the histogram of the given data, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-21.jpg?height=501&width=680&top_left_y=1467&top_left_x=378)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-007.jpg)
 
 ---
 
@@ -285,7 +285,7 @@ We take the **imagined classes** 20-30 and 100-110, each with frequency 0. Now, 
 
 Joining these points in pairs successively, we obtain the required frequency polygon $ABCDEFGHI$, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-23.jpg?height=418&width=680&top_left_y=1234&top_left_x=408)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-008.jpg)
 
 ---
 
@@ -320,7 +320,7 @@ $A(45,0), B(55,12), C(65,16), D(75,25), E(85,20), F(95,32), G(105,27), H(115,18)
 
 Join these points successively in pairs to get the required frequency polygon $ABCDEFGHI$, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-24.jpg?height=676&width=952&top_left_y=1256&top_left_x=245)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-009.jpg)
 
 ---
 
@@ -358,7 +358,7 @@ Plot the points $A(27,0), B(32,12), C(37,16), D(42,20), E(47,8), F(52,10), G(57,
 
 We draw line segments $AB, BC, CD, DE, EF, FG$ and $GH$ to obtain the required frequency polygon, shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-26.jpg?height=659&width=648&top_left_y=169&top_left_x=410)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-010.jpg)
 
 ---
 
@@ -395,7 +395,7 @@ To obtain the frequency polygon of **section A**, we plot the points $A(-5,0), B
 
 To obtain the frequency polygon of **section B**, we plot the points $A(-5,0), P(5,5), Q(15,19), R(25,15), S(35,10), T(45,1)$ and $G(55,0)$. Now, join these points successively to obtain the frequency polygon $APQRSTG$, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-27.jpg?height=669&width=744&top_left_y=654&top_left_x=362)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Statistics-and-Probability/Bar-Graph%2C-Histogram-and-Frequency-Polygon/class-09-Ch-17-B-BooK-011.jpg)
 
 ---
 

@@ -8,7 +8,7 @@ Represent each of the numbers $\sqrt{2}$, $\sqrt{3}$ and $\sqrt{5}$ on the real 
 
 Let $X^{\prime} O X$ be a horizontal line, taken as the **x-axis** and let $O$ be the **origin**. Let $O$ represent $0$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-29.jpg?height=327&width=778&top_left_y=763&top_left_x=360)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-E-BooK-001.jpg)
 
 Take $OA=1$ unit and draw $AB \perp OA$ such that $AB=1$ unit. Join $OB$. Then, by **Pythagoras' theorem**:
 
@@ -68,7 +68,7 @@ Represent each of the numbers $\sqrt{5}$, $\sqrt{6}$ and $\sqrt{7}$ on the real 
 Draw a horizontal line $X^{\prime} O X$, taken as the **x-axis**.
 Take $O$ as the origin to represent $0$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-30.jpg?height=342&width=768&top_left_y=857&top_left_x=354)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-E-BooK-002.jpg)
 
 Let $OA=2$ units and let $AB \perp OA$ such that $AB=1$ unit.
 Join $OB$. Then,
@@ -116,7 +116,7 @@ Let $x$ be a given positive real number. We shall prove the existence of $\sqrt{
 **Step 1:** Finding $\sqrt{x}$ geometrically.
 Draw a line segment $AB=x$ units and extend it to $C$ such that $BC=1$ unit. Find the midpoint $O$ of $AC$. With $O$ as centre and $OA$ as radius, draw a semicircle. Now, draw $BD \perp AC$, intersecting the semicircle at $D$. We shall show that $BD=\sqrt{x}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-31.jpg?height=244&width=681&top_left_y=1194&top_left_x=308)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-E-BooK-003.jpg)
 
 **Step 2:** Proving that $BD=\sqrt{x}$.
 We have, $AB=x$ units and $BC=1$ unit. So, $AC=(x+1)$ units.
@@ -159,7 +159,7 @@ Find the value of $\sqrt{4.3}$ geometrically.
 
 Draw a line segment $AB=4.3$ units and extend it to $C$ such that $BC=1$ unit. Find the midpoint $O$ of $AC$. With $O$ as centre and $OA$ as radius, draw a semicircle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-32.jpg?height=247&width=565&top_left_y=1000&top_left_x=366)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-E-BooK-004.jpg)
 
 Now, draw $BD \perp AC$, intersecting the semicircle at $D$.
 Then, $BD=\sqrt{4.3}$ units.
@@ -175,7 +175,7 @@ Represent $\sqrt{8.47}$ on the real line.
 
 Draw a line segment $AB=8.47$ units and extend it to $C$ such that $BC=1$ unit. Find the midpoint $O$ of $AC$. With $O$ as centre and $OA$ as radius, draw a semicircle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-32.jpg?height=245&width=678&top_left_y=1699&top_left_x=404)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-E-BooK-005.jpg)
 
 Now, draw $BD \perp AC$, intersecting the semicircle at $D$.
 Then, $BD=\sqrt{8.47}$ units.
@@ -193,7 +193,7 @@ Locate $3.895$ on the number line.
 
 We proceed stepwise as follows using the method of **successive magnification**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-33.jpg?height=502&width=952&top_left_y=1345&top_left_x=243)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-E-BooK-006.jpg)
 
 - **Step 1:** The number $3.895$ lies between $3$ and $4$. We divide this section into 10 equal parts and mark them as $3.1, 3.2, 3.3, \dots$ as shown in Fig. (ii).
 
@@ -213,7 +213,7 @@ Visualize the representation of $2.3\overline{2}$ on the number line up to 4 dec
 
 The number $2.3\overline{2}$ is equal to $2.3222\dots$. We will represent $2.3222$ (up to 4 decimal places). We proceed stepwise as follows:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-34.jpg?height=593&width=1059&top_left_y=1041&top_left_x=138)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-E-BooK-007.jpg)
 
 - **Step 1:** The number $2.3222$ lies between $2$ and $3$. We divide this portion into 10 equal parts and mark them as $2.1, 2.2, 2.3, \dots$, as shown in Fig. (ii).
 

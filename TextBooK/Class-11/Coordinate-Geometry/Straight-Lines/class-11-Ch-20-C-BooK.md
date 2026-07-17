@@ -22,7 +22,7 @@ Hence, the **equation of y-axis is** $x=0$.
 
 Let $AB$ be a straight line parallel to the $y$-axis lying on its right-hand side at a distance $a$ from it.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-19.jpg?height=380&width=557&top_left_y=213&top_left_x=634)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-001.jpg)
 
 Then, the abscissa of each point on $AB$ is $a$.
 If $P(x, y)$ is any point on $AB$ then $x=a$.
@@ -33,7 +33,7 @@ Similarly, the equation of a vertical line at a distance $a$ from the $y$-axis, 
 
 Let $AB$ be a straight line parallel to the $x$-axis, lying above it at a distance $b$ from it. Then, the ordinate of each point on $AB$ is $b$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-19.jpg?height=378&width=563&top_left_y=692&top_left_x=634)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-002.jpg)
 
 If $P(x, y)$ is any point on $AB$, then $y=b$.
 Thus, the equation of a horizontal line at a distance $b$ from the $x$-axis, lying above the $x$-axis is $y=b$.
@@ -96,7 +96,7 @@ Find the equations of the lines parallel to the axes and passing through the poi
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-20.jpg?height=379&width=463&top_left_y=936&top_left_x=734)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-003.jpg)
 
 We know that:
 1. The equation of a line parallel to the $x$-axis and passing through $(-3, 5)$ is $y=5$.
@@ -134,7 +134,7 @@ Find the equation of a line which is equidistant from the lines $x=-3$ and $x=5$
 
 Let $X'OX$ and $YOY'$ be the coordinate axes.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-21.jpg?height=426&width=569&top_left_y=511&top_left_x=362)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-004.jpg)
 
 Let $L_{1}$ be the line $x=-3$. Then, it is parallel to the $y$-axis. It meets the $x$-axis at $A(-3,0)$.
 Let $L_{2}$ be the line $x=5$. Then, it is parallel to the $y$-axis. It meets the $x$-axis at $B(5,0)$.
@@ -153,7 +153,7 @@ Prove that the equation of a non-vertical line with slope $m$ and passing throug
 
 Let $L$ be a non-vertical line with slope $m$ and passing through a point $A(x_{1}, y_{1})$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-21.jpg?height=374&width=428&top_left_y=1556&top_left_x=436)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-005.jpg)
 
 Let $P(x, y)$ be an arbitrary point on $L$.
 Then, slope of line $L=\frac{(y-y_{1})}{(x-x_{1})}$.
@@ -223,7 +223,7 @@ $$
 
 Let $L$ be the line passing through the points $A(x_{1}, y_{1})$ and $B(x_{2}, y_{2})$ and let $P(x, y)$ be an arbitrary point on $L$. Then, clearly we have slope of $AP$ = slope of $AB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-22.jpg?height=358&width=489&top_left_y=1604&top_left_x=710)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-006.jpg)
 
 $$
 \Rightarrow \frac{(y-y_{1})}{(x-x_{1})}=\frac{(y_{2}-y_{1})}{(x_{2}-x_{1})}
@@ -341,7 +341,7 @@ $$
 D\left(\frac{-4-2}{2}, \frac{9-1}{2}\right), E\left(\frac{-2+2}{2}, \frac{-1+5}{2}\right) \text{ and } F\left(\frac{2-4}{2}, \frac{5+9}{2}\right)
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-24.jpg?height=284&width=386&top_left_y=1180&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-007.jpg)
 
 i.e., $D(-3, 4)$, $E(0, 2)$ and $F(-1, 7)$.
 Thus, $AD, BE$ and $CF$ are the medians of $\triangle ABC$.
@@ -381,7 +381,7 @@ Find the equation of the perpendicular bisector of the line joining the points $
 Here, $A(2, 3)$ and $B(6, -5)$ are the end points of the given line segment.
 The midpoint of $AB$ is $M\left(\frac{2+6}{2}, \frac{3-5}{2}\right)$, i.e., $M(4, -1)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-25.jpg?height=330&width=444&top_left_y=436&top_left_x=751)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-008.jpg)
 
 Slope of $AB = \frac{-5-3}{6-2}=-2$.
 Let $LM \perp AB$ and let the slope of $LM$ be $m$.
@@ -404,7 +404,7 @@ If $A(2,1)$, $B(-2,3)$ and $C(4,5)$ are the vertices of a $\triangle ABC$ then f
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-25.jpg?height=331&width=434&top_left_y=1492&top_left_x=430)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-009.jpg)
 
 1. **Median through C:**
 Let $F$ be the midpoint of side $AB$. Then, $CF$ is the median through $C$.
@@ -450,7 +450,7 @@ Find the equation of the bisector of $\angle A$ of $\triangle ABC$, whose vertic
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-26.jpg?height=308&width=452&top_left_y=1616&top_left_x=747)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-C-BooK-010.jpg)
 
 Let $AD$ be the bisector of $\angle A$. Then, $BD:DC = AB:AC$.
 Now, $|AB| = \sqrt{(5-(-2))^{2}+(5-4)^{2}} = \sqrt{7^2 + 1^2} = \sqrt{49+1} = \sqrt{50} = 5\sqrt{2}$.

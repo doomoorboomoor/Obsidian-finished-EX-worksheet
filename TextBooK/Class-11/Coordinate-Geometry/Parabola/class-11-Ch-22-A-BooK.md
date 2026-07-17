@@ -8,14 +8,14 @@
 
 When $M$ is rotated around the line $L$ such that $\alpha$ remains constant, then the surface generated is a double-napped right circular hollow cone.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-01.jpg?height=390&width=297&top_left_y=539&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-001.jpg)
 
 * The line $L$ is called the **axis** of the cone.
 * $A$ is called its **vertex**.
 * The line $M$ is called the **generator**.
 * The two parts, separated by the point $A$ are called **nappes**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-01.jpg?height=361&width=269&top_left_y=1107&top_left_x=515)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-002.jpg)
 
 **CONIC SECTIONS:** When a right circular cone is intersected by a plane, the curves obtained are known as conic sections.
 
@@ -36,7 +36,7 @@ In this case, the following situations arise:
 
 | (i) $\left(\alpha<\beta=90^{\circ}\right)$ | (ii) | (iii) | (iv) |
 | :---: | :---: | :---: | :---: |
-| ![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-02.jpg?height=354&width=235&top_left_y=398&top_left_x=106) | ![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-02.jpg?height=394&width=239&top_left_y=398&top_left_x=354) | ![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-02.jpg?height=456&width=194&top_left_y=332&top_left_x=664) | ![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-02.jpg?height=430&width=247&top_left_y=358&top_left_x=944) |
+| ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-003.jpg) | ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-004.jpg) | ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-005.jpg) | ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-006.jpg) |
 
 ### Case 2: When the plane cuts the nappe at the vertex
 
@@ -48,7 +48,7 @@ In this case, the following situations arise:
 
 | (v) | (vi) | (vii) |
 | :---: | :---: | :---: |
-| ![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-02.jpg?height=370&width=241&top_left_y=1163&top_left_x=217) | ![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-02.jpg?height=418&width=277&top_left_y=1135&top_left_x=499) | ![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-02.jpg?height=422&width=217&top_left_y=1103&top_left_x=861) |
+| ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-007.jpg) | ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-008.jpg) | ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-009.jpg) |
 
 ---
 
@@ -63,7 +63,7 @@ In this case, the following situations arise:
 
 In the adjoining figure, $C$ is a parabola with focus $F$ and the line $D D^{\prime}$ as its directrix. Clearly, $x$-axis is the axis of the parabola and $O(0,0)$ is its vertex.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-03.jpg?height=358&width=450&top_left_y=269&top_left_x=745)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-010.jpg)
 
 If we take an arbitrary point $P$ on the parabola and draw $P M \perp D D^{\prime}$ then by the definition of a parabola, we have $P F=P M$.
 
@@ -78,7 +78,7 @@ Let $P(x, y)$ be an arbitrary point on the parabola. Let $P M \perp D D^{\prime}
 
 Then, by the definition of a parabola, we have $P F=P M$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-03.jpg?height=351&width=432&top_left_y=815&top_left_x=759)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-011.jpg)
 
 Now,
 
@@ -134,7 +134,7 @@ $$
 
 Hence, the length of the latus rectum is $4 a$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-04.jpg?height=442&width=446&top_left_y=791&top_left_x=749)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-012.jpg)
 
 The end points of the latus rectum are $L(a, 2 a)$ and $L^{\prime}(a,-2 a)$.
 The equation of the latus rectum is $x=a$.
@@ -164,7 +164,7 @@ Proceeding as above, we can easily show that $y^{2}=-4 a x$ is the equation of a
 (v) length of the latus rectum is $4 a$
 (vi) latus rectum is the line $x=-a$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-05.jpg?height=384&width=414&top_left_y=217&top_left_x=781)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-013.jpg)
 
 ---
 
@@ -182,7 +182,7 @@ This is easy to show that $x^{2}=4 a y$ is the equation of a parabola whose focu
 (v) length of latus rectum is $4 a$
 (vi) latus rectum is the line $y-a=0$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-05.jpg?height=381&width=392&top_left_y=918&top_left_x=805)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-014.jpg)
 
 ---
 
@@ -200,7 +200,7 @@ We can easily prove that $x^{2}=-4 a y$ is the equation of a parabola whose focu
 (v) length of latus rectum is $4 a$
 (vi) latus rectum is the line $y+a=0$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-05.jpg?height=382&width=388&top_left_y=1566&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-015.jpg)
 
 ---
 
@@ -231,7 +231,7 @@ $$
 Its axis is $x$-axis, whose equation is $y=0$.
 Length of latus rectum $=4 a=(4 \times 2)$ units $=8$ units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-06.jpg?height=297&width=493&top_left_y=1063&top_left_x=702)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-016.jpg)
 
 ---
 
@@ -247,7 +247,7 @@ The equation of the directrix is $x=a$, i.e., $x=3$.
 Its axis is $x$-axis, whose equation is $y=0$.
 Length of latus rectum $=4 a=(4 \times 3)$ units $=12$ units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-06.jpg?height=295&width=414&top_left_y=1580&top_left_x=785)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-017.jpg)
 
 ---
 
@@ -263,7 +263,7 @@ The equation of the directrix is $y=-a$, i.e., $y=\frac{-3}{2}$, i.e., $2 y+3=0$
 Its axis is $y$-axis, whose equation is $x=0$.
 Length of latus rectum $=4 a=\left(4 \times \frac{3}{2}\right)$ units $=6$ units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-07.jpg?height=376&width=489&top_left_y=394&top_left_x=706)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-018.jpg)
 
 ---
 
@@ -278,7 +278,7 @@ The equation of the directrix is $y=a$, i.e., $y=4$.
 Its axis is $y$-axis, whose equation is $x=0$.
 Length of latus rectum $=4 a=(4 \times 4)$ units $=16$ units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-07.jpg?height=406&width=497&top_left_y=1008&top_left_x=698)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-019.jpg)
 
 ---
 
@@ -291,7 +291,7 @@ Focus $F(3,0)$ lies to the righthand side of the origin.
 So, it is a right-handed parabola.
 Let the required equation be $y^{2}=4 a x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-07.jpg?height=293&width=487&top_left_y=1562&top_left_x=708)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-020.jpg)
 
 Then, focus is $F(a, 0)$. So, $a=3$.
 Hence, the required equation is $y^{2}=12 x$.
@@ -308,7 +308,7 @@ Thus, the directrix is a line parallel to the $x$-axis at a distance of 3 units 
 So, the focus of the parabola lies on the $y$-axis.
 Consequently, the focus is $F(0,3)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-08.jpg?height=405&width=507&top_left_y=304&top_left_x=690)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-021.jpg)
 
 Hence, the equation of the parabola is
 
@@ -334,7 +334,7 @@ Then, its focus is $F(0, a)$ and so $a=2$.
 Hence, the required equation is $x^{2}=8 y$.
 Also, the equation of the directrix is $y=-2$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-08.jpg?height=410&width=303&top_left_y=970&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-022.jpg)
 
 ---
 
@@ -349,7 +349,7 @@ $\therefore \quad$ it is a downward parabola.
 Let its equation be $x^{2}=-4 a y$.
 Since it passes through the point $P(3,-4)$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-08.jpg?height=409&width=366&top_left_y=1486&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-023.jpg)
 
 $$
 3^{2}=-4 \times a \times(-4) \Rightarrow a=\frac{9}{16}
@@ -374,7 +374,7 @@ $\therefore \quad$ it is a right-handed parabola.
 So, its equation is $y^{2}=4 a x$.
 Now, $P(2,3)$ lies on it, so
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ff535475ec518cbaad56g-09.jpg?height=369&width=420&top_left_y=503&top_left_x=779)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Parabola/class-11-Ch-22-A-BooK-024.jpg)
 
 $$
 3^{2}=4 a \times 2 \Rightarrow a=\frac{9}{8}

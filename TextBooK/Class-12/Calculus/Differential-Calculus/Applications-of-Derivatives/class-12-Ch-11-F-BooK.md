@@ -210,7 +210,7 @@ Let $A$ be the area of rectangle $A B C D$.
 Then, $A=A B \times B C=4 r^{2} \sin \theta \cos \theta=2 r^{2} \sin 2 \theta$.
 Thus, $A=2 r^{2} \sin 2 \theta$, where $r$ is constant.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-190.jpg?height=204&width=209&top_left_y=840&top_left_x=998)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-F-BooK-001.jpg)
 
 $\therefore \quad \frac{d A}{d \theta}=4 r^{2} \cos 2 \theta$ and $\frac{d^{2} A}{d \theta^{2}}=-8 r^{2} \sin 2 \theta$.
 Now, $\frac{d A}{d \theta}=0 \Rightarrow 4 r^{2} \cos 2 \theta=0 \Rightarrow \cos 2 \theta=0 \Rightarrow 2 \theta=\frac{\pi}{2}$, i.e., $\theta=\frac{\pi}{4}$.
@@ -247,7 +247,7 @@ and, $A D=(O A+O D)=(r+r \cos 2 \theta)$.
 Let $A$ be the area of the triangle.
 Then, $\quad A=\frac{1}{2} B C \times A D=r^{2} \sin 2 \theta(1+\cos 2 \theta)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-191.jpg?height=227&width=209&top_left_y=251&top_left_x=996)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-F-BooK-002.jpg)
 
 $$
 \begin{aligned}
@@ -410,7 +410,7 @@ V & =\frac{1}{3} \pi r^{2} h=\frac{1}{3} \pi\left(l^{2} \sin ^{2} \alpha\right)(
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-194.jpg?height=333&width=312&top_left_y=1076&top_left_x=895)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-F-BooK-003.jpg)
 
 Now, for a maxima or minima, we have $\frac{d V}{d \alpha}=0$.
 Now, $\quad \frac{d V}{d \alpha}=0 \Rightarrow \frac{1}{3} \pi l^{3} \sin \alpha\left(2 \cos ^{2} \alpha-\sin ^{2} \alpha\right)=0$
@@ -562,7 +562,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-197.jpg?height=286&width=284&top_left_y=1151&top_left_x=929)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-F-BooK-004.jpg)
 
 Using (ii) in (i), we get
 
@@ -601,7 +601,7 @@ $\therefore \quad \frac{d V}{d h}=\frac{1}{3} \pi h(4 R-3 h)$, and $\frac{d^{2} 
 For a maxima or minima, we have $\frac{d V}{d h}=0$.
 Now, $\frac{d V}{d h}=0 \Rightarrow \frac{1}{3} \pi h(4 R-3 h)=0$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-198.jpg?height=238&width=205&top_left_y=778&top_left_x=1002)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-F-BooK-005.jpg)
 
 $$
 \Rightarrow h=0 \text { or }(4 R-3 h)=0 \Rightarrow h=\frac{4}{3} R \quad[\because h \neq 0]
@@ -626,7 +626,7 @@ Let $P$ be the perimeter.
 Then, $\quad P=h+h \cos \theta+h \sin \theta$.
 $\therefore \frac{d P}{d \theta}=-h \sin \theta+h \cos \theta=h(\cos \theta-\sin \theta)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-198.jpg?height=247&width=217&top_left_y=1646&top_left_x=992)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-F-BooK-006.jpg)
 
 And, $\frac{d^{2} P}{d \theta^{2}}=h(-\sin \theta-\cos \theta)=-h(\sin \theta+\cos \theta)$.
 Now, $\frac{d P}{d \theta}=0 \Rightarrow h(\cos \theta-\sin \theta)=0$
@@ -655,7 +655,7 @@ $\therefore \quad V=(24-2 x)^{2} \times x=4 x^{3}-96 x^{2}+576 x$
 $\Rightarrow \frac{d V}{d x}=12\left(x^{2}-16 x+48\right)$
 and, $\frac{d^{2} V}{d x^{2}}=24(x-8)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-199.jpg?height=306&width=290&top_left_y=907&top_left_x=915)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-F-BooK-007.jpg)
 
 Now, $\frac{d V}{d x}=0 \Rightarrow x^{2}-16 x+48=0$, i.e., $(x-12)(x-4)=0$
 

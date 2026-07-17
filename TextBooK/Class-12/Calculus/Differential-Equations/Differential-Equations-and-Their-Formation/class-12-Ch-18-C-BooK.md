@@ -115,7 +115,7 @@ $$
 \frac{d^{2} y}{d x^{2}}=0
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_dd7839792b746be86d8eg-014.jpg?height=303&width=313&top_left_y=493&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Equations/Differential-Equations-and-Their-Formation/class-12-Ch-18-C-BooK-001.jpg)
 
 ---
 
@@ -209,7 +209,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_dd7839792b746be86d8eg-015.jpg?height=298&width=325&top_left_y=854&top_left_x=880)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Equations/Differential-Equations-and-Their-Formation/class-12-Ch-18-C-BooK-002.jpg)
 
 which is the required differential equation.
 
@@ -241,7 +241,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_dd7839792b746be86d8eg-015.jpg?height=270&width=300&top_left_y=1505&top_left_x=907)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Equations/Differential-Equations-and-Their-Formation/class-12-Ch-18-C-BooK-003.jpg)
 
 Putting the value of $a$ from (ii) in (i), we get
 
@@ -274,7 +274,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_dd7839792b746be86d8eg-016.jpg?height=337&width=353&top_left_y=805&top_left_x=852)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Equations/Differential-Equations-and-Their-Formation/class-12-Ch-18-C-BooK-004.jpg)
 
 Putting the value of $a$ from (ii) in (i), we get
 
@@ -301,7 +301,7 @@ $$
 \frac{2 x}{a^{2}}+\frac{2 y}{b^{2}} \cdot \frac{d y}{d x}=0 \Rightarrow \frac{y}{b^{2}} \cdot \frac{d y}{d x}+\frac{x}{a^{2}}=0
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_dd7839792b746be86d8eg-016.jpg?height=277&width=355&top_left_y=1624&top_left_x=852)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Equations/Differential-Equations-and-Their-Formation/class-12-Ch-18-C-BooK-005.jpg)
 
 $$
 \begin{align*}

@@ -68,13 +68,13 @@ $$
 (i) Solution set $=\{x \in N: x<4.8\} = \{1,2,3,4\}$.
 
 On the number line, we may represent it as shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-02.jpg?height=56&width=958&top_left_y=732&top_left_x=237)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-001.jpg)
 The darkened circles indicate the natural numbers contained in the set.
 
 (ii) Solution set $=\{x \in Z: x<4.8\} = \{4,3,2,1,0,-1,-2,-3, \ldots\} = \{\ldots,-3,-2,-1,0,1,2,3,4\}$.
 
 On the number line, we may represent it as shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-02.jpg?height=59&width=958&top_left_y=1063&top_left_x=237)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-002.jpg)
 The darkened circles show the integers contained in the set and three dark dots above the left part of the line show that the negative integers are continued indefinitely.
 
 ---
@@ -94,12 +94,12 @@ $\Rightarrow \quad x \geq 6$ [dividing both sides by -7].
 
 (i) Solution set $=\{x \in N: x \geq 6\} = \{6,7,8,9, \ldots\}$.
 The graph of this set is the number line, shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-02.jpg?height=54&width=958&top_left_y=1870&top_left_x=237)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-003.jpg)
 The darkened circles indicate the natural numbers contained in the set. Three dots above the right part of the line show that the natural numbers are continued indefinitely.
 
 (ii) Solution set $=\{x \in R: x \geq 6\}=[6, \infty[$.
 The graph of this set is shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-03.jpg?height=49&width=818&top_left_y=388&top_left_x=360)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-004.jpg)
 This graph consists of 6 and all real numbers greater than 6.
 
 ---
@@ -127,7 +127,7 @@ $\Rightarrow \quad x \in(-\infty,-4)$.
 
 $\therefore$ solution set $=(-\infty,-4) \cup(2, \infty)$.
 The graph of the solution set is given below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-03.jpg?height=47&width=828&top_left_y=1256&top_left_x=322)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-005.jpg)
 
 ---
 
@@ -152,7 +152,7 @@ $\Rightarrow -4<x<3 \Rightarrow x \in(-4,3)$.
 
 $\therefore$ solution set $=(-4,3)$.
 The graph of the solution set is given below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-04.jpg?height=50&width=832&top_left_y=265&top_left_x=346)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-006.jpg)
 
 ---
 
@@ -218,7 +218,7 @@ This is not possible, as we cannot find a real number which is greater than $\fr
 
 $\therefore$ solution set $=\left\{x \in R: 2<x<\frac{11}{3}\right\}=\left(2, \frac{11}{3}\right)$.
 We can represent this set on the number line, as given below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-05.jpg?height=67&width=832&top_left_y=640&top_left_x=330)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-007.jpg)
 
 ---
 
@@ -506,7 +506,7 @@ $$
 $$
 $\therefore$ solution set $=(-\infty, 3] \cap(-3, \infty)=(-3,3]$.
 We may represent it on the number line as shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-10.jpg?height=49&width=832&top_left_y=392&top_left_x=318)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-008.jpg)
 
 ---
 
@@ -536,7 +536,7 @@ $$
 $$
 $\therefore$ solution set $=(-\infty, 5) \cap\left[\frac{-3}{2}, \infty\right)=\left[\frac{-3}{2}, 5\right)$.
 We may represent it on the number line, as shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-10.jpg?height=69&width=830&top_left_y=1202&top_left_x=326)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-009.jpg)
 
 ---
 
@@ -569,7 +569,7 @@ $$
 $$
 $\therefore$ solution set $=\left(\frac{5}{2}, \infty\right) \cap\left(\frac{-1}{2}, \infty\right)=\left(\frac{5}{2}, \infty\right)$.
 The solution set on the number line may be represented as shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-11.jpg?height=71&width=834&top_left_y=648&top_left_x=318)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-010.jpg)
 
 ---
 
@@ -673,7 +673,7 @@ $$
 \end{aligned}
 $$
 $\therefore$ solution set for the given system is $[-4,6] \cap \{(-\infty,-2] \cup[2, \infty)\} = [-4,-2] \cup [2,6]$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-13.jpg?height=196&width=840&top_left_y=300&top_left_x=314)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-one-variable%29/class-11-Ch-06-A-BooK-011.jpg)
 
 ---
 

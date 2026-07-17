@@ -349,7 +349,7 @@ $\therefore B E=B F=5 \mathrm{~cm}$
 $\Rightarrow E F=\sqrt{B E^{2}+B F^{2}}=\sqrt{25+25} \mathrm{~cm}$
 $=\sqrt{50} \mathrm{~cm}=5 \sqrt{2} \mathrm{~cm}$.
 $\therefore F Q=F P=\frac{1}{2} E F=\frac{5 \sqrt{2}}{2} \mathrm{~cm}=\frac{5}{\sqrt{2}} \mathrm{~cm}$
-![](https://cdn.mathpix.com/cropped/2025_09_25_36cf9100663e80299195g-54.jpg?height=293&width=289&top_left_y=285&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Geometrical-Progression/class-11-Ch-12-G-BooK-001.jpg)
 $\Rightarrow P Q=\sqrt{F P^{2}+F Q^{2}}=\sqrt{\frac{25}{2}+\frac{25}{2}} \mathrm{~cm}=\sqrt{25} \mathrm{~cm}=5 \mathrm{~cm}$.
 Thus, the sides of the squares are $10 \mathrm{~cm}, 5 \sqrt{2} \mathrm{~cm}, 5 \mathrm{~cm}, \ldots$.
 (i) Sum of the areas of the squares formed
@@ -378,7 +378,7 @@ EXAMPLE 20 Each side of an equilateral triangle is 18 cm . The midpoints of its 
 
 Let $\triangle A B C$ be the given triangle having each side 18 cm . Let $D, E, F$ be the midpoints of $B C, C A, A B$ respectively to form $\triangle D E F$. Let $G, H, I$ be the midpoints of $D E, E F$ and $F D$ respectively to form $\triangle G H I$.
 We continue this process indefinitely.
-![](https://cdn.mathpix.com/cropped/2025_09_25_36cf9100663e80299195g-54.jpg?height=263&width=316&top_left_y=1409&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Geometrical-Progression/class-11-Ch-12-G-BooK-002.jpg)
 
 The sides of these triangle are $18 \mathrm{~cm}, 9 \mathrm{~cm}, \frac{9}{2} \mathrm{~cm}, \ldots$, and so on.
 (i) Sum of the perimeters of all triangles so formed

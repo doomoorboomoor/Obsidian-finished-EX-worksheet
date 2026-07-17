@@ -59,7 +59,7 @@ In a triangle, if the square of one side is equal to the sum of the squares of t
 
 **CONSTRUCTION:** Draw a $\triangle DEF$ such that $DE = AB$, $EF = BC$ and $\angle E = 90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-067.jpg?height=236&width=247&top_left_y=330&top_left_x=682)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-001.jpg)
 
 **PROOF:**
 In $\triangle DEF$, we have $\angle E = 90^{\circ}$.
@@ -81,7 +81,7 @@ In a $\triangle ABC$, $AD$ is perpendicular to $BC$. Prove that $(AB^{2} + CD^{2
 
 **GIVEN:** A $\triangle ABC$ in which $AD \perp BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-067.jpg?height=188&width=307&top_left_y=1264&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-002.jpg)
 
 **TO PROVE:** $(AB^{2} + CD^{2}) = (AC^{2} + BD^{2})$.
 
@@ -113,7 +113,7 @@ Given a $\triangle ABC$ in which $\angle A=90^{\circ}$ and $AD \perp BC$. Prove 
 
 **TO PROVE:** $AD^{2} = BD \cdot CD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-068.jpg?height=221&width=318&top_left_y=269&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-003.jpg)
 
 **PROOF:**
 In $\triangle BAC, \angle A = 90^{\circ}$.
@@ -159,7 +159,7 @@ In right $\triangle ADC$, $\angle ADC = 90^{\circ}$.
 $$
 \therefore \quad A C^{2}=A D^{2}+C D^{2} . \tag{ii} \quad \text{[by Pythagoras' theorem]}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-068.jpg?height=237&width=342&top_left_y=1300&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-004.jpg)
 
 Adding (i) and (ii), we get
 $$
@@ -181,7 +181,7 @@ In a $\triangle ABC$, $\angle ABC < 90^{\circ}$ (i.e., $\angle B$ is acute) and 
 
 **TO PROVE:** $AC^{2} = AB^{2} + BC^{2} - 2BC \cdot BD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-069.jpg?height=197&width=297&top_left_y=265&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-005.jpg)
 
 **PROOF:**
 In $\triangle ADB, \angle ADB = 90^{\circ}$.
@@ -212,7 +212,7 @@ In a $\triangle ABC$, $\angle ABC > 90^{\circ}$ (i.e., $\angle B$ is obtuse) and
 
 **TO PROVE:** $AC^{2} = AB^{2} + BC^{2} + 2BC \cdot BD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-069.jpg?height=236&width=297&top_left_y=1194&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-006.jpg)
 
 **PROOF:**
 In $\triangle ADB, \angle ADB = 90^{\circ}$.
@@ -246,7 +246,7 @@ In $\triangle ABC$, if $AD$ is the median, then prove that $(AB^{2} + AC^{2}) = 
 **PROOF:**
 In $\triangle ALD, \angle ALD = 90^{\circ}$.
 $\therefore \angle ADL < 90^{\circ}$ and therefore, $\angle ADB > 90^{\circ}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-070.jpg?height=229&width=354&top_left_y=281&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-007.jpg)
 
 Thus, in $\triangle ADB$, $\angle ADB > 90^{\circ}$ and $AL \perp (BD$ produced).
 $$
@@ -321,7 +321,7 @@ A C^{2} &= A B^{2}+B C^{2} \\
 \therefore \quad A C &= \sqrt{289} \mathrm{~m}=17 \mathrm{~m} .
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-071.jpg?height=311&width=420&top_left_y=956&top_left_x=777)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-008.jpg)
 
 Hence, the man is **17 m** away from the starting position.
 
@@ -352,7 +352,7 @@ A ladder 15 m long reaches a window which is 9 m above the ground on one side of
 Let $AB$ be the street and let $C$ be the foot of the ladder. Let $D$ and $E$ be the given windows such that $AD = 9$ m and $BE = 12$ m. Then, $CD$ and $CE$ are the two positions of the ladder.
 Clearly, $\angle CAD = 90^{\circ}$, $\angle CBE = 90^{\circ}$ and $CD = CE = 15$ m.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-072.jpg?height=259&width=378&top_left_y=511&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-009.jpg)
 
 From right $\triangle CAD$, we have
 $$
@@ -396,7 +396,7 @@ B D^{2} &= B E^{2}+D E^{2} \\
 &= (144+25) \mathrm{m}^{2}=169 \mathrm{m}^{2}
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-072.jpg?height=362&width=418&top_left_y=1566&top_left_x=773)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-010.jpg)
 $$
 \Rightarrow B D=\sqrt{169} \mathrm{~m}=13 \mathrm{~m} .
 $$
@@ -414,7 +414,7 @@ Let $AC = 12$ cm and $BD = 2x$ cm.
 We know that the diagonals of a rhombus bisect each other at right angles.
 $\therefore OA = \frac{1}{2} AC = 6$ cm, $OB = \frac{1}{2} BD = x$ cm, and $\angle AOB = 90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-073.jpg?height=259&width=354&top_left_y=414&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-011.jpg)
 
 From right $\triangle AOB$, we have
 $$
@@ -448,7 +448,7 @@ $$
 & \triangle D B A \sim \triangle D A C .
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-073.jpg?height=297&width=205&top_left_y=1522&top_left_x=992)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-012.jpg)
 
 (i) $\triangle ABC \sim \triangle DBA$
 $$
@@ -474,7 +474,7 @@ $BL$ and $CM$ are medians of a $\triangle ABC$, right-angled at $A$. Prove that 
 
 **TO PROVE:** $4(BL^{2} + CM^{2}) = 5BC^{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-074.jpg?height=192&width=309&top_left_y=761&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-013.jpg)
 
 **PROOF:**
 In $\triangle BAC, \angle A = 90^{\circ}$.
@@ -509,7 +509,7 @@ Hence, $4(BL^{2} + CM^{2}) = 5BC^{2}$ [using (i)].
 ### Example 9
 In the given figure, the perpendicular from $A$ on side $BC$ of a $\triangle ABC$, intersects $BC$ at $D$ such that $DB = 3CD$. Prove that $2AB^{2} = 2AC^{2} + BC^{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-074.jpg?height=218&width=396&top_left_y=1677&top_left_x=801)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-014.jpg)
 
 #### Solution:
 **GIVEN:** A $\triangle ABC$ in which $AD \perp BC$ and $BD = 3CD$.
@@ -555,7 +555,7 @@ In $\triangle ABC, \angle B = 90^{\circ}$ and $D$ is the midpoint of $BC$. Prove
 
 **CONSTRUCTION:** Join $AD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-075.jpg?height=281&width=305&top_left_y=1200&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-015.jpg)
 
 **PROOF:**
 In $\triangle ABC, \angle B = 90^{\circ}$.
@@ -600,7 +600,7 @@ $$
 &= \left(4 A D^{2}-3 A B^{2}\right) .
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-076.jpg?height=240&width=293&top_left_y=330&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-016.jpg)
 Hence, $AC^{2} = (4AD^{2} - 3AB^{2})$.
 
 ---
@@ -618,7 +618,7 @@ From right $\triangle ADB$, we have
 $$
 A B^{2}=A D^{2}+B D^{2} \quad \text{[by Pythagoras' theorem]}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-076.jpg?height=309&width=281&top_left_y=962&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-017.jpg)
 $$
 \begin{aligned}
 \Rightarrow A C^{2} &= A D^{2}+B D^{2} \quad[\because A B=A C] \\
@@ -643,7 +643,7 @@ Now, by Pythagoras' theorem,
 $$
 A B^{2}=B C^{2}+A C^{2}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-076.jpg?height=281&width=305&top_left_y=1655&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-018.jpg)
 $$
 \begin{aligned}
 \Rightarrow A B^{2} &= A C^{2}+A C^{2} \quad \text{[using (i)]} \\
@@ -667,7 +667,7 @@ $$
 \Rightarrow \angle C &= 90^{\circ} \quad \text{[by converse of Pythagoras' theorem]}
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-077.jpg?height=249&width=332&top_left_y=511&top_left_x=867)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-019.jpg)
 Hence, $\triangle ABC$ is a right triangle.
 
 ---
@@ -679,7 +679,7 @@ $\triangle ABC$ is a right triangle in which $\angle C = 90^{\circ}$ and $CD \pe
 *[CBSE 1997C, '98, '99, '02]*
 
 #### Solution:
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-077.jpg?height=285&width=279&top_left_y=1135&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-020.jpg)
 (i) We have
 $$
 \text{ar}(\triangle ABC) = \frac{1}{2} \times AB \times CD = \frac{1}{2} cp \quad \text{[taking AB as base]}
@@ -752,7 +752,7 @@ $AB = AC$ (given), $\angle B = \angle C = 60^{\circ}$ and $\angle ADB = \angle A
 $\therefore \triangle ADB \cong \triangle ADC$.
 $\therefore BD = DC = \frac{a}{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-078.jpg?height=319&width=309&top_left_y=1274&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-021.jpg)
 
 (i) From right $\triangle ADB$, we have
 $$
@@ -778,7 +778,7 @@ Hence, area$(\triangle ABC) = (\frac{\sqrt{3}}{4} a^{2})$ sq units.
 ### Example 18
 $O$ is a point in the interior of $\triangle ABC, OD \perp BC, OE \perp AC$ and $OF \perp AB$, as shown in the figure.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-079.jpg?height=289&width=319&top_left_y=648&top_left_x=489)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-022.jpg)
 
 Prove that:
 (i) $OA^{2} + OB^{2} + OC^{2} - OD^{2} - OE^{2} - OF^{2} = AF^{2} + BD^{2} + CE^{2}$
@@ -831,13 +831,13 @@ $O$ is any point inside a rectangle $ABCD$. Prove that $OB^{2} + OD^{2} = OA^{2}
 #### Solution:
 **GIVEN:** $O$ is a point inside a rectangle $ABCD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-080.jpg?height=229&width=322&top_left_y=519&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-023.jpg)
 
 **TO PROVE:** $OB^{2} + OD^{2} = OA^{2} + OC^{2}$.
 
 **CONSTRUCTION:** Through $O$, draw $POQ \parallel BC$ so that $P$ lies on $AB$ and $Q$ lies on $DC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-080.jpg?height=228&width=311&top_left_y=781&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-024.jpg)
 
 **PROOF:**
 We have $POQ \parallel BC \Rightarrow PQ \perp AB$ and $QP \perp DC$.
@@ -883,7 +883,7 @@ Prove that the sum of the squares on the sides of a rhombus is equal to the sum 
 
 **PROOF:**
 We know that the diagonals of a rhombus bisect each other at right angles.
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-081.jpg?height=249&width=350&top_left_y=579&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-025.jpg)
 $$
 \begin{aligned}
 \therefore \quad & \angle A O B=\angle B O C=\angle C O D=\angle D O A=90^{\circ}, \\
@@ -927,7 +927,7 @@ From right $\triangle ACQ$, we have
 $$
 A Q^{2}=\left(A C^{2}+C Q^{2}\right) . \quad \text{(i) [by Pythagoras' theorem]}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-082.jpg?height=228&width=269&top_left_y=173&top_left_x=928)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-026.jpg)
 From right $\triangle BCP$, we have
 $$
 B P^{2}=\left(B C^{2}+C P^{2}\right) . \quad \text{(ii) [by Pythagoras' theorem]}
@@ -962,7 +962,7 @@ In the figure given below, $\triangle PQR$ is right-angled at $Q$ and the points
 
 **PROOF:**
 Let $QS = ST = TR = x$. Then, $QS = x$, $QT = 2x$ and $QR = 3x$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-082.jpg?height=228&width=297&top_left_y=1188&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-027.jpg)
 From right triangles $PQS, PQT$ and $PQR$, by Pythagoras' theorem, we have
 $$
 P S^{2}=P Q^{2}+Q S^{2}, P T^{2}=P Q^{2}+Q T^{2} \text{ and } P R^{2}=P Q^{2}+Q R^{2}
@@ -998,7 +998,7 @@ $AL = AL$ (common)
 $\therefore \triangle ALB \cong \triangle ALC$ [by RHS-congruence]
 $\therefore BL = CL$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-083.jpg?height=236&width=326&top_left_y=479&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-028.jpg)
 
 From right $\triangle ALB$ and $ALD$, by Pythagoras' theorem, we have:
 $$
@@ -1029,7 +1029,7 @@ In an equilateral $\triangle ABC, D$ is a point on side $BC$ such that $BD = \fr
 
 **CONSTRUCTION:** Draw $AL \perp BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-083.jpg?height=281&width=281&top_left_y=1574&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-029.jpg)
 
 **PROOF:**
 In right triangles $ALB$ and $ALC$, we have
@@ -1068,7 +1068,7 @@ In a quadrilateral $ABCD, \angle B = 90^{\circ}$. If $AD^{2} = AB^{2} + BC^{2} +
 
 **CONSTRUCTION:** Join $AC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-084.jpg?height=277&width=338&top_left_y=1437&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-030.jpg)
 
 **PROOF:**
 In $\triangle ABC, \angle B = 90^{\circ}$.
@@ -1092,7 +1092,7 @@ Equilateral triangles are drawn on the sides of a right triangle. Prove that the
 
 **TO PROVE:** $\text{ar}(\triangle CAE) = \text{ar}(\triangle BCD) + \text{ar}(\triangle ABF)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-085.jpg?height=391&width=322&top_left_y=602&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-031.jpg)
 
 **PROOF:**
 $\triangle BCD, \triangle CAE$ and $\triangle ABF$ are equiangular and hence similar.
@@ -1120,7 +1120,7 @@ Let $r$ cm be the radius of the circle.
 Then, $OM = ON = OP = r$ cm.
 Now, $AB^{2} + BC^{2} = CA^{2}$ [by Pythagoras' theorem]
 $\Rightarrow 6^{2} \text{ cm}^{2} + 8^{2} \text{ cm}^{2} = CA^{2} \Rightarrow CA = 10$ cm.
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-085.jpg?height=368&width=432&top_left_y=1284&top_left_x=767)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-032.jpg)
 Now, $\text{ar}(\triangle ABC) = \text{ar}(\triangle AOB) + \text{ar}(\triangle BOC) + \text{ar}(\triangle COA)$
 $$
 \begin{aligned}
@@ -1150,7 +1150,7 @@ $$
 Now, let $O$ be the point of intersection of the diagonal $PR$ and $QS$.
 The diagonals of a parallelogram bisect each other.
 $\therefore O$ is the midpoint of $PR$ as well as $QS$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-086.jpg?height=232&width=293&top_left_y=1039&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-033.jpg)
 Applying result (i) to $\triangle PQR$ and $\triangle RSP$, we get
 $$
 P Q^{2}+Q R^{2}=2 O Q^{2}+\frac{1}{2} P R^{2} \tag{ii}
@@ -1184,7 +1184,7 @@ A C^{2} &= A B^{2}+B C^{2} \quad \text{[by Pythagoras' theorem]} \\
 \Rightarrow 2 C D &= 2 B C \quad [\because D \text{ is the midpoint of } A C]
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-087.jpg?height=289&width=231&top_left_y=173&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-D-BooK-034.jpg)
 $$
 \Rightarrow C D=B C . \quad \text{(i)}
 $$

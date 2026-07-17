@@ -8,7 +8,7 @@ $$
 
 **PROOF** Let $A(x_1, y_1)$, $B(x_2, y_2)$ and $C(x_3, y_3)$ be the vertices of the given $\triangle ABC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-32.jpg?height=382&width=539&top_left_y=249&top_left_x=378)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-C-BooK-001.jpg)
 
 Draw $AL$, $BM$ and $CN$ perpendiculars to the $x$-axis.
 Then, $ML = (x_1 - x_2)$, $LN = (x_3 - x_1)$ and $MN = (x_3 - x_2)$.
@@ -133,7 +133,7 @@ $\therefore$ the coordinates of $D$ are
 $$
 \left(\frac{3+5}{2}, \frac{-2+2}{2}\right) = (4, 0).
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-34.jpg?height=293&width=368&top_left_y=1103&top_left_x=823)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-C-BooK-002.jpg)
 
 For $\triangle ABD$, we have $A(x_1=4, y_1=-6)$, $B(x_2=3, y_2=-2)$ and $D(x_3=4, y_3=0)$.
 $$
@@ -170,7 +170,7 @@ Find the area of the triangle formed by joining the midpoints of the sides of th
 
 Let $A(2, 2)$, $B(4, 4)$ and $C(2, 6)$ be the vertices of the given $\triangle ABC$. Let $D, E$ and $F$ be the midpoints of $AB, BC$ and $CA$ respectively.
 Then, the coordinates of $D, E$ and $F$ are
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-35.jpg?height=291&width=374&top_left_y=994&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-C-BooK-003.jpg)
 $$
 D\left(\frac{2+4}{2}, \frac{2+4}{2}\right), E\left(\frac{4+2}{2}, \frac{4+6}{2}\right) \text{ and } F\left(\frac{2+2}{2}, \frac{2+6}{2}\right),
 $$
@@ -197,7 +197,7 @@ Find the area of a quadrilateral $ABCD$ whose vertices are $A(-4, 8)$, $B(-3, -4
 #### Solution:
 
 Area of quad. $ABCD = \text{ar}(\triangle ABC) + \text{ar}(\triangle ACD)$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-36.jpg?height=293&width=426&top_left_y=338&top_left_x=434)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-C-BooK-004.jpg)
 
 For $\triangle ABC$, we have $(x_1=-4, y_1=8)$, $(x_2=-3, y_2=-4)$ and $(x_3=0, y_3=-5)$.
 $$
@@ -238,7 +238,7 @@ Find the area of a parallelogram $ABCD$ if three of its vertices are $A(2, 4)$, 
 #### Solution:
 
 Let $ABCD$ be the given parallelogram, three of whose vertices are $A(2, 4)$, $B(2+\sqrt{3}, 5)$ and $C(2, 6)$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-37.jpg?height=239&width=408&top_left_y=251&top_left_x=537)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-C-BooK-005.jpg)
 
 In $\triangle ABC$, we have $(x_1=2, y_1=4)$, $(x_2=2+\sqrt{3}, y_2=5)$, $(x_3=2, y_3=6)$.
 $$
@@ -270,7 +270,7 @@ Let $A(1, -2)$, $B(2, 3)$, $C(-3, 2)$ and $D(-4, -3)$ be the vertices of the giv
 $$
 \text{ar}(\| \text{gm } ABCD) = 2 \times \text{ar}(\triangle ABC).
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-37.jpg?height=233&width=418&top_left_y=1389&top_left_x=535)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-C-BooK-006.jpg)
 
 In $\triangle ABC$, we have $(x_1=1, y_1=-2)$, $(x_2=2, y_2=3)$ and $(x_3=-3, y_3=2)$.
 $$
@@ -423,7 +423,7 @@ If $R(x, y)$ is a point on the line segment joining the points $P(a, b)$ and $Q(
 #### Solution:
 
 It is being given that the points $P(a, b)$, $R(x, y)$ and $Q(b, a)$ lie on the same line segment and, therefore, these points are collinear.
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-40.jpg?height=51&width=422&top_left_y=519&top_left_x=531)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-C-BooK-007.jpg)
 
 Let $P(x_1=a, y_1=b)$, $R(x_2=x, y_2=y)$ and $Q(x_3=b, y_3=a)$ be the given collinear points. Then,
 $$

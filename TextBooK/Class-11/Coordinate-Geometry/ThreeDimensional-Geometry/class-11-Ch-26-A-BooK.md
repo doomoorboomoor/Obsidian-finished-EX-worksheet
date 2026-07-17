@@ -10,7 +10,7 @@ These planes, known as **coordinate planes**, divide the space into eight parts,
 
 Let $P$ be a point in space. Through $P$, draw planes parallel to coordinate planes, and meeting the axes $OX, OY$ and $OZ$ in points $A, B$ and $C$ respectively. Complete the parallelepiped whose coterminous edges are $OA, OB$ and $OC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-01.jpg?height=346&width=448&top_left_y=698&top_left_x=751)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/ThreeDimensional-Geometry/class-11-Ch-26-A-BooK-001.jpg)
 
 Let $OA=x$, $OB=y$ and $OC=z$. Then, we say that the coordinates of $P$ are $(x, y, z)$.
 
@@ -21,7 +21,7 @@ Let $OA=x$, $OB=y$ and $OC=z$. Then, we say that the coordinates of $P$ are $(x,
 
 As a consequence of the above facts, we find that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-01.jpg?height=342&width=442&top_left_y=1298&top_left_x=757)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/ThreeDimensional-Geometry/class-11-Ch-26-A-BooK-002.jpg)
 
 1.  Every point in the **$yz$-plane** has its **$x$-coordinate** as zero.
 2.  Every point in the **$xz$-plane** has its **$y$-coordinate** as zero.

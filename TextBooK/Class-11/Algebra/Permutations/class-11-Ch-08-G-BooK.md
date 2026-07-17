@@ -15,10 +15,10 @@ $$
 then, clearly, they are distinct.
 
 Now, we arrange $A, B, C, D$ along the circumference of a circle as shown below:
-![](https://cdn.mathpix.com/cropped/2025_10_15_0696c3f7c78bdc39600bg-51.jpg?height=241&width=244&top_left_y=1248&top_left_x=169)
-![](https://cdn.mathpix.com/cropped/2025_10_15_0696c3f7c78bdc39600bg-51.jpg?height=241&width=243&top_left_y=1248&top_left_x=430)
-![](https://cdn.mathpix.com/cropped/2025_10_15_0696c3f7c78bdc39600bg-51.jpg?height=241&width=243&top_left_y=1248&top_left_x=694)
-![](https://cdn.mathpix.com/cropped/2025_10_15_0696c3f7c78bdc39600bg-51.jpg?height=241&width=245&top_left_y=1248&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Permutations/class-11-Ch-08-G-BooK-001.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Permutations/class-11-Ch-08-G-BooK-002.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Permutations/class-11-Ch-08-G-BooK-003.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Permutations/class-11-Ch-08-G-BooK-004.jpg)
 
 If we consider the position of an object relative to others then we find that the above four arrangements are the same.
 
@@ -32,8 +32,8 @@ There are two types of circular permutations:
 2.  The circular permutations in which the **clockwise** and the **anticlockwise** arrangements give rise to the *same* permutations, e.g., arranging some beads to form a necklace.
 
 Look at the circular permutations, given below:
-![](https://cdn.mathpix.com/cropped/2025_10_15_0696c3f7c78bdc39600bg-52.jpg?height=245&width=245&top_left_y=648&top_left_x=394)
-![](https://cdn.mathpix.com/cropped/2025_10_15_0696c3f7c78bdc39600bg-52.jpg?height=243&width=248&top_left_y=656&top_left_x=769)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Permutations/class-11-Ch-08-G-BooK-005.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Permutations/class-11-Ch-08-G-BooK-006.jpg)
 
 Suppose A, B, C, D are the four beads forming a necklace. They have been arranged in clockwise and anticlockwise directions in the first and second arrangements respectively. Now, if the necklace in the first arrangement be given a turn, from clockwise to anticlockwise, we obtain the second arrangement. Thus, there is no difference between the above two arrangements.
 
@@ -94,7 +94,7 @@ In how many ways can a party of 4 men and 4 women be seated at a circular table 
 
 #### Solution:
 The 4 men can be seated at the circular table such that there is a vacant seat between every pair of men. The number of ways in which these 4 men can be seated at the circular table is $3! = 6$.
-![](https://cdn.mathpix.com/cropped/2025_10_15_0696c3f7c78bdc39600bg-53.jpg?height=192&width=189&top_left_y=1538&top_left_x=1010)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Permutations/class-11-Ch-08-G-BooK-007.jpg)
 
 Now, the 4 vacant seats may be occupied by 4 women in
 $$
@@ -129,7 +129,7 @@ So, the required number of ways is $(1/2) \times (6!) = 360$.
 
 #### Solution:
 Fix the positions of $X$ and $Y$ as shown in the figure. Now, the boys $B_{1}, B_{2}$ and the girls $G_{1}, G_{2}$ may have their neighbours $X$ and $Y$ respectively.
-![](https://cdn.mathpix.com/cropped/2025_10_15_0696c3f7c78bdc39600bg-54.jpg?height=136&width=185&top_left_y=922&top_left_x=1010)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Permutations/class-11-Ch-08-G-BooK-008.jpg)
 
 The boys $B_{1}$ and $B_{2}$ may be arranged among themselves in $2!$ ways. And, the girls $G_{1}$ and $G_{2}$ may be arranged among themselves in $2!$ ways.
 

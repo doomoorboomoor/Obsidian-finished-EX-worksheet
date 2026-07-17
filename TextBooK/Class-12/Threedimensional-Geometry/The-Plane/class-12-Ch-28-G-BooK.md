@@ -4,7 +4,7 @@ The angle between a line and a plane is the complement of the angle between the 
 
 ## Vector Form
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-133.jpg?height=294&width=386&top_left_y=1084&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-G-BooK-001.jpg)
 
 **Theorem 1:** If $\phi$ is the angle between the line $\vec{r}=\vec{a}+\lambda \vec{b}$ and the plane $\vec{r} \cdot \vec{n}=q$, then prove that
 

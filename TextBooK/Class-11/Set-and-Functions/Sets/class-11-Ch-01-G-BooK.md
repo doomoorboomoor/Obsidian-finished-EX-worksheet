@@ -7,7 +7,7 @@ $$
 n(A \cup B) = n(A) + n(B)
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-37.jpg?height=224&width=354&top_left_y=475&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-G-BooK-001.jpg)
 
 ---
 
@@ -20,7 +20,7 @@ $$
 
 **PROOF:** From the given Venn diagram, it is clear that the sets $(A-B)$, $(A \cap B)$ and $(B-A)$ are disjoint and their union is $(A \cup B)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-37.jpg?height=245&width=358&top_left_y=720&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-G-BooK-002.jpg)
 
 $$
 \begin{aligned}
@@ -95,7 +95,7 @@ For any sets *$A, B, C$* we have:
 - **(iv)** $n(B-A) + n(A \cap B) = n(B)$.
 - **(v)** $n(A \cup B \cup C) = \{n(A) + n(B) + n(C) + n(A \cap B \cap C)\} - \{n(A \cap B) + n(B \cap C) + n(A \cap C)\}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-38.jpg?height=248&width=361&top_left_y=447&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-G-BooK-003.jpg)
 
 ---
 
@@ -203,7 +203,7 @@ $$
 $$
 \Rightarrow \quad n(A-B) = n(A) - n(A \cap B) = (600 - 90) = 510
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-39.jpg?height=247&width=354&top_left_y=1320&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-G-BooK-004.jpg)
 Thus, 510 persons can speak Hindi only.
 
 **(iii)** Set of persons who can speak Tamil only = $(B-A)$.
@@ -269,7 +269,7 @@ Let *$A$* = set of persons who drink tea and *$B$* = set of persons who drink co
 Then, $(A-B)$ = set of persons who drink tea but not coffee.
 And, $(B-A)$ = set of persons who drink coffee but not tea.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-40.jpg?height=248&width=362&top_left_y=1208&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-G-BooK-005.jpg)
 
 Given: $n(A \cup B) = 52$, $n(A-B) = 16$ and $n(A) = 33$.
 
@@ -319,7 +319,7 @@ Then, $n(A \cap B) + n(B \cap C) + n(A \cap C) = 18$
 $$
 \Rightarrow \quad (a+d) + (b+d) + (c+d) = 18
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-41.jpg?height=359&width=424&top_left_y=741&top_left_x=767)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-G-BooK-006.jpg)
 $$
 \Rightarrow \quad (a+b+c) + 3d = 18
 $$
@@ -345,7 +345,7 @@ In a survey it is found that 21 people like product A, 26 people like product B 
 Let *$A, B, C$* denote respectively the sets of people who like product A, B and C respectively, as shown in the given figure.
 Let us denote the number of elements contained in bounded regions by *$a, b, c, d, e, f, g$* as shown in the given figure.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-41.jpg?height=331&width=400&top_left_y=1580&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-G-BooK-007.jpg)
 
 Then, we have
 $$
@@ -396,7 +396,7 @@ c+f = 5 \\
 c = 3
 \end{cases}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-42.jpg?height=361&width=426&top_left_y=1405&top_left_x=765)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-G-BooK-008.jpg)
 
 From these equations, we get
 $$

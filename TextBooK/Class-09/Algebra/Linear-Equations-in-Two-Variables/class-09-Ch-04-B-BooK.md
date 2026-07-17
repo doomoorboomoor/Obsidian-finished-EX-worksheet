@@ -42,7 +42,7 @@ Thus, we have the following table:
 On a graph paper, draw lines $X^{\prime} O X$ and $Y O Y^{\prime}$ representing the $x$-axis and the $y$-axis respectively.
 On this graph paper, plot the points $A(0,3), B(1,5), C(-1,1)$ and $D(-2,-1)$. Join $A B, A C$ and $C D$ to get a straight line $B A C D$. Produce it in both ways to get the required graph.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-07.jpg?height=704&width=708&top_left_y=565&top_left_x=382)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-001.jpg)
 
 **(a)** On the $x$-axis, we take a point $P$ for which $x=2$, i.e., $O P=2$. From $P$, draw $P E \perp X^{\prime} O X$, meeting the graph line $B A C D$ produced at $E$. Then, $E(2,7)$ shows that
 
@@ -87,7 +87,7 @@ Thus, we have the following table:
 On a graph paper, draw lines $X^{\prime} O X$ and $Y O Y^{\prime}$ as the $x$-axis and the $y$-axis respectively.
 On this graph paper, plot the points $A(1,3), B(4,1), C(-2,5)$ and $D(-5,7)$. Join $A B, A C$ and $C D$ to get the straight line $B A C D$. Produce it in both ways to get the required graph.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-08.jpg?height=575&width=1040&top_left_y=1006&top_left_x=151)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-002.jpg)
 
 **(a)** On the $x$-axis, we take a point $P$ for which $x=7$, i.e., $O P=7$.
 From $P$, draw $P E \perp X^{\prime} O X$, meeting $D C A B$ produced at $E(7,-1)$.
@@ -129,7 +129,7 @@ On a graph paper, draw lines $X^{\prime} O X$ and $Y O Y^{\prime}$ as the $x$-ax
 
 Plot the points $A(0,2), B(3,0)$ and $C(6,-2)$ on this graph paper. Join $A B$ and $B C$ to get the line $A B C$. Extend it in both the directions to get the required graph.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-09.jpg?height=492&width=704&top_left_y=1395&top_left_x=378)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-003.jpg)
 
 **(a)** On the $x$-axis, take a point $P$ such that $O P=x=\frac{3}{2}$.
 Draw $P D \perp X^{\prime} O X$, meeting the graph line at $D\left(\frac{3}{2}, 1\right)$.
@@ -173,7 +173,7 @@ Along the $x$-axis: 1 small division $=1 \mathrm{~km}$.
 Along the $y$-axis: 5 small divisions $=₹ 40$.
 Now, the plot the points $A(1,20), B(6,80), C(10,128)$ and $D(15,188)$. Join $A B, B C$ and $C D$ to get the single graph line $A D$, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-11.jpg?height=550&width=702&top_left_y=173&top_left_x=406)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-004.jpg)
 
 **(a)** On the $x$-axis, take a point $P$ such that $O P=12 \mathrm{~km}$.
 Draw $P M \perp X^{\prime} O X$, meeting the graph line at $M(12,152)$. Thus, $(x=12 \Rightarrow y=152)$, i.e., when distance covered is 12 km then the taxi-fare is $₹ 152$.
@@ -286,7 +286,7 @@ On a graph paper, we take $C$ along the $x$-axis and the corresponding values of
 We plot the points $A(0,32), B(10,50)$ and $C(20,68)$ on this graph paper.
 Now, we join the points $A, B$, and $B, C$ to get a line $A B C$, which we extend in both the directions to get the required graph of the given equation, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-13.jpg?height=545&width=708&top_left_y=976&top_left_x=406)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-005.jpg)
 
 **(vii)** On the $x$-axis, we take a point $P$ at which $C=-5$.
 
@@ -360,7 +360,7 @@ On a graph paper, we draw $X^{\prime} O X$ and $Y O Y^{\prime}$ as the $x$-axis 
 As we start the values of $K$ from 270 , we make a kink ( $\triangle$ ) at the origin and start with 270.
 On the above graph, we plot the points $A(273,32)$, $B(283,50), C(293,68)$ and $D(298,77)$. Join $A B, B C$ and $C D$ to get the graph line $A B C D$, which is extended in both the directions, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-15.jpg?height=700&width=651&top_left_y=1083&top_left_x=453)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-006.jpg)
 
 **(iv)** Along the $y$-axis, take a point $P$, showing $95^{\circ} \mathrm{F}$. Draw $P Q \| X^{\prime} O X$, meeting the graph line $A B C D$ at $Q$. Draw
 $Q R \perp X^{\prime} O X$, meeting the $x$-axis at $R$. Clearly, $R$ represents 308 K .
@@ -401,7 +401,7 @@ Along the $x$-axis, take 10 small divisions $=1$ unit and along the $y$-axis, ta
 
 On this graph paper, plot the points $A(1,3), B(3,9), C(4,12)$ and $D(5,15)$. Join $A B, B C$ and $C D$ to obtain the graph line $A B C D$, shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-17.jpg?height=997&width=798&top_left_y=169&top_left_x=340)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-007.jpg)
 
 Produce the graph line $A B C D$ in both the directions.
 
@@ -440,7 +440,7 @@ Some of the values of $a$ and $F$ are given below.
 
 On the graph paper, we plot the points $O(0,0), A(3,18), B(4,24)$ and $C(8,48)$. Join $O A, A B$ and $B C$ to get the graph line $O A B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-18.jpg?height=704&width=996&top_left_y=861&top_left_x=195)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-008.jpg)
 
 **(i)** On the graph paper, take a point $P$ along $O X$ such that $O P=a=5$. Draw $P D \perp X^{\prime} O X$, meeting the line $O A B C$ at D. Clearly, $D(5,30)$ cuts $O A B C$ at $D$.
 So, when $a=5$, we have $F=30$.
@@ -463,12 +463,12 @@ Clearly, $E(6,36)$ cuts $O A B C$ at $E$. Hence, $a=6 \Rightarrow F=36$.
 (iii) The equation of a line $A B$ is $x=3$.
 
 (iv) The equation of a line $C D$ is $x=-3$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-19.jpg?height=394&width=393&top_left_y=728&top_left_x=453)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-009.jpg)
 
 (v) The equation of a line $E F$ is $y=2$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-19.jpg?height=699&width=503&top_left_y=1204&top_left_x=104)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-010.jpg)
 
-(vi) The equation of a line $G H$ is $y=-2$.![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-20.jpg?height=601&width=699&top_left_y=652&top_left_x=298)
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-19.jpg?height=701&width=507&top_left_y=1204&top_left_x=688)
+(vi) The equation of a line $G H$ is $y=-2$.![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-011.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-012.jpg)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_7b65060fc22c75d29da9g-20.jpg?height=403&width=703&top_left_y=173&top_left_x=298)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-B-BooK-013.jpg)

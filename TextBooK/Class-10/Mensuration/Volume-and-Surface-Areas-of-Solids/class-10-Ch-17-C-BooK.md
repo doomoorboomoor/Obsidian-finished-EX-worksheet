@@ -16,7 +16,7 @@ Then,
   =\frac{\pi h}{3}\left[R^{2}+r^{2}+R r\right] \text{ cubic units.}
   $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-47.jpg?height=230&width=402&top_left_y=473&top_left_x=793)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-001.jpg)
 
 - **(ii) Lateral surface area of the frustum of the cone**
   $$
@@ -39,7 +39,7 @@ Let $H$, $R$ and $l_{1}$ be the height, radius of the base and slant height resp
 
 Let the radius of the base of cone $OPQ$ be $r$ and $l$ be the slant height of the frustum so formed.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-47.jpg?height=400&width=495&top_left_y=998&top_left_x=696)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-002.jpg)
 
 Clearly, we have $OC=H$, $DC=h$, $OD=OC-DC=(H-h)$, $DQ=r$, $CB=R$, $OB=l_{1}$, $BQ=l$, $OQ=OB-BQ=\left(l_{1}-l\right)$.
 
@@ -103,7 +103,7 @@ $$
 & =(22 \times 700) \mathrm{cm}^{3}=15400 \mathrm{~cm}^{3} .
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-48.jpg?height=301&width=261&top_left_y=1482&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-003.jpg)
 
 Volume of milk that the bucket can hold
 $$
@@ -165,7 +165,7 @@ $$
 $$
 \Rightarrow \frac{1}{3} \times 3.14 \times h\left[(20)^{2}+(12)^{2}+20 \times 12\right]=12308.8
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-49.jpg?height=343&width=297&top_left_y=1474&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-004.jpg)
 $$
 \Rightarrow \frac{1}{3} \times 3.14 \times h[400+144+240]=12308.8
 $$
@@ -201,7 +201,7 @@ $$
 
 In the figure, from the top of a solid cone of height 12 cm and base radius 6 cm , a cone of height 4 cm is removed by a plane parallel to the base. Find the total surface area of the remaining solid. [Use $\pi=22 / 7$ and $\sqrt{5}=2.236$.] [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-50.jpg?height=386&width=454&top_left_y=1002&top_left_x=515)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-005.jpg)
 
 #### Solution:
 
@@ -217,7 +217,7 @@ So, $\frac{OA}{OC}=\frac{AB}{CD} \Rightarrow \frac{4}{12}=\frac{r}{6}$
 $$
 \Rightarrow r=\left(\frac{4}{12} \times 6\right) \mathrm{cm}=2 \mathrm{~cm}.
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-50.jpg?height=432&width=491&top_left_y=1498&top_left_x=700)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-006.jpg)
 
 Slant height of the frustum,
 $$
@@ -241,7 +241,7 @@ $$
 
 An open metallic bucket is in the shape of a frustum of a cone mounted on hollow cylindrical base made of metallic sheet. If the diameters of the two circular ends of the bucket are 45 cm and 25 cm , the total vertical height of the bucket is 30 cm and that of the cylindrical portion is 6 cm , find the area of the metallic sheet used to make the bucket. Also, find the volume of water it can hold. [Take $\pi=22 / 7$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-51.jpg?height=402&width=261&top_left_y=692&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-007.jpg)
 
 #### Solution:
 
@@ -286,7 +286,7 @@ $$
 
 A shuttlecock used for playing badminton has the shape of a frustum of a cone mounted on a hemisphere. The external diameters of the frustum are 5 cm and 2 cm , and the height of the entire shuttlecock is 7 cm . Find its external surface area.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-52.jpg?height=384&width=322&top_left_y=734&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-008.jpg)
 
 #### Solution:
 
@@ -316,7 +316,7 @@ $$
 
 The slant height of the frustum of a cone is 4 cm and the perimeters of its circular ends are 18 cm and 6 cm . Find the curved surface area of the frustum. [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-53.jpg?height=235&width=241&top_left_y=227&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-009.jpg)
 
 #### Solution:
 
@@ -342,7 +342,7 @@ $$
 
 The height of a cone is 10 cm . The cone is divided into two parts using a plane parallel to its base at the middle of its height. Find the ratio of the volumes of the two parts. [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-53.jpg?height=263&width=299&top_left_y=732&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-010.jpg)
 
 #### Solution:
 
@@ -373,7 +373,7 @@ Ratio of the required volumes (smaller cone to frustum) $=\frac{25 \pi h}{6}: \f
 
 The height of a cone is 30 cm . A small cone is cut off at the top by a plane parallel to the base. If its volume be $1/27$ of the volume of the given cone, at what height above the base is the section made? [HOTS] [CBSE 2005C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-54.jpg?height=266&width=278&top_left_y=598&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-011.jpg)
 
 #### Solution:
 
@@ -409,7 +409,7 @@ Height of the section from the base $=(30-10) \mathrm{cm}=20 \mathrm{~cm}$.
 
 A hollow cone is cut by a plane parallel to the base and the upper portion is removed. If the curved surface of the remainder is 8/9 of the curved surface of the whole cone, find the ratio of the line segments into which the altitude of the cone is divided by the plane. [CBSE 2004, '04C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-54.jpg?height=270&width=306&top_left_y=1637&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-012.jpg)
 
 #### Solution:
 
@@ -460,7 +460,7 @@ Hence, $OE: EF=1: 2$.
 
 A metallic right circular cone is 20 cm high and has a vertical angle of $60^{\circ}$. This is cut into two parts at the middle of its height by a plane parallel to the base. If the frustum so obtained is drawn into a wire of diameter $1/16 \mathrm{~cm}$, find the length of the wire. [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-55.jpg?height=273&width=301&top_left_y=1614&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Volume-and-Surface-Areas-of-Solids/class-10-Ch-17-C-BooK-013.jpg)
 
 #### Solution:
 

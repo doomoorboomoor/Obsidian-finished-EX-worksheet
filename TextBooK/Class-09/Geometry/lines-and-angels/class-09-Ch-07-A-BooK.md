@@ -10,7 +10,7 @@ The rays making an angle are called the **arms** of the angle and the end point 
 
 In the given figure, two rays $\overrightarrow{AB}$ and $\overrightarrow{AC}$ originate from the same end point $A$, forming an angle denoted by $\angle BAC$ or $\angle CAB$ or $\angle A$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-01.jpg?height=229&width=316&top_left_y=656&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-A-BooK-001.jpg)
 
 Clearly, $\overrightarrow{AB}$ and $\overrightarrow{AC}$ are the arms of this angle and $A$ is its vertex.
 
@@ -30,13 +30,13 @@ We measure an angle in **degrees**, denoted by '°'. If $\angle A = 60^{\circ}$,
 (i) Acute angle ($0^{\circ} < x^{\circ} < 90^{\circ}$)
 (ii) Right angle ($y^{\circ} = 90^{\circ}$)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-01.jpg?height=229&width=317&top_left_y=1618&top_left_x=169)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-A-BooK-002.jpg)
 (iii) Obtuse angle ($90^{\circ} < z^{\circ} < 180^{\circ}$)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-01.jpg?height=229&width=227&top_left_y=1618&top_left_x=575)
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-01.jpg?height=224&width=323&top_left_y=1623&top_left_x=855)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-A-BooK-003.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-A-BooK-004.jpg)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-02.jpg?height=307&width=1002&top_left_y=165&top_left_x=197)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-A-BooK-005.jpg)
 
 **Equal Angles:** Two angles are said to be equal, if they are of the same measure.
 $$
@@ -45,19 +45,19 @@ $$
 
 **Angle Bisector:** A ray $\overrightarrow{AD}$ is said to be the bisector of $\angle BAC$, if $\angle BAD = \angle CAD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-02.jpg?height=244&width=273&top_left_y=479&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-A-BooK-006.jpg)
 
 **Interior of an Angle:** The interior of $\angle BAC$ is the set of all points in its plane which lie on the same side of $AB$ as $C$ and also on the same side of $AC$ as $B$.
 
 **Exterior of an Angle:** The exterior of $\angle BAC$ is the set of all points in its plane which do not lie on the angle or in its interior.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-02.jpg?height=245&width=273&top_left_y=728&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-A-BooK-007.jpg)
 
 *Example:* In the given figure, the points $D, E, F, G$ lie in the interior of $\angle BAC$, while $A, B, C, H$ lie on $\angle BAC$. And, the points $J, K, L$ lie in the exterior of $\angle BAC$.
 
 **Complementary Angles:** Two angles are said to be complementary, if the sum of their measures is $90^{\circ}$. Two complementary angles are called the **complement** of each other.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-02.jpg?height=270&width=275&top_left_y=1033&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-A-BooK-008.jpg)
 
 *Example:* Angles measuring $65^{\circ}$ and $25^{\circ}$ are complementary angles.
 

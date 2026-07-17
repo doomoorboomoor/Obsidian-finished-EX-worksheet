@@ -14,7 +14,7 @@ Then, $\overrightarrow{ON}=p \hat{n}$.
 Let $P$ be an arbitrary point on the plane, and let the position vector of $P$ be $\vec{r}$.
 Then, $\overrightarrow{OP}=\vec{r}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-081.jpg?height=277&width=300&top_left_y=1174&top_left_x=907)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-001.jpg)
 
 Since $\overrightarrow{NP}$ lies on the plane, $\overrightarrow{NP}$ is perpendicular to $\hat{n}$.
 $\therefore \quad \overrightarrow{NP} \cdot \hat{n}=0$
@@ -79,7 +79,7 @@ $\therefore \quad \overrightarrow{A P}=(\overrightarrow{O P}-\overrightarrow{O A
 Let $\overrightarrow{O N}=\vec{n}$ be normal to the plane.
 Now, $\overrightarrow{A P}$ lies in the plane and $\vec{n}$ is normal to
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-083.jpg?height=260&width=300&top_left_y=159&top_left_x=905)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-002.jpg)
 
 the plane.
 $\therefore \quad \overrightarrow{A P} \perp \vec{n} \Rightarrow \overrightarrow{A P} \cdot \vec{n}=0 \Rightarrow(\vec{r}-\vec{a}) \cdot \vec{n}=0$.
@@ -418,7 +418,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-088.jpg?height=251&width=298&top_left_y=247&top_left_x=911)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-003.jpg)
 
 Hence, the vector equation of the plane is
 
@@ -464,7 +464,7 @@ $$
 
 The general point on (ii) is given by $N(0,3 \lambda, 4 \lambda)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-088.jpg?height=282&width=404&top_left_y=1080&top_left_x=803)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-004.jpg)
 
 If this point lies on plane (i), we have
 
@@ -651,7 +651,7 @@ $$
 
 The equation of the line passing through the point $P(1,-2,3)$ and parallel to line
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-090.jpg?height=264&width=290&top_left_y=1471&top_left_x=917)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-005.jpg)
 
 (ii) is given by
 
@@ -709,7 +709,7 @@ $$
 
 The equation of the line passing through the point $P(3,4,5)$ and parallel to the
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-091.jpg?height=263&width=302&top_left_y=1007&top_left_x=905)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-006.jpg)
 
 given line (ii) is
 
@@ -758,7 +758,7 @@ $$
 \end{equation*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-092.jpg?height=264&width=490&top_left_y=420&top_left_x=416)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-007.jpg)
 
 Let $P(-2,3,-4)$ be the given point.
 Let $l$ be the given line whose equation is
@@ -813,7 +813,7 @@ $$
 \frac{x-7}{2}=\frac{y-14}{4}=\frac{z-5}{-1}=\lambda \text { (say) }
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-093.jpg?height=367&width=300&top_left_y=290&top_left_x=907)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-008.jpg)
 
 A general point on this line is $(2 \lambda+7,4 \lambda+14,-\lambda+5)$.
 For some value of $\lambda$, let the point $Q(2 \lambda+7,4 \lambda+14,-\lambda+5)$ lie on the plane (i). Then,
@@ -861,7 +861,7 @@ $$
 
 A general point on this line is
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-093.jpg?height=352&width=298&top_left_y=1442&top_left_x=911)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-B-BooK-009.jpg)
 
 $(\lambda+1,2 \lambda+2,4 \lambda+3)$.
 For some value of $\lambda$, let the point $Q(\lambda+1,2 \lambda+2,4 \lambda+3)$ lie on the plane (i). Then,

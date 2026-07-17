@@ -15,7 +15,7 @@
 2.  $AB=CD$ and $BC=AD$;
 3.  $\angle B=\angle D$ and $\angle A=\angle C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-08.jpg?height=274&width=293&top_left_y=1637&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-001.jpg)
 
 **Construction:** Join $A$ and $C$.
 
@@ -47,7 +47,7 @@
 
 **To Prove:** $OA=OC$ and $OB=OD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-09.jpg?height=232&width=388&top_left_y=1053&top_left_x=807)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-002.jpg)
 
 **Proof:**
 In $\triangle AOB$ and $\triangle COD$, we have:
@@ -82,7 +82,7 @@ Hence, $OA=OC$ and $OB=OD$ (corresponding parts of congruent triangles).
 
 **Construction:** Join $A$ and $C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-10.jpg?height=233&width=402&top_left_y=213&top_left_x=793)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-003.jpg)
 
 **Proof:**
 In $\triangle ABC$ and $\triangle CDA$, we have:
@@ -109,7 +109,7 @@ Hence, $ABCD$ is a parallelogram.
 
 **To Prove:** $ABCD$ is a parallelogram.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-10.jpg?height=235&width=388&top_left_y=801&top_left_x=807)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-004.jpg)
 
 **Proof:**
 We have $\angle A=\angle C$ and $\angle B=\angle D$ (given).
@@ -137,7 +137,7 @@ Thus, since $AB \parallel DC$ and $AD \parallel BC$, $ABCD$ is a parallelogram.
 
 **To Prove:** $ABCD$ is a parallelogram.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-11.jpg?height=236&width=388&top_left_y=171&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-005.jpg)
 
 **Proof:**
 In $\triangle OAB$ and $\triangle OCD$, we have:
@@ -175,7 +175,7 @@ Thus, since $AB \parallel DC$ and $AD \parallel BC$, $ABCD$ is a parallelogram.
 
 **Construction:** Join $A$ and $C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-11.jpg?height=233&width=390&top_left_y=958&top_left_x=805)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-006.jpg)
 
 **Proof:**
 In $\triangle ABC$ and $\triangle CDA$, we have:
@@ -212,7 +212,7 @@ Now, since $AB \parallel DC$ (given) and $AD \parallel BC$ (proved), $ABCD$ is a
 
 **To Prove:** $\angle A=\angle B=\angle C=\angle D=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-12.jpg?height=231&width=297&top_left_y=281&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-007.jpg)
 
 **Proof:**
 By definition, a rectangle is a parallelogram, so $ABCD$ is a parallelogram.
@@ -237,7 +237,7 @@ Thus, each angle of a rectangle is a right angle.
 
 **To Prove:** $AC=BD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-12.jpg?height=184&width=251&top_left_y=954&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-008.jpg)
 
 **Proof:**
 In $\triangle ABD$ and $\triangle BAC$, we have:
@@ -259,7 +259,7 @@ Hence, $BD=AC$ (corresponding parts of congruent triangles).
 
 **To Prove:** $ABCD$ is a rectangle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-12.jpg?height=184&width=253&top_left_y=1389&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-009.jpg)
 
 **Proof:**
 In $\triangle ABC$ and $\triangle DCB$, we have:
@@ -295,7 +295,7 @@ Hence, $ABCD$ is a rectangle.
 1.  $OA=OC$ and $OB=OD$.
 2.  $\angle BOC=\angle DOC=\angle AOD=\angle AOB=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-13.jpg?height=230&width=239&top_left_y=457&top_left_x=956)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-010.jpg)
 
 **Proof:**
 1.  A rhombus is a parallelogram, and we know that the diagonals of a parallelogram bisect each other. Therefore, $OA=OC$ and $OB=OD$.
@@ -325,7 +325,7 @@ Hence, $ABCD$ is a rectangle.
 
 **To Prove:** $ABCD$ is a rhombus.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-13.jpg?height=228&width=237&top_left_y=1371&top_left_x=958)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-011.jpg)
 
 **Proof:**
 Since the diagonals of quadrilateral $ABCD$ bisect each other, $ABCD$ is a parallelogram.
@@ -356,7 +356,7 @@ Hence, $ABCD$ is a rhombus.
 2.  $OA=OC$ and $OB=OD$
 3.  $AC \perp BD$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-14.jpg?height=218&width=193&top_left_y=469&top_left_x=1004)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-012.jpg)
 
 **Proof:**
 1.  **Equality of diagonals:**
@@ -395,7 +395,7 @@ Hence, $ABCD$ is a rhombus.
 
 **To Prove:** $ABCD$ is a square.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-14.jpg?height=221&width=195&top_left_y=1719&top_left_x=1002)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-013.jpg)
 
 **Proof:**
 Since the diagonals of quadrilateral $ABCD$ bisect each other, $ABCD$ is a parallelogram.
@@ -440,7 +440,7 @@ $$
 \angle B = 180^{\circ}-115^{\circ} = 65^{\circ}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-15.jpg?height=229&width=390&top_left_y=1002&top_left_x=805)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-014.jpg)
 
 Since the opposite angles of a parallelogram are equal, we have:
 $\angle C=\angle A=115^{\circ}$ and $\angle D=\angle B=65^{\circ}$.
@@ -457,7 +457,7 @@ Diagonals $AC$ and $BD$ of a parallelogram $ABCD$ intersect at $O$. If $OA=3 \te
 The diagonals of a parallelogram bisect each other.
 Therefore, $OA=OC=3 \text{ cm}$ and $OB=OD=2 \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-15.jpg?height=237&width=398&top_left_y=1580&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-015.jpg)
 
 And so,
 $AC = OA+OC = (3+3) \text{ cm} = 6 \text{ cm}$
@@ -477,7 +477,7 @@ $$
 \angle OBA = \angle OAB = 28^{\circ}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-16.jpg?height=212&width=291&top_left_y=169&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-016.jpg)
 
 Also, each angle of a rectangle measures $90^{\circ}$.
 So, $\angle ABC=90^{\circ}$.
@@ -505,7 +505,7 @@ Angles $\angle AOB$ and $\angle AOD$ form a linear pair.
 $\angle AOB+\angle AOD=180^{\circ}$
 $70^{\circ}+\angle AOD=180^{\circ} \Rightarrow \angle AOD=110^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-16.jpg?height=233&width=313&top_left_y=720&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-017.jpg)
 
 In $\triangle AOD$, the sum of angles is $180^{\circ}$.
 $\angle DAO+\angle AOD+\angle ADO=180^{\circ}$
@@ -531,7 +531,7 @@ In $\triangle CDB$, the sides $CD$ and $CB$ are equal (sides of a rhombus).
 Therefore, $\triangle CDB$ is an isosceles triangle, and the angles opposite the equal sides are equal.
 $\angle CBD = \angle CDB = x^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-16.jpg?height=233&width=277&top_left_y=1167&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-018.jpg)
 
 The sum of angles in $\triangle CDB$ is $180^{\circ}$.
 $\angle CDB+\angle CBD+\angle DCB=180^{\circ}$
@@ -550,7 +550,7 @@ $ABCD$ is a rhombus such that $\angle ACB=40^{\circ}$. Find $\angle ADB$.
 Let the diagonals $AC$ and $BD$ intersect at $O$.
 The diagonals of a rhombus intersect at right angles, so $\angle BOC=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-16.jpg?height=205&width=203&top_left_y=1727&top_left_x=994)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-019.jpg)
 
 In $\triangle BOC$, the sum of angles is $180^{\circ}$.
 $\angle OCB+\angle BOC+\angle CBO=180^{\circ}$
@@ -571,7 +571,7 @@ The diagonals of a square bisect its angles.
 Since $\angle DCB=90^{\circ}$ and $CA$ is a diagonal, it bisects $\angle DCB$.
 Therefore, $\angle OCD = \angle OCX = \frac{90^{\circ}}{2} = 45^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-17.jpg?height=223&width=205&top_left_y=404&top_left_x=990)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-020.jpg)
 
 Angles $\angle COD$ and $\angle COX$ form a linear pair.
 $\angle COD+\angle COX=180^{\circ}$
@@ -597,7 +597,7 @@ In the adjoining figure, $ABCD$ is a parallelogram and $X, Y$ are points on the 
     Join $AC$, meeting $BD$ at $O$.
     Since the diagonals of a parallelogram bisect each other, we have $OA=OC$ and $OD=OB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-17.jpg?height=194&width=350&top_left_y=1053&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-021.jpg)
     
     Now, we are given $DX=BY$.
     Since $OD=OB$, we can write $OD-DX = OB-BY$, which simplifies to $OX=OY$.
@@ -634,7 +634,7 @@ Prove that in a parallelogram, the bisectors of any two consecutive angles inter
 
 **To Prove:** $\angle APB=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-18.jpg?height=199&width=297&top_left_y=438&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-022.jpg)
 
 **Proof:**
 In parallelogram $ABCD$, $AD \parallel BC$ and $AB$ is a transversal.
@@ -659,7 +659,7 @@ $ABCD$ is a parallelogram and $AL$ and $CM$ are perpendiculars from vertices $A$
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-18.jpg?height=194&width=303&top_left_y=1087&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-B-BooK-023.jpg)
 
 In $\triangle ALB$ and $\triangle CMD$, we have:
 - $\angle ALB=\angle CMD=90^{\circ}$ (given that $AL \perp BD$ and $CM \perp BD$)

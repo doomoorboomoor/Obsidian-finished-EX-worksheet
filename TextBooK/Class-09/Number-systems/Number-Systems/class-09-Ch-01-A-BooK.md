@@ -42,7 +42,7 @@ A **number line** is a visual representation of numbers on a graduated straight 
 
 To represent integers on the number line, draw a line $XY$ which extends endlessly in both directions, as indicated by the arrowheads in the diagram below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-01.jpg?height=112&width=1067&top_left_y=1836&top_left_x=116)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-A-BooK-001.jpg)
 
 Take any point $O$ on this line. Let this point represent the integer 0 (zero). Now, taking a fixed length, called **unit length**, set off equal distances to the right as well as to the left of $O$.
 
@@ -111,7 +111,7 @@ Draw a line $XY$ which extends endlessly in both directions. Take a point $O$ on
 Taking a fixed length, called unit length, mark off $OA=1$ unit.
 The midpoint $B$ of $OA$ denotes the rational number $\frac{1}{2}$. Starting from $O$, set off equal distances each equal to $OB=\frac{1}{2}$ unit.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-03.jpg?height=104&width=1069&top_left_y=1820&top_left_x=120)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-A-BooK-002.jpg)
 
 From the point $O$, on its right, the points at distances equal to $OB, 2OB, 3OB, 4OB$, etc., denote respectively the rational numbers $\frac{1}{2}, \frac{2}{2}, \frac{3}{2}, \frac{4}{2}$, etc.
 
@@ -121,7 +121,7 @@ Thus, each rational number with 2 as its denominator can be represented by some 
 
 Next, draw the line $XY$. Take a point $O$ on it representing 0. Let $OA=1$ unit. Divide $OA$ into three equal parts with $OC$ as the first part. Then, $C$ represents the rational number $\frac{1}{3}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-04.jpg?height=107&width=1062&top_left_y=767&top_left_x=116)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-A-BooK-003.jpg)
 
 From the point $O$, set off equal distances, each equal to $OC=\frac{1}{3}$ unit on both sides of $O$.
 
@@ -147,7 +147,7 @@ Draw a line $XY$ and taking a fixed length as unit length, represent integers on
 
 (ii) On the left of $O$, take $OD=1$ unit. Divide the 2nd unit $DE$ into 7 equal parts. $DQ$ represents $\frac{5}{7}$ of a unit. Therefore, $Q$ represents $-1 \frac{5}{7}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-04.jpg?height=107&width=1067&top_left_y=1796&top_left_x=132)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-A-BooK-004.jpg)
 
 ---
 
@@ -163,7 +163,7 @@ Draw a line $XY$ and taking a fixed length as unit length, represent integers on
 
 (ii) $-\frac{11}{7}=-1 \frac{4}{7}$. On the left of $O$, take $OD=1$ unit. Divide the 2nd unit $DE$ into 7 equal parts. Then, $DQ$ represents $\frac{4}{7}$ of a unit. Therefore, $Q$ represents $-\frac{11}{7}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_896f38fdcc4f1652967ag-05.jpg?height=106&width=1067&top_left_y=728&top_left_x=132)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Number-systems/Number-Systems/class-09-Ch-01-A-BooK-005.jpg)
 
 ---
 

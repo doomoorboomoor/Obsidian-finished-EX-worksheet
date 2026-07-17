@@ -21,7 +21,7 @@ The focus of a parabolic mirror is at a distance of 5 cm from its vertex and the
 Let us take the vertex of the mirror at the origin with its axis lying along the positive direction of the $x$-axis.
 Let the equation of the parabolic shape of the mirror be $y^{2}=4 a x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-1.jpg?height=434&width=342&top_left_y=1457&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-001.jpg)
 
 Since the distance between the focus and the vertex is 5 cm, we have $a=5$.
 $\therefore$ the equation of the parabola is
@@ -55,7 +55,7 @@ $$
 As given, we have $O M=9 \mathrm{~cm}$ and $A B=24 \mathrm{~cm}$
 $\Rightarrow O M=9 \mathrm{~cm}$ and $A M=\frac{1}{2} A B=12 \mathrm{~cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-2.jpg?height=422&width=342&top_left_y=716&top_left_x=855)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-002.jpg)
 
 $\therefore$ the coordinates of $A$ are $(9,12)$.
 Since $A$ lies on (i), we have
@@ -84,7 +84,7 @@ $\therefore B A=5 \mathrm{~m}$ and $O C=10 \mathrm{~m}$.
 Now, $O L=\frac{1}{2} M L=\frac{1}{2} B A=2.5 \mathrm{~m}$.
 And, $A L=O C=10 \mathrm{~m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-2.jpg?height=353&width=493&top_left_y=1556&top_left_x=700)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-003.jpg)
 
 $\therefore$ the coordinates of $A$ are $(2.5,10)$. Since $A(2.5,10)$ lies on (i), we have
 $(2.5)^{2}=4 a \times 10 \Rightarrow a=\left(\frac{2.5 \times 2.5}{4 \times 10}\right)=\frac{5}{32}$.
@@ -116,7 +116,7 @@ Then, $\angle A O M=\angle B O M=30^{\circ}$.
 $\therefore \frac{O M}{O A}=\cos 30^{\circ} \Rightarrow O M=l \cos 30^{\circ}=\frac{l \sqrt{3}}{2}$,
 and $\frac{A M}{O A}=\sin 30^{\circ} \Rightarrow A M=l \sin 30^{\circ}=\frac{l}{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-3.jpg?height=400&width=376&top_left_y=994&top_left_x=823)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-004.jpg)
 
 $\therefore$ the coordinates of $A$ are $\left(\frac{l \sqrt{3}}{2}, \frac{l}{2}\right)$.
 Since $A$ lies on the parabola $y^{2}=4 a x$, we have
@@ -137,7 +137,7 @@ The coordinates of its focus $S$ are $(0,3)$.
 
 Clearly, the ends of its latus rectum are $A(-2 a, a)$ and $B(2 a, a)$, i.e., $A(-6,3)$ and $B(6,3)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-4.jpg?height=373&width=390&top_left_y=195&top_left_x=807)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-005.jpg)
 
 $\therefore$ area of $\triangle O B A$ is given by
 $$
@@ -175,7 +175,7 @@ Let the jet strike the $x$-axis at $E$.
 Then, $A E=O A=0.5 \mathrm{~m}$
 $\Rightarrow O E=2(O A)=(2 \times 0.5) \mathrm{m}=1 \mathrm{~m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-4.jpg?height=416&width=374&top_left_y=779&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-006.jpg)
 
 Clearly, $A B=4 \mathrm{~m}$.
 Thus, the points $O, B$ and $E$ are $O(0,0), B(0.5,4)$ and $E(1,0)$.
@@ -209,7 +209,7 @@ Let $X'OX$ be the $x$-axis, taken along the roadway, and let $Y O Y^{\prime}$ be
 Let $C A B$ be the bridge in the form of a parabola having its vertex at $A(0,6)$ such that $A$ is the centre of the bridge.
 Let $B L$ and $C M$ be the longest vertical wires, each of length 30 m, and let $O A$ be the shortest vertical wire, 6 m in length.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-5.jpg?height=458&width=535&top_left_y=422&top_left_x=664)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-007.jpg)
 
 The equation of the parabolic form of the bridge is
 
@@ -245,7 +245,7 @@ From $P$, draw $P M \perp O X$ and $P N \perp O Y$.
 Let $A M=p$ and $B N=q$.
 Then $\triangle B N P$ and $\triangle P M A$ are similar.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-6.jpg?height=444&width=454&top_left_y=195&top_left_x=104)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-008.jpg)
 
 $\therefore \frac{B N}{P M}=\frac{B P}{P A} \Rightarrow \frac{q}{y}=\frac{9}{3} \Rightarrow q=3 y$.
 And, $\frac{M A}{N P}=\frac{P A}{B P} \Rightarrow \frac{p}{x}=\frac{3}{9} \Rightarrow p=\frac{1}{3} x$.
@@ -309,7 +309,7 @@ $$
 
 Let $P$ be a point on $A^{\prime} O A$ such that $A P=1.5 \mathrm{~m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2d6ecb81932d249de57eg-7.jpg?height=444&width=583&top_left_y=551&top_left_x=358)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Applications-of-Conic-Sections/class-11-Ch-25-A-BooK-009.jpg)
 
 Draw $P M \perp A^{\prime} A$, meeting the ellipse at $M$.
 Then, $A P=1.5 \mathrm{~m}$ (given).

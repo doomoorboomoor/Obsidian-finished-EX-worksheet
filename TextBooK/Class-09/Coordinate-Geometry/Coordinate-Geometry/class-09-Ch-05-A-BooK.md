@@ -31,7 +31,7 @@ We can fix a convenient unit of length and taking the origin as zero, mark equal
 convention of signs the distances measured along $O X$ and $O Y$ are taken as positive and those along $O X^{\prime}$ and $O Y^{\prime}$ are taken as negative, as shown in the figure given below.
 ## COORDINATES OF A POINT IN A PLANE
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-02.jpg?height=635&width=649&top_left_y=167&top_left_x=326)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Coordinate-Geometry/Coordinate-Geometry/class-09-Ch-05-A-BooK-001.jpg)
 
 Let $P$ be a point in a plane.
 Let the distance of $P$ from the $y$-axis $=a$ units.
@@ -39,7 +39,7 @@ And, the distance of $P$ from the $x$-axis $=b$ units.
 Then, we say that the coordinates of $P$ are $(a, b)$.
 $a$ is called the $x$-coordinate, or abscissa of $P$.
 $b$ is called the $y$-coordinate, or ordinate of $P$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-02.jpg?height=518&width=571&top_left_y=1240&top_left_x=362)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Coordinate-Geometry/Coordinate-Geometry/class-09-Ch-05-A-BooK-002.jpg)
 quadrants Let $X^{\prime} O X$ and $Y O Y^{\prime}$ be the coordinate axes.
 These axes divide the plane of the paper into four regions, called quadrants. The regions $X O Y, Y O X^{\prime}, X^{\prime} O Y^{\prime}$ and $Y^{\prime} O X$ are respectively known as the first, second, third and fourth quadrants.
 
@@ -52,7 +52,7 @@ Using the convention of signs, we have the signs of the coordinates in various q
 | $X^{\prime} O Y^{\prime}$ | III | $x<0, y<0$ | (-, -) |
 | $Y^{\prime} O X$ | IV | $x>0, y<0$ | (+, -) |
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-03.jpg?height=488&width=491&top_left_y=664&top_left_x=404)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Coordinate-Geometry/Coordinate-Geometry/class-09-Ch-05-A-BooK-003.jpg)
 
 NOTE Any point lying on the $x$-axis or $y$-axis does not lie in any quadrant.
 EXAMPLE 1 Draw the lines $X^{\prime} O X$ and $Y O Y^{\prime}$ as axes on the plane of a graph paper and plot the points given below.
@@ -67,7 +67,7 @@ Fix a convenient unit of length and starting from $O$, mark equal distances on $
 (iii) Starting from $O$, take -5 units on the $x$-axis and then -4 units on the $y$-axis to obtain the point $C(-5,-4)$.
 (iv) Starting from $O$, take 2 units on the $x$-axis and then -6 units on the $y$-axis to obtain the point $D(2,-6)$.
 These points are shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-04.jpg?height=762&width=778&top_left_y=338&top_left_x=344)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Coordinate-Geometry/Coordinate-Geometry/class-09-Ch-05-A-BooK-004.jpg)
 
 EXAMPLE 2 In which quadrants do the given points lie?
 (i) $(4,-2)$
@@ -87,7 +87,7 @@ Hence, the point $(-1,-2)$ lies in quadrant III.
 
 Hence, the point $(3,6)$ lies in quadrant I .
 EXAMPLE 3 Write down the coordinates of each of the points $P, Q, R, S$ and $T$, as shown in the figure given on next page.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-05.jpg?height=711&width=814&top_left_y=169&top_left_x=332)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Coordinate-Geometry/Coordinate-Geometry/class-09-Ch-05-A-BooK-005.jpg)
 solution Draw perpendiculars $P L, Q M, R N, S U$ and $T V$ on the $x$-axis.
 (i) The distance of $P$ from the $y$-axis $=O L=2$ units.
 
@@ -138,7 +138,7 @@ EXAMPLE 5 The three vertices of a $\triangle A B C$ are $A(1,4), B(-2,2)$ and $C
 solution Let $X^{\prime} O X$ and $Y O Y^{\prime}$ be the $x$-axis and the $y$-axis respectively, drawn on a graph paper.
 Let $A(1,4), B(-2,2)$ and $C(3,2)$ be the vertices of $\triangle A B C$.
 Draw $A L \perp X^{\prime} O X$, meeting $B C$ at $M$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-06.jpg?height=700&width=898&top_left_y=1268&top_left_x=293)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Coordinate-Geometry/Coordinate-Geometry/class-09-Ch-05-A-BooK-006.jpg)
 
 $$
 \begin{aligned}
@@ -157,7 +157,7 @@ Let $A(3,2), B(-2,2)$ and $D(3,-3)$ be the three vertices of square $A B C D$.
 
 Abscissa of $C=$ abscissa of $B=-2$.
 Ordinate of $C=$ ordinate of $D=-3$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-07.jpg?height=699&width=704&top_left_y=894&top_left_x=396)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Coordinate-Geometry/Coordinate-Geometry/class-09-Ch-05-A-BooK-007.jpg)
 
 Thus, the coordinates of $C$ are ( $-2,-3$ ).
 Side of sq $A B C D=C D=(2+3)$ units $=5$ units.
@@ -165,7 +165,7 @@ $\therefore \quad \operatorname{ar}(\mathrm{sq} A B C D)=(5 \times 5)$ sq units 
 EXAMPLE 7 The three vertices of a rectangle $A B C D$ are $A(2,2), B(-3,2)$ and $C(-3,5)$. Plot these points on a graph paper and find the coordinates of $D$. Also, find the area of rectangle $A B C D$.
 solution Let $A(2,2), B(-3,2)$ and $C(-3,5)$ be the three vertices of a rectangle $A B C D$.
 Let the $y$-axis cut the rectangle $A B C D$ at the points $L$ and $M$ respectively.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-08.jpg?height=750&width=704&top_left_y=374&top_left_x=406)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Coordinate-Geometry/Coordinate-Geometry/class-09-Ch-05-A-BooK-008.jpg)
 
 Abscissa of $D=$ Abscissa of $A=2$.
 Ordinate of $D=$ Ordinate of $C=5$.

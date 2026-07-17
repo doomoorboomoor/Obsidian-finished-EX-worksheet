@@ -11,8 +11,8 @@
 
 **CONSTRUCTION:** Draw $AL \perp BC$ and $DM \perp EF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-052.jpg?height=180&width=207&top_left_y=1212&top_left_x=396)
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-052.jpg?height=231&width=265&top_left_y=1165&top_left_x=636)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-001.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-002.jpg)
 
 **PROOF:** Since $\triangle ABC \sim \triangle DEF$, it follows that they are equiangular and their sides are proportional.
 
@@ -82,8 +82,8 @@ $$
 
 **TO PROVE:** $\frac{\operatorname{ar}(\triangle ABC)}{\operatorname{ar}(\triangle DEF)}=\frac{AL^{2}}{DM^{2}}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-054.jpg?height=215&width=220&top_left_y=388&top_left_x=640)
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-054.jpg?height=269&width=293&top_left_y=334&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-003.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-004.jpg)
 
 **PROOF:** We know that the ratio of the areas of two similar triangles is equal to the ratio of the squares of the corresponding sides.
 
@@ -119,7 +119,7 @@ $$
 
 **TO PROVE:** $\frac{\operatorname{ar}(\triangle ABC)}{\operatorname{ar}(\triangle DEF)}=\frac{AP^{2}}{DQ^{2}}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-054.jpg?height=236&width=309&top_left_y=1514&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-005.jpg)
 
 **PROOF:** We know that the ratio of the areas of two similar triangles is equal to the ratio of the squares of their corresponding sides.
 
@@ -173,8 +173,8 @@ $\Rightarrow \quad \angle A=\angle D$
 $\Rightarrow \quad \frac{1}{2} \angle A=\frac{1}{2} \angle D$
 $\Rightarrow \quad \angle BAX=\angle EDY$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-055.jpg?height=164&width=198&top_left_y=1240&top_left_x=644)
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-055.jpg?height=237&width=314&top_left_y=1167&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-006.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-007.jpg)
 
 Now, in $\triangle ABX$ and $\triangle DEY$, we have $\angle BAX=\angle EDY$ and $\angle B=\angle E$ $[\because \triangle ABC \sim \triangle DEF]$.
 
@@ -221,7 +221,7 @@ Hence, the ratio of their corresponding sides is **5:8**.
 
 In the adjoining figure, $S$ and $T$ are points on the sides $PQ$ and $PR$ respectively of $\triangle PQR$ such that $PT=2 \text{ cm}$, $TR=4 \text{ cm}$ and $ST$ is parallel to $QR$. Find the ratio of the areas of $\triangle PST$ and $\triangle PQR$. [CBSE 2010]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-056.jpg?height=252&width=289&top_left_y=745&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-008.jpg)
 
 #### Solution
 
@@ -330,7 +330,7 @@ $\therefore \quad \operatorname{ar}(\triangle ABC): \operatorname{ar}(\triangle 
 
 In the given figure, the line segment $XY$ is parallel to side $AC$ of $\triangle ABC$ and it divides the triangle into two parts of equal area. Prove that $AX:AB=(2-\sqrt{2}):2$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-058.jpg?height=277&width=342&top_left_y=789&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-009.jpg)
 
 #### Solution
 
@@ -370,7 +370,7 @@ Hence, $AX:AB=(2-\sqrt{2}):2$.
 
 In the given figure, $\triangle ABC$ and $\triangle DBC$ are on the same base $BC$. If $AD$ intersects $BC$ at $O$, prove that $\frac{\operatorname{ar}(\triangle ABC)}{\operatorname{ar}(\triangle DBC)}=\frac{AO}{DO}$. [CBSE 2000, '05, '07C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-059.jpg?height=315&width=269&top_left_y=171&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-010.jpg)
 
 #### Solution
 
@@ -380,7 +380,7 @@ In the given figure, $\triangle ABC$ and $\triangle DBC$ are on the same base $B
 
 **CONSTRUCTION:** Draw $AL \perp BC$ and $DM \perp BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-059.jpg?height=367&width=324&top_left_y=604&top_left_x=871)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-011.jpg)
 
 **PROOF:** In $\triangle ALO$ and $\triangle DMO$, we have
 
@@ -410,7 +410,7 @@ $ABCD$ is a trapezium in which $AB \| DC$ and $AB=2DC$. If the diagonals of the 
 
 **TO FIND:** $\frac{\operatorname{ar}(\triangle AOB)}{\operatorname{ar}(\triangle COD)}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-059.jpg?height=229&width=344&top_left_y=1602&top_left_x=847)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-012.jpg)
 
 **METHOD OF SOLUTION:** In $\triangle AOB$ and $\triangle COD$, we have
 
@@ -436,7 +436,7 @@ Hence, $\operatorname{ar}(\triangle AOB): \operatorname{ar}(\triangle COD)=4:1$.
 
 In a trapezium $ABCD$, $O$ is the point of intersection of $AC$ and $BD$, $AB \| CD$ and $AB=2 \times CD$. If the area of $\triangle AOB=84 \text{ cm}^{2}$, find the area of $\triangle COD$. [CBSE 2005, '09]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-060.jpg?height=202&width=342&top_left_y=807&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-013.jpg)
 
 #### Solution
 
@@ -463,7 +463,7 @@ Hence, the area of $\triangle COD$ is **21 cm²**.
 
 $D, E$ and $F$ are respectively the midpoints of sides $AB, BC$ and $CA$ of $\triangle ABC$. Find the ratio of the areas of $\triangle DEF$ and $\triangle ABC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-060.jpg?height=260&width=346&top_left_y=1643&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-014.jpg)
 
 #### Solution
 
@@ -496,7 +496,7 @@ And so, $\frac{\operatorname{ar}(\triangle DEF)}{\operatorname{ar}(\triangle ABC
 
 Prove that the area of an equilateral triangle described on one side of a square is equal to half the area of an equilateral triangle described on one of its diagonals. [CBSE 2005C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-061.jpg?height=337&width=505&top_left_y=1131&top_left_x=694)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-015.jpg)
 
 #### Solution
 
@@ -525,7 +525,7 @@ Hence, $\operatorname{ar}(\triangle BCE)=\frac{1}{2} \times \operatorname{ar}(\t
 
 Prove that the area of an equilateral triangle described on a side of a right-angled isosceles triangle is half the area of the equilateral triangle described on its hypotenuse. [CBSE 2006]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-062.jpg?height=247&width=374&top_left_y=376&top_left_x=823)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-016.jpg)
 
 #### Solution
 
@@ -555,7 +555,7 @@ Hence, $\operatorname{ar}(\triangle ABD)=\frac{1}{2} \times \operatorname{ar}(\t
 
 If $D$ is a point on the side $AB$ of $\triangle ABC$ such that $AD:DB=3:2$ and $E$ is a point on $BC$ such that $DE \| AC$, find the ratio of the areas of $\triangle ABC$ and $\triangle DBE$. [CBSE 2008C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-062.jpg?height=295&width=285&top_left_y=1079&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-017.jpg)
 
 #### Solution
 
@@ -581,7 +581,7 @@ $\Rightarrow \quad \operatorname{ar}(\triangle ABC): \operatorname{ar}(\triangle
 
 In the given figure, $DE \| BC$ and $AD:DB=5:4$. Find the ratio $\operatorname{ar}(\triangle DFE): \operatorname{ar}(\triangle CFB)$. [CBSE 2000]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-063.jpg?height=272&width=287&top_left_y=169&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-C-BooK-018.jpg)
 
 #### Solution
 

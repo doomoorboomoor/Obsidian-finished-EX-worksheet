@@ -9,7 +9,7 @@
 - (iii) **Perimeter** = $2(l+b)$ units.
 - (iv) **Diagonal** = $\sqrt{l^{2}+b^{2}}$ units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-08.jpg?height=204&width=295&top_left_y=231&top_left_x=893)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-001.jpg)
 
 ### 2. Area of 4 Walls of a Room
 
@@ -22,7 +22,7 @@
 - (iii) **Perimeter** = $4a$ units.
 - (iv) **Diagonal** = $\sqrt{2} a$ units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-08.jpg?height=204&width=176&top_left_y=592&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-002.jpg)
 
 ### 4. Area of Parallelogram and Rhombus
 
@@ -35,19 +35,19 @@ $$
 \text{Area} = \frac{1}{2} \times (\text{sum of parallel sides}) \times (\text{distance between them})
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-08.jpg?height=172&width=295&top_left_y=978&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-003.jpg)
 
 ### 6. Area of a Quadrilateral
 
 - (i) Let $ABCD$ be a quadrilateral with diagonal $AC$. Let $BL \perp AC$ and $DM \perp AC$. Let $BL = h_{1}$ and $DM = h_{2}$.
 Then, **ar(quad. ABCD)** = $\left\{\frac{1}{2}\left(h_{1}+h_{2}\right) \times AC\right\}$ sq units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-08.jpg?height=247&width=241&top_left_y=1161&top_left_x=944)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-004.jpg)
 
 - (ii) When diagonals of a quadrilateral are perpendicular to each other:
 **ar(quad. ABCD)** = $\left(\frac{1}{2} \times \text{product of diagonals}\right)$ sq units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-08.jpg?height=247&width=251&top_left_y=1425&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-005.jpg)
 
 ---
 
@@ -151,7 +151,7 @@ $$
 BC = \sqrt{AC^2 - AB^2} \text{ units} = \sqrt{(26)^2 - (24)^2} \text{ m}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-09.jpg?height=177&width=253&top_left_y=1747&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-006.jpg)
 
 $$
 = \sqrt{(26-24)(26+24)} \text{ m} = \sqrt{50 \times 2} \text{ m}
@@ -175,7 +175,7 @@ The length and the breadth of a rectangular park are in the ratio $8:5$. A path,
 Let the length and the breadth of the park be $8x$ metres and $5x$ metres respectively.
 Then, area of the park $= (8x \times 5x) \text{ m}^2 = (40x^2) \text{ m}^2$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-10.jpg?height=132&width=219&top_left_y=521&top_left_x=968)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-007.jpg)
 
 Length of the park including the path $= (8x+3) \text{ m}$.
 Breadth of the park including the path $= (5x+3) \text{ m}$.
@@ -197,7 +197,7 @@ $\therefore$ **Length** $= (8 \times 15) \text{ m} = 120 \text{ m}$,
 
 A rectangular lawn, $75 \text{ m}$ by $60 \text{ m}$, has two roads, each $4 \text{ m}$ wide, running through the middle of the lawn, one parallel to length and the other parallel to breadth, as shown in the figure. Find the cost of gravelling the roads at ₹50 per $\text{m}^2$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-10.jpg?height=162&width=283&top_left_y=1248&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-008.jpg)
 
 #### Solution:
 
@@ -247,7 +247,7 @@ Let $ABCD$ be the field and $AC$ be its longer diagonal.
 Let $BL \perp AC$ and $DM \perp AC$. Then,
 $AC = 120 \text{ m}, BL = 20 \text{ m}$ and $DM = 15 \text{ m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-11.jpg?height=248&width=265&top_left_y=1486&top_left_x=932)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-009.jpg)
 
 Area of the field = $\left\{\frac{1}{2} \times (BL+DM) \times AC\right\} \text{ sq units}$
 $= \left\{\frac{1}{2} \times (20+15) \times 120\right\} \text{ m}^2 = 2100 \text{ m}^2$.
@@ -275,7 +275,7 @@ Longer side = $36 \text{ cm}$, shorter side = $27 \text{ cm}$.
 Distance between the shorter sides = $12 \text{ cm}$.
 Let the distance between the longer sides be $x \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-12.jpg?height=184&width=303&top_left_y=614&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-010.jpg)
 
 Area of the $\| \text{gm} = (\text{longer side} \times \text{distance between the longer sides})$
 $= (\text{shorter side} \times \text{distance between the shorter sides})$
@@ -297,7 +297,7 @@ $= \left(\frac{1}{2} \times 48 \times 20\right) \text{ cm}^2 = 480 \text{ cm}^2$
 (ii) We know that the diagonals of a rhombus bisect each other at right angles.
 $\therefore OA = OC = 24 \text{ cm}, OB = OD = 10 \text{ cm}$ and $\angle AOB = 90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-12.jpg?height=180&width=193&top_left_y=1248&top_left_x=1002)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-011.jpg)
 
 $\therefore$ By Pythagoras' theorem, we have
 $AB = \sqrt{OA^2 + OB^2} \text{ units} = \sqrt{(24)^2 + (10)^2} \text{ cm}$
@@ -329,7 +329,7 @@ Draw $DE \| BC$ and $DL \perp AB$.
 Then, $DE = BC = 25 \text{ cm}$.
 $AE = (AB - EB) = (AB - DC) = (77-60) \text{ cm} = 17 \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-13.jpg?height=169&width=287&top_left_y=422&top_left_x=908)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Perimeter-and-Area-of-Plane-Figures/class-10-Ch-15-B-BooK-012.jpg)
 
 In $\triangle DAE$, we have
 $a = AE = 17 \text{ cm}, b = DE = 25 \text{ cm}$ and $c = DA = 26 \text{ cm}$.

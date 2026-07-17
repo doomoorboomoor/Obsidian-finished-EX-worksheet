@@ -171,13 +171,13 @@ Draw the graphs of the constant functions
 
 - **(i)** When $f(x)=2$ for all $x \in R$, some of the points on the graph may be taken as $(0,2),(-1,2),(1,2),(-2,2)$, $(2,2)$, etc. Joining these points, we obtain a line $y=2$, drawn parallel to the $x$-axis at a distance of 2 units from it, as the required graph.
 
-![Graph of f(x)=2](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-004.jpg?height=298&width=347&top_left_y=188&top_left_x=860)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-001.jpg)
 
 - **(ii)** The graph of the function $f(x)=0$ is the line $y=0$, i.e., the $x$-axis.
 
 - **(iii)** The graph of the function $f(x)=-2$ is the line $y=-2$, drawn parallel to the $x$-axis at a distance of 2 units below the $x$-axis.
 
-![Graph of f(x)=-2](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-004.jpg?height=307&width=347&top_left_y=554&top_left_x=860)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-002.jpg)
 
 ---
 
@@ -192,13 +192,13 @@ Draw the graphs of the linear functions
 - **(i)** When $f(x)=1-x$, some of the points on the graph are $(0,1)$, $(1,0),(2,-1),(-1,2)$, etc.
 Joining these points, we get a line as the graph of the function.
 
-![Graph of f(x)=1-x](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-004.jpg?height=313&width=347&top_left_y=933&top_left_x=860)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-003.jpg)
 
 - **(ii)** Let $f(x)=2 x+1$.
 Some of the points on the graph are $(0,1),(1,3),(-1,-1),(2,5)$, etc.
 Joining these points, we obtain a line as the graph.
 
-![Graph of f(x)=2x+1](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-004.jpg?height=311&width=345&top_left_y=1259&top_left_x=864)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-004.jpg)
 
 **REMARK** The graph of a linear function is a straight line.
 
@@ -212,7 +212,7 @@ Draw the graph of the identity function $f(x)=x$.
 
 $f(x)=x$ is clearly a linear function whose graph must be a line. Plotting the points $(0,0),(1,1),(-1,-1)$, etc., and joining them, we get the required graph.
 
-![Graph of f(x)=x](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-004.jpg?height=308&width=353&top_left_y=1620&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-005.jpg)
 
 ---
 
@@ -227,20 +227,20 @@ Draw the graphs of the polynomial functions
 
 - **(i)** The function $f(x)=x^{2}$ is a quadratic function. Some of the points on the graph are $(0,0)$, $(1,1),(-1,1),(-2,4),(2,4),(-3,9)$, $(3,9)$, etc. Joining these points, we get a parabola as the graph.
 
-![Graph of f(x)=x^2](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-005.jpg?height=317&width=355&top_left_y=206&top_left_x=852)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-006.jpg)
 
 - **(ii)** $f(x)=1-x^{2}$ is also a quadratic function. Some of the points on the graph are
 $(0,1), \quad(1,0), \quad(-1,0), \quad(2,-3)$, $(-2,-3),(-3,-8),(3,-8)$, etc.
 Joining these points, we obtain a parabola as its graph.
 
-![Graph of f(x)=1-x^2](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-005.jpg?height=302&width=353&top_left_y=573&top_left_x=854)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-007.jpg)
 
 - **(iii)** Let $f(x)=x^{3}-x$.
 This is a cubic function.
 Some of the points on the graph are $(0,0),(-1,0),(1,0)$, $(-0.5,0.375),(0.5,-0.375),(2,6)$, ( $-2,-6$ ), etc.
 Joining these points, we obtain the required graph.
 
-![Graph of f(x)=x^3-x](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-005.jpg?height=302&width=359&top_left_y=907&top_left_x=854)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-008.jpg)
 
 **REMARK** It may be observed here that whenever $(x, y)$ is a point on the graph then
 ( $-x,-y$ ) is also a point on the graph. So, the graph is symmetrical about the origin.
@@ -259,7 +259,7 @@ Some of the points on the graph are $(0,0),(-1,1),(-2,2),(1,1),(2,2)$, etc.
 
 Joining these points, we get the required graph.
 
-![Graph of f(x)=|x|](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-005.jpg?height=323&width=376&top_left_y=1581&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-009.jpg)
 
 **REMARK** It may be observed here that whenever ( $x, y$ ) is a point on the graph, then ( $-x, y$ ) is also a point of it. Thus, the graph is symmetrical about the $y$-axis. This is an important property possessed by the graphs of **even functions**.
 
@@ -274,7 +274,7 @@ Draw the graph of the reciprocal function $f(x)=\frac{1}{x}$.
 Clearly, $f(x)=\frac{1}{x}$ is not defined at $x=0$. Some points on the graph are $(1,1),(-1,-1),(1 / 2,2),(2,1 / 2)$, $(-1 / 2,-2), \quad(-2,-1 / 2), \quad(1 / 3,3)$, $(-1 / 3,-3),(3,1 / 3)$, etc.
 Joining these points, we get the required graph. Since $f(x)=\frac{1}{x}$ is an **odd function**, it is symmetrical about the origin.
 
-![Graph of f(x)=1/x](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-006.jpg?height=318&width=378&top_left_y=459&top_left_x=835)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-010.jpg)
 
 ---
 
@@ -289,7 +289,7 @@ Then, $f: R_{0}^{+} \rightarrow R_{0}^{+}: f(x)=\sqrt{x}$, is called the **squar
 $\text{Domain } f(x) = R_{0}^{+}$, and $\text{range}(f) = R_{0}^{+}$.
 Some of the points on the graph are $(0,0),(1,1),(2,1.4),(3,1.7)$, $(4,2),(5,2.2)$, etc. Joining these points, we get the required graph.
 
-![Graph of f(x)=sqrt(x)](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-006.jpg?height=389&width=451&top_left_y=950&top_left_x=758)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-011.jpg)
 
 ---
 
@@ -305,7 +305,7 @@ So, the function is not defined at $x=1$. Also, when $x \neq 1$, we have
 
 $f(x)=\left(\frac{x^{2}-1}{x-1}\right)=(x+1)$
 
-![Graph of f(x)=(x^2-1)/(x-1)](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-006.jpg?height=318&width=369&top_left_y=1455&top_left_x=840)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-012.jpg)
 
 This being a linear function, its graph is a straight line.
 Some of the points on the graph are $(0,1),(-1,0),(2,3),(3,4)$, $(-2,-1),(-3,-2)$, etc.
@@ -325,7 +325,7 @@ for all $x$ such that $-2 \leq x<-1$, we have $f(x)=-2$;
 for all $x$ such that $-1 \leq x<0$, we have $f(x)=-1$;
 for all $x$ such that $0 \leq x<1$, we have $f(x)=0$;
 
-![Graph of f(x)=[x] (step function)](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-007.jpg?height=325&width=431&top_left_y=290&top_left_x=776)
+![Graph of f(x)=[x] (step function)](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-023.jpg)
 
 for all $x$ such that $1 \leq x<2$, we have $f(x)=1$, and so on,
 i.e., $f(x)=\left[\begin{array}{l}-2 \text { when } x \in[-2,-1[ \\ -1 \text { when } x \in[-1,0[ \\ 0 \text { when } x \in[0,1[ \\ 1 \text { when } x \in[1,2[ \\ \text { and so on. }\end{array}\right.$
@@ -364,7 +364,7 @@ $f(x)=-1 \text { for all values of } x<0$
 Hence the graph may be drawn, as shown in the adjoining figure.
 Clearly, the function is broken (i.e., it is discontinuous) at each of the points $x=-1, 0$ and $1$.
 
-![Graph of signum function](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-008.jpg?height=309&width=370&top_left_y=379&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-013.jpg)
 
 ---
 
@@ -380,7 +380,7 @@ $$
 
 Here, the graph consists of three parts. Some of the points of the graph are $(-3,9),(-2,4),(-1,1)$, $(0,0),\left(\frac{1}{2}, \frac{1}{2}\right),\left(\frac{3}{4}, \frac{3}{4}\right),(1,1),\left(2, \frac{1}{2}\right)$, $\left(3, \frac{1}{3}\right)$, etc.
 
-![Graph of piecewise function](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-008.jpg?height=301&width=414&top_left_y=892&top_left_x=799)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-014.jpg)
 
 And, the graph may now be drawn, as shown in the adjoining figure.
 
@@ -422,7 +422,7 @@ So, we have
 - **(ii)** a constant function $1$ when $0 \leq x \leq 1$;
 - **(iii)** a linear function $2 x-1$ when $x>1$.
 
-![Graph of f(x)=|x|+|x-1|](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-009.jpg?height=311&width=422&top_left_y=143&top_left_x=791)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-015.jpg)
 
 The corresponding points on these parts of the graph are $(-1,3),(-2,5),(0,1),(1,1),(2,3),(3,5)$, etc.
 Joining these points, we obtain the graph as shown.
@@ -441,7 +441,7 @@ Draw the graph of the exponential function:
 Some of the points on the graph are
 $(0,1),(1,2),(2,4),(3,8),\left(-1, \frac{1}{2}\right),\left(-2, \frac{1}{4}\right),\left(-3, \frac{1}{8}\right), \text { etc. }$
 
-![Graph of f(x)=2^x](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-009.jpg?height=319&width=449&top_left_y=949&top_left_x=115)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-016.jpg)
 
 And so the graph takes the form, shown in the adjoining figure.
 It may be observed here that the given function is strictly increasing. Also, as the value of $x$ decreases, the corresponding value of the function decreases, and therefore, on the left-hand side of the $y$-axis, the curve comes closer and closer to the $x$-axis.
@@ -471,13 +471,13 @@ Draw the graphs of the logarithmic functions
 - **(i)** We know that when $a>1$, the function $a^{x}$ is strictly increasing, i.e., different values of $x$ give different values of $a^{x}$. Also, the range of this function is $R$. So, the function $f(x)=a^{x}$ is one-one onto and therefore invertible. Its graph is of the form shown in the adjoining figure. The graph of the function $g(x)=\log _{a} x$ is the reflection of the graph of $f(x)=a^{x}$ in the line $y=x$.
 It may be noted that the graph passes through $(1,0)$.
 
-![Graph of log_a(x) when a > 1](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-010.jpg?height=317&width=437&top_left_y=271&top_left_x=766)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-017.jpg)
 
 - **(ii)** We know that when $0<a<1$, the function $a^{x}$ is strictly decreasing, i.e., different values of $x$ give different values of $a^{x}$. So, the function is one-one. Also, its range is $R$. So, it is onto.
 Thus, the function $a^{x}$ is invertible.
 Its inverse is the log function reflected by the line $y=x$, as shown. The graph clearly passes through $(1,0)$.
 
-![Graph of log_a(x) when 0 < a < 1](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-010.jpg?height=307&width=425&top_left_y=837&top_left_x=758)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-018.jpg)
 
 ---
 
@@ -491,7 +491,7 @@ Since $e$ lies between 2 and 3, it follows that $e>1$. So, it is a particular ca
 
 The graph passes through the point $(0,1)$ and comes closer and closer to the $x$-axis as the values of $x$ decrease. Thus, the graph of $e^{x}$ may be drawn as shown in the figure. Its reflection in the line $y=x$ gives the graph of $\log _{e} x$.
 
-![Graph of e^x and log_e(x)](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-010.jpg?height=335&width=376&top_left_y=1558&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-019.jpg)
 
 ---
 
@@ -506,7 +506,7 @@ We know that a **sine function** is periodic with period $2 \pi$. So, we have to
 
 Thus, we may draw the graph in the interval $\left[0, \frac{\pi}{2}\right]$.
 
-![Graph of sin(x)](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-011.jpg?height=308&width=538&top_left_y=740&top_left_x=392)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-020.jpg)
 
 Now, we know that $\sin (\pi-x)=\sin x$. So, we may get some other values of the function in the interval $[\pi / 2, \pi]$. Moreover, the function is strictly decreasing in this interval. Thus, we may draw it in the interval $[\pi / 2, \pi]$. Finally, we draw it in $(\pi, 2 \pi)$, using the fact that $\sin (\pi+x)=-\sin x$.
 
@@ -523,7 +523,7 @@ Now, $\cos (\pi-x)=-\cos x$, so, we may draw the graph in the interval $[\pi / 2
 
 The graph may now be completed by making repetitions over each interval of length $2 \pi$.
 
-![Graph of cos(x)](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-012.jpg?height=307&width=569&top_left_y=263&top_left_x=379)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-021.jpg)
 
 **3. Graph of a Tangent Function**
 We know that a **tangent function** is a periodic function with period $\pi$. Therefore, it is enough to draw the graph over an interval of length $\pi$. The complete graph then consists of infinitely many repetitions of the same to the left as well as to the right.
@@ -542,7 +542,7 @@ Some of the values of the function are given below:
 
 The graph may thus be drawn as shown below.
 
-![Graph of tan(x)](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-012.jpg?height=323&width=430&top_left_y=1481&top_left_x=447)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Continuity-and-Differentiability/class-12-Ch-09-A-BooK-022.jpg)
 
 Similarly, the graphs of $\operatorname{cosec} x, \sec x$ and $\cot x$ may be drawn.
 

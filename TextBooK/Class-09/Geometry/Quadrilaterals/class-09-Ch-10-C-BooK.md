@@ -8,7 +8,7 @@
 
 **CONSTRUCTION:** Draw $CF \| BA$, meeting $DE$ produced in $F$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-28.jpg?height=227&width=334&top_left_y=686&top_left_x=865)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-001.jpg)
 
 **PROOF:** In $\triangle AED$ and $CEF$, we have:
 - $\angle AED = \angle CEF$ (vertically opposite angles)
@@ -41,7 +41,7 @@ Hence, $DE \| BC$ and $DE = \frac{1}{2} BC$.
 
 **CONSTRUCTION:** Draw $CF \| BA$, meeting $DE$ produced in $F$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-29.jpg?height=237&width=326&top_left_y=422&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-002.jpg)
 
 **PROOF:** We have $DF \| BC$ [$\because DE \| BC$] and $BD \| CF$ [$\because CF \| BA$].
 
@@ -67,7 +67,7 @@ If $D, E$ and $F$ are respectively the midpoints of the sides $BC, CA$ and $AB$ 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-29.jpg?height=259&width=261&top_left_y=801&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-003.jpg)
 
 Since $D$ and $E$ are the midpoints of sides $BC$ and $CA$ respectively, we have $DE = \frac{1}{2} AB$ (by midpoint theorem).
 
@@ -92,7 +92,7 @@ $\therefore DF \| BC$. Similarly, $DE \| AC$ and $EF \| AB$.
 
 Now, $DF \| BE$ and $EF \| BD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-29.jpg?height=220&width=273&top_left_y=1643&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-004.jpg)
 
 $\Rightarrow DBEF$ is a parallelogram.
 
@@ -113,7 +113,7 @@ In the adjoining figure, $\triangle ABC$ is an isosceles triangle in which $AB =
 
 Let $AD$ intersect $FE$ at $M$. Join $DE$ and $DF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-30.jpg?height=243&width=181&top_left_y=420&top_left_x=1018)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-005.jpg)
 
 Now, $D$ and $E$ being the midpoints of the sides $BC$ and $CA$ respectively, we have $DE \| AB$ and $DE = \frac{1}{2} AB$ (by midpoint theorem).
 
@@ -146,7 +146,7 @@ Through $D$, draw $DE \| BC$, meeting $AB$ at $E$.
 
 Now, $\angle AED = \angle ABC = 90^{\circ}$ [corresponding angles].
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-30.jpg?height=257&width=289&top_left_y=1457&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-006.jpg)
 
 $$
 \therefore \angle BED = 90^{\circ} \quad [\because \angle AED + \angle BED = 180^{\circ}]
@@ -178,7 +178,7 @@ $ABCD$ is a parallelogram in which $E$ and $F$ are the midpoints of the sides $A
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-31.jpg?height=197&width=299&top_left_y=728&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-007.jpg)
 
 Let $BD$ be intersected by $CE$ and $AF$ at $P$ and $Q$ respectively.
 
@@ -211,7 +211,7 @@ Show that the figure formed by joining the midpoints of the adjacent sides of a 
 
 Let $ABCD$ be a quadrilateral in which $P, Q, R, S$ are the midpoints of $AB, BC, CD$ and $DA$ respectively. Join $AC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-31.jpg?height=200&width=322&top_left_y=1711&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-008.jpg)
 
 In $\triangle ABC$, the points $P$ and $Q$ are the midpoints of $AB$ and $BC$ respectively.
 
@@ -242,7 +242,7 @@ $E$ and $F$ are respectively the midpoints of the nonparallel sides $AD$ and $BC
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-32.jpg?height=188&width=314&top_left_y=1083&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-009.jpg)
 
 In $\triangle DCF$ and $PBF$ we have:
 - $\angle DFC = \angle PFB$ (vertically opposite angles)
@@ -268,7 +268,7 @@ Let $ABCD$ be a trapezium in which $AB \| DC$ and let $E$ be the midpoint of $AD
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-33.jpg?height=192&width=299&top_left_y=169&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-010.jpg)
 
 Join $BD$, cutting $EF$ at $M$.
 
@@ -297,7 +297,7 @@ Prove that the line segment joining the midpoints of the diagonals of a trapeziu
 
 Let $ABCD$ be a trapezium in which $AB \| DC$, and let $M$ and $N$ be the midpoints of the diagonals $AC$ and $BD$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-33.jpg?height=165&width=350&top_left_y=1163&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-011.jpg)
 
 Join $CN$ and produce it to meet $AB$ at $E$.
 
@@ -329,7 +329,7 @@ $ABCD$ is a trapezium in which $AB \| DC$ and $E$ is the midpoint of $AD$. A lin
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-34.jpg?height=185&width=293&top_left_y=418&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-012.jpg)
 
 In $\triangle DAB$, we have $E$ is the midpoint of $AD$ and $EG \| AB$.
 
@@ -355,7 +355,7 @@ $\therefore M$ is the midpoint of $AC$ [by converse of midpoint theorem]. (i)
 
 Now, $PM \| BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-34.jpg?height=205&width=231&top_left_y=1151&top_left_x=964)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-013.jpg)
 
 $\therefore \angle PMC + \angle BCM = 180^{\circ}$ (co-interior angles).
 
@@ -383,7 +383,7 @@ In the adjoining figure, $ABCD$ is a parallelogram in which $P$ is the midpoint 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-35.jpg?height=196&width=299&top_left_y=378&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-014.jpg)
 
 Join $BD$, intersecting $AC$ at $O$.
 
@@ -410,7 +410,7 @@ In the adjoining figure, $AD$ is a median of $\triangle ABC$ and $E$ is the midp
 
 Draw $DP \| EF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-35.jpg?height=253&width=378&top_left_y=1252&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-015.jpg)
 
 In $\triangle ADP$, $E$ is the midpoint of $AD$ and $EF \| DP$.
 
@@ -431,7 +431,7 @@ In the adjoining figure, $ABCD$ is a trapezium in which $AB \| DC$ and $AD = BC$
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-36.jpg?height=196&width=334&top_left_y=169&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-016.jpg)
 
 In $\triangle BDC$, $Q$ and $R$ are the midpoints of $BD$ and $CD$ respectively.
 
@@ -458,7 +458,7 @@ In the adjoining figure, $ABCD$ and $PQRC$ are rectangles, where $Q$ is the midp
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-36.jpg?height=200&width=291&top_left_y=1031&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-017.jpg)
 
 $\angle CRQ = \angle CBA = 90^{\circ} \Rightarrow QR \| AB$.
 
@@ -481,7 +481,7 @@ In the adjoining figure, $D, E, F$ are the midpoints of the sides $BC, CA$ and $
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-36.jpg?height=224&width=350&top_left_y=1683&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-018.jpg)
 
 In $\triangle ABC$, $F$ and $E$ are the midpoints of $AB$ and $AC$ respectively.
 
@@ -510,7 +510,7 @@ So, $XY \| FE$ and $XY = \frac{1}{2} FE = \frac{1}{2} \times \frac{1}{2} BC = \f
 
 **CONSTRUCTION:** Join $AR$. Let $AR$ intersect $m$ at $K$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-37.jpg?height=269&width=374&top_left_y=930&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-019.jpg)
 
 **PROOF:** In $\triangle ACR$, we have $B$ is the midpoint of $AC$ and $BK \| CR$ [$\because m \| n$].
 
@@ -531,7 +531,7 @@ In the adjoining figure, two points $A$ and $B$ lie on the same side of a line $
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-37.jpg?height=228&width=338&top_left_y=1655&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-020.jpg)
 
 Draw $CM \perp XY$.
 
@@ -559,7 +559,7 @@ In the adjoining figure, points $M$ and $N$ divide the side $AB$ of $\triangle A
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-38.jpg?height=184&width=305&top_left_y=817&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-021.jpg)
 
 Through $A$, draw $XAY \| BC$.
 
@@ -586,7 +586,7 @@ $E$ and $F$ are respectively the midpoints of nonparallel sides $AD$ and $BC$ of
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-38.jpg?height=180&width=326&top_left_y=1733&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-022.jpg)
 
 Let $ABCD$ be a trapezium in which $AB \| DC$. Let $E$ and $F$ be the midpoints of $AD$ and $BC$ respectively. $E$ and $F$ are joined.
 
@@ -615,7 +615,7 @@ Prove that any line segment drawn from the vertex of a triangle to the base is b
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-39.jpg?height=188&width=307&top_left_y=950&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-023.jpg)
 
 Let $\triangle ABC$ be a given triangle in which $E$ and $F$ are the midpoints of $AB$ and $AC$ respectively. Let $AL$ be a line segment drawn from vertex $A$ to the base $BC$, meeting $BC$ at $L$ and $EF$ at $M$.
 
@@ -638,7 +638,7 @@ In the adjoining figure, the side $AC$ of $\triangle ABC$ is produced to $E$ suc
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-40.jpg?height=272&width=350&top_left_y=167&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-C-BooK-024.jpg)
 
 In $\triangle ABC$, $D$ is the midpoint of $BC$ and $DQ \| BA$.
 

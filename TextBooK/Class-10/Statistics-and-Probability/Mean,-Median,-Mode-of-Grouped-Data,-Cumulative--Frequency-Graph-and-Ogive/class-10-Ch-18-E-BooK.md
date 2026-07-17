@@ -89,7 +89,7 @@ From the given table, we may prepare the ('less than' type) cumulative frequency
 
 On a graph paper, we take the scale.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_98152c02f02ecabb749dg-36.jpg?height=856&width=1057&top_left_y=167&top_left_x=140)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Statistics-and-Probability/Mean%2C-Median%2C-Mode-of-Grouped-Data%2C-Cumulative--Frequency-Graph-and-Ogive/class-10-Ch-18-E-BooK-001.jpg)
 
 $$
 \text { Scale: }\left\{\begin{array}{l}
@@ -145,7 +145,7 @@ Join $AB, BC, CD, DE, EF$ and $FG$ freehand to get the required curve, as shown 
 
 Here, $N=100 \Rightarrow \frac{N}{2}=50$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_98152c02f02ecabb749dg-37.jpg?height=827&width=1034&top_left_y=968&top_left_x=161)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Statistics-and-Probability/Mean%2C-Median%2C-Mode-of-Grouped-Data%2C-Cumulative--Frequency-Graph-and-Ogive/class-10-Ch-18-E-BooK-002.jpg)
 
 From $P(0,50)$ draw $PQ \parallel x$-axis, meeting the curve at $Q$. Draw $QM \perp OX$, meeting the $x$-axis at $M$ whose coordinates are $(35,0)$.
 
@@ -187,7 +187,7 @@ On a graph paper, we plot the points $A(40,100), B(45,96), C(50,90), D(55,74), E
 
 Join $AB, BC, CD, DE$ and $EF$ freehand to get a 'More Than Ogive'.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_98152c02f02ecabb749dg-38.jpg?height=827&width=858&top_left_y=1117&top_left_x=310)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Statistics-and-Probability/Mean%2C-Median%2C-Mode-of-Grouped-Data%2C-Cumulative--Frequency-Graph-and-Ogive/class-10-Ch-18-E-BooK-003.jpg)
 
 ---
 
@@ -246,7 +246,7 @@ On the same graph paper as above, we plot the points $P(38,35), Q(40,32), R(42,3
 
 Join $PQ, QR, RS, ST, TU$ and $UV$ freehand to get the curve representing 'More Than Series'.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_98152c02f02ecabb749dg-40.jpg?height=721&width=794&top_left_y=596&top_left_x=378)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Statistics-and-Probability/Mean%2C-Median%2C-Mode-of-Grouped-Data%2C-Cumulative--Frequency-Graph-and-Ogive/class-10-Ch-18-E-BooK-004.jpg)
 
 The two curves intersect at the point $L$. Draw $LM \perp OX$.
 
@@ -313,7 +313,7 @@ Join $PQ, QR, RS, ST, TU, UV$ and $VW$ freehand to get the curve representing 'M
 
 The two curves intersect at the point $L$. Draw $LM \perp OX$, cutting the $x$-axis at $M$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_98152c02f02ecabb749dg-42.jpg?height=825&width=1030&top_left_y=275&top_left_x=161)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Statistics-and-Probability/Mean%2C-Median%2C-Mode-of-Grouped-Data%2C-Cumulative--Frequency-Graph-and-Ogive/class-10-Ch-18-E-BooK-005.jpg)
 
 Clearly, $M$ represents 375.
 

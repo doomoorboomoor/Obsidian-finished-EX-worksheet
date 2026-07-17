@@ -10,7 +10,7 @@ Skew lines are neither parallel nor intersecting.
 
 **shortest distance between two skew lines** The length of the line segment $\overrightarrow{P Q}$, intercepted by two skew lines $L_{1}$ and $L_{2}$ on the common perpendicular to both the lines, is called the shortest distance (SD) between $L_{1}$ and $L_{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4_b06552ea878a34g-049.jpg?height=302&width=368&top_left_y=699&top_left_x=477)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-D-BooK-001.jpg)
 
 **REMARK** If two lines in space intersect at a point then the shortest distance between them is zero.
 
@@ -40,7 +40,7 @@ $$
 and $\vec{r}=\overrightarrow{a_{2}}+\mu \overrightarrow{b_{2}}$.
 Then, $L_{1}$ is parallel to $\overrightarrow{b_{1}}$ and passes through a point $A$, whose position vector is $\overrightarrow{a_{1}}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4_b06552ea878a34g-049.jpg?height=250&width=439&top_left_y=1658&top_left_x=774)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-D-BooK-002.jpg)
 
 And, $L_{2}$ is parallel to $\overrightarrow{b_{2}}$ and passes through a point $B$, whose position vector is $\overrightarrow{a_{2}}$.
 
@@ -347,7 +347,7 @@ Let $A$ be a point on $L_{1}$ with position vector $\overrightarrow{a_{1}}$ and 
 Draw $B M \perp L_{1}$. Then,
 distance between $L_{1}$ and $L_{2}=|\overrightarrow{B M}|$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4_b06552ea878a34g-054.jpg?height=225&width=433&top_left_y=1314&top_left_x=774)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/Straight-Line-in-Space/class-12-Ch-27-D-BooK-003.jpg)
 
 Let $\theta$ be the angle between $\overrightarrow{A B}$ and $\vec{b}$. Then,
 

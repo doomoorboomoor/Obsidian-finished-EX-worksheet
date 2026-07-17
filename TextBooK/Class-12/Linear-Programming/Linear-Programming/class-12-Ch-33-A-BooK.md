@@ -35,7 +35,7 @@ This shows that the line $2 x-y=1$ makes intercepts of $\frac{1}{2}$ and $-1$ on
 
 Consider $O(0,0)$. Clearly, $(0,0)$ does not satisfy the given inequation.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_dc1aaca77eef23f60b27g-01.jpg?height=370&width=422&top_left_y=1385&top_left_x=785)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Linear-Programming/Linear-Programming/class-12-Ch-33-A-BooK-001.jpg)
 
 So, out of the portions divided by this line, the one not containing $O(0,0)$, together with the points on the line, forms the solution set.
 
@@ -70,7 +70,7 @@ $$
 $$
 
 Now, $2 x+3 y=6 \Rightarrow \frac{x}{3}+\frac{y}{2}=1$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_dc1aaca77eef23f60b27g-02.jpg?height=348&width=453&top_left_y=939&top_left_x=481)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Linear-Programming/Linear-Programming/class-12-Ch-33-A-BooK-002.jpg)
 
 This line meets the axes at $A(3,0)$ and $B(0,2)$. Join these points and draw a thick line. Clearly, the portion not containing $(0,0)$ represents the solution set of the inequation $2 x+3 y \geq 6$.
 
@@ -105,7 +105,7 @@ This line meets the axes at $C(9,0)$ and $D(0,7)$. Join these points by a thick 
 $y=5$ is a line parallel to the $x$-axis at a distance 5 from the $x$-axis and the portion containing $O(0,0)$ is the solution set of the inequation $y \leq 5$.
 
 $x=6$ is a line parallel to the $y$-axis at a distance 6 from the $y$-axis and the portion
-![](https://cdn.mathpix.com/cropped/2025_09_25_dc1aaca77eef23f60b27g-03.jpg?height=335&width=506&top_left_y=599&top_left_x=701)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Linear-Programming/Linear-Programming/class-12-Ch-33-A-BooK-003.jpg)
 containing $(0,0)$ is the solution set of $x \leq 6$.
 
 Clearly, $x \geq 0$ has a solution represented by the $y$-axis and the portion on its right. Also, $y \geq 0$ has a solution represented by the $x$-axis and the portion above it.
@@ -117,7 +117,7 @@ The shaded region represents the solution set of the given system of inequations
 ### Example 3:
 
 Find the linear constraints for which the shaded area in the figure below is the solution set.
-![](https://cdn.mathpix.com/cropped/2025_09_25_dc1aaca77eef23f60b27g-03.jpg?height=622&width=872&top_left_y=1306&top_left_x=282)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Linear-Programming/Linear-Programming/class-12-Ch-33-A-BooK-004.jpg)
 
 #### Solution:
 

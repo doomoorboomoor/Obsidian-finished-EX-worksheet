@@ -14,7 +14,7 @@ The midpoint of the line segment joining the foci is called the **centre** of th
 
 In the given figure, $F_{1}$ and $F_{2}$ are the foci of the hyperbola and $O$ is its centre, where $OF_{1} = OF_{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_17a30c345e7a77900ce3g-01.jpg?height=345&width=515&top_left_y=936&top_left_x=392)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Hyperbola/class-11-Ch-24-A-BooK-001.jpg)
 
 ### Axes of the Hyperbola
 
@@ -55,7 +55,7 @@ $$
 
 Let us consider a hyperbola with centre at $O(0,0)$ and its foci at $F_{1}(-c, 0)$ and $F_{2}(c, 0)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_17a30c345e7a77900ce3g-02.jpg?height=345&width=513&top_left_y=978&top_left_x=392)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Hyperbola/class-11-Ch-24-A-BooK-002.jpg)
 
 Let $P(x, y)$ be an arbitrary point on the hyperbola such that $PF_{1} - PF_{2} = 2a$. Then,
 $PF_{1} - PF_{2} = 2a$
@@ -122,7 +122,7 @@ Since $P(c, l)$ lies on the hyperbola $\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=1
 $$
 \frac{c^{2}}{a^{2}}-\frac{l^{2}}{b^{2}}=1 \Rightarrow \frac{l^{2}}{b^{2}}=\left(\frac{c^{2}}{a^{2}}-1\right)
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_17a30c345e7a77900ce3g-04.jpg?height=345&width=507&top_left_y=890&top_left_x=688)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Hyperbola/class-11-Ch-24-A-BooK-003.jpg)
 $$
 \begin{aligned}
 & \Rightarrow l^{2}=b^{2}\left(\frac{c^{2}}{a^{2}}-1\right)=b^{2} \cdot\left\{\frac{(a^{2}+b^{2})}{a^{2}}-1\right\} && [\because c^{2}=(a^{2}+b^{2})] \\
@@ -140,7 +140,7 @@ Hence, the length of the latus rectum is $\frac{2b^{2}}{a}$.
 
 ## Summary of Results on Horizontal Hyperbola
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_17a30c345e7a77900ce3g-05.jpg?height=343&width=557&top_left_y=201&top_left_x=372)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Hyperbola/class-11-Ch-24-A-BooK-004.jpg)
 
 - **Equation**: The standard equation of a horizontal hyperbola is $\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=1$.
 - **Centre**: Its centre is $O(0,0)$.
@@ -156,7 +156,7 @@ Hence, the length of the latus rectum is $\frac{2b^{2}}{a}$.
 
 ## Summary of Results on Vertical Hyperbola
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_17a30c345e7a77900ce3g-05.jpg?height=561&width=354&top_left_y=1143&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Hyperbola/class-11-Ch-24-A-BooK-005.jpg)
 
 - **Equation**: The standard equation of a vertical hyperbola is $\frac{y^{2}}{a^{2}}-\frac{x^{2}}{b^{2}}=1$.
 - **Centre**: Its centre is $O(0,0)$.

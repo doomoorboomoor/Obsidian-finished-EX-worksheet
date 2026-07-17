@@ -22,7 +22,7 @@ $$
 
 Now, from *P* draw $PR \perp QN$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-03.jpg?height=385&width=442&top_left_y=495&top_left_x=757)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/ThreeDimensional-Geometry/class-11-Ch-26-B-BooK-001.jpg)
 
 Then, $PR$ is parallel and equal to $MN$. Now, in right triangle $PRQ$, we have:
 
@@ -170,7 +170,7 @@ A quadrilateral $ABCD$ is a:
 3. **rhombus**, if $AB=BC=CD=DA$ but $AC \neq BD$;
 4. **square**, if $AB=BC=CD=DA$ and $AC=BD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-05.jpg?height=213&width=273&top_left_y=281&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/ThreeDimensional-Geometry/class-11-Ch-26-B-BooK-002.jpg)
 
 ---
 

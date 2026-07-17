@@ -17,7 +17,7 @@ Two congruent figures are always similar but two similar figures need not be con
 3.  Any two squares are similar.
 4.  Any two circles are similar.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-001.jpg?height=212&width=1034&top_left_y=1035&top_left_x=120)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-001.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ Two triangles are said to be similar to each other if:
 
 **CONSTRUCTION** Join $BE$ and $CD$. Draw $EL \perp AB$ and $DM \perp AC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-002.jpg?height=244&width=275&top_left_y=769&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-002.jpg)
 
 **PROOF** We have
 
@@ -127,7 +127,7 @@ In $\triangle ABC$, let $DE \| BC$. Then,
 (ii) $\frac{AB}{DB}=\frac{AC}{EC}$
 (iii) $\frac{AD}{AB}=\frac{AE}{AC}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-003.jpg?height=223&width=250&top_left_y=1024&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-003.jpg)
 
 ---
 
@@ -139,7 +139,7 @@ In $\triangle ABC$, let $DE \| BC$. Then,
 
 **TO PROVE** $DE \| BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-003.jpg?height=189&width=245&top_left_y=1445&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-004.jpg)
 
 **PROOF** If possible, let $DE$ not be parallel to $BC$. Then, there must be another line through $D$, which is parallel to $BC$. Let $DF \| BC$.
 Then, by Thales' theorem, we have
@@ -172,7 +172,7 @@ Hence, $DE \| BC$.
 In the given figure, $MN \| AB$, $BC=7.5 \mathrm{~cm}, AM=4 \mathrm{~cm}$ and $MC=2 \mathrm{~cm}$. Find the length of $BN$.
 [CBSE 2010]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-004.jpg?height=234&width=458&top_left_y=602&top_left_x=737)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-005.jpg)
 
 #### Solution:
 
@@ -202,7 +202,7 @@ In the given figure, $DE \| BC$ and $\frac{AD}{DB}=\frac{3}{5}$.
 If $AC=4.8 \mathrm{~cm}$, find the length of $AE$.
 [CBSE 2008C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-004.jpg?height=245&width=257&top_left_y=1306&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-006.jpg)
 
 #### Solution:
 
@@ -228,7 +228,7 @@ Hence, $AE=1.8 \mathrm{~cm}$.
 In the given figure, in $\triangle ABC, DE \| BC$ so that $AD=(4 x-3) \mathrm{~cm}, AE=(8 x-7) \mathrm{~cm}$, $BD=(3 x-1) \mathrm{~cm}$ and $CE=(5 x-3) \mathrm{~cm}$. Find the value of $x$.
 [CBSE 2002C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-005.jpg?height=196&width=251&top_left_y=169&top_left_x=944)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-007.jpg)
 
 #### Solution:
 
@@ -267,7 +267,7 @@ Hence, $x=1$.
 
 If $D$ and $E$ are points on the sides $AB$ and $AC$ respectively of $\triangle ABC$ such that $AB=5.6 \mathrm{~cm}, AD=1.4 \mathrm{~cm}, AC=7.2 \mathrm{~cm}$ and $AE=1.8 \mathrm{~cm}$, show that $DE \| BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-005.jpg?height=213&width=303&top_left_y=1123&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-008.jpg)
 
 #### Solution:
 
@@ -287,7 +287,7 @@ Hence, by the converse of Thales' theorem, $DE \| BC$.
 In the adjoining figure, $MN \| QR$.
 Find (i) PN and (ii) PR.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-005.jpg?height=236&width=324&top_left_y=1667&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-009.jpg)
 
 #### Solution:
 
@@ -309,7 +309,7 @@ Hence, (i) $PN=x \mathrm{~cm}=2.3 \mathrm{~cm}$ and (ii) $PR=PN+NR=(2.3+6.9) \ma
 
 In the given figure, $\frac{AD}{DB}=\frac{AE}{EC}$ and $\angle ADE=\angle ACB$. Prove that $\triangle ABC$ is an isosceles triangle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-006.jpg?height=230&width=277&top_left_y=620&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-010.jpg)
 
 #### Solution:
 
@@ -337,7 +337,7 @@ $M$ and $N$ are points on the sides $AC$ and $BC$ respectively of a $\triangle A
 (ii) $CB=6.92 \mathrm{~cm}, CN=1.04 \mathrm{~cm}, CA=1.73 \mathrm{~cm}, CM=0.26 \mathrm{~cm}$
 (iii) $CM=5.1 \mathrm{~cm}, CA=6.8 \mathrm{~cm}, CB=5.6 \mathrm{~cm}, NB=1.4 \mathrm{~cm}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-006.jpg?height=230&width=257&top_left_y=1536&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-011.jpg)
 
 #### Solution:
 
@@ -379,7 +379,7 @@ Clearly, $\frac{CM}{MA}=\frac{CN}{NB}$ and so $MN \| AB$ [by the converse of Tha
 In the given figure, $DE \| AC$ and $DF \| AE$. Prove that $\frac{BF}{FE}=\frac{BE}{EC}$.
 [CBSE 2005, '07]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-007.jpg?height=208&width=346&top_left_y=809&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-012.jpg)
 
 #### Solution:
 
@@ -402,7 +402,7 @@ $$
 
 In the figure given along side, $DE \| OQ$ and $DF \| OR$. Show that $EF \| QR$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-007.jpg?height=250&width=338&top_left_y=1516&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-013.jpg)
 
 #### Solution:
 
@@ -428,7 +428,7 @@ Hence, $EF \| QR$ [by the converse of Thales' theorem].
 
 In the given figure, $LM \| CB$ and $LN \| CD$. Prove that $\frac{AM}{AB}=\frac{AN}{AD}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-008.jpg?height=322&width=279&top_left_y=583&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-014.jpg)
 
 #### Solution:
 
@@ -452,7 +452,7 @@ $$
 In the given figure, $AB \| DE$ and $BD \| EF$. Prove that $DC^{2}=CF \times AC$.
 [CBSE 2004C, '10]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-008.jpg?height=273&width=253&top_left_y=1248&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-015.jpg)
 
 #### Solution:
 
@@ -490,7 +490,7 @@ $$
 
 In the given figure, $PQ \| AB$ and $PR \| AC$. Prove that $QR \| BC$. [CBSE 2002, '05C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-009.jpg?height=237&width=307&top_left_y=527&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-016.jpg)
 
 #### Solution:
 
@@ -515,7 +515,7 @@ Hence, by the converse of Thales' theorem, $QR \| BC$.
 
 In the given figure, in $\triangle ABC, \angle B=\angle C$ and $BD=CE$. Prove that $DE \| BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-009.jpg?height=241&width=320&top_left_y=1312&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-017.jpg)
 
 **GIVEN** A $\triangle ABC$ in which $\angle B=\angle C$ and $BD=CE$.
 
@@ -538,7 +538,7 @@ Hence, $DE \| BC$ [by the converse of Thales' theorem].
 
 In $\triangle ABC, D$ and $E$ are two points on $AB$ such that $AD=BE$. If $DP \| BC$ and $EQ \| AC$, prove that $PQ \| AB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-010.jpg?height=263&width=322&top_left_y=340&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-018.jpg)
 
 **GIVEN** A $\triangle ABC$ and $D, E$ are two points on $AB$ such that $AD=BE$. Also, $DP \| BC$, and $EQ \| AC$.
 
@@ -575,7 +575,7 @@ If three or more parallel lines are intersected by two transversals, prove that 
 
 **CONSTRUCTION** Draw $PM \| CD$, meeting the lines $m$ and $n$ at $L$ and $M$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-010.jpg?height=373&width=386&top_left_y=1526&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-019.jpg)
 
 **PROOF**
 $$
@@ -612,7 +612,7 @@ $ABCD$ is a quadrilateral and $P, Q, R, S$ are the points of trisection of the s
 
 **TO PROVE** $PQRS$ is a parallelogram.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-011.jpg?height=269&width=303&top_left_y=914&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-020.jpg)
 
 **CONSTRUCTION** Join AC.
 
@@ -646,7 +646,7 @@ $ABCD$ is a trapezium with $AB \| DC$. $E$ and $F$ are points on nonparallel sid
 **PROOF** $EF \| AB$ and $AB\|DC \Rightarrow EF\| DC$.
 Now, in $\triangle ADC, EG \| DC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-012.jpg?height=200&width=299&top_left_y=330&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-021.jpg)
 
 $$
 \therefore \quad \frac{AE}{ED}=\frac{AG}{GC}. \quad ... \text{(i) [by Thales' theorem]}
@@ -680,7 +680,7 @@ Prove that $\frac{AO}{OC}=\frac{BO}{OD}$.
 
 **CONSTRUCTION** Through $O$, draw $EO \| AB$, meeting $AD$ at $E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-012.jpg?height=204&width=344&top_left_y=1216&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-022.jpg)
 
 **PROOF** In $\triangle ADC, EO \| DC \quad [\because EO\|AB\| DC]$.
 $$
@@ -708,7 +708,7 @@ The diagonals of a quadrilateral $ABCD$ intersect each other at the point $O$ su
 
 **GIVEN** A quadrilateral $ABCD$ whose diagonals $AC$ and $BD$ intersect at a point $O$ such that $\frac{AO}{OC}=\frac{BO}{OD}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-013.jpg?height=204&width=320&top_left_y=340&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-023.jpg)
 
 **TO PROVE** $ABCD$ is a trapezium, i.e., $AB \| DC$.
 
@@ -732,7 +732,7 @@ Hence, $AB \| DC$, i.e., $ABCD$ is a trapezium.
 
 In the given figure, $ABCD$ is a trapezium in which $AB \| DC$ and its diagonals intersect at $O$. If $AO=(3 x-1) \mathrm{~cm}, O C=(5 x-3) \mathrm{~cm}$, $BO=(2 x+1) \mathrm{~cm}$ and $OD=(6 x-5) \mathrm{~cm}$, find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-013.jpg?height=213&width=326&top_left_y=1137&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-024.jpg)
 
 We know that $AB \| DC$ in trapezium $ABCD$ and its diagonals intersect at $O$. Then, we have
 $$
@@ -769,7 +769,7 @@ Prove that the line segment joining the midpoints of any two sides of a triangle
 
 **PROOF** Since $D$ and $E$ are the midpoints of $AB$ and $AC$ respectively, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-014.jpg?height=235&width=281&top_left_y=549&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-025.jpg)
 
 $AD=DB$ and $AE=EC$.
 $$
@@ -787,7 +787,7 @@ Prove that a line drawn through the midpoint of one side of a triangle parallel 
 
 **GIVEN** A $\triangle ABC$ in which $D$ is the midpoint of $AB$ and $DE \| BC$, meeting $AC$ at $E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-014.jpg?height=269&width=269&top_left_y=994&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-026.jpg)
 
 **TO PROVE** $AE=EC$.
 
@@ -811,7 +811,7 @@ In $\triangle ABC, AD$ is a median and $E$ is the midpoint of $AD$. If $BE$ is p
 
 **TO PROVE** $AF=\frac{1}{3} AC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-014.jpg?height=255&width=334&top_left_y=1691&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-027.jpg)
 
 **CONSTRUCTION** From $D$, draw $DG \| EF$, meeting $AC$ at $G$.
 
@@ -844,7 +844,7 @@ Prove that the line segments joining the midpoints of the adjacent sides of a qu
 
 **PROOF** In $\triangle ABC, P$ and $Q$ are the midpoints of $AB$ and $BC$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-015.jpg?height=226&width=372&top_left_y=946&top_left_x=827)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-028.jpg)
 
 $$
 \therefore \quad PQ \| AC. \quad ... \text{(i) [by midpoint theorem]}
@@ -890,7 +890,7 @@ $$
 \Rightarrow \quad \frac{BD}{DC}=\frac{AB}{AC} \quad [\because \quad AE=AC].
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-016.jpg?height=261&width=334&top_left_y=404&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-029.jpg)
 
 Hence, $\frac{BD}{DC}=\frac{AB}{AC}$.
 
@@ -910,7 +910,7 @@ In a $\triangle ABC$, let $D$ be a point on $BC$ such that $\frac{BD}{DC}=\frac{
 
 **PROOF** $\frac{BD}{DC}=\frac{AB}{AC}$ (given)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-016.jpg?height=269&width=283&top_left_y=1018&top_left_x=912)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-030.jpg)
 
 $$
 \Rightarrow \quad \frac{BD}{DC}=\frac{AB}{AE} \quad [\because \quad AC=AE]
@@ -975,7 +975,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-017.jpg?height=253&width=277&top_left_y=801&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-031.jpg)
 
 Hence, $\triangle ABC$ is an isosceles triangle.
 
@@ -995,7 +995,7 @@ If the diagonal $BD$ of a quadrilateral $ABCD$ bisects both $\angle B$ and $\ang
 
 **PROOF** In $\triangle CBA, BE$ is the bisector of $\angle ABC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-017.jpg?height=205&width=243&top_left_y=1429&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Triangles/class-10-Ch-07-A-BooK-032.jpg)
 
 $$
 \therefore \quad \frac{AE}{EC}=\frac{AB}{BC}. \quad ... \text{(i) [by the angle-bisector theorem]}

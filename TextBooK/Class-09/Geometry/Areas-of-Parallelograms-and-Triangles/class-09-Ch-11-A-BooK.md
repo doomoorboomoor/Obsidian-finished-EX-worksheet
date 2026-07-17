@@ -18,7 +18,7 @@ If two congruent figures are cut and one of them is superposed on the other then
 
 In the adjoining figure, if $R$ represents the total region of a polygon $ABCD$ then $\operatorname{ar}(R)$ is equal to the sum of the areas of regions $R_{1}$ and $R_{2}$, i.e.,
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-01.jpg?height=274&width=318&top_left_y=1041&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-001.jpg)
 
 $$
 \operatorname{ar}(R)=\operatorname{ar}\left(R_{1}\right)+\operatorname{ar}\left(R_{2}\right).
@@ -32,8 +32,8 @@ Thus, $R_{1} \cong R_{2} \Rightarrow \operatorname{ar}\left(R_{1}\right)=\operat
 
 A square of side 4 cm has the same area as a rectangle $8 \mathrm{~cm} \times 2 \mathrm{~cm}$. But they are not congruent.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-01.jpg?height=209&width=228&top_left_y=1727&top_left_x=334)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-01.jpg?height=138&width=373&top_left_y=1800&top_left_x=606)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-002.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-003.jpg)
 
 ---
 
@@ -44,13 +44,13 @@ A square of side 4 cm has the same area as a rectangle $8 \mathrm{~cm} \times 2 
 Observe the following figures:
 
 (i)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=168&width=275&top_left_y=406&top_left_x=189)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-004.jpg)
 
 (ii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=164&width=211&top_left_y=410&top_left_x=559)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-005.jpg)
 
 (iii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=164&width=259&top_left_y=410&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-006.jpg)
 
 In Fig. (i), $\triangle ABC$ and $\triangle ABD$ are on the same base $AB$ and between the same parallels ($AB$ and $XY$).
 
@@ -61,13 +61,13 @@ In Fig. (iii), trapezium $ABCD$ and $\triangle ABN$ are on the same base $AB$ an
 Observe the following figures:
 
 (iv)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=162&width=251&top_left_y=976&top_left_x=195)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-007.jpg)
 
 (v)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=166&width=263&top_left_y=974&top_left_x=519)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-008.jpg)
 
 (vi)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=164&width=265&top_left_y=974&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-009.jpg)
 
 In Fig. (iv), $\triangle ABC$ and $\triangle ADE$ are between the same parallels ($AD$ and $XY$) but not on the same base.
 
@@ -78,13 +78,13 @@ In Fig. (vi), $\| \mathrm{gm} ABCD$ and $\| \mathrm{gm} PQRS$ are between the sa
 Observe the following figures:
 
 (vii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=210&width=218&top_left_y=1532&top_left_x=195)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-010.jpg)
 
 (viii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=180&width=263&top_left_y=1566&top_left_x=491)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-011.jpg)
 
 (ix)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-02.jpg?height=198&width=241&top_left_y=1548&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-012.jpg)
 
 In Fig. (vii), $\triangle ABC$ and $\triangle ABP$ are on the same base $AB$ but not between the same parallels.
 
@@ -101,10 +101,10 @@ Parallelograms on the same base and between the same parallels are equal in area
 **Activity 1.** On a drawing sheet, construct a parallelogram $ABCD$. Draw a line segment $AE$ as shown in Fig. (i). On a separate sheet, construct $\triangle A^{\prime} D^{\prime} E^{\prime}$ congruent to $\triangle ADE$ using a tracing paper. Cut $\triangle A^{\prime} D^{\prime} E^{\prime}$ and place it in such a way that $A^{\prime} D^{\prime}$ coincides with side $BC$ of the parallelogram $ABCD$ as shown in Fig. (ii). We thus have two parallelograms $ABCD$ and $ABE^{\prime} E$ which are on the same base $AB$ and between the same parallels $AB$ and $DE^{\prime}$.
 
 (i)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-03.jpg?height=176&width=289&top_left_y=539&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-013.jpg)
 
 (ii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-03.jpg?height=184&width=342&top_left_y=777&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-014.jpg)
 
 $$
 \begin{aligned}
@@ -131,7 +131,7 @@ $\operatorname{ar}(\| \mathrm{gm} ABCD)=\operatorname{ar}(\| \mathrm{gm} ABEF)$.
 #### Proof
 In $\triangle ADF$ and $\triangle BCE$, we have:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-03.jpg?height=176&width=269&top_left_y=1478&top_left_x=928)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-015.jpg)
 
 $AD=BC$ (opp. sides of a $\| \mathrm{gm}$)
 
@@ -172,7 +172,7 @@ In the adjoining figure
 
 ### Theorem 2
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-04.jpg?height=204&width=364&top_left_y=813&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-016.jpg)
 
 **The area of a parallelogram is equal to the product of its any side and the corresponding altitude.**
 
@@ -190,7 +190,7 @@ $\| \mathrm{gm} ABCD$ and rect. $ABML$ are on the same base $AB$ and between the
 $\therefore \quad \operatorname{ar}(\| \mathrm{gm} ABCD)=\operatorname{ar}($ rect. $ABML)=A B \times A L$.
 $\therefore \quad$ area of a $\| \mathrm{gm}=$ base $\times$ height.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-04.jpg?height=185&width=326&top_left_y=1145&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-017.jpg)
 
 ---
 
@@ -211,7 +211,7 @@ Draw $AL \perp DR$ and $PM \perp DR$.
 $AB \| DR, AL \perp DR$ and $PM \perp DR$.
 $\therefore \quad AL=P M$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-04.jpg?height=187&width=396&top_left_y=1741&top_left_x=801)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-018.jpg)
 
 $$
 \begin{aligned}
@@ -249,7 +249,7 @@ Now, $CP \| NQ$ and $CP=NQ \Rightarrow CPNQ$ is a $\| \mathrm{gm}$
 $\Rightarrow \quad CN\|PQ \Rightarrow CN\| AB$.
 Thus, parallelograms $ABCD$ and $ABMN$ lie between the same parallels.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-05.jpg?height=180&width=519&top_left_y=475&top_left_x=678)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-019.jpg)
 
 ---
 
@@ -271,7 +271,7 @@ $AD=CB$ (opposite sides of a $\| \mathrm{gm}$)
 $BD=DB$ (common)
 $\triangle ABD \cong \triangle CDB$ (SSS-criterion)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-05.jpg?height=205&width=366&top_left_y=1457&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-020.jpg)
 
 Hence, $\operatorname{ar}(\triangle ABD)=\operatorname{ar}(\triangle CDB)$.
 
@@ -295,7 +295,7 @@ $BE \| CA$ and $EA \| BC \Rightarrow BCAE$ is a $\| \mathrm{gm}$.
 $CF \| BD$ and $DF \| BC \Rightarrow BCFD$ is a $\| \mathrm{gm}$.
 Clearly, the $\| \mathrm{gms} BCAE$ and $BCFD$ are on the same base $BC$ and between the same parallel lines $BC$ and $EF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-06.jpg?height=180&width=519&top_left_y=169&top_left_x=676)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-021.jpg)
 
 $$
 \therefore \quad \operatorname{ar}(\| \mathrm{gm} BCAE)=\operatorname{ar}(\| \mathrm{gm} BCFD) . \tag{i}
@@ -335,7 +335,7 @@ Through $A$ and $C$, draw $AD \| BC$ and $CD \| BA$, intersecting each other at 
 $AD \| BC$ and $CD \| BA \Rightarrow BCDA$ is a $\| \mathrm{gm}$.
 Thus, $BCDA$ is a $\| \mathrm{gm}$ whose diagonal $AC$ divides it into two triangles of equal areas.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-06.jpg?height=198&width=382&top_left_y=1055&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-022.jpg)
 
 $$
 \begin{aligned}
@@ -364,7 +364,7 @@ Draw $AL \perp BC$, meeting $BC$ in $L$, and $DM \perp BC$, meeting $BC$ produce
 #### Proof
 Since $BC \| AD$, we have $AL=DM$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-07.jpg?height=194&width=293&top_left_y=173&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-023.jpg)
 
 $$
 \begin{aligned}
@@ -394,7 +394,7 @@ Now, $\operatorname{ar}(\triangle ABC)=\operatorname{ar}(\triangle ABD)$
 $\Rightarrow \quad \frac{1}{2} \times A B \times C P=\frac{1}{2} \times A B \times D Q$
 $\Rightarrow \quad C P=D Q$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-07.jpg?height=198&width=326&top_left_y=666&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-024.jpg)
 
 Now, $CP \| DQ$ and $CP=DQ$
 $\Rightarrow \quad CPQD$ is a $\| \mathrm{gm}$
@@ -419,9 +419,9 @@ and $\operatorname{ar}(\triangle DEF)=\frac{1}{2} \times EF \times DM$.
 Now, $\operatorname{ar}(\triangle ABC)=\operatorname{ar}(\triangle DEF)$
 $\Rightarrow \quad \frac{1}{2} BC \times AL=\frac{1}{2} \times EF \times DM \Rightarrow AL=DM$ [$\because BC=EF$].
 Hence, altitude $AL =$ altitude $DM$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-07.jpg?height=174&width=279&top_left_y=1653&top_left_x=388)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-025.jpg)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-07.jpg?height=180&width=277&top_left_y=1651&top_left_x=680)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-026.jpg)
 
 ---
 
@@ -441,7 +441,7 @@ Draw $AL \perp DC$, meeting $CD$ produced at $L$. Join $AC$.
 #### Proof
 $\operatorname{ar}($ trap. $A B C D)=\operatorname{ar}(\triangle A B C)+\operatorname{ar}(\triangle A C D)$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-08.jpg?height=199&width=398&top_left_y=573&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-027.jpg)
 
 $$
 \begin{aligned}
@@ -467,7 +467,7 @@ $\operatorname{ar}($ rhombus $A B C D)=\frac{1}{2} \times A C \times B D$.
 #### Proof
 Since the diagonals of a rhombus intersect each other at right angles, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-08.jpg?height=196&width=237&top_left_y=1244&top_left_x=958)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-028.jpg)
 
 $B O \perp A C \text { and } D O \perp A C .$
 
@@ -487,7 +487,7 @@ $$
 
 Show that the line segment joining the midpoints of a pair of opposite sides of a parallelogram divides it into two equal parallelograms.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-09.jpg?height=178&width=277&top_left_y=388&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-029.jpg)
 
 **GIVEN:** A parallelogram $ABCD$ in which $E$ and $F$ are the midpoints of $AB$ and $DC$ respectively. $E$ and $F$ are joined.
 
@@ -521,7 +521,7 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-09.jpg?height=192&width=307&top_left_y=1087&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-030.jpg)
 
 Diagonal $AC$ of parallelogram $ABCD$ divides it into two triangles of equal area.
 $$
@@ -553,7 +553,7 @@ $\therefore \quad \operatorname{ar}(\square APQD) = \frac{1}{2} \operatorname{ar
 
 Show that a median of a triangle divides it into two triangles of equal area.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-10.jpg?height=236&width=358&top_left_y=479&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-031.jpg)
 
 **GIVEN:** A $\triangle ABC$ in which $AD$ is a median.
 
@@ -574,7 +574,7 @@ Hence, a median of a triangle divides it into two triangles of equal area.
 In the adjoining figure, $AD$ is one of the medians of a $\triangle ABC$ and $P$ is a point on $AD$.
 Prove that (i) $\operatorname{ar}(\triangle BDP) = \operatorname{ar}(\triangle CDP)$, and (ii) $\operatorname{ar}(\triangle ABP) = \operatorname{ar}(\triangle ACP)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-10.jpg?height=200&width=269&top_left_y=974&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-032.jpg)
 
 **GIVEN:** A $\triangle ABC$ in which $AD$ is a median. $P$ is any point on $AD$. $BP$ and $CP$ are joined.
 
@@ -607,7 +607,7 @@ $$
 
 $ABC$ is a triangle in which $D$ is the midpoint of $BC$ and $E$ is the midpoint of $AD$. Prove that $\operatorname{ar}(\triangle BED) = \frac{1}{4} \operatorname{ar}(\triangle ABC)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-11.jpg?height=204&width=269&top_left_y=169&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-033.jpg)
 
 **GIVEN:** A $\triangle ABC$ in which $D$ is the midpoint of $BC$ and $E$ is the midpoint of $AD$.
 
@@ -639,7 +639,7 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-11.jpg?height=204&width=229&top_left_y=1107&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-034.jpg)
 
 Median $BM$ divides $\triangle ABC$ into two triangles of equal area.
 $$
@@ -668,7 +668,7 @@ $$
 &= \frac{1}{3} \operatorname{ar}(\triangle ABC)
 \end{aligned}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-11.jpg?height=194&width=249&top_left_y=1715&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-035.jpg)
 
 **GIVEN:** A $\triangle ABC$. Its medians $AD$, $BE$ and $CF$ intersect at $G$.
 
@@ -707,7 +707,7 @@ Hence, $\operatorname{ar}(\triangle AGB) = \operatorname{ar}(\triangle AGC) = \o
 
 Show that the diagonals of a parallelogram divide it into four triangles of equal area.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-12.jpg?height=200&width=348&top_left_y=1180&top_left_x=843)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-036.jpg)
 
 **GIVEN:** A parallelogram $ABCD$. Its diagonals $AC$ and $BD$ intersect at $O$.
 
@@ -740,7 +740,7 @@ In the adjoining figure, $ABCD$ is a quadrilateral. $BE$ is drawn parallel to $A
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-13.jpg?height=208&width=305&top_left_y=177&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-037.jpg)
 
 We have $\operatorname{ar}(\triangle ABC) = \operatorname{ar}(\triangle AEC)$ [$\because$ triangles on the same base and between the same parallels are equal in area].
 
@@ -756,7 +756,7 @@ In the adjoining figure, $D$ is the midpoint of side $AB$ of $\triangle ABC$ and
 $$
 \operatorname{ar}(\triangle BPQ) = \frac{1}{2} \operatorname{ar}(\triangle ABC).
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-13.jpg?height=210&width=309&top_left_y=775&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-038.jpg)
 
 **GIVEN:** $D$ is the midpoint of side $AB$ of $\triangle ABC$ and $P$ is any point on $BC$. $CQ \| PD$ meets $AB$ in $Q$.
 
@@ -789,7 +789,7 @@ $$
 
 A point $O$ inside a rectangle $ABCD$ is joined to the vertices. Prove that the sum of the areas of a pair of opposite triangles so formed is equal to the sum of the areas of the other pair of triangles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-14.jpg?height=212&width=289&top_left_y=471&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-039.jpg)
 
 **GIVEN:** A rectangle $ABCD$ and $O$ is a point inside it. $OA$, $OB$, $OC$ and $OD$ have been joined.
 
@@ -831,7 +831,7 @@ $ABCD$ is a parallelogram and $O$ is a point in its interior. Prove that
 
 (ii) $\operatorname{ar}(\triangle AOB) + \operatorname{ar}(\triangle COD) = \operatorname{ar}(\triangle AOD) + \operatorname{ar}(\triangle BOC)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-14.jpg?height=207&width=299&top_left_y=1465&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-040.jpg)
 
 **GIVEN:** A parallelogram $ABCD$ and $O$ is a point in its interior.
 
@@ -872,7 +872,7 @@ $\therefore \quad \operatorname{ar}(\triangle AOB) + \operatorname{ar}(\triangle
 
 If each diagonal of a quadrilateral separates it into two triangles of equal area then show that the quadrilateral is a parallelogram.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-15.jpg?height=200&width=237&top_left_y=1272&top_left_x=960)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-041.jpg)
 
 **GIVEN:** A quadrilateral $ABCD$ in which diagonals $AC$ and $BD$ are such that $\operatorname{ar}(\triangle ABD) = \operatorname{ar}(\triangle CDB)$ and $\operatorname{ar}(\triangle ABC) = \operatorname{ar}(\triangle ACD)$.
 
@@ -915,7 +915,7 @@ Hence, $ABCD$ is a parallelogram.
 
 If the diagonals $AC$ and $BD$ of a quadrilateral $ABCD$ intersect at $O$ and separate the quadrilateral $ABCD$ into four triangles of equal area, show that the quadrilateral is a parallelogram.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-16.jpg?height=199&width=235&top_left_y=573&top_left_x=960)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-042.jpg)
 
 **GIVEN:** A quadrilateral $ABCD$ whose diagonals $AC$ and $BD$ intersect at $O$ in such a way that $\operatorname{ar}(\triangle AOB) = \operatorname{ar}(\triangle BOC) = \operatorname{ar}(\triangle AOD) = \operatorname{ar}(\triangle COD)$.
 
@@ -947,7 +947,7 @@ $D, E, F$ are the midpoints of the sides $BC, CA$ and $AB$ respectively of $\tri
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-16.jpg?height=216&width=269&top_left_y=1232&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-043.jpg)
 
 By midpoint theorem, $DE \| BA$ and $FE \| BC$.
 $\therefore \quad DE \| BF$ and $FE \| BD$.
@@ -978,7 +978,7 @@ In the adjoining figure, $ABCDE$ is a pentagon. A line through $B$ parallel to $
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-17.jpg?height=251&width=297&top_left_y=515&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-044.jpg)
 
 Join $AF$.
 $\triangle ACB$ and $\triangle ACF$ have the same base $AC$ and lie between the same parallels $AC$ and $BF$.
@@ -995,7 +995,7 @@ In the adjoining figure, $PQRS$ and $PABC$ are two parallelograms of equal area.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-17.jpg?height=259&width=267&top_left_y=1073&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-045.jpg)
 
 Let $BC$ and $QR$ intersect at $O$. Join $BQ, QC, CR$ and $RB$.
 
@@ -1019,7 +1019,7 @@ $\therefore \quad QC \| BR$.
 
 In the adjoining figure, $PQ$ is a line parallel to side $BC$ of $\triangle ABC$. If $BX \| CA$ and $CY \| BA$ meet the line $PQ$ produced in $X$ and $Y$ respectively, show that $\operatorname{ar}(\triangle ABX) = \operatorname{ar}(\triangle ACY)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-18.jpg?height=236&width=374&top_left_y=173&top_left_x=823)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-046.jpg)
 
 **GIVEN:** A $\triangle ABC$, $PQ \| BC$; $BX \| CA$ and $CY \| BA$.
 
@@ -1052,7 +1052,7 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-18.jpg?height=247&width=237&top_left_y=1095&top_left_x=960)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-047.jpg)
 
 Draw $AL \perp BC$ and $PM \perp AD$. Since $BC \| AD$, the distance between them remains the same.
 $$
@@ -1073,7 +1073,7 @@ In the adjoining figure, $ABCD$ is a parallelogram. If $P$ and $Q$ are any two p
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-18.jpg?height=231&width=332&top_left_y=1711&top_left_x=865)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-048.jpg)
 
 $\triangle CPD$ and parallelogram $ABCD$ are on the same base $DC$ and between the same parallels $CD$ and $AB$.
 $$
@@ -1094,7 +1094,7 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-19.jpg?height=249&width=271&top_left_y=505&top_left_x=924)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-049.jpg)
 
 Join $AC, CP, PQ$ and $QA$.
 
@@ -1121,7 +1121,7 @@ Let $P, Q, R, S$ be respectively the midpoints of the sides $AB, BC, CD$ and $DA
 $$
 \operatorname{ar}(\| \mathrm{gm} PQRS) = \frac{1}{2} \operatorname{ar}(\text{quad. } ABCD).
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-19.jpg?height=241&width=227&top_left_y=1409&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-050.jpg)
 
 Join $AC$ and $AR$.
 
@@ -1175,7 +1175,7 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-20.jpg?height=249&width=334&top_left_y=1435&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-051.jpg)
 
 We have:
 $$
@@ -1202,7 +1202,7 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-21.jpg?height=242&width=299&top_left_y=171&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-052.jpg)
 
 In $\triangle AED$ and $\triangle BFC$, we have
 $$
@@ -1230,12 +1230,12 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-21.jpg?height=198&width=193&top_left_y=809&top_left_x=1002)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-053.jpg)
 
 Join $AC$.
 Now, $\triangle ADC$ and $\triangle ADQ$ being on the same base $AD$ and between the same parallels $AD$ and $BC$, are equal in area.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-21.jpg?height=196&width=189&top_left_y=1071&top_left_x=1006)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-054.jpg)
 
 $\therefore \quad \operatorname{ar}(\triangle ADC) = \operatorname{ar}(\triangle ADQ)$
 $$
@@ -1257,7 +1257,7 @@ Prove that of all the parallelograms of given sides, the parallelogram which is 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-21.jpg?height=209&width=311&top_left_y=1735&top_left_x=410) ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-21.jpg?height=187&width=256&top_left_y=1735&top_left_x=745)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-055.jpg) ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-056.jpg)
 
 Let us consider all parallelograms of sides $a$ and $b$.
 
@@ -1276,7 +1276,7 @@ Parallelogram $ABCD$ and rectangle $ABEF$ have the same base $AB$ and equal area
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-22.jpg?height=186&width=358&top_left_y=455&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-057.jpg)
 
 We have
 $$
@@ -1303,7 +1303,7 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-22.jpg?height=227&width=322&top_left_y=1119&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-058.jpg)
 
 $\triangle PSM$ and $\triangle QSM$ have the same base $SM$ and lie between the same parallels $PQ$ and $MS$.
 $$
@@ -1324,11 +1324,11 @@ $$
 $$
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-22.jpg?height=184&width=322&top_left_y=1679&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-059.jpg)
 
 Through $P$ and $Q$, we draw $PM$ and $QN$ parallel to $AB$. Parallelograms $ABPM, MPQN$ and $NQCD$ have equal areas since they have equal bases and lie between the same parallels.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-23.jpg?height=188&width=350&top_left_y=177&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-060.jpg)
 $$
 \begin{align*}
 \therefore \quad \operatorname{ar}(\| \mathrm{gm} ABPM) &= \operatorname{ar}(\| \mathrm{gm} MPQN) \\
@@ -1354,11 +1354,11 @@ In the adjoining figure, $ABC$ and $BDE$ are two equilateral triangles such that
 (v) $\operatorname{ar}(\triangle BFE) = 2 \operatorname{ar}(\triangle FED)$
 (vi) $\operatorname{ar}(\triangle FED) = \frac{1}{8} \operatorname{ar}(\triangle AFC)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-23.jpg?height=322&width=245&top_left_y=1175&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-061.jpg)
 
 Join $AD$ and $EC$. We have $\angle ABC = \angle DBE = 60^{\circ} \Rightarrow DE \| AB$ (alt. interior $\angle$s) and $\angle ACB = \angle DBE = 60^{\circ} \Rightarrow BE \| AC$ [$\because \triangle ABC$ and $\triangle BDE$ are equilateral triangles].
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-23.jpg?height=289&width=229&top_left_y=1604&top_left_x=968)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Areas-of-Parallelograms-and-Triangles/class-09-Ch-11-A-BooK-062.jpg)
 
 Now, let each side of $\triangle BDE = a$. Then, $\operatorname{ar}(\triangle BDE) = \frac{\sqrt{3}}{4} a^{2}$. (i)
 

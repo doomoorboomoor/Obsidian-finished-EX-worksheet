@@ -14,7 +14,7 @@ Thus, the line $L$ has slope $m$ and passes through the point $C(0, c)$.
 
 So, by the point-slope form, the equation of $L$ is:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-30.jpg?height=337&width=463&top_left_y=346&top_left_x=732)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-D-BooK-001.jpg)
 
 $$
 (y-c)=m(x-0) \Rightarrow y=m x+c
@@ -40,7 +40,7 @@ Thus, the line $L$ has slope $m$ and passes through the point $D(d, 0)$.
 
 So, by the point-slope form, the equation of $L$ is:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-30.jpg?height=328&width=430&top_left_y=1002&top_left_x=767)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-D-BooK-002.jpg)
 
 $$
 \frac{(y-0)}{(x-d)}=m \Leftrightarrow y=m(x-d) .
@@ -95,7 +95,7 @@ Find the equation of a line which intersects the $y$-axis at a distance of 3 uni
 
 Here, $m=\tan 30^{\circ}=\frac{1}{\sqrt{3}}$ and $c=3$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-31.jpg?height=352&width=467&top_left_y=716&top_left_x=732)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-D-BooK-003.jpg)
 
 Hence, the required equation of the line is:
 $$
@@ -118,7 +118,7 @@ $$
 y=m x+c .
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-31.jpg?height=373&width=383&top_left_y=1522&top_left_x=459)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-D-BooK-004.jpg)
 
 Here, $m=\tan 120^{\circ}=\tan \left(180^{\circ}-60^{\circ}\right)=-\tan 60^{\circ}=-\sqrt{3}$ and $c=-4$.
 

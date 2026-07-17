@@ -6,7 +6,7 @@
 
 Srinivasa Aaiyangar Ramanujan was born in Erode, a small village near Chennai in 1887. His father was a clerk at a cloth shop and his mother was a housewife. On the basis of his good school work, he was admitted to the University of Madras. But, in the first year, he passed in mathematics and failed in other subjects. What earned him fame, reputation and success was his research work on numbers.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6a90a2ac4c85e1f600e0g-01.jpg?height=508&width=455&top_left_y=485&top_left_x=726)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Arithmetic-Progression/class-10-Ch-05-A-BooK-001.jpg)
 
 ### His Research Work and Contribution on Numbers
 

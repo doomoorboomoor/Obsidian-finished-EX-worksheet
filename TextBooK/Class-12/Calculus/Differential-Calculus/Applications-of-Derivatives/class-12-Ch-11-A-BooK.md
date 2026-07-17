@@ -255,7 +255,7 @@ $$
 \frac{A B}{O A}=\frac{C D}{O C} \Rightarrow \frac{r}{h}=\frac{5}{10}=\frac{1}{2} \Rightarrow r=\frac{1}{2} h
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-134.jpg?height=366&width=327&top_left_y=149&top_left_x=880)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-A-BooK-001.jpg)
 
 Now, $V=\frac{1}{3} \pi r^{2} h=\frac{1}{3} \pi \times\left(\frac{1}{2} h\right)^{2} \times h=\frac{1}{12} \pi h^{3}$.
 
@@ -328,7 +328,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-135.jpg?height=278&width=292&top_left_y=573&top_left_x=913)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-A-BooK-002.jpg)
 
 Now, $x=4 \Rightarrow y=\sqrt{5^{2}-4^{2}}=3$.
 Putting $x=4$, $y=3$ in (i) we get $\frac{d y}{d t}=\frac{-8}{3}$.
@@ -370,7 +370,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-136.jpg?height=262&width=260&top_left_y=157&top_left_x=947)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-A-BooK-003.jpg)
 
 Hence, the area is decreasing at the rate of **$\sqrt{3} b \mathrm{~cm}^{2} / \mathrm{sec}$**.
 
@@ -391,7 +391,7 @@ Clearly, $\triangle B A E \sim \triangle D C E$.
 $\therefore \frac{A B}{C D}=\frac{A E}{C E}$
 $\Rightarrow \frac{a}{b}=\frac{x+y}{y}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-136.jpg?height=204&width=337&top_left_y=1127&top_left_x=868)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-A-BooK-004.jpg)
 
 $\Rightarrow(a-b) y=b x$
 $\Rightarrow(a-b) \frac{d y}{d t}=b \cdot \frac{d x}{d t}=b c \quad\left[\because \frac{d x}{d t}=c\right]$
@@ -416,7 +416,7 @@ Given that $\frac{d x}{d t}=1.1 \mathrm{~m} / \mathrm{s}$.
 Clearly, $\triangle S A B \sim \triangle S M N$.
 $\therefore \frac{A S}{M S}=\frac{A B}{M N}=\frac{6}{1.6}=\frac{15}{4}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-137.jpg?height=208&width=312&top_left_y=349&top_left_x=895)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-A-BooK-005.jpg)
 
 $\Rightarrow \frac{x+s}{s}=\frac{15}{4} \Rightarrow x=\frac{11}{4} s$, where $M S=s$.
 $\Rightarrow \frac{d x}{d t}=\frac{11}{4} \cdot \frac{d s}{d t} \Rightarrow 1.1=\frac{11}{4} \cdot \frac{d s}{d t}$

@@ -60,7 +60,7 @@ Thus, $\frac{a_{1}}{a_{2}} \neq \frac{b_{1}}{b_{2}}$.
 Hence, the given system of equations has a **unique solution**.
 
 By cross multiplication, we have
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-43.jpg?height=120&width=465&top_left_y=970&top_left_x=428)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-D-BooK-001.jpg)
 
 $$
 \frac{x}{(-70+51)}=\frac{y}{(-85+28)}=\frac{1}{(6-25)}

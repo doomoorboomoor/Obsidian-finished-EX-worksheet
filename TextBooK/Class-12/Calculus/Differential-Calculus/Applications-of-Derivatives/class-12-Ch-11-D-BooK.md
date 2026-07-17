@@ -59,7 +59,7 @@ $$
 
 This shows that the tangent to the curve $y=f(x)$ at the point $x=c$ is parallel to the chord $A B$.
 
-![Graph showing a curve f(x) with a secant line AB and a parallel tangent at point c](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-163.jpg?height=333&width=355&top_left_y=1061&top_left_x=854)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Calculus/Differential-Calculus/Applications-of-Derivatives/class-12-Ch-11-D-BooK-001.jpg)
 
 ---
 

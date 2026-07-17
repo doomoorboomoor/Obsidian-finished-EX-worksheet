@@ -111,7 +111,7 @@ $$
 
 So, the coordinates of these points are $A(a, 0,0), B(0, b, 0)$ and $C(0,0, c)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-075.jpg?height=456&width=469&top_left_y=1395&top_left_x=738)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-A-BooK-001.jpg)
 
 Let the equation of the given plane be
 

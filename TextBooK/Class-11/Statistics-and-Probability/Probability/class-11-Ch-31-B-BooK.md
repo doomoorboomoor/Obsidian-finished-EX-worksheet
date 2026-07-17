@@ -146,7 +146,7 @@ $$
 
 #### Proof
 Let $E_{1}$ and $E_{2}$ be two compatible events. Then, $E_{1} \cap E_{2} \neq \phi$. From the adjoining Venn diagram, we have
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1ecdc546437b9f11e56g-24.jpg?height=281&width=400&top_left_y=189&top_left_x=801)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Statistics-and-Probability/Probability/class-11-Ch-31-B-BooK-001.jpg)
 $$
 \begin{align*}
 & \quad (E_{1}-E_{2}) \cap (E_{1} \cap E_{2})=\phi, \tag{i} \\
@@ -164,7 +164,7 @@ If $E_{1}$ and $E_{2}$ be two events such that $E_{1} \subseteq E_{2}$ then $P(E
 
 #### Proof
 Let $E_{1} \subseteq E_{2}$. Then,
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1ecdc546437b9f11e56g-24.jpg?height=223&width=356&top_left_y=614&top_left_x=844)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Statistics-and-Probability/Probability/class-11-Ch-31-B-BooK-002.jpg)
 $$
 E_{1} \cap (E_{2}-E_{1})=\phi \text{ and } E_{1} \cup (E_{2}-E_{1})=E_{2}
 $$

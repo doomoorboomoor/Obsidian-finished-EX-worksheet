@@ -155,7 +155,7 @@ Let $A=\{1,2,3,4,5\}$. Define a relation $R$ from $A$ to $A$ by $R=\{(x, y): y=2
 $\therefore R=\{(2,1),(3,3),(4,5)\}$.
 
 (i) We may depict it by arrow diagram, as shown below:
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1481dc25820428c93bfg-16.jpg?height=307&width=625&top_left_y=221&top_left_x=378)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Relations/class-11-Ch-02-C-BooK-001.jpg)
 
 (ii) We have, $\operatorname{dom}(R)=\{2,3,4\}$ and $\operatorname{range}(R)=\{1,3,5\}$.
 
@@ -177,7 +177,7 @@ Here, $A=\{1,2,3,4,5\}$ and $B=\{1,4,5\}$.
 (i) $R=\{(1,4),(1,5),(2,4),(2,5),(3,4),(3,5),(4,5)\}$.
 (ii) $\operatorname{Dom}(R)=\{1,2,3,4\}$, $\operatorname{range}(R)=\{4,5\}$ and $\operatorname{co-domain}(R)=\{1,4,5\}$.
 (iii) We may represent the above relation by an arrow diagram, shown below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1481dc25820428c93bfg-16.jpg?height=307&width=623&top_left_y=1113&top_left_x=378)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Relations/class-11-Ch-02-C-BooK-002.jpg)
 
 ---
 

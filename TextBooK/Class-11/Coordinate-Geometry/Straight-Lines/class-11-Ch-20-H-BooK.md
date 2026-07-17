@@ -20,7 +20,7 @@ Ax + By + C = 0 & \Rightarrow Ax + By = -C \\
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-55.jpg?height=370&width=452&top_left_y=1280&top_left_x=749)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-H-BooK-001.jpg)
 
 Thus, the given line intersects the x-axis and the y-axis at the points:
 $$
@@ -75,7 +75,7 @@ Ax + By + C_1 = 0 \tag{i} \\
 $$
 Putting $y=0$ in (i), we get $x = \left(-\frac{C_1}{A}\right)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be4163g-57.jpg?height=404&width=529&top_left_y=201&top_left_x=386)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-H-BooK-002.jpg)
 
 Thus, $L_1$ intersects the x-axis at $Q = \left(-\frac{C_1}{A}, 0\right)$.
 Let $QR \perp L_2$ and let $d = |QR|$. Then,

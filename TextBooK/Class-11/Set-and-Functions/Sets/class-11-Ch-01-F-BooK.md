@@ -22,7 +22,7 @@ $$
 
 Then, we draw the Venn diagram, as shown in the given figure.
 Clearly, $A^{\prime}=\{2,4,6\}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-35.jpg?height=272&width=410&top_left_y=169&top_left_x=785)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-F-BooK-001.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ Clearly, $A^{\prime}=\{2,4,6\}$.
 
 For representing two intersecting **subsets** $A$ and $B$ of $U$, we draw two intersecting circles within the rectangle.
 The common region of these circles represents $A \cap B$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-35.jpg?height=269&width=410&top_left_y=469&top_left_x=785)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-F-BooK-002.jpg)
 
 Excluding the region of $B$ from that of $A$ shows $(A-B)$.
 Excluding the region of $A$ from that of $B$ shows $(B-A)$.
@@ -41,7 +41,7 @@ Let $U=\{1,2,3,4,5,6,7,8\}$ be the universal set, and let
 $A=\{1,3,4,5\}$ and $B=\{2,4,5,6\}$ be its subsets.
 Then, $A \cap B=\{4,5\}$.
 We draw the Venn diagram, as
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-35.jpg?height=267&width=406&top_left_y=855&top_left_x=789)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-F-BooK-003.jpg)
 shown in the given figure.
 Clearly, $(A-B)=\{1,3\}$ and $(B-A)=\{2,6\}$.
 
@@ -56,7 +56,7 @@ In order to represent two **disjoint subsets** $A$ and $B$ of the universal set 
 Let $U=\{1,2,3,4,5,6,7\}$ be the universal set, and let $A=\{1,3,5\}$ and $B=\{2,4\}$ be two of its **disjoint subsets**.
 Clearly, $A \cap B=\phi$.
 So, we may draw the Venn diagram, as shown in the adjoining figure.
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-35.jpg?height=278&width=412&top_left_y=1339&top_left_x=783)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-F-BooK-004.jpg)
 
 Clearly, $A \cap B=\phi,(A-B)=\{1,3,5\}=A$ and $(B-A)=\{2,4\}=B$.
 $A^{\prime}=\{2,4,6,7\}$ and $B^{\prime}=\{1,3,5,6,7\}$.
@@ -73,7 +73,7 @@ The inner circle represents $B$ and the outer circle represents $A$.
 Let $U=\{1,2,3,4,5,6,7,8\}$ be the universal set, and let $A=\{1,3,5,7\}$ and $B=\{3,7\}$ be its subsets.
 Then, clearly $B \subseteq A$.
 Now, we may draw the Venn diagram, as shown in the given figure.
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-36.jpg?height=270&width=410&top_left_y=171&top_left_x=781)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-F-BooK-005.jpg)
 
 $$
 \begin{aligned}
@@ -94,7 +94,7 @@ $$
 \therefore \quad n(A \cup B)=n(A)+n(B)-n(A \cap B) .
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-36.jpg?height=247&width=364&top_left_y=662&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Sets/class-11-Ch-01-F-BooK-006.jpg)
 
 If $A \cap B=\phi$, then $n(A \cap B)=0$ and therefore, in this case, we have
 

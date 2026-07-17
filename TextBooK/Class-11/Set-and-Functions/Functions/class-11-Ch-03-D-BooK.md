@@ -28,7 +28,7 @@ $A(-2,-2)$, $B(-1,-1)$, $O(0,0)$, $C(1,1)$, $D(2,2)$, and $E(3,3)$.
 
 Join these points successively to obtain the straight line $ABOCDE$ as the required graph line, given below.
 
-![Graph of the identity function, f(x)=x](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-27.jpg?height=697&width=800&top_left_y=1198&top_left_x=330)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-001.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ Let $f(x)=2$ for all $x \in R$. Then, $\operatorname{dom}(f)=R$ and $\operatorna
 
 On a graph paper, we plot the points $A(-2,2)$, $B(-1,2)$, $C(0,2)$, $D(1,2)$, $E(2,2)$ and $F(3,2)$. Join these points successively to obtain the required graph line $ABCDEF$, whose equation is $y=2$.
 
-![Graph of the function, f(x)=2](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-28.jpg?height=597&width=938&top_left_y=1252&top_left_x=257)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-002.jpg)
 
 **(ii) Graph of $f(x)=0$**
 
@@ -73,7 +73,7 @@ Let $f(x)=0$ for all $x \in R$. Then, $\operatorname{dom}(f)=R$ and $\operatorna
 
 On a graph paper, we plot the points $A(-2,0)$, $B(-1,0)$, $O(0,0)$, $C(1,0)$ and $D(2,0)$ and join them successively to get the graph line $ABOCD$, whose equation is $y=0$. This is the x-axis.
 
-![Graph of the function, f(x)=0](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-29.jpg?height=405&width=606&top_left_y=757&top_left_x=428)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-003.jpg)
 
 **(iii) Graph of $f(x)=-2$**
 
@@ -85,7 +85,7 @@ Let $f(x)=-2$ for all $x \in R$. Then, $\operatorname{dom}(f)=R$ and $\operatorn
 
 On a graph paper, we plot the points $A(-2,-2)$, $B(-1,-2)$, $C(0,-2)$, $D(1,-2)$, $E(2,-2)$ and $F(3,-2)$ and join these points successively to get the required graph line, whose equation is $y=-2$.
 
-![Graph of the function, f(x)=-2](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-30.jpg?height=498&width=938&top_left_y=173&top_left_x=257)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-004.jpg)
 
 ---
 
@@ -116,7 +116,7 @@ We can create a table of values for $f(x)=|x|$.
 
 On a graph paper, plot the points $A(-3,3)$, $B(-2,2)$, $C(-1,1)$, $O(0,0)$, $D(1,1)$, $E(2,2)$, $F(3,3)$ and $G(4,4)$. Join these points successively to obtain the V-shaped graph.
 
-![Graph of f(x)=|x|](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-31.jpg?height=800&width=1097&top_left_y=169&top_left_x=100)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-005.jpg)
 
 ---
 
@@ -154,7 +154,7 @@ Using the definition of $[x]$, we have:
 
 The graph consists of a series of horizontal line segments (steps).
 
-![Graph of greatest integer function [x]](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-32.jpg?height=746&width=794&top_left_y=171&top_left_x=340)
+![Graph of greatest integer function [x]](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-012.jpg)
 
 ---
 
@@ -190,7 +190,7 @@ Using the definition of $\lceil x \rceil$, we have:
 
 The graph may be drawn as shown below.
 
-![Graph of smallest integer function](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-33.jpg?height=702&width=901&top_left_y=221&top_left_x=269)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-006.jpg)
 
 ---
 
@@ -219,7 +219,7 @@ We have $f(x)=x-[x]=\{x\}$.
 
 Plotting these segments on a graph paper, we get the graph as shown below.
 
-![Graph of fractional part function, f(x)={x}](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-34.jpg?height=553&width=998&top_left_y=259&top_left_x=197)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-007.jpg)
 
 ---
 
@@ -251,7 +251,7 @@ Clearly, we have:
 
 We may now draw the graph as shown below.
 
-![Graph of signum function](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-35.jpg?height=374&width=1089&top_left_y=217&top_left_x=102)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-008.jpg)
 
 ---
 
@@ -284,7 +284,7 @@ Now, we prepare a table of values:
 
 Now, we plot the points $A(-2,4)$, $B(-1.5,2.25)$, $C(-1,1)$, $O(0,0)$, $D(1,1)$, $E(1.5,2.25)$ and $F(2,4)$. Join these points freehand successively to obtain the required curve (a parabola).
 
-![Graph of f(x) = x^2](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-36.jpg?height=649&width=992&top_left_y=227&top_left_x=199)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-009.jpg)
 
 ---
 
@@ -306,7 +306,7 @@ Now, we prepare a table of values:
 
 Now, we plot the points $A(-2,-8)$, $B(-1.5,-3.375)$, $C(-1,-1)$, $O(0,0)$, $D(1,1)$, $E(1.5,3.375)$ and $F(2,8)$. We join these points freehand successively to obtain the required curve.
 
-![Graph of f(x)=x^3](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-36.jpg?height=978&width=400&top_left_y=958&top_left_x=795)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-010.jpg)
 
 ---
 
@@ -334,7 +334,7 @@ We have the following table of values:
 
 Now, we plot the points $A(-4,-0.25)$, $B(-2,-0.5)$, $C(-1,-1)$, $D(-0.5,-2)$, $E(-0.25,-4)$ and $F(0.25,4)$, $G(0.5,2)$, $H(1,1)$, $J(2,0.5)$ and $K(4,0.25)$. We join these points freehand successively to obtain the two curves of the hyperbola.
 
-![Graph of the function, f(x)=1/x](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-37.jpg?height=911&width=912&top_left_y=970&top_left_x=277)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-D-BooK-011.jpg)
 
 ---
 

@@ -49,7 +49,7 @@ $\operatorname{Range}(f)=\{1,4,9,16\} \subset Y$.
 Clearly, $25 \in Y$ does not have its pre-image in $X$.
 
 **(ii)** A pictorial representation of the above mapping $f$ is given below.
-![](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-02.jpg?height=307&width=619&top_left_y=169&top_left_x=354)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Set-and-Functions/Functions/class-11-Ch-03-A-BooK-001.jpg)
 
 **(iii)** Now, let $A=\{2,3,4\}$. Then,
 $$

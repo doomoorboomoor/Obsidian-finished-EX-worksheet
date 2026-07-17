@@ -176,7 +176,7 @@ Find the equation of the circle passing through the vertices of a triangle whose
 
 Let the sides $AB, BC$ and $CA$ of $\triangle ABC$ be represented by the equations $x+y=2, 3x-4y=6$ and $x-y=0$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-09.jpg?height=309&width=366&top_left_y=197&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-B-BooK-001.jpg)
 
 Solving $x+y=2$ and $3x-4y=6$, we get $B(2,0)$.
 Solving $3x-4y=6$ and $x-y=0$, we get $C(-6,-6)$.
@@ -421,7 +421,7 @@ $$
 
 Clearly, the circle passes through the points $O(0,0)$, $A(-2,0)$ and $B(0,3)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-11.jpg?height=364&width=372&top_left_y=1564&top_left_x=827)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Circle/class-11-Ch-21-B-BooK-002.jpg)
 
 Putting $x=0$ and $y=0$ in (i), we get $c=0$.
 

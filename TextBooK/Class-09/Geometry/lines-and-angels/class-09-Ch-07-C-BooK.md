@@ -1,7 +1,7 @@
 ## Results on Parallel Lines
 
 **Parallel lines**: If two lines lie in the same plane and do not intersect when produced on either side, then such lines are said to be parallel to each other.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-15.jpg?height=80&width=301&top_left_y=1695&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-001.jpg)
 
 **Transversal**: A straight line which cuts two or more straight lines at distinct points is called a transversal.
 
@@ -17,7 +17,7 @@ Let $A B$ and $C D$ be two lines, cut by a transversal $t$. Then, the following 
 
 2.  **Pairs of alternate interior angles**: $(\angle 3, \angle 5)$ and $(\angle 4, \angle 6)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-16.jpg?height=333&width=386&top_left_y=217&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-002.jpg)
 
 3.  **Pairs of consecutive interior angles** (also called **allied angles** or **conjoined angles**): $(\angle 4, \angle 5)$ and $(\angle 3, \angle 6)$.
 
@@ -35,8 +35,8 @@ If a transversal cuts two parallel lines then each pair of corresponding angles 
 Conversely, if a transversal cuts two lines, making a pair of corresponding angles equal, then the lines are parallel.
 
 Thus, whenever $A B \| C D$ are cut by a transversal $t$, then $\angle 1=\angle 5; \angle 4=\angle 8; \angle 2=\angle 6$ and $\angle 3=\angle 7$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-16.jpg?height=345&width=378&top_left_y=1550&top_left_x=229)
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-16.jpg?height=345&width=376&top_left_y=1550&top_left_x=692)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-003.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-004.jpg)
 
 On the other hand, if a transversal $t$ cuts two lines $A B$ and $C D$ such that $(\angle 1=\angle 5)$ or $(\angle 4=\angle 8)$ or $(\angle 2=\angle 6)$ or $(\angle 3=\angle 7)$ then $A B \| C D$.
 
@@ -70,7 +70,7 @@ $$
 \therefore \quad \angle 4=\angle 6.
 $$
 Hence, $\angle 3=\angle 5$ and $\angle 4=\angle 6$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-17.jpg?height=289&width=376&top_left_y=519&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-005.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ $$
 \therefore \angle 4+\angle 5=180^{\circ}.
 $$
 Hence, $\angle 3+\angle 6=180^{\circ}$ and $\angle 4+\angle 5=180^{\circ}$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-17.jpg?height=281&width=376&top_left_y=1165&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-006.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ But, these are corresponding angles.
 $$
 \therefore \quad A B \| C D \quad (\text{by corres. } \angle s \text{ axiom}).
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-18.jpg?height=285&width=378&top_left_y=173&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-007.jpg)
 
 ---
 
@@ -151,7 +151,7 @@ But, these are corresponding angles.
 $$
 \therefore \quad A B \| C D \quad (\text{by corres. } \angle s \text{ axiom}).
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-18.jpg?height=287&width=380&top_left_y=767&top_left_x=815)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-008.jpg)
 
 ---
 
@@ -174,7 +174,7 @@ Again $m \| n$ and transversal $t$ cuts them at $F$ and $G$ respectively, so
 $$
 \angle 2=\angle 3 \quad (\text{corres. } \angle s).
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-18.jpg?height=256&width=402&top_left_y=1498&top_left_x=793)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-009.jpg)
 $$
 \therefore \quad \angle 1=\angle 2 \quad (\text{each equal to } \angle 3).
 $$
@@ -199,7 +199,7 @@ $$
 $$
 \therefore \quad \angle 2=90^{\circ} \quad [\because \angle 1=90^{\circ}].
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-19.jpg?height=255&width=320&top_left_y=269&top_left_x=875)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-010.jpg)
 Hence, $l \perp n$.
 
 ---
@@ -221,7 +221,7 @@ $$
 $$
 \Rightarrow \quad \angle G E F=\angle E F H.
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-19.jpg?height=285&width=374&top_left_y=841&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-011.jpg)
 But, these are alternate interior angles formed when the transversal $E F$ cuts $E G$ and $F H$.
 $$
 \therefore \quad E G \| F H.
@@ -251,7 +251,7 @@ $$
 $$
 \left[\because \angle G E B=\frac{1}{2} \angle P E B \text{ and } \angle H F D=\frac{1}{2} \angle E F D\right].
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-19.jpg?height=343&width=378&top_left_y=1522&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-012.jpg)
 But, these are corresponding angles when $A B$ and $C D$ are cut by the transversal $P Q$.
 $$
 \therefore \quad A B \| C D \quad (\text{by corres. } \angle s \text{ axiom}).
@@ -272,7 +272,7 @@ $$
 $$
 \Rightarrow \quad \frac{1}{2} \angle A E F=\frac{1}{2} \angle E F D \Rightarrow \angle G E F=\angle E F H.
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-20.jpg?height=269&width=380&top_left_y=428&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-013.jpg)
 But, these are alternate interior angles formed when the transversal $E F$ cuts $E G$ and $F H$.
 $$
 \therefore \quad E G \| F H.
@@ -300,7 +300,7 @@ Thus, $E G F H$ is a parallelogram, one of whose angles is $90^{\circ}$. Hence, 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-20.jpg?height=285&width=400&top_left_y=1401&top_left_x=795)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-014.jpg)
 
 Clearly, a ray $t$ stands on line $l$ making adjacent angles $\angle 1$ and $\angle 2$.
 $$
@@ -338,7 +338,7 @@ $$
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-21.jpg?height=247&width=318&top_left_y=547&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-015.jpg)
 
 Let $\angle 1=(5 x)^{\circ}$ and $\angle 2=(4 x)^{\circ}$.
 Clearly, the ray $t$ stands on line $l$.
@@ -381,7 +381,7 @@ $$
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-21.jpg?height=249&width=311&top_left_y=1433&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-016.jpg)
 
 Through $O$ draw $O E\|A B\| C D$.
 Then, $\angle A O E+\angle C O E=x^{\circ}$.
@@ -393,7 +393,7 @@ $$
 $$
 \Rightarrow 104^{\circ}+\angle A O E=180^{\circ}
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-21.jpg?height=247&width=324&top_left_y=1701&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-017.jpg)
 $$
 \Rightarrow \quad \angle A O E=(180-104)^{\circ}=76^{\circ}.
 $$
@@ -419,7 +419,7 @@ Hence, $x=140$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-22.jpg?height=201&width=239&top_left_y=567&top_left_x=956)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-018.jpg)
 
 Through $O$, draw $E O\|A B\| C D$.
 Then, $\angle E O B+\angle E O D=x^{\circ}$.
@@ -434,7 +434,7 @@ $$
 $$
 \Rightarrow \angle B O E=\left(180^{\circ}-40^{\circ}\right)=140^{\circ}.
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-22.jpg?height=199&width=245&top_left_y=1006&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-019.jpg)
 Again, $C D \| E O$ and $O D$ is the transversal.
 $$
 \therefore \quad \angle E O D+\angle O D C=180^{\circ}
@@ -457,7 +457,7 @@ Hence, $x=285$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-22.jpg?height=277&width=372&top_left_y=1451&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-020.jpg)
 
 $C D$ is a line and the ray $Q P$ stands on it.
 $$
@@ -485,7 +485,7 @@ Hence, $\angle Q R S=145^{\circ}$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-23.jpg?height=189&width=422&top_left_y=285&top_left_x=773)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-021.jpg)
 
 Through $E$, draw $F E G\|A B\| C D$.
 
@@ -493,7 +493,7 @@ Now, $F E \| A B$ and $B E$ is the transversal.
 $$
 \therefore \quad \angle B E F+\angle A B E=180^{\circ} \quad [\text{co-interior } \angle s]
 $$
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-23.jpg?height=190&width=422&top_left_y=493&top_left_x=773)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-022.jpg)
 $$
 \Rightarrow \quad \angle B E F+120^{\circ}=180^{\circ}
 $$
@@ -526,10 +526,10 @@ Hence, $x=40$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-23.jpg?height=209&width=362&top_left_y=1296&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-023.jpg)
 
 Through $E$, draw a line $G E H\|A B\| C D$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-23.jpg?height=204&width=386&top_left_y=1532&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-024.jpg)
 
 Now, $G E \| A B$ and $E A$ is the transversal.
 $$
@@ -558,10 +558,10 @@ Hence, $x=50$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-24.jpg?height=295&width=289&top_left_y=388&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-025.jpg)
 
 From $E$, draw $E F\|A B\| C D$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-24.jpg?height=293&width=285&top_left_y=724&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-026.jpg)
 
 Now, $E F \| C D$ and $C E$ is the transversal.
 $$
@@ -593,7 +593,7 @@ Hence, $x=130$.
 ### Example: 14
 *Two plane mirrors, $m$ and $n$, are placed parallel to each other as shown in the figure. A ray $A B$ is incident on the first mirror. It is reflected twice and emerges in the direction $C D$. Prove that $A B \| C D$.*
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-24.jpg?height=227&width=400&top_left_y=1314&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-027.jpg)
 
 **GIVEN**: Two mirrors $m$ and $n$ such that $m \| n$. The paths taken by the incident ray $A B$ after reflections at $m$ and $n$ are $B C$ and $C D$ respectively. Also, $B M$ and $C N$ are normals to $m$ and $n$ respectively.
 
@@ -630,11 +630,11 @@ $$
 
 **PROOF**: The arms of the angles may be parallel in the same sense or in the opposite sense. So, three cases arise.
 (i)
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-25.jpg?height=275&width=297&top_left_y=833&top_left_x=197)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-028.jpg)
 (ii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-25.jpg?height=281&width=271&top_left_y=813&top_left_x=563)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-029.jpg)
 (iii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-25.jpg?height=275&width=295&top_left_y=833&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-030.jpg)
 
 **Case I**: When both pairs of arms are parallel in same sense [Fig. (i)]:
 In this case, $B A \| E D$ and $B C$ is the transversal.
@@ -698,7 +698,7 @@ $$
 $$
 Similarly, $\angle B=\angle D$.
 Hence, $\angle A=\angle C$ and $\angle B=\angle D$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-26.jpg?height=243&width=436&top_left_y=718&top_left_x=761)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-031.jpg)
 
 ---
 
@@ -707,7 +707,7 @@ Hence, $\angle A=\angle C$ and $\angle B=\angle D$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-26.jpg?height=311&width=386&top_left_y=982&top_left_x=811)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-032.jpg)
 
 $E F \| C D$ and $E D$ is the transversal.
 $$
@@ -752,7 +752,7 @@ $$
 ### Example: 18
 *In the given figure, $A B \| D E$. Prove that: $\angle A B C+\angle B C D=180^{\circ}+\angle C D E$.*
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-27.jpg?height=253&width=404&top_left_y=342&top_left_x=791)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-033.jpg)
 
 **CONSTRUCTION**: Draw $C F \| B A$.
 
@@ -778,7 +778,7 @@ $$
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-27.jpg?height=340&width=432&top_left_y=1006&top_left_x=765)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-034.jpg)
 
 Let $\angle E P Q=x^{\circ}$.
 We know that the sum of the angles of a triangle is $180^{\circ}$.
@@ -809,7 +809,7 @@ Hence, $P D \| B A$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-28.jpg?height=240&width=434&top_left_y=169&top_left_x=763)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-035.jpg)
 
 $A B \| C D$ and $P D E$ is the transversal.
 $$
@@ -839,7 +839,7 @@ Thus, $\angle A E D=35^{\circ}, \angle D E F=70^{\circ}$ and $\angle P D Q=70^{\
 #### Solution:
 
 Through $C$ draw $C F \| A E$, cutting $A B$ at $G$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-28.jpg?height=289&width=358&top_left_y=906&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-036.jpg)
 
 Now, $C F \| A E$ and $E C$ is the transversal.
 $$
@@ -865,7 +865,7 @@ Hence, $\angle E C D=130^{\circ}$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-28.jpg?height=225&width=374&top_left_y=1570&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-037.jpg)
 
 $A B \| C D$ and $G E$ is the transversal.
 $$
@@ -911,7 +911,7 @@ Hence, $\angle A G E=125^{\circ}, \angle G E F=35^{\circ}$ and $\angle F G E=55^
 We measure angles in degrees, denoted by ' ${ }^{{ }^{{ }^{\prime} \text { ' }}}$.
 2. (i) RIGHT ANGLE An angle whose measure is $90^{\circ}$ is called a right angle.
 (ii) ACUTE ANGLE An angle whose measure is more than $0^{\circ}$ but less than $90^{\circ}$ is called an acute angle.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-42.jpg?height=223&width=318&top_left_y=1564&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-038.jpg)
 (iii) OBTUSE ANGLE An angle whose measure is more than $90^{\circ}$ but less than $180^{\circ}$ is called an obtuse angle.
 (iv) STRAIGHT ANGLE An angle whose measure is $180^{\circ}$ is called a straight angle.
 (v) REFLEX ANGLE An angle whose measure is more than $180^{\circ}$ but less than $360^{\circ}$ is called a reflex angle.
@@ -936,7 +936,7 @@ $$
 
 (ii) The sum of all the angles formed on the same side of a line at a given point on the line is $180^{\circ}$.
 In the given figure, $A O B$ is a line.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-43.jpg?height=211&width=342&top_left_y=1133&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-039.jpg)
 
 $$
 \therefore \quad \angle A O C+\angle C O D+\angle D O E+\angle E O B=180^{\circ} .
@@ -944,4 +944,4 @@ $$
 
 (iii) The sum of all the angles around a point is $360^{\circ}$.
 6. vertically opposite angles If two lines $A B$ and $C D$ intersect at a point $O$ then the vertically opposite angles are equal.
-i.e., $\angle A O C=\angle B O D$ and $\angle B O C=\angle A O D$.![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-43.jpg?height=194&width=366&top_left_y=1361&top_left_x=829)
+i.e., $\angle A O C=\angle B O D$ and $\angle B O C=\angle A O D$.![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-C-BooK-040.jpg)

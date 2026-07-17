@@ -4,7 +4,7 @@
 
 In a quad. $ABCD$, we have:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-01.jpg?height=170&width=320&top_left_y=396&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-001.jpg)
 
 - **Vertices**: The points $A, B, C, D$ are called the vertices of quad. $ABCD$.
 - **Sides**: The line segments $AB, BC, CD$ and $DA$ are called the sides of quad. $ABCD$.
@@ -28,7 +28,7 @@ $$
 ### 2. Rectangle
 A parallelogram one of whose angles is $90^{\circ}$, is called a **rectangle**, written as rect. $ABCD$, etc. In rect. $ABCD$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-01.jpg?height=273&width=295&top_left_y=1653&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-002.jpg)
 
 $$
 AB\|DC, AD\|BC \text{ and } \angle A=90^{\circ}.
@@ -37,7 +37,7 @@ $$
 ### 3. Square
 A parallelogram whose all sides are equal and one of whose angles is $90^{\circ}$ is called a **square**. A square is thus a rectangle having all sides equal. In square $MNPQ$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-02.jpg?height=230&width=318&top_left_y=171&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-003.jpg)
 
 $$
 MN\|QP, MQ\|NP \text{ and } MN=NP=PQ=QM
@@ -48,7 +48,7 @@ and $\angle M=90^{\circ}$.
 ### 4. Rhombus
 A parallelogram having all sides equal is called a **rhombus**. In rhombus $DEFG$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-02.jpg?height=223&width=191&top_left_y=430&top_left_x=1004)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-004.jpg)
 
 $$
 DE\|GF, DG\|EF \text{ and } DE=EF=FG=GD.
@@ -57,9 +57,9 @@ $$
 ### 5. Trapezium
 A quadrilateral having one pair of opposite sides parallel is called a **trapezium**. In trapezium $KLMN$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-02.jpg?height=264&width=295&top_left_y=741&top_left_x=900)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-005.jpg)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-02.jpg?height=192&width=332&top_left_y=1039&top_left_x=863)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-006.jpg)
 
 $$
 KL \| NM.
@@ -70,7 +70,7 @@ The line segment joining the midpoints of nonparallel sides of a trapezium is ca
 ### 6. Isosceles Trapezium
 If the two nonparallel sides of a trapezium are equal then it is called an **isosceles trapezium**. In isosceles trapezium $PQST$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-02.jpg?height=190&width=261&top_left_y=1397&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-007.jpg)
 
 $$
 PQ \| TS \text{ and } PT=QS
@@ -83,7 +83,7 @@ $$
 AB=AF \text{ and } EB=EF.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-02.jpg?height=271&width=201&top_left_y=1645&top_left_x=990)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-008.jpg)
 
 From the above definitions it is clear that:
 - Rectangle, square and rhombus are all parallelograms.
@@ -103,7 +103,7 @@ From the above definitions it is clear that:
 
 **Construction**: Join BD.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-03.jpg?height=272&width=305&top_left_y=451&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-009.jpg)
 
 **Proof**: Since the sum of the angles of a triangle is $180^{\circ}$, we have
 
@@ -180,7 +180,7 @@ The sides $BA$ and $DC$ of a quadrilateral are produced as shown in the given fi
 
 #### Solution
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-04.jpg?height=252&width=320&top_left_y=169&top_left_x=871)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-010.jpg)
 
 We have $\angle A+b^{\circ}=180^{\circ}$ (linear pair)
 $\Rightarrow \angle A=\left(180^{\circ}-b^{\circ}\right)$.
@@ -206,7 +206,7 @@ In a quadrilateral $ABCD$, the line segments bisecting $\angle C$ and $\angle D$
 
 #### Solution
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-04.jpg?height=229&width=281&top_left_y=720&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-011.jpg)
 
 Let $CE$ and $DE$ be the bisectors of $\angle C$ and $\angle D$ respectively. Then, $\angle 1=\frac{1}{2} \angle C$ and $\angle 2=\frac{1}{2} \angle D$.
 
@@ -244,7 +244,7 @@ Hence, $\angle A+\angle B=2 \angle CED$.
 
 In the adjoining figure, a point $O$ is taken inside an equilateral quad. $ABCD$ such that $OB=OD$. Show that $A, O$ and $C$ are in the same straight line.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-04.jpg?height=273&width=299&top_left_y=1671&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-012.jpg)
 
 **Given**: A quad. $ABCD$ in which $AB=BC=CD=DA$ and $O$ is a point within it such that $OB=OD$.
 
@@ -286,7 +286,7 @@ In the adjoining figure, $ABCD$ is a quadrilateral in which $AB$ is the longest 
 
 #### Solution
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-05.jpg?height=188&width=255&top_left_y=632&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-013.jpg)
 
 Join $AC$ and $BD$.
 
@@ -316,7 +316,7 @@ $$
 
 #### Solution
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-05.jpg?height=297&width=313&top_left_y=1248&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-014.jpg)
 
 In $\triangle ADQ$, we have
 $\angle A+\angle ADQ+\angle Q=180^{\circ}$ (sum of the $\angle s$ of a $\triangle$)
@@ -364,7 +364,7 @@ If $ABCD$ is a quadrilateral whose diagonals $AC$ and $BD$ intersect at $O$, pro
 
 (i) We know that the sum of any two sides of a triangle is greater than the third.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-06.jpg?height=185&width=293&top_left_y=728&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Quadrilaterals/class-09-Ch-10-A-BooK-015.jpg)
 
 In $\triangle ABC$, we have $AB+BC>AC$.
 In $\triangle ACD$, we have $CD+DA>AC$.

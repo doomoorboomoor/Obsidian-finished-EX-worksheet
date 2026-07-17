@@ -60,7 +60,7 @@ Consider a $\triangle ABC$ in which $\angle B = 90^{\circ}$ and $\angle A = \the
 Take a point $P$ on $AC$ and draw $PQ \perp AB$.
 Then, $\triangle AQP$ is similar to $\triangle ABC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cc52b83dc44bbcf3c9f8g-02.jpg?height=244&width=324&top_left_y=1079&top_left_x=871)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Trigonometric-Ratios/class-10-Ch-10-A-BooK-001.jpg)
 
 $$
 \therefore \quad \frac{AQ}{AB} = \frac{AP}{AC} = \frac{PQ}{CB}
@@ -540,7 +540,7 @@ $$
 \therefore \quad AC = \sqrt{169 \text{ cm}^{2}} = 13 \text{ cm}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cc52b83dc44bbcf3c9f8g-09.jpg?height=284&width=311&top_left_y=1331&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Trigonometric-Ratios/class-10-Ch-10-A-BooK-002.jpg)
 
 For T-ratios of $\angle A$, we have:
 - **base** $= AB = 5 \text{ cm}$

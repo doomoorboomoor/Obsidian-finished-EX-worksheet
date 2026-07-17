@@ -32,7 +32,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-69.jpg?height=460&width=455&top_left_y=1034&top_left_x=756)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Product-of-Three-Vectors/class-12-Ch-25-A-BooK-001.jpg)
 
 Hence $\left[\begin{array}{lll}\vec{a} & \vec{b} & \vec{c}\end{array}\right]$ represents the volume of the parallelepiped with coterminous edges $\vec{a}, \vec{b}, \vec{c}$ forming a **right-handed system**.
 

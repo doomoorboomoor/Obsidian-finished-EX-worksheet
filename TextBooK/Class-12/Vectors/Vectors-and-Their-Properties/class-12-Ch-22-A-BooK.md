@@ -14,7 +14,7 @@ However, we define a vector as given below.
 
 A directed line segment with initial point $A$ and the terminal point $B$, is the vector denoted by $\overrightarrow{A B}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-01.jpg?height=42&width=319&top_left_y=986&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-001.jpg)
 
 The magnitude of $\overrightarrow{A B}$ is denoted by $|\overrightarrow{A B}|$.
 
@@ -39,13 +39,13 @@ Thus, $\overrightarrow{A A}=\overrightarrow{0}$.
 
 In the given figure, $\overrightarrow{O A}$ and $\overrightarrow{O B}$ are the two coinitial vectors having the same initial point $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-02.jpg?height=194&width=239&top_left_y=225&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-002.jpg)
 
 **COLLINEAR VECTORS:** Vectors having the same or parallel supports are known as **collinear vectors**.
 
 In the given figure $\overrightarrow{A B}, \overrightarrow{B C}$ and $\overrightarrow{A C}$ are collinear vectors.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-02.jpg?height=42&width=376&top_left_y=475&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-003.jpg)
 
 **LIKE VECTORS:** Collinear vectors having the same direction are called **like vectors**.
 Thus, $\overrightarrow{A B}, \overrightarrow{B C}$ and $\overrightarrow{A C}$ shown above are like vectors.
@@ -55,7 +55,7 @@ Thus, $\overrightarrow{A B}, \overrightarrow{B C}$ and $\overrightarrow{A C}$ sh
 In the given figure, $P Q \| R S$.
 $\therefore \overrightarrow{P Q}$ and $\overrightarrow{S R}$ are unlike vectors.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-02.jpg?height=110&width=347&top_left_y=799&top_left_x=859)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-004.jpg)
 
 **FREE VECTORS:** If the initial point of a vector is not specified then it is said to be a **free vector**.
 
@@ -96,7 +96,7 @@ Represent graphically a displacement of $50 \mathrm{~km}$, $60^{\circ}$ west of 
 
 The vector $\overrightarrow{O A}$ given below represents a displacement of $50 \mathrm{~km}$, $60^{\circ}$ west of north.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-03.jpg?height=337&width=443&top_left_y=322&top_left_x=440)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-005.jpg)
 
 ---
 
@@ -104,8 +104,8 @@ The vector $\overrightarrow{O A}$ given below represents a displacement of $50 \
 
 Let $\vec{a}$ and $\vec{b}$ be any two vectors. Take any point $O$ and draw segments $\overrightarrow{O A}$ and $\overrightarrow{A B}$ such that $\overrightarrow{O A}=\vec{a}$ and $\overrightarrow{A B}=\vec{b}$. Join $O B$. Then, $\overrightarrow{O B}$ is called the **sum**, or **resultant** of $\vec{a}$ and $\vec{b}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-03.jpg?height=262&width=211&top_left_y=923&top_left_x=373)
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-03.jpg?height=227&width=301&top_left_y=954&top_left_x=650)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-006.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-007.jpg)
 
 $\therefore(\vec{a}+\vec{b})=\overrightarrow{O A}+\overrightarrow{A B}=\overrightarrow{O B}$.
 
@@ -115,7 +115,7 @@ In a $\triangle O A B$, if $\overrightarrow{O A}$ and $\overrightarrow{A B}$ rep
 
 This is known as **Triangle Law of Addition of Vectors**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-03.jpg?height=223&width=292&top_left_y=1328&top_left_x=915)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-008.jpg)
 
 ## Parallelogram Law of Addition of Vectors
 
@@ -123,7 +123,7 @@ In a $\|$ $\mathrm{gm}$ $\mathrm{OABC}$, if $\overrightarrow{O A}$ and $\overrig
 
 This is known as **Parallelogram Law of Addition of Vectors**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-03.jpg?height=276&width=276&top_left_y=1638&top_left_x=925)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-009.jpg)
 
 ---
 
@@ -142,7 +142,7 @@ and $\overrightarrow{C B}=\overrightarrow{O A}=\vec{a}$.
 $\therefore \quad \vec{a}+\vec{b}=\overrightarrow{O A}+\overrightarrow{A B}=\overrightarrow{O B}$
 and $\vec{b}+\vec{a}=\overrightarrow{O C}+\overrightarrow{C B}=\overrightarrow{O B}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-04.jpg?height=223&width=313&top_left_y=495&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-010.jpg)
 
 Hence, $\vec{a}+\vec{b}=\vec{b}+\vec{a}$.
 
@@ -164,7 +164,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-04.jpg?height=337&width=274&top_left_y=895&top_left_x=939)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-011.jpg)
 
 $$
 \begin{aligned}
@@ -633,7 +633,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-12.jpg?height=229&width=270&top_left_y=247&top_left_x=935)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-012.jpg)
 
 ### Corollary
 
@@ -665,7 +665,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f27128bac635c359d335g-12.jpg?height=252&width=227&top_left_y=1552&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Vectors/Vectors-and-Their-Properties/class-12-Ch-22-A-BooK-013.jpg)
 
 ---
 

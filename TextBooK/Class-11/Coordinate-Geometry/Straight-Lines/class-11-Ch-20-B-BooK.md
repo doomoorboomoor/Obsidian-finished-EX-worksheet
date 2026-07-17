@@ -6,8 +6,8 @@
 
 The **angle of inclination** or simply the **inclination** of a line is the angle $\theta$ which the part of the line above the $x$-axis makes with the positive direction of the $x$-axis, measured in an anticlockwise direction.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be451269043be4163g-06.jpg?height=314&width=456&top_left_y=434&top_left_x=163)
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be451269043be4163g-06.jpg?height=316&width=458&top_left_y=434&top_left_x=676)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-B-BooK-001.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-B-BooK-002.jpg)
 
 Clearly, $0^{\circ} \leq \theta < 180^{\circ}$.
 
@@ -71,7 +71,7 @@ Let $\theta$ be the inclination of the given line. Then, $m=\tan \theta$.
 
 **Proof:** Let $X'OX$ and $YOY'$ be the coordinate axes. Let us consider a non-vertical line $CAB$, passing through the points $A(x_1, y_1)$ and $B(x_2, y_2)$. Let $\theta$ be its inclination.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be451269043be4163g-07.jpg?height=438&width=523&top_left_y=1163&top_left_x=388)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-B-BooK-003.jpg)
 
 Draw $AL \perp OX$, $BM \perp OX$ and $AN \perp BM$.
 Then, $\angle BAN=\angle ACX=\theta$ (corr. $\angle s$).
@@ -180,7 +180,7 @@ Hence, the required angle is $135^{\circ}$.
 First we assume that $L_1$ and $L_2$ are parallel.
 Then, $L_1 \text{ and } L_2 \text{ are parallel} \Rightarrow \theta_1 = \theta_2 \Rightarrow \tan \theta_1 = \tan \theta_2 \Rightarrow m_1 = m_2$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be451269043be4163g-09.jpg?height=389&width=511&top_left_y=1150&top_left_x=390)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-B-BooK-004.jpg)
 
 Thus, non-vertical parallel lines have equal slopes.
 
@@ -201,7 +201,7 @@ Hence, two non-vertical lines are parallel if and only if their slopes are equal
 
 **Proof:** Let $L_1$ and $L_2$ be two non-vertical lines with slopes $m_1$ and $m_2$ respectively. Let their inclinations be $\theta_1$ and $\theta_2$ respectively. Then, $m_1=\tan \theta_1$ and $m_2=\tan \theta_2$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be451269043be4163g-10.jpg?height=379&width=553&top_left_y=457&top_left_x=372)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-B-BooK-005.jpg)
 
 First we assume that $L_1$ and $L_2$ are perpendicular to each other.
 Then, $\theta_2 = (90^{\circ}+\theta_1)$
@@ -381,7 +381,7 @@ Let $A(-2, -1)$, $B(4, 0)$, $C(3, 3)$ and $D(-3, 2)$ be the vertices of the give
 - slope of $BC = \frac{3-0}{3-4} = \frac{3}{-1} = -3$
 - slope of $AD = \frac{2-(-1)}{-3-(-2)} = \frac{3}{-1} = -3$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be451269043be4163g-13.jpg?height=266&width=499&top_left_y=606&top_left_x=692)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-B-BooK-006.jpg)
 
 $\therefore$ slope of $AB$ = slope of $DC \Rightarrow AB \parallel DC$.
 $\therefore$ slope of $BC$ = slope of $AD \Rightarrow BC \parallel AD$.
@@ -403,7 +403,7 @@ $P(-1, 4)$, $Q\left(5, \frac{11}{2}\right)$, $R\left(\frac{17}{2}, -1\right)$ an
 - slope of $QR = \frac{\left(-1-\frac{11}{2}\right)}{\left(\frac{17}{2}-5\right)} = \left(\frac{-13}{2} \times \frac{2}{7}\right) = \frac{-13}{7}$
 - slope of $PS = \frac{\left(\frac{-5}{2}-4\right)}{\left(\frac{5}{2}+1\right)} = \left(\frac{-13}{2} \times \frac{2}{7}\right) = \frac{-13}{7}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be451269043be4163g-13.jpg?height=265&width=414&top_left_y=1377&top_left_x=785)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-B-BooK-007.jpg)
 
 $\therefore$ slope of $PQ$ = slope of $SR \Rightarrow PQ \parallel SR$.
 $\therefore$ slope of $QR$ = slope of $PS \Rightarrow QR \parallel PS$.
@@ -423,7 +423,7 @@ $$
 m_1=\tan \alpha_1 \text{ and } m_2=\tan \alpha_2.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_85dce451269043be451269043be4163g-14.jpg?height=446&width=567&top_left_y=759&top_left_x=364)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/Straight-Lines/class-11-Ch-20-B-BooK-008.jpg)
 
 Let $\theta$ and $(180^{\circ}-\theta)$ be the angles between $L_1$ and $L_2$.
 From the given figure, we have

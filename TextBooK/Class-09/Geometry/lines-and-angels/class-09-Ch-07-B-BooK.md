@@ -7,13 +7,13 @@
 
 In the given figure, $\angle AOC$ and $\angle BOC$ are adjacent angles having the same vertex $O$, a common arm $OC$ and their non-common arms $OA$ and $OB$ on either side of $OC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-05.jpg?height=257&width=275&top_left_y=829&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-001.jpg)
 
 **LINEAR PAIR OF ANGLES** Two adjacent angles are said to form a linear pair of angles, if their non-common arms are two opposite rays.
 
 In the adjoining figure, $\angle AOC$ and $\angle BOC$ are two adjacent angles whose non-common arms $OA$ and $OB$ are two opposite rays, i.e., $BOA$ is a line.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-05.jpg?height=166&width=374&top_left_y=1194&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-002.jpg)
 
 $\therefore \quad \angle AOC$ and $\angle BOC$ form a linear pair of angles.
 
@@ -29,7 +29,7 @@ $\therefore \quad \angle AOC$ and $\angle BOC$ form a linear pair of angles.
 
 **CONSTRUCTION** Draw $CE \perp AB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-05.jpg?height=208&width=318&top_left_y=1687&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-003.jpg)
 
 **PROOF**
 $$
@@ -56,7 +56,7 @@ Hence, $\angle ACD+\angle BCD=180^{\circ}$.
 
 **TO PROVE** $\angle AOC+\angle COD+\angle DOE+\angle EOB=180^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-06.jpg?height=208&width=320&top_left_y=624&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-004.jpg)
 
 **PROOF** Ray $OC$ stands on line $AB$.
 $$
@@ -77,7 +77,7 @@ Hence, the sum of all the angles formed on the same side of line $AB$ at a point
 
 **CONSTRUCTION** Produce ray $OB$ backwards to a point $E$ such that $EOB$ is a line.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-06.jpg?height=359&width=318&top_left_y=1216&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-005.jpg)
 
 **PROOF** Clearly, $EOB$ is a straight line and the ray $OA$ stands on it.
 $$
@@ -105,7 +105,7 @@ Hence, the sum of all the angles around a given point is $360^{\circ}$.
 
 **TO PROVE** $OA$ and $OB$ are in the same straight line, i.e., $AOB$ is a straight line.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-07.jpg?height=193&width=316&top_left_y=261&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-006.jpg)
 
 **CONSTRUCTION** If possible, let $AOB$ be not a straight line. Then, produce $AO$ to $D$ so that $AOD$ is a straight line.
 
@@ -127,7 +127,7 @@ Let two lines $AB$ and $CD$ intersect at a point $O$. Then, two pairs of vertica
 1.  $\angle AOC$ and $\angle BOD$
 
 2.  $\angle AOD$ and $\angle BOC$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-07.jpg?height=114&width=261&top_left_y=1008&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-007.jpg)
 
 ---
 
@@ -143,7 +143,7 @@ $$
 $$
 Again, ray $OD$ stands on line $AB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-07.jpg?height=112&width=261&top_left_y=1381&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-008.jpg)
 
 $\therefore \quad \angle AOD+\angle BOD=180^{\circ} \quad$ [linear pair].
 $\therefore \quad \angle AOC+\angle AOD=\angle AOD+\angle BOD \quad$ [each equal to $180^{\circ}$]
@@ -160,7 +160,7 @@ In the adjoining figure, $AOB$ is a straight line. Find $\angle AOC$ and $\angle
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-07.jpg?height=193&width=309&top_left_y=1747&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-009.jpg)
 
 Since $AOB$ is a straight line, the sum of all the angles on the same side of $AOB$ at a point $O$ on it, is $180^{\circ}$.
 $\therefore \quad x+65+(2 x-20)=180$
@@ -175,7 +175,7 @@ In the adjoining figure, what value of $x$ will make $AOB$ a straight line?
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-08.jpg?height=179&width=318&top_left_y=428&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-010.jpg)
 
 $AOB$ will be a straight line, if $\angle AOC+\angle BOC=180^{\circ}$.
 $\therefore \quad (3 x+5)+(2 x-25)=180$
@@ -190,7 +190,7 @@ Calculate $\angle AOC, \angle BOD$ and $\angle AOE$ in the adjoining figure, it 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-08.jpg?height=295&width=320&top_left_y=807&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-011.jpg)
 
 Since $AOB$ is a straight line, the sum of all the angles on the lower side of $AOB$ at a point $O$ on it, is $180^{\circ}$.
 $\therefore \quad \angle AOE+\angle BOE=180^{\circ}$
@@ -218,7 +218,7 @@ In the given figure, ray $OC$ stands on a straight line $AOB$. Ray $OD$ and ray 
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-09.jpg?height=188&width=314&top_left_y=169&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-012.jpg)
 
 Since $AOB$ is a straight line and the ray $OC$ stands on it.
 $$
@@ -240,7 +240,7 @@ In the given figure, lines $XY$ and $LM$ intersect at $O$. If $\angle XOL=a, \an
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-09.jpg?height=260&width=314&top_left_y=747&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-013.jpg)
 
 It is given that $a: b=2: 3$.
 So, let $a=(2 x)^{\circ}$ and $b=(3 x)^{\circ}$.
@@ -274,7 +274,7 @@ In the given figure, if $x+y=z+w$ then prove that $AOB$ is a line.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-09.jpg?height=257&width=185&top_left_y=1663&top_left_x=1014)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-014.jpg)
 
 We know that the sum of all the angles around a point is $360^{\circ}$.
 $$
@@ -295,7 +295,7 @@ In the given figure, if $\angle PQR=\angle PRQ$ then prove that $\angle PQS=\ang
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-10.jpg?height=206&width=485&top_left_y=457&top_left_x=710)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-015.jpg)
 
 Since ray $QP$ stands on line $ST$, we have
 $$
@@ -323,7 +323,7 @@ In the given figure, $\angle XYZ=56^{\circ}$ and $XY$ is produced to a point $P$
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-10.jpg?height=305&width=223&top_left_y=1147&top_left_x=976)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-016.jpg)
 
 Since $XY$ is produced to point $P$, it follows that $XP$ is a straight line and ray $YZ$ stands on it.
 $$
@@ -346,7 +346,7 @@ In the given figure, $AB, CD$ and $EF$ are three lines concurrent at $O$. Find t
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-11.jpg?height=254&width=313&top_left_y=169&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-017.jpg)
 
 Lines $EOF$ and $AOB$ intersect each other at the point $O$.
 $$
@@ -369,7 +369,7 @@ In the given figure, $AB$ is a mirror, $PQ$ is the incident ray and $QR$, the re
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-11.jpg?height=219&width=368&top_left_y=825&top_left_x=827)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-018.jpg)
 
 When a ray falls on a mirror, it is reflected and angle of incidence $=$ angle of reflection $=x^{\circ}$ (say). $QM$ is drawn normal to $AB$ and therefore,
 angle of incidence $=\angle PQM$,
@@ -392,7 +392,7 @@ Prove that the bisectors of a pair of vertically opposite angles are in the same
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-11.jpg?height=154&width=275&top_left_y=1663&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-019.jpg)
 
 **PROOF** Since the sum of all the angles around a point is $360^{\circ}$, we have:
 $$
@@ -418,7 +418,7 @@ In the given figure, ray $OC$ is the bisector of $\angle AOB$ and $OD$ is the ra
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-12.jpg?height=186&width=309&top_left_y=533&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/lines-and-angels/class-09-Ch-07-B-BooK-020.jpg)
 
 Since $OC$ is the bisector of $\angle AOB$, we have
 $$

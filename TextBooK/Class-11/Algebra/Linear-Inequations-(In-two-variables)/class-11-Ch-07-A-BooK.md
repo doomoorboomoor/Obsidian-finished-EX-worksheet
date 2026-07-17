@@ -42,7 +42,7 @@ Clearly, the point $(0,0)$ satisfies $3x+4y \leq 12$. So, we shade that part of 
 
 The shaded part of the plane together with all the points on line $AB$ represents $3x+4y \leq 12$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-02.jpg?height=752&width=952&top_left_y=394&top_left_x=243)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-001.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Clearly, the point $(0,0)$ does not lie on $2x-y=1$. Also, $(0,0)$ does not sati
 
 The shaded part of the plane together with all points on the line $AB$ constitutes the solution set of the inequation, $2x-y \geq 1$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-03.jpg?height=744&width=895&top_left_y=177&top_left_x=296)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-002.jpg)
 
 ---
 
@@ -79,7 +79,7 @@ Solve $2x-3y>6$ graphically.
 Consider the equation, $2x-3y=6$. This equation may be written as, $\frac{x}{3}+\frac{y}{-2}=1$. Thus, it cuts the $x$-axis at $A(3,0)$ and the $y$-axis at $B(0,-2)$.
 $\therefore AB$ represents the line, $2x-3y=6$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-03.jpg?height=698&width=944&top_left_y=1224&top_left_x=247)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-003.jpg)
 
 Clearly, the point $(0,0)$ satisfies $2x-3y<6$.
 $\therefore (0,0)$ does not satisfy $2x-3y>6$.
@@ -101,7 +101,7 @@ Clearly, $(0,0)$ satisfies the inequation $x+y<5$. So, we shade that part of the
 
 The shaded part of the plane excluding line $AB$ forms the solution set of $x+y<5$, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-04.jpg?height=858&width=1051&top_left_y=886&top_left_x=140)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-004.jpg)
 
 ---
 
@@ -119,7 +119,7 @@ So, we shade that part of the plane divided by $AB$ which contains the origin $O
 
 The shaded part of the plane forms the solution set of the inequation, $y<2$, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-05.jpg?height=587&width=966&top_left_y=338&top_left_x=225)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-005.jpg)
 
 ---
 
@@ -131,7 +131,7 @@ Solve the inequation $x<-3$ graphically.
 
 We know that the graph of $x=-3$ is a straight line $AB$ drawn parallel to the $y$-axis at a distance of 3 units to the left of the $y$-axis.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-05.jpg?height=830&width=1010&top_left_y=1081&top_left_x=181)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-006.jpg)
 
 Clearly, the point $(0,0)$ does not satisfy the inequation, $x<-3$.
 
@@ -175,7 +175,7 @@ $$
 
 The intersection of all these planes is the shaded part, which together with its boundary represents the solution of the given system of inequations.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-06.jpg?height=698&width=1061&top_left_y=1230&top_left_x=130)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-007.jpg)
 
 ---
 
@@ -207,7 +207,7 @@ $$
 
 The intersection of all these planes is the required shaded part, representing the solution of the given system.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-08.jpg?height=901&width=1049&top_left_y=253&top_left_x=146)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-008.jpg)
 
 ---
 
@@ -229,7 +229,7 @@ $$
 
 The intersection of all these planes is the required shaded part, representing the solution of the given system, as shown below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-09.jpg?height=985&width=948&top_left_y=338&top_left_x=247)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-009.jpg)
 
 ---
 
@@ -252,7 +252,7 @@ $$
 
 4.  $y \geq 1$ represents a line parallel to the $x$-axis at a distance of 1 unit above the $x$-axis and the plane above this line.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-10.jpg?height=609&width=986&top_left_y=612&top_left_x=209)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-010.jpg)
 
 Clearly, all these planes have no common intersection. Hence, the given system of inequations has no solution.
 
@@ -274,7 +274,7 @@ Show that the solution set of the following linear inequations is an unbounded r
 
 4.  $y \geq 0$ is represented by the $x$-axis and the plane above the $x$-axis.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-11.jpg?height=1046&width=1045&top_left_y=628&top_left_x=146)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-011.jpg)
 
 It is clear from the above graph that the solution set of the given inequations is an unbounded region, shown by the shaded region.
 
@@ -284,7 +284,7 @@ It is clear from the above graph that the solution set of the given inequations 
 
 Find the linear inequations for which the shaded region in the figure given below, is the solution set.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-12.jpg?height=885&width=1063&top_left_y=253&top_left_x=132)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-012.jpg)
 
 #### Solution:
 
@@ -313,7 +313,7 @@ $$
 
 Find the linear inequations for which the shaded region of the figure given below, is the solution set.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-13.jpg?height=1038&width=1038&top_left_y=555&top_left_x=153)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-013.jpg)
 
 #### Solution:
 
@@ -342,7 +342,7 @@ $$
 
 Find the linear inequations for which the shaded region of the figure given below, is the solution set.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-14.jpg?height=700&width=998&top_left_y=1004&top_left_x=193)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-014.jpg)
 
 #### Solution:
 
@@ -386,7 +386,7 @@ Clearly, $x \geq 0$ and $y \geq 0$ [$\because$ number of units cannot be negativ
 
 SCALE 1 small division = 2 units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-16.jpg?height=1042&width=898&top_left_y=173&top_left_x=293)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Linear-Inequations-%28In-two-variables%29/class-11-Ch-07-A-BooK-015.jpg)
 
 1.  First we draw the graph of $10x+6y \leq 1000$.
     Consider the equation, $10x+6y=1000$.

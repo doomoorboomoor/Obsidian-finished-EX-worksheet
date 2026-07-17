@@ -6,14 +6,14 @@ The fixed point is called the **centre** and the constant distance is called the
 
 A circle with centre $O$ and radius $r$ is denoted by $C(O, r)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-01.jpg?height=268&width=291&top_left_y=451&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-001.jpg)
 
 ---
 ## Terms Related to a Circle
 
 **RADIUS:** A line segment joining the centre and a point on the circle is called its radius. The plural of radius is **radii**. In the given figure, $OA$ and $OB$ are radii of circle $C(O, r)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-01.jpg?height=263&width=265&top_left_y=805&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-002.jpg)
 
 **CIRCUMFERENCE:** The perimeter of a circle is called its circumference.
 $$
@@ -24,7 +24,7 @@ $$
 
 **DIAMETER:** A diameter is a chord of a circle passing through the centre of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-01.jpg?height=262&width=303&top_left_y=1184&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-003.jpg)
 
 Thus, $AOB$ is a diameter of a circle with centre $O$. A diameter is the **longest chord** of a circle.
 $$
@@ -33,11 +33,11 @@ $$
 
 **SECANT:** A line which intersects a circle in two distinct points is called a secant of the circle. In the given figure, the line $l$ cuts the circle in two points $A$ and $B$. So, $l$ is a secant of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-01.jpg?height=267&width=440&top_left_y=1614&top_left_x=759)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-004.jpg)
 
 **TANGENT:** A line that intersects the circle in exactly one point is called a tangent to the circle. The point at which the tangent meets the circle is called its **point of contact**. In the given figure, $SPT$ is the tangent to the circle at the point $P$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-02.jpg?height=295&width=434&top_left_y=167&top_left_x=765)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-005.jpg)
 
 ---
 ## Position of a Point with Respect to a Circle
@@ -47,13 +47,13 @@ A point $P$ is said to lie:
 - **(ii)** on the circle $C(O, r)$ if $OP = r$
 - **(iii)** outside the circle $C(O, r)$ if $OP > r$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-02.jpg?height=265&width=269&top_left_y=785&top_left_x=177)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-006.jpg)
 **(i)**
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-02.jpg?height=261&width=287&top_left_y=785&top_left_x=483)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-007.jpg)
 **(ii)**
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-02.jpg?height=265&width=327&top_left_y=789&top_left_x=789)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-008.jpg)
 **(iii)**
 
 **INTERIOR OF A CIRCLE:** The region consisting of all points lying on the circumference of a circle and inside it is called the interior of the circle. Thus, a point $P$ lies in the interior of a circle $C(O, r)$ if $OP \leq r$.
@@ -62,15 +62,15 @@ A point $P$ is said to lie:
 
 **CIRCULAR REGION:** The region consisting of all points which are either on the circle or lie inside the circle is called the circular region or circular disc.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-02.jpg?height=256&width=263&top_left_y=1349&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-009.jpg)
 
 **CONCENTRIC CIRCLES:** Circles which have the same centre and different radii are called concentric circles. In the given figure, $C(O, r)$ and $C(O, R)$ are concentric circles having the same centre $O$ but different radii $r$ and $R$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-02.jpg?height=281&width=265&top_left_y=1643&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-010.jpg)
 
 **ARC OF A CIRCLE:** A continuous piece of a circle is called an arc of the circle. Let $A, B$ be two points on a circle $C(O, r)$. Here, the whole circle has been divided into two pieces, namely, arc $ACB$ and arc $BDA$. We may denote them by $\widehat{ACB}$ and $\widehat{BDA}$ respectively or simply by $\widehat{AB}$ and $\widehat{BA}$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-03.jpg?height=319&width=269&top_left_y=169&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-011.jpg)
 
 ---
 ## Degree Measure of an Arc
@@ -80,7 +80,7 @@ Let $\widehat{AB}$ be an arc of a circle with centre $O$. If $\angle AOB = \thet
 Thus, $m(\widehat{AB}) = \theta^{\circ} \Rightarrow \angle AOB = \theta^{\circ}$.
 If $m(\widehat{AB}) = \theta^{\circ}$ then $m(\widehat{BA}) = (360-\theta)^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-03.jpg?height=267&width=273&top_left_y=565&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-012.jpg)
 
 Degree measure of a circle is $360^{\circ}$.
 
@@ -92,11 +92,11 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-03.jpg?height=303&width=277&top_left_y=859&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-013.jpg)
 
 **SEMICIRCLE:** A diameter of a circle divides it into two equal arcs. Each of these two arcs is called a semicircle. In the given figure, $\widehat{BCA}$ and $\widehat{BDA}$ are two semicircles. The degree measure of a semicircle is $180^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-03.jpg?height=318&width=316&top_left_y=1167&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-014.jpg)
 
 ---
 ## Minor and Major Arcs of a Circle
@@ -105,10 +105,10 @@ If the length of an arc is less than the length of the arc of the semicircle the
 
 In **Fig. (i)**, $\widehat{APB}$ is a minor arc, since $l(\widehat{APB})$ is less than the length of the semicircle. In **Fig. (ii)**, $\widehat{AQB}$ is a major arc, its length being more than the length of the semicircle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-03.jpg?height=301&width=279&top_left_y=1542&top_left_x=581)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-015.jpg)
 **(i)**
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-03.jpg?height=295&width=287&top_left_y=1516&top_left_x=912)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-016.jpg)
 **(ii)**
 
 ---
@@ -118,23 +118,23 @@ The part of the circular region bounded by an arc and a chord, including the arc
 
 The segment containing the minor arc is called the **minor segment**. Thus, $APBA$ is the minor segment of the circle $C(O, r)$. The segment containing the major arc is called the **major segment**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-04.jpg?height=305&width=303&top_left_y=169&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-017.jpg)
 
 **ALTERNATE SEGMENTS OF A CIRCLE:** The minor and major segments of a circle are called the alternate segments of the circle.
 
 **SECTOR OF A CIRCLE:** The region enclosed by an arc of a circle and its two bounding radii is called a sector of the circle. Thus, in the adjoining figure, $OABO$ is the sector of the circle $C(O, r)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-04.jpg?height=256&width=263&top_left_y=596&top_left_x=932)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-018.jpg)
 
 **QUADRANT OF A CIRCLE:** One fourth of a circle is called a quadrant. Thus, in the adjoining figure, $OBCO$ is a quadrant of the circle $C(O, r)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-04.jpg?height=283&width=283&top_left_y=871&top_left_x=912)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-019.jpg)
 
 **CONGRUENT CIRCLES:** Two circles $C(O, r)$ and $C(O', s)$ are said to be congruent only when $r=s$.
 
 **CYCLIC QUADRILATERAL:** A quadrilateral $ABCD$ is said to be cyclic if all its vertices lie on a circle. Points lying on a circle are said to be **concyclic**. In the given figure, $ABCD$ is a cyclic quadrilateral and hence the points $A, B, C, D$ are concyclic.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-04.jpg?height=281&width=305&top_left_y=1274&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-020.jpg)
 
 ---
 ## Congruency of Circles
@@ -144,8 +144,8 @@ Two circles are congruent if and only if they have equal radii.
 
 **PROOF:** Let $C(O, r)$ and $C(O', s)$ be two circles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-04.jpg?height=260&width=264&top_left_y=1639&top_left_x=612)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-04.jpg?height=262&width=271&top_left_y=1637&top_left_x=928)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-021.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-022.jpg)
 
 Let the circle $C(O', s)$ be placed on the circle $C(O, r)$ so that $O'$ coincides with $O$.
 Then, clearly $C(O', s)$ will cover $C(O, r)$ completely only when $r=s$. Hence, the two circles will be congruent if and only if they have equal radii.
@@ -171,7 +171,7 @@ Hence, $\angle AOB = \angle COD$.
 ### Theorem 3 (Converse of Theorem 2)
 If the angles subtended by two chords at the centre of a circle are equal then the chords are equal.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-05.jpg?height=265&width=301&top_left_y=634&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-023.jpg)
 
 **GIVEN:** A circle $C(O, r)$ in which $AB$ and $CD$ are the chords such that $\angle AOB = \angle COD$.
 
@@ -182,7 +182,7 @@ If the angles subtended by two chords at the centre of a circle are equal then t
 - $OB = OD$ [each equal to $r$]
 - $\angle AOB = \angle COD$ [given]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-05.jpg?height=279&width=293&top_left_y=1111&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-024.jpg)
 
 $\therefore \triangle AOB \cong \triangle COD$ [by SAS-congruence].
 Hence, $AB = CD$ [c.p.c.t.].
@@ -200,7 +200,7 @@ In $\triangle AOB$ and $\triangle COD$, we have
 - $OA = OC$ [each equal to $r$]
 - $OB = OD$ [each equal to $r$]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-05.jpg?height=277&width=285&top_left_y=1651&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-025.jpg)
 
 $$
 \begin{aligned}
@@ -233,7 +233,7 @@ If two chords of a circle are equal then their corresponding arcs (semicircular,
 In this case, $\widehat{AB}$ and $\widehat{CD}$ are semicircles with the same radii. So, $\widehat{AB} \cong \widehat{CD}$.
 Thus, $AB = CD \Rightarrow \widehat{AB} \cong \widehat{CD}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-06.jpg?height=317&width=281&top_left_y=849&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-026.jpg)
 
 **Case II:** When chord $AB$ = chord $CD$, where $\widehat{AB}$ and $\widehat{CD}$ are minor arcs. Join $OA, OB, OC$ and $OD$.
 In $\triangle AOB$ and $\triangle COD$, we have
@@ -243,7 +243,7 @@ In $\triangle AOB$ and $\triangle COD$, we have
 
 $\therefore \triangle AOB \cong \triangle COD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-06.jpg?height=267&width=307&top_left_y=1324&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-027.jpg)
 
 So, $\angle AOB = \angle COD$.
 Now, $\angle AOB = \angle COD \Rightarrow \mathrm{m}(\widehat{AB}) = \mathrm{m}(\widehat{CD}) \Rightarrow \widehat{AB} \cong \widehat{CD}$.
@@ -276,7 +276,7 @@ The perpendicular from the centre of a circle to a chord bisects the chord.
 
 $\therefore \triangle OLA \cong \triangle OLB$ [by RHS-congruence].
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-07.jpg?height=273&width=287&top_left_y=801&top_left_x=912)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-028.jpg)
 
 Hence, $LA = LB$.
 
@@ -294,7 +294,7 @@ The line drawn through the centre of a circle to bisect a chord is perpendicular
 - $OM = OM$ [common]
 - $MA = MB$ [given]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-07.jpg?height=272&width=287&top_left_y=1341&top_left_x=912)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-029.jpg)
 
 $\therefore \triangle OMA \cong \triangle OMB$ [by SSS-congruence].
 $\therefore \angle OMA = \angle OMB$ [c.p.c.t.].
@@ -311,7 +311,7 @@ Hence, $OM \perp AB$.
 **CONSTRUCTION:** Join $OE$ and $OF$.
 
 **PROOF:** $E$ is the midpoint of chord $AB$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-08.jpg?height=265&width=259&top_left_y=259&top_left_x=936)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-030.jpg)
 
 $\Rightarrow OE \perp AB$
 $\Rightarrow OE$ is the perpendicular bisector of $AB$
@@ -339,7 +339,7 @@ Equal chords of a circle are equidistant from the centre.
 **PROOF:** We know that the perpendicular from the centre of a circle to a chord bisects the chord.
 $\therefore AL = \frac{1}{2} AB$ and $CM = \frac{1}{2} CD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-08.jpg?height=263&width=279&top_left_y=1409&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-031.jpg)
 
 $\therefore AB = CD \Rightarrow \frac{1}{2} AB = \frac{1}{2} CD \Rightarrow AL = CM$.
 Now, in the right $\triangle OLA$ and $\triangle OMC$, we have
@@ -362,7 +362,7 @@ The chords of a circle which are equidistant from the centre are equal.
 **PROOF:** We know that the perpendicular from the centre of a circle to a chord bisects the chord.
 $\therefore AL = \frac{1}{2} AB$ and $CM = \frac{1}{2} CD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-09.jpg?height=260&width=281&top_left_y=445&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-032.jpg)
 
 Now, in the right $\triangle OLA$ and $\triangle OMC$, we have
 - $OA = OC$ [each equal to $r$]
@@ -381,7 +381,7 @@ There is one and only one circle passing through three given noncollinear points
 
 **CONSTRUCTION:** Join $AB$ and $BC$. Draw the perpendicular bisectors $PQ$ and $RS$ of $AB$ and $BC$ respectively. Let $PQ$ and $RS$ intersect at $O$. Join $OA, OB$ and $OC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-09.jpg?height=315&width=342&top_left_y=1260&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-033.jpg)
 
 **PROOF:** Since $O$ lies on the perpendicular bisector of $AB$, we have
 $$
@@ -417,7 +417,7 @@ Of any two chords of a circle, show that the one which is larger is nearer to th
 
 **PROOF:** We know that the perpendicular from the centre of a circle to a chord bisects the chord.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-10.jpg?height=275&width=271&top_left_y=908&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-034.jpg)
 
 $$
 \left.
@@ -456,7 +456,7 @@ Of any two chords of a circle, show that the one which is nearer to the centre i
 
 **PROOF:** We know that the perpendicular from the centre of a circle to a chord bisects the chord.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-11.jpg?height=285&width=267&top_left_y=386&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-035.jpg)
 
 $$
 \left.
@@ -491,8 +491,8 @@ If two arcs of congruent circles are congruent then the corresponding chords are
 
 **TO PROVE:** $AB = CD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-11.jpg?height=265&width=265&top_left_y=1671&top_left_x=628)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-11.jpg?height=267&width=273&top_left_y=1669&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-036.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-037.jpg)
 
 **CONSTRUCTION:** Draw line segments $OA, OB, O'C$ and $O'D$.
 
@@ -530,8 +530,8 @@ If two chords of congruent circles are equal then the corresponding arcs (minor,
 
 **PROOF:**
 **Case I:** When $\widehat{AB}$ and $\widehat{CD}$ are minor arcs.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-12.jpg?height=267&width=269&top_left_y=1300&top_left_x=362)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-12.jpg?height=269&width=271&top_left_y=1300&top_left_x=666)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-038.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-039.jpg)
 
 In $\triangle AOB$ and $\triangle CO'D$, we have
 - $OA = O'C$ [each equal to $r$]
@@ -555,8 +555,8 @@ $$
 $$
 
 **Case III:** When $\widehat{AB}$ and $\widehat{CD}$ are semicircles.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-13.jpg?height=263&width=305&top_left_y=668&top_left_x=330)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-13.jpg?height=263&width=305&top_left_y=668&top_left_x=660)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-040.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-041.jpg)
 
 In this case, $\widehat{AB}$ and $\widehat{CD}$ are semicircles of equal radii and so they are congruent.
 Hence, in all the cases, we have $\widehat{AB} \cong \widehat{CD}$.
@@ -571,8 +571,8 @@ Equal chords of congruent circles are equidistant from the corresponding centres
 **CONSTRUCTION:** Join $OA$ and $O'C$.
 
 **PROOF:** We know that the perpendicular from the centre of a circle to a chord bisects the chord.
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-13.jpg?height=264&width=267&top_left_y=1339&top_left_x=622)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-13.jpg?height=266&width=267&top_left_y=1337&top_left_x=928)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-042.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-043.jpg)
 
 $$
 \begin{array}{ll}
@@ -597,8 +597,8 @@ Chords of congruent circles which are equidistant from the corresponding centres
 
 **GIVEN:** Two congruent circles $C(O, r)$ and $C(O', r)$, having chords $AB$ and $CD$ respectively; $OL \perp AB$ and $O'M \perp CD$ such that $OL = O'M$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-14.jpg?height=265&width=265&top_left_y=672&top_left_x=362)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-14.jpg?height=265&width=267&top_left_y=672&top_left_x=666)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-044.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-045.jpg)
 
 **TO PROVE:** $AB = CD$.
 
@@ -621,8 +621,8 @@ Equal chords of congruent circles subtend equal angles at the centre.
 
 **GIVEN:** Two congruent circles $C(O, r)$ and $C(O', r)$ which have chords $AB$ and $CD$ respectively such that $AB = CD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-14.jpg?height=265&width=265&top_left_y=1614&top_left_x=362)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-14.jpg?height=265&width=273&top_left_y=1614&top_left_x=664)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-046.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-047.jpg)
 
 **TO PROVE:** $\angle AOB = \angle CO'D$.
 
@@ -642,8 +642,8 @@ If the angles subtended by the two chords of congruent circles at the correspond
 
 **GIVEN:** Two congruent circles $C(O, r)$ and $C(O', r)$ which have chords $AB$ and $CD$ respectively such that $\angle AOB = \angle CO'D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-15.jpg?height=267&width=269&top_left_y=718&top_left_x=362)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-15.jpg?height=269&width=271&top_left_y=716&top_left_x=666)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-048.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-049.jpg)
 
 **TO PROVE:** $AB = CD$.
 
@@ -670,7 +670,7 @@ From $O$, draw $OL \perp AB$.
 We know that the perpendicular from the centre of a circle to a chord bisects the chord.
 $\therefore AL = \frac{1}{2} AB = (\frac{1}{2} \times 10) \text{ cm} = 5 \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-15.jpg?height=265&width=273&top_left_y=1679&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-050.jpg)
 
 From the right $\triangle OLA$, we have
 $$
@@ -694,7 +694,7 @@ Draw $OL \perp AB$. Join $OA$.
 Then, $OL = 8 \text{ cm}$ and $OA = 17 \text{ cm}$.
 From the right $\triangle OLA$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-16.jpg?height=259&width=265&top_left_y=559&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-051.jpg)
 
 $$
 \begin{aligned}
@@ -723,7 +723,7 @@ Then, $OA = OC = r \text{ cm}$.
 Since $OL \perp AB$ and $OM \perp CD$ and $AB \| CD$, the points $L, O, M$ are collinear.
 $\therefore LM = 17 \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-16.jpg?height=265&width=293&top_left_y=1451&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-052.jpg)
 
 Let $OL = x \text{ cm}$. Then, $OM = (17-x) \text{ cm}$.
 Since the perpendicular from the centre of a circle to a chord bisects the chord, we have
@@ -762,7 +762,7 @@ In the given figure, $AB$ and $CD$ are two parallel chords of a circle with cent
 
 We know that the perpendicular from the centre of a circle to a chord bisects the chord.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-17.jpg?height=273&width=305&top_left_y=809&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-053.jpg)
 
 $$
 \begin{aligned}
@@ -796,7 +796,7 @@ In the given figure, $AB$ and $CD$ are two parallel chords of a circle with cent
 
 #### Solution
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-18.jpg?height=264&width=301&top_left_y=169&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-054.jpg)
 
 Since $OP \perp AB, OQ \perp CD$ and $AB \| CD$, the points $O, Q, P$ are collinear.
 We know that the perpendicular from the centre of a circle to a chord bisects the chord.
@@ -843,7 +843,7 @@ $\therefore \triangle BAM \cong \triangle CAM$ [by SAS-congruence]
 $\Rightarrow BM = CM$ and $\angle BMA = \angle CMA$ [c.p.c.t.]
 $\Rightarrow BM = CM$ and $\angle BMA = \angle CMA = 90^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-18.jpg?height=289&width=281&top_left_y=1381&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-055.jpg)
 
 $[\because \angle BMA + \angle CMA = 180^{\circ} \text{ and } \angle BMA = \angle CMA \Rightarrow \angle BMA = \angle CMA = 90^{\circ}]$
 $\Rightarrow AM$ is the perpendicular bisector of chord $BC$
@@ -865,7 +865,7 @@ If two circles intersect in two points, prove that the line through their centre
 
 **CONSTRUCTION:** Draw line segments $OA, OB, O'A$ and $O'B$. Let $OO'$ and $AB$ intersect at $M$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-19.jpg?height=245&width=384&top_left_y=559&top_left_x=815)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-056.jpg)
 
 **PROOF:** In $\triangle OAO'$ and $\triangle OBO'$, we have
 - $OA = OB$ [each equal to $r$]
@@ -895,7 +895,7 @@ Two chords $AB$ and $CD$ of a circle are parallel and a line $l$ is the perpendi
 We know that the perpendicular bisector of any chord of a circle always passes through its centre.
 Since $l$ is the perpendicular bisector of $AB$, $l$ passes through the centre $O$ of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-19.jpg?height=400&width=277&top_left_y=1562&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-057.jpg)
 
 Now, $l \perp AB$ and $AB \| CD \Rightarrow l \perp CD$.
 Thus, $l \perp CD$ and passes through the centre of the circle.
@@ -914,7 +914,7 @@ Let $PQ$ be a diameter, bisecting chords $AB$ and $CD$ at $L$ and $M$ respective
 Since $PQ$ is a diameter of the circle, it passes through the centre $O$.
 Now, $L$ is the midpoint of $AB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-20.jpg?height=321&width=277&top_left_y=539&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-058.jpg)
 
 We know that the line joining the centre of a circle to the midpoint of a chord is perpendicular to the chord.
 $\therefore OL \perp AB$
@@ -935,7 +935,7 @@ Prove that the line joining the midpoints of two parallel chords of a circle pas
 
 **CONSTRUCTION:** Join $OL, OM$ and draw $OE \| AB \| CD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-20.jpg?height=265&width=295&top_left_y=1357&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-059.jpg)
 
 **PROOF:** We know that the line joining the centre of a circle to the midpoint of a chord is perpendicular to the chord.
 $\therefore OL \perp AB$ and $OM \perp CD$.
@@ -959,7 +959,7 @@ Then, $AD = DB$ and $\angle ADE = 90^{\circ}$.
 Now, we have to show that $DE$ passes through $O$.
 If possible, suppose $DE$ does not pass through $O$. Join $OD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-21.jpg?height=287&width=271&top_left_y=364&top_left_x=928)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-060.jpg)
 
 We know that the line joining the centre of a circle to the midpoint of a chord is always perpendicular to the chord.
 $\therefore OD \perp AB \Rightarrow \angle ADO = 90^{\circ}$.
@@ -990,7 +990,7 @@ $\Rightarrow \angle AOP = \angle BOP$
 $\Rightarrow \mathrm{m}(\widehat{AP}) = \mathrm{m}(\widehat{BP})$
 $\Rightarrow \widehat{AP} \cong \widehat{BP}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-21.jpg?height=313&width=269&top_left_y=1429&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-061.jpg)
 
 **NOTE:** The right bisector of a chord also bisects the corresponding major arc.
 
@@ -1003,7 +1003,7 @@ The given figure shows two concentric circles whose common centre is $O$. $l$ is
 
 Draw $OL \perp l$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-22.jpg?height=260&width=344&top_left_y=165&top_left_x=855)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-062.jpg)
 
 We know that the perpendicular from the centre of a circle to a chord bisects the chord.
 Now, $BC$ is a chord of the smaller circle and $OL \perp BC$.
@@ -1026,7 +1026,7 @@ In the given figure, two equal chords $AB$ and $CD$ of a circle $C(O, r)$ when p
 
 #### Solution
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-22.jpg?height=265&width=485&top_left_y=833&top_left_x=712)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-063.jpg)
 
 Join $OE$.
 Draw $OL \perp AB$ and $OM \perp CD$.
@@ -1066,7 +1066,7 @@ $$
 \end{array}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-23.jpg?height=267&width=513&top_left_y=408&top_left_x=686)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-064.jpg)
 
 Again, $O'B \perp l$
 $\Rightarrow O'B \perp PD$
@@ -1094,7 +1094,7 @@ If two chords of a circle are equally inclined to the diameter through their poi
 $\therefore \triangle OLA \cong \triangle OMA$
 $\Rightarrow OL = OM$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-23.jpg?height=269&width=305&top_left_y=1252&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-065.jpg)
 
 $\Rightarrow$ chords $AB$ and $AC$ are equidistant from $O$
 $\Rightarrow AB = AC$.
@@ -1116,7 +1116,7 @@ $\therefore AB > CD$.
 Thus, $AB$ is longer than every other chord.
 Hence, a diameter is the longest chord in a circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-24.jpg?height=303&width=265&top_left_y=171&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-066.jpg)
 
 ---
 ### Example 18
@@ -1129,7 +1129,7 @@ Prove that of all chords of a circle through a given point within it, the shorte
 
 **CONSTRUCTION:** Join OM and draw $ON \perp CD$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-24.jpg?height=267&width=285&top_left_y=581&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-067.jpg)
 
 **PROOF:** In the right $\triangle ONM, OM$ is the hypotenuse.
 $\therefore ON < OM$
@@ -1153,7 +1153,7 @@ $$
 $$
 **CONSTRUCTION:** Join $OE$ and $OF$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-24.jpg?height=265&width=285&top_left_y=1389&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-068.jpg)
 
 **PROOF:** We know that the line joining the centre of a circle to the midpoint of a chord is perpendicular to the chord.
 $\therefore OE \perp AB$ and $OF \perp CD$.
@@ -1178,7 +1178,7 @@ In the given figure, $L$ and $M$ are the midpoints of two equal chords $AB$ and 
 
 **PROOF:** Since $L$ is the midpoint of chord $AB$, we have $OL \perp AB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-25.jpg?height=313&width=273&top_left_y=410&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-069.jpg)
 
 Again, $M$ is the midpoint of chord $CD$.
 $\therefore OM \perp CD$.
@@ -1205,7 +1205,7 @@ Draw $OE \perp AB$ and $OF \perp CD$.
 Now, in $\triangle OEP$ and $\triangle OFP$, we have
 - $\angle OEP = \angle OFP$ [each equal to $90^{\circ}$]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-25.jpg?height=279&width=293&top_left_y=1117&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-070.jpg)
 
 - $\angle OPE = \angle OPF$ [given]
 - $OP = OP$ [common]
@@ -1222,7 +1222,7 @@ In the given figure, equal chords $AB$ and $CD$ of a circle $C(O, r)$ cut at rig
 
 #### Solution
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-25.jpg?height=279&width=303&top_left_y=1661&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-071.jpg)
 
 **GIVEN:** A circle $C(O, r)$ in which chord $AB$ = chord $CD$, and $M, N$ are the midpoints of $AB$ and $CD$ respectively.
 
@@ -1281,7 +1281,7 @@ $$
 \end{array}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-26.jpg?height=262&width=263&top_left_y=1474&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-072.jpg)
 
 In $\triangle AOD$ and $\triangle BOC$, we have
 $$
@@ -1330,7 +1330,7 @@ Similarly, $AD = BE$.
 Thus, $AD = BE = CF \Rightarrow \frac{2}{3} AD = \frac{2}{3} BE = \frac{2}{3} CF$
 $\Rightarrow GA = GB = GC$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-27.jpg?height=285&width=275&top_left_y=1292&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-073.jpg)
 
 This shows that $G$ is the circumcentre of $\triangle ABC$.
 Hence, $G$ is the centroid as well as circumcentre of $\triangle ABC$.
@@ -1346,7 +1346,7 @@ Take any three distinct points $A, B, C$ on the given circle.
 Join $AB$ and $BC$.
 Draw the perpendicular bisectors $PQ$ and $RS$ of $AB$ and $BC$ respectively to meet at a point $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-28.jpg?height=309&width=293&top_left_y=229&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-074.jpg)
 
 Then, $O$ is the required centre of the circle.
 
@@ -1362,7 +1362,7 @@ Take a point $C$ on $\widehat{AB}$.
 Join $AC$ and $CB$.
 Draw the perpendicular bisectors $PQ$ and $RS$ of $AC$ and $CB$ respectively, meeting each other at a point $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-28.jpg?height=297&width=303&top_left_y=698&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-075.jpg)
 
 With $O$ as centre and $OA$ as radius, draw the required circle.
 
@@ -1384,7 +1384,7 @@ Prove that the line joining the midpoint of a chord to the centre of a circle pa
 - $OM = OM$ [common]
 - $AM = BM$ [$\because M$ is the midpoint of $AB$]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-28.jpg?height=309&width=267&top_left_y=1282&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-076.jpg)
 
 $\therefore \triangle OMA \cong \triangle OMB$ [by SSS-congruence]
 $\Rightarrow \angle AOM = \angle BOM$ [c.p.c.t.]
@@ -1402,7 +1402,7 @@ In a circle of radius 5 cm, $AB$ and $AC$ are two equal chords such that $AB = A
 Let $AD$ be the bisector of $\angle BAC$.
 Then, $AD$ is the perpendicular bisector of $BC$ and passes through the centre $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-29.jpg?height=272&width=273&top_left_y=169&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-077.jpg)
 
 Join $CO$.
 Let $AD$ meet $BC$ in $M$. Then, $BM = CM$.
@@ -1438,7 +1438,7 @@ $\Rightarrow$ chord $AB$ = chord $BC$ = chord $CA$
 $\Rightarrow \triangle ABC$ is an equilateral triangle.
 Let $AD, BE$ and $CF$ be the medians of $\triangle ABC$ and let $G$ be its centroid.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-29.jpg?height=289&width=273&top_left_y=1312&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-A-BooK-078.jpg)
 
 Since, in an equilateral triangle, the centroid coincides with its circumcentre, we have
 $$

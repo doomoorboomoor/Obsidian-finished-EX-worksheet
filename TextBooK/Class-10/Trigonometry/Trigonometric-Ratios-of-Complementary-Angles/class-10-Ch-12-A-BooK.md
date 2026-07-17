@@ -23,7 +23,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_07394079effe35d69a0fg-01.jpg?height=321&width=326&top_left_y=704&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Trigonometric-Ratios-of-Complementary-Angles/class-10-Ch-12-A-BooK-001.jpg)
 
 For considering the trigonometric ratios of $(90^{\circ}-\theta)$, we have
 **base** $= MP$, **perpendicular** $= OM$ and **hypotenuse** $= OP$.

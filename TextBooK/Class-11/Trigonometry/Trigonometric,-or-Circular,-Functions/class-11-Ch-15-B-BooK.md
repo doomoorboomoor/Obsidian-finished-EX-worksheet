@@ -10,7 +10,7 @@ Let $X'OX$ and $YOY'$ be the coordinate axes. With $O$ as the centre and taking 
 Let $\angle AOP=\theta$ and $\angle POQ=\phi$. Then, $\angle AOQ=(\theta+\phi)$.
 Let $\angle AOR=-\phi$. Join $PR$ and $AQ$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51ce93f12442103e178g-10.jpg?height=399&width=631&top_left_y=1041&top_left_x=332)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Trigonometry/Trigonometric%2C-or-Circular%2C-Functions/class-11-Ch-15-B-BooK-001.jpg)
 
 (i) The points on the circle are given by
 $P(\cos \theta, \sin \theta)$, $Q[\cos (\theta+\phi), \sin (\theta+\phi)]$, $R[\cos (-\phi), \sin (-\phi)]$,

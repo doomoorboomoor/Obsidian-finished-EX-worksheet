@@ -50,7 +50,7 @@ $$
 ### Remark
 
 The following diagram helps in remembering the above solution.
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-38.jpg?height=132&width=485&top_left_y=1763&top_left_x=406)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-C-BooK-001.jpg)
 
 **Rule**: Numbers with **downward arrows** are multiplied first; and from this product, the product of numbers with **upward arrows** is subtracted.
 
@@ -72,7 +72,7 @@ $$
 \end{align*}
 $$
 By cross multiplication, we have
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-39.jpg?height=122&width=487&top_left_y=769&top_left_x=406)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-C-BooK-002.jpg)
 $$
 \begin{aligned}
 & \therefore \quad \frac{x}{\{3 \times(-6)-(-2) \times(-17)\}}=\frac{y}{\{(-17) \times 3-(-6) \times 2\}} =\frac{1}{\{2 \times(-2)-3 \times 3\}} \\
@@ -99,7 +99,7 @@ $$
 \end{align*}
 $$
 By cross multiplication, we have
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-39.jpg?height=124&width=487&top_left_y=1703&top_left_x=406)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-C-BooK-003.jpg)
 $$
 \begin{aligned}
 & \therefore \frac{x}{\{(-7) \times 9-5 \times 28\}}=\frac{y}{\{28 \times(-7)-9 \times 4\}}=\frac{1}{\{4 \times 5-(-7) \times(-7)\}} \\
@@ -126,7 +126,7 @@ $$
 \end{align*}
 $$
 By cross multiplication, we have
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-40.jpg?height=124&width=488&top_left_y=817&top_left_x=394)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-C-BooK-004.jpg)
 $$
 \begin{aligned}
 & \therefore \frac{u}{[3 \times 2-(-4) \times(-13)]}=\frac{v}{[(-13) \times 5-2 \times 2]}=\frac{1}{[2 \times(-4)-5 \times 3]} \\
@@ -154,7 +154,7 @@ $$
 \end{align*}
 $$
 By cross multiplication, we have
-![](https://cdn.mathpix.com/cropped/2025_09_25_3b675a3602b98e8e64f1g-40.jpg?height=169&width=446&top_left_y=1759&top_left_x=434)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Algebra/Linear-Equations-in-Two-Variables/class-10-Ch-03-C-BooK-005.jpg)
 $$
 \begin{aligned}
 & \therefore \quad \frac{x}{-b(1+c)+ac}=\frac{y}{-cb+a(1+c)}=\frac{1}{\left(a^{2}-b^{2}\right)} \\

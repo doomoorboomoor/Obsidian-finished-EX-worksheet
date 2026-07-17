@@ -11,7 +11,7 @@ Let $\vec{t}$ be the position vector of any point on their line of intersection.
 Then, it must satisfy both the equations.
 $\therefore \quad \vec{t} \cdot \overrightarrow{n_{1}}=q_{1}$ and $\vec{t} \cdot \overrightarrow{n_{2}}=q_{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1fbe4b06552ea878a34g-113.jpg?height=221&width=508&top_left_y=489&top_left_x=699)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-12/Threedimensional-Geometry/The-Plane/class-12-Ch-28-E-BooK-001.jpg)
 
 $\Rightarrow \vec{t} \cdot\left(\overrightarrow{n_{1}}+\lambda \overrightarrow{n_{2}}\right)=\left(q_{1}+\lambda q_{2}\right)$ for every real value $\lambda$.
 Since $\vec{t}$ is arbitrary, the required equation of a plane $\pi_{3}$ passing through the intersection of the given planes, is given by

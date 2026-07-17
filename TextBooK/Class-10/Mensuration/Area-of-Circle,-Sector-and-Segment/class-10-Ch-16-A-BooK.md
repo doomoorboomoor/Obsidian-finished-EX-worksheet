@@ -5,7 +5,7 @@ The set of points which are at a constant distance of $r$ units from a fixed poi
 
 In other words, a circle is the locus of a point which moves in such a way that its distance from a fixed point $O$ remains constant at $r$ units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-01.jpg?height=148&width=148&top_left_y=438&top_left_x=1039)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-001.jpg)
 
 The fixed point $O$ is called the **centre** and the constant distance $r$ units is called its **radius**.
 
@@ -17,14 +17,14 @@ A line segment joining the centre of a circle and a point on the circle is calle
 
 Plural of radius is radii. In the given figure, $OA, OB, OC$ are three radii of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-01.jpg?height=189&width=191&top_left_y=877&top_left_x=1004)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-002.jpg)
 
 **CHORD**
 A line segment joining any two points on a circle is called a chord of the circle.
 
 In the given figure, $PQ, RS$ and $AOB$ are three chords of a circle with centre $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-01.jpg?height=168&width=207&top_left_y=1083&top_left_x=984)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-003.jpg)
 
 **DIAMETER**
 A chord of a circle passing through its centre is called a diameter of the circle.
@@ -38,14 +38,14 @@ A line which intersects a circle at two points is called a secant of the circle.
 
 In the given figure, line $l$ is a secant of the circle with centre $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-01.jpg?height=205&width=273&top_left_y=1469&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-004.jpg)
 
 **ARC**
 A continuous piece of a circle is called an arc of the circle.
 
 In the given figure, $AB$ is an arc of a circle, with centre $O$, denoted by $\overparen{AB}$. The remaining part of the circle, shown by the dotted lines, represents $\widehat{BA}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-01.jpg?height=174&width=191&top_left_y=1725&top_left_x=1000)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-005.jpg)
 
 **CENTRAL ANGLE**
 An angle subtended by an arc at the centre of a circle is called its central angle.
@@ -54,14 +54,14 @@ In the given figure of a circle with centre $O$, central angle of $\overparen{AB
 
 If $\theta^{\circ} < 180^{\circ}$ then $\overparen{AB}$ is called the **minor arc** and $\widehat{BA}$ is called the **major arc**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-02.jpg?height=168&width=172&top_left_y=241&top_left_x=1002)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-006.jpg)
 
 **semicircle**
 A diameter divides a circle into two equal arcs. Each of these two arcs is called a semicircle.
 
 In the given figure of a circle with centre $O, \widehat{ACB}$ and $\widehat{BDA}$ are semicircles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-02.jpg?height=196&width=193&top_left_y=463&top_left_x=988)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-007.jpg)
 
 An arc whose length is less than the arc of a semicircle is called a **minor arc**. An arc whose length is more than the arc of a semicircle is called a **major arc**.
 
@@ -72,7 +72,7 @@ The segment containing the minor arc is called a **minor segment**, while the se
 
 The centre of the circle lies in the major segment.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-02.jpg?height=253&width=281&top_left_y=805&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-008.jpg)
 
 **SECTOR OF A CIRCLE**
 The region enclosed by an arc of a circle and its two bounding radii is called a sector of the circle.
@@ -81,7 +81,7 @@ In the given figure, $OACBO$ is a sector of the circle with centre $O$.
 
 If $\operatorname{arc} AB$ is a minor arc then $OACBO$ is called the **minor sector** of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-02.jpg?height=210&width=189&top_left_y=1083&top_left_x=1000)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-009.jpg)
 
 The remaining part of the circle is called the **major sector** of the circle.
 
@@ -104,13 +104,13 @@ One-fourth of a circular disc is called a quadrant. The central angle of a quadr
     \text{Area of the ring} = \pi(R^{2} - r^{2}).
     $$
     
-    ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-02.jpg?height=176&width=181&top_left_y=1768&top_left_x=1014)
+    ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-010.jpg)
 4.  Let an arc $ACB$ make an angle $\theta^{\circ}$ at the centre of a circle of radius $r$. Then, we have
     - (i) Length of minor arc $ACB = \frac{2\pi r \theta}{360}$.
     
     Length of major arc $BDA = \left(2\pi r - \frac{2\pi r \theta}{360}\right)$.
     
-    ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-03.jpg?height=251&width=201&top_left_y=221&top_left_x=994)
+    ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-011.jpg)
     - (ii) Area of minor sector $OACBO = \frac{\pi r^{2} \theta}{360} = \left(\frac{1}{2} \times \text{radius} \times \text{arc length}\right)$.
     
     Area of major sector $OADBO = \left(\pi r^{2} - \frac{\pi r^{2} \theta}{360}\right)$.
@@ -128,10 +128,10 @@ One-fourth of a circular disc is called a quadrant. The central angle of a quadr
     - (i) When two circles touch **internally** [see fig. (i)], then distance between their centres = difference of their radii.
     - (ii) When two circles touch **externally** [see fig. (ii)], then distance between their centres = sum of their radii.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-03.jpg?height=200&width=223&top_left_y=1631&top_left_x=382)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-012.jpg)
 (i)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-03.jpg?height=200&width=326&top_left_y=1631&top_left_x=728)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-013.jpg)
 (ii)
 
 ---
@@ -239,7 +239,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-05.jpg?height=162&width=158&top_left_y=795&top_left_x=1037)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-014.jpg)
 
 $\therefore \quad$ cost of gravelling the path $= ₹(500.5 \times 20) = ₹ 10010$.
 
@@ -261,7 +261,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-05.jpg?height=158&width=156&top_left_y=1312&top_left_x=1035)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-015.jpg)
 
 Thus, inner radius $= 56 \text{ m}$,
 outer radius $= (56+7) \text{ m} = 63 \text{ m}$.
@@ -287,7 +287,7 @@ Then, $2\pi r = 437$ and $2\pi R = 503$
 $\Rightarrow r = \frac{437}{2\pi}$ and $R = \frac{503}{2\pi}$.
 Width of the track $= (R-r) \text{ m}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-06.jpg?height=178&width=176&top_left_y=376&top_left_x=994)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-016.jpg)
 
 $$
 \begin{aligned}
@@ -389,7 +389,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-07.jpg?height=177&width=297&top_left_y=1308&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-017.jpg)
 
 Now, $x=11 \Rightarrow (14-x) = (14-11) = 3$.
 And, $x=3 \Rightarrow (14-x) = (14-3) = 11$.
@@ -406,7 +406,7 @@ Two circles touch internally. The sum of their areas is $(116\pi) \text{ cm}^{2}
 The circles touch internally.
 $\therefore \quad$ difference of their radii $= \text{distance between their centres} = 6 \text{ cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-08.jpg?height=170&width=197&top_left_y=163&top_left_x=994)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-018.jpg)
 
 Let the radii of given circles be $r \text{ cm}$ and $(r+6) \text{ cm}$.
 Sum of their areas $= [\pi r^{2} + \pi(r+6)^{2}] \text{ cm}^{2} = \pi[r^{2} + (r+6)^{2}] \text{ cm}^{2}$.
@@ -441,7 +441,7 @@ $$
 = (2 \times 7.5) \text{ cm} = 15 \text{ cm}.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-08.jpg?height=202&width=195&top_left_y=934&top_left_x=1000)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-019.jpg)
 
 Let $BD \perp AC$. Then, $BD = 6 \text{ cm}$.
 $\therefore \quad \text{ar}(\triangle ABC) = \left(\frac{1}{2} AC \times BD\right) = \left(\frac{1}{2} \times 15 \times 6\right) \text{ cm}^{2} = 45 \text{ cm}^{2}$.
@@ -452,7 +452,7 @@ $\therefore \quad \text{ar}(\triangle ABC) = \left(\frac{1}{2} AC \times BD\righ
 
 In the given figure, $OABC$ is a rhombus whose three vertices $A, B, C$ lie on a circle of radius $10 \text{ cm}$ and centre $O$. Find the area of the rhombus. [Take $\sqrt{3} = 1.732$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-08.jpg?height=188&width=181&top_left_y=1284&top_left_x=1014)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-020.jpg)
 
 #### Solution:
 
@@ -501,7 +501,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-09.jpg?height=243&width=189&top_left_y=726&top_left_x=1002)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-021.jpg)
 
 (ii) Area of the sector $OACBO = \frac{\pi r^{2} \theta}{360}$
 
@@ -591,7 +591,7 @@ Let $OACBO$ be the sector whose perimeter is $68 \text{ cm}$.
 
 Then, $OA + OB + \text{arc } ACB = 68 \text{ cm}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-10.jpg?height=222&width=193&top_left_y=1327&top_left_x=998)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-022.jpg)
 
 $\Rightarrow 14 \text{ cm} + 14 \text{ cm} + \text{arc } ACB = 68 \text{ cm}$
 $\Rightarrow \text{arc } ACB = (68-28) \text{ cm} = 40 \text{ cm}$.
@@ -700,7 +700,7 @@ $$
 
 An umbrella has 8 ribs which are equally spaced (as shown in the figure). Assuming the umbrella to be a flat circle of radius $42 \text{ cm}$, find the area between the two consecutive ribs of the umbrella.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-12.jpg?height=281&width=408&top_left_y=793&top_left_x=537)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-023.jpg)
 
 #### Solution:
 
@@ -722,7 +722,7 @@ $$
 
 A round table cover has six equal designs, as shown in the figure. If the radius of the cover is $28 \text{ cm}$, find the cost of making the designs at the rate of $₹ 0.35 \text{ per cm}^{2}$. [Use $\sqrt{3}=1.7$.] [CBSE 2009]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-12.jpg?height=264&width=252&top_left_y=1623&top_left_x=608)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-024.jpg)
 
 #### Solution:
 
@@ -749,7 +749,7 @@ Cost of designs $= ₹\left(\frac{2324}{5} \times \frac{35}{100}\right) = ₹162
 
 A broach is made with silver wire in the form of a circle with diameter $35 \text{ mm}$. The wire is also used in making 5 diameters which divide the circle into ten equal sectors, as shown in the figure. Find (i) the total length of the silver wire required, (ii) the area of each sector of the broach.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-13.jpg?height=241&width=237&top_left_y=1260&top_left_x=958)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-025.jpg)
 
 #### Solution:
 
@@ -781,7 +781,7 @@ $$
 
 A horse is tied to a peg at one corner of a square-shaped grass field of side $15 \text{ m}$ by means of a $5-\text{m}$-long rope (as shown in the figure). Find (i) the area of that part of the field in which the horse can graze, (ii) the increase in the grazing area if the rope were $10 \text{ m}$ long instead of $5 \text{ m}$. [Use $\pi=3.14$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-14.jpg?height=311&width=394&top_left_y=694&top_left_x=547)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-026.jpg)
 
 #### Solution:
 
@@ -809,7 +809,7 @@ $$
 
 In the given figure, $ABCD$ is a square of side $10 \text{ cm}$ and semicircles are drawn with each side of the square as diameter. Find the area of the shaded region. [Use $\pi = 3.14$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-14.jpg?height=291&width=261&top_left_y=1629&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-027.jpg)
 
 #### Solution:
 
@@ -841,7 +841,7 @@ $$
 
 In the given figure, two circular flower beds have been shown on two sides of a square lawn $ABCD$ of side $AB = 42 \text{ m}$. If the centre of each circular flower bed is the point of intersection $O$ of the diagonals of the square lawn, find (i) the sum of the areas of the lawn and the flower beds, (ii) the sum of the areas of two flower beds. [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-15.jpg?height=259&width=363&top_left_y=1081&top_left_x=467)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-028.jpg)
 
 #### Solution:
 
@@ -893,7 +893,7 @@ $$
 
 In the given figure, $ABCD$ is a quadrant of a circle of radius $28 \text{ cm}$ and a semicircle $AECA$ is drawn with $AC$ as diameter. Find the area of the shaded region. [CBSE 2007, '08, '12, '14]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-16.jpg?height=257&width=260&top_left_y=982&top_left_x=612)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-029.jpg)
 
 #### Solution:
 
@@ -927,7 +927,7 @@ Hence, the area of the shaded region is $392 \text{ cm}^{2}$.
 
 Find the area of the shaded region in the given figure, where a circular arc of radius $6 \text{ cm}$ has been drawn with vertex $O$ of an equilateral triangle $OAB$ of side $12 \text{ cm}$ as centre. [Take $\sqrt{3} = 1.73$ and $\pi = 3.14$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-17.jpg?height=244&width=177&top_left_y=163&top_left_x=1014)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-030.jpg)
 
 #### Solution:
 
@@ -952,7 +952,7 @@ Hence, the area of the shaded region is $156.48 \text{ cm}^{2}$.
 
 In the given figure, $AB$ and $CD$ are the diameters of a circle with centre $O$, perpendicular to each other. $OA$ is the diameter of the smaller circle. If $OB = 7 \text{ cm}$, find the area of the shaded region. [CBSE 2010, '13]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-17.jpg?height=293&width=280&top_left_y=1216&top_left_x=600)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-031.jpg)
 
 #### Solution:
 
@@ -978,7 +978,7 @@ Hence, the area of the shaded region is $66.5 \text{ cm}^{2}$.
 
 Calculate the area of the designed region in the given figure, common between two quadrants of circles of radius $7 \text{ cm}$ each.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-18.jpg?height=265&width=234&top_left_y=646&top_left_x=624)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-032.jpg)
 
 #### Solution:
 
@@ -1001,7 +1001,7 @@ Hence, the area of the designed region is $28 \text{ cm}^{2}$.
 
 In a circular table cover of radius $42 \text{ cm}$, a design is formed, leaving an equilateral triangle $ABC$ in the middle, as shown in the figure. Find the area of the design. [Use $\sqrt{3} = 1.73$.] [CBSE 2013C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-18.jpg?height=293&width=276&top_left_y=1530&top_left_x=604)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-033.jpg)
 
 #### Solution:
 
@@ -1010,7 +1010,7 @@ Now, $\angle BAC = 60^{\circ} \Rightarrow \angle BOC = 2(\angle BAC) = 120^{\cir
 Draw $OD \perp BC$. Then, $\angle BOD = \angle COD = 60^{\circ}$.
 From right $\triangle BDO$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-19.jpg?height=255&width=257&top_left_y=283&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-034.jpg)
 
 $$
 \frac{OD}{OB} = \cos 60^{\circ} = \frac{1}{2} \Rightarrow \frac{OD}{42 \text{ cm}} = \frac{1}{2}
@@ -1052,7 +1052,7 @@ Hence, the required area is $3255.21 \text{ cm}^{2}$.
 
 In the given figure, $ABC$ is a right-angled triangle, right-angled at $A$, in which $AB=6 \text{ cm}, BC=10 \text{ cm}$ and $I$ is the incentre of $\triangle ABC$. Find the area of the shaded region. [Take $\pi=3.14$.] [CBSE 2009]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-19.jpg?height=270&width=554&top_left_y=1349&top_left_x=467)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-035.jpg)
 
 #### Solution:
 
@@ -1085,7 +1085,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-20.jpg?height=269&width=549&top_left_y=622&top_left_x=509)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-036.jpg)
 
 $\therefore$ area of the shaded region
 
@@ -1122,7 +1122,7 @@ $$
 Let $O$ be the centre of the inscribed circle.
 Then, $O$ is the centroid of $\triangle ABC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-20.jpg?height=252&width=273&top_left_y=1510&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-037.jpg)
 
 $\therefore \quad AO:OD = 2:1$ and $OD = \frac{1}{3}AD = \frac{1}{3} \times 6\sqrt{3} \text{ cm} = 2\sqrt{3} \text{ cm}$.
 $\therefore \quad r = OD = 2\sqrt{3} \text{ cm}$.
@@ -1146,7 +1146,7 @@ Hence, the required area is $24.6 \text{ cm}^{2}$.
 
 The area of an equilateral triangle is $100\sqrt{3} \text{ cm}^{2}$. Taking each vertex as centre, a circle is described with radius equal to half the length of the side of the triangle, as shown in the figure. Find the area of that part of the triangle which is not included in the circles. [Take $\pi = 3.14$ and $\sqrt{3} = 1.732$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-21.jpg?height=299&width=320&top_left_y=602&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-038.jpg)
 
 #### Solution:
 
@@ -1173,7 +1173,7 @@ Hence, the area of the required part is $16.2 \text{ cm}^{2}$.
 
 In the given figure, $ABCD$ is a trapezium with $AB \| CD$ and $\angle BCD = 60^{\circ}$. If $BFEC$ is a sector of a circle with centre $C$ and $AB=BC=7 \text{ cm}$ and $DE=4 \text{ cm}$, then find the area of the shaded region. [Use $\pi = 22/7$ and $\sqrt{3}=1.73$.] [CBSE 2010]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-21.jpg?height=249&width=352&top_left_y=1582&top_left_x=843)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-039.jpg)
 
 #### Solution:
 
@@ -1209,7 +1209,7 @@ Hence, the area of the shaded region is $28.79 \text{ cm}^{2}$.
 
 In the given figure, $ABCD$ is a trapezium in which $AB \| DC$, $AB = 18 \text{ cm}$, $DC = 32 \text{ cm}$ and the distance between $AB$ and $DC$ is $14 \text{ cm}$. If arcs of equal radii $7 \text{ cm}$ have been drawn with centres $A, B, C$ and $D$ then find the area of the shaded region. [CBSE 2015, '17]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-22.jpg?height=226&width=348&top_left_y=1180&top_left_x=567)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-040.jpg)
 
 #### Solution:
 
@@ -1237,7 +1237,7 @@ Hence, the area of the shaded region is $196 \text{ cm}^{2}$.
 
 Find the area of the shaded region in the figure, given below. [Take $\pi=3.14$.] [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-23.jpg?height=507&width=474&top_left_y=263&top_left_x=507)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-041.jpg)
 
 #### Solution:
 
@@ -1266,7 +1266,7 @@ Three horses are tethered with $7$-metre-long ropes at the three corners of a tr
 Let $\angle A = \theta_{1}^{\circ}, \angle B = \theta_{2}^{\circ}$ and $\angle C = \theta_{3}^{\circ}$.
 Area which can be grazed by the horses = sum of the areas of three sectors with central angles $\theta_{1}^{\circ}, \theta_{2}^{\circ}$ and $\theta_{3}^{\circ}$, and each with $r=7 \text{ m}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-23.jpg?height=265&width=239&top_left_y=1655&top_left_x=952)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-042.jpg)
 
 $$
 \begin{aligned}
@@ -1300,7 +1300,7 @@ Area ungrazed $= (336 - 77) \text{ m}^{2} = 259 \text{ m}^{2}$.
 
 The inside perimeter of a running track, as shown in the figure, is $340 \text{ m}$. The length of each straight portion is $60 \text{ m}$, and the curved portions are semicircles. If the track is $7 \text{ m}$ wide, find the area of the track. Also, find the outer perimeter of the track. [CBSE 2008C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-24.jpg?height=168&width=346&top_left_y=1035&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-043.jpg)
 
 #### Solution:
 
@@ -1343,7 +1343,7 @@ Hence, the outer perimeter of the track is $384 \text{ m}$.
 
 In the given figure, $\triangle ABC$ is a right-angled triangle with $\angle B = 90^{\circ}$, $AB = 48 \text{ cm}$ and $BC = 14 \text{ cm}$. With $AC$ as diameter a semicircle is drawn and with $BC$ as radius, a quadrant of a circle is drawn. Find the area of the shaded region. [Use $\pi = 22/7$.] [CBSE 2009C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-25.jpg?height=291&width=273&top_left_y=430&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-044.jpg)
 
 #### Solution:
 
@@ -1377,7 +1377,7 @@ Hence, the area of the shaded region is $1164.14 \text{ cm}^{2}$.
 
 Find the area of the shaded region of the figure given below. [CBSE 2011]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-25.jpg?height=373&width=698&top_left_y=1538&top_left_x=394)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-045.jpg)
 
 #### Solution:
 
@@ -1405,7 +1405,7 @@ Hence, the required area is $144.38 \text{ m}^{2}$.
 
 In the given figure, $\triangle ABC$ is right angled at $A$. Semicircles are drawn on $AB, AC$ and $BC$ as diameters. It is given that $AB=3 \text{ cm}$ and $AC=4 \text{ cm}$. Find the area of the shaded region. [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-26.jpg?height=223&width=360&top_left_y=1006&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-046.jpg)
 
 #### Solution:
 
@@ -1435,7 +1435,7 @@ Hence, the area of the shaded region is $6 \text{ cm}^{2}$.
 
 In the given figure, two concentric circles with centre $O$, have radii $21 \text{ cm}$ and $42 \text{ cm}$. If $\angle AOB = 60^{\circ}$ find the area of the shaded region. [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-27.jpg?height=280&width=276&top_left_y=298&top_left_x=604)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-047.jpg)
 
 #### Solution:
 
@@ -1465,7 +1465,7 @@ Hence, the area of the shaded region is $3465 \text{ cm}^{2}$.
 
 In the given figure, $\triangle ABC$ is right-angled at $A$ with $AB=6 \text{ cm}$ and $AC=8 \text{ cm}$. A circle with centre $O$ has been inscribed inside the triangle. Find the value of $r$, the radius of the inscribed circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-27.jpg?height=426&width=314&top_left_y=1256&top_left_x=587)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Mensuration/Area-of-Circle%2C-Sector-and-Segment/class-10-Ch-16-A-BooK-048.jpg)
 
 #### Solution:
 

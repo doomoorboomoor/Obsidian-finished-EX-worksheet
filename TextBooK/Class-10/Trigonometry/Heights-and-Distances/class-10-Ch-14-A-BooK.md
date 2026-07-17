@@ -8,7 +8,7 @@ The **line of sight** is the line drawn from the eye of an observer at a point $
 
 Suppose that from a point $O$, you look up at an object $P$, placed above the level of your eye. Then, the angle which the line of sight makes with the horizontal line through $O$ is called the **angle of elevation** of $P$, as seen from $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-01.jpg?height=349&width=342&top_left_y=461&top_left_x=855)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-001.jpg)
 
 For example, let $OX$ be a horizontal line on the level ground and let a person at $O$ be looking up towards an object $P$, say an aeroplane or the top of a tree or the top of a tower or a flag at the top of a house. Then, $\angle XOP$ is the angle of elevation of $P$ from $O$.
 
@@ -18,7 +18,7 @@ For example, let $OX$ be a horizontal line on the level ground and let a person 
 
 Now, suppose that from a point $O$, you look down at an object $P$, placed below the level of your eye. Then, the angle which the line of sight makes with the horizontal line through $O$ is called the **angle of depression** of $P$, as seen from $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-01.jpg?height=350&width=366&top_left_y=1139&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-002.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-02.jpg?height=192&width=457&top_left_y=930&top_left_x=730)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-003.jpg)
 
 **Hence, the height of the kite from the ground = 82.5 m.**
 
@@ -81,7 +81,7 @@ The length of a string between a kite and a point on the ground is 85 m. If the 
 
 Let $OX$ be the horizontal ground and let $A$ be the position of the kite. Let $O$ be the position of the observer and $OA$ be the string. Draw $AB \perp OX$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-02.jpg?height=237&width=440&top_left_y=1451&top_left_x=759)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-004.jpg)
 
 Then, $\angle BOA = \theta$ such that $\tan \theta = \frac{15}{8}$, $OA = 85 \text{ m}$ and $\angle OBA = 90^{\circ}$.
 
@@ -112,7 +112,7 @@ Let $AB = h$ metres.
 Now, $\angle AOB = (90^{\circ} - 60^{\circ}) = 30^{\circ}$.
 From right $\triangle OBA$, we have:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-03.jpg?height=245&width=436&top_left_y=704&top_left_x=759)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-005.jpg)
 
 $$
 \begin{aligned}
@@ -142,7 +142,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-03.jpg?height=351&width=352&top_left_y=1355&top_left_x=843)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-006.jpg)
 
 **Hence, the angular elevation of the sun is $60^{\circ}$.**
 
@@ -167,7 +167,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-04.jpg?height=252&width=340&top_left_y=322&top_left_x=855)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-007.jpg)
 
 **Hence, the height of the lamp-post is 2.5 metres.**
 
@@ -235,7 +235,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-05.jpg?height=237&width=410&top_left_y=704&top_left_x=785)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-008.jpg)
 
 From right $\triangle BPQ$, we have:
 $$
@@ -259,7 +259,7 @@ Let $AB$ be the tower and let $AC$ and $AD$ be the lengths of its shadows when $
 
 Let $AB = h$ metres, and $AC = x$ metres.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-05.jpg?height=253&width=394&top_left_y=1371&top_left_x=801)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-009.jpg)
 
 From right $\triangle CAB$, we have:
 $$
@@ -307,7 +307,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-06.jpg?height=408&width=285&top_left_y=793&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-010.jpg)
 
 From right $\triangle OAC$, we have:
 $$
@@ -347,7 +347,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-07.jpg?height=219&width=465&top_left_y=422&top_left_x=730)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-011.jpg)
 
 From right $\triangle OCD$, we have:
 $$
@@ -384,7 +384,7 @@ $$
 \frac{OC}{AC} = \cot 60^{\circ} = \frac{1}{\sqrt{3}}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-07.jpg?height=242&width=450&top_left_y=1645&top_left_x=741)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-012.jpg)
 
 $$
 \Rightarrow \frac{OC}{1500\sqrt{3}} = \frac{1}{\sqrt{3}} \Rightarrow OC = 1500 \text{ m}.
@@ -430,7 +430,7 @@ $$
 
 From right $\triangle EDB$, we have:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-08.jpg?height=563&width=386&top_left_y=1002&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-013.jpg)
 
 $$
 \begin{align*}
@@ -462,7 +462,7 @@ Let $C$ and $D$ be the two positions of the boat approaching the shore at $A$. T
 
 Let $AB = h$ metres, $CD = x$ metres and $DA = y$ metres.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-09.jpg?height=263&width=366&top_left_y=680&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-014.jpg)
 
 From right $\triangle DAB$, we have:
 $$
@@ -502,7 +502,7 @@ Let $CD = x$ metres.
 
 From right $\triangle DAB$, we have:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-10.jpg?height=233&width=412&top_left_y=410&top_left_x=785)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-015.jpg)
 
 $$
 \begin{aligned}
@@ -535,7 +535,7 @@ Then, $\angle ACB = 30^{\circ}$ and $\angle ADB = 45^{\circ}$.
 Let $AB = h$ metres, $CA = x$ metres.
 Then, $AD = (100-x) \text{ m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-10.jpg?height=241&width=526&top_left_y=1542&top_left_x=477)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-016.jpg)
 
 From right $\triangle BAD$, we have:
 $$
@@ -574,7 +574,7 @@ Clearly, $\angle ACB = \alpha$ and $\angle ADB = \beta$.
 Let $AC = x$ metres and $AD = y$ metres.
 
 From right $\triangle CAB$, we have:
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-11.jpg?height=232&width=430&top_left_y=1051&top_left_x=765)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-017.jpg)
 $$
 \frac{AC}{AB} = \cot \alpha \Rightarrow \frac{x}{h} = \cot \alpha \Rightarrow x = h \cot \alpha. \tag{i}
 $$
@@ -617,7 +617,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-12.jpg?height=480&width=386&top_left_y=473&top_left_x=805)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-018.jpg)
 
 From right $\triangle PQD$, we have:
 $$
@@ -706,7 +706,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-14.jpg?height=358&width=442&top_left_y=273&top_left_x=749)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-019.jpg)
 
 From right $\triangle ODC$, we have:
 $$
@@ -728,7 +728,7 @@ A boy whose eye level is 1.3 m from the ground, spots a balloon moving with the 
 
 Let $AB$ be the position of the boy and $AX$ be the horizontal ground. Let $C$ and $D$ be the two positions of the balloon. Draw $CL \perp AX$, $DM \perp AX$ and $BN \perp DM$, intersecting $CL$ at $P$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-14.jpg?height=289&width=392&top_left_y=1385&top_left_x=807)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-020.jpg)
 
 Then, $\angle CBN = 60^{\circ}$ and $\angle DBN = 30^{\circ}$.
 Distance covered by the balloon in 2 seconds = $(29\sqrt{3} \times 2) \text{ m} = 58\sqrt{3} \text{ m}$.
@@ -780,7 +780,7 @@ Then, $\angle COA = 60^{\circ}$, $\angle COB = 45^{\circ}$, $\angle OCB = \angle
 
 Let $AB = x$ metres. Then, $BC = (3000-x) \text{ m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-15.jpg?height=425&width=269&top_left_y=1486&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-021.jpg)
 
 From right $\triangle OCB$, we have:
 $$
@@ -826,7 +826,7 @@ $\therefore \angle ACB = \angle EBC = 30^{\circ}$.
 Let $CD = h$ metres.
 Then, $CE = AB = 10 \text{ m}$ and $ED = (h-10) \text{ m}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-16.jpg?height=489&width=390&top_left_y=1149&top_left_x=807)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-022.jpg)
 
 From right $\triangle CAB$, we have:
 $$
@@ -862,7 +862,7 @@ Draw $BE \| AC$, meeting $CD$ at $E$. Then, $\angle EBD = \theta$ and $\angle AC
 Let $CD = H$ metres. Then, $CE = AB = h$ metres and $ED = (H-h) \text{ m}$.
 
 From right $\triangle ACB$, we have:
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-17.jpg?height=346&width=265&top_left_y=720&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-023.jpg)
 $$
 \frac{AC}{AB} = \cot \phi \Rightarrow \frac{AC}{h} = \cot \phi \Rightarrow AC = h \cot \phi \text{ metres.}
 $$
@@ -889,7 +889,7 @@ From the top of a building 60 m high, the angles of depression of the top and bo
 Let $AB$ be the building and $CD$ be the tower such that $\angle BDE = 30^{\circ}$, $\angle BCA = 60^{\circ}$ and $AB = 60 \text{ m}$.
 
 Let $CA = DE = x$ metres.
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-17.jpg?height=305&width=275&top_left_y=1639&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-024.jpg)
 
 From right $\triangle CAB$, we have:
 $$
@@ -922,7 +922,7 @@ The angle of elevation of a jet plane from a point $A$ on the ground is $60^{\ci
 
 Let $A$ be the point of observation and let $AX$ be a horizontal line through $A$ and $QC \perp AX$. Let $P$ and $Q$ be the two positions of the plane. Let $PB \perp AX$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-18.jpg?height=247&width=448&top_left_y=1242&top_left_x=517)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-025.jpg)
 
 Then, $PB = QC = 3600\sqrt{3} \text{ m}$, $\angle BAP = 60^{\circ}$ and $\angle CAQ = 30^{\circ}$. Note that the provided image labels the angle as $\angle BAQ$, but the description is more precise.
 
@@ -970,7 +970,7 @@ Let $AL = BM = h$ metres.
 
 Speed of the jet $= \left(720 \times \frac{5}{18}\right) \text{ m/s} = 200 \text{ m/s}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-19.jpg?height=249&width=444&top_left_y=1079&top_left_x=745)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-026.jpg)
 
 Time taken to cover the distance $AB = 15 \text{ s}$.
 Distance covered = speed $\times$ time $= 200 \text{ m/s} \times 15 \text{ s} = 200 \times 15 \text{ m} = 3000 \text{ m}$.
@@ -1014,7 +1014,7 @@ A 1.2-m-tall girl spots a balloon moving with the wind in a horizontal line at a
 Let $AB$ be the position of the girl and $AX$ be the horizontal ground. Let $C$ and $D$ be the two positions of the balloon.
 Draw $CL \perp AX$, $DM \perp AX$ and $BN \perp DM$, intersecting $CL$ at $P$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-20.jpg?height=283&width=438&top_left_y=992&top_left_x=523)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-027.jpg)
 
 Then, $\angle CBP = 60^{\circ}$, $\angle DBN = 30^{\circ}$, $AB = PL = NM = 1.2 \text{ m}$ and $CL = DM = 88.2 \text{ m}$.
 $\therefore CP = 88.2 \text{ m} - 1.2 \text{ m} = 87 \text{ m}$.
@@ -1062,7 +1062,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-21.jpg?height=394&width=285&top_left_y=555&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-028.jpg)
 
 Also, from right $\triangle DAC$, we have:
 $$
@@ -1096,7 +1096,7 @@ $$
 \end{align*}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-22.jpg?height=226&width=428&top_left_y=185&top_left_x=763)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-029.jpg)
 
 From right $\triangle DAB$, we have:
 $$
@@ -1137,7 +1137,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-22.jpg?height=305&width=342&top_left_y=1304&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-030.jpg)
 
 *Note: The equation in the source seems to have a typo (`h = b tan θ`). Following the derivation `h/b = cot θ` leads to `h = b cot θ`.*
 
@@ -1175,7 +1175,7 @@ Let $O$ be the position of the bird, $B$ be the position of the boy and $FG$ be 
 Let $OL \perp BF$ and $GM \perp OL$. Then, $BO = 100 \text{ m}$, $\angle OBL = 30^{\circ}$, $FG = 20 \text{ m}$ and $\angle OGM = 45^{\circ}$.
 
 From right $\triangle OLB$, we have:
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-23.jpg?height=217&width=390&top_left_y=535&top_left_x=805)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-031.jpg)
 $$
 \begin{aligned}
 \frac{OL}{BO} = \sin 30^{\circ} & \Rightarrow \frac{OL}{100 \text{ m}} = \frac{1}{2} \\
@@ -1214,7 +1214,7 @@ $$
 \frac{FG}{GB} = \cot 60^{\circ} \Rightarrow \frac{FG}{28.5 \text{ m}} = \frac{1}{\sqrt{3}} \Rightarrow FG = \frac{28.5}{\sqrt{3}} \text{ m} = \frac{57}{2\sqrt{3}} \text{ m}.
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-24.jpg?height=401&width=466&top_left_y=165&top_left_x=511)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Trigonometry/Heights-and-Distances/class-10-Ch-14-A-BooK-032.jpg)
 
 $$
 \begin{aligned}

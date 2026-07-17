@@ -6,7 +6,7 @@ Let $AB$ be a given line segment and let $O$ be the midpoint of $AB$. Then, a li
 
 Clearly, $OA=OB$ and $\angle AOC=\angle BOC=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-01.jpg?height=379&width=374&top_left_y=445&top_left_x=823)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-001.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ Draw a line segment 6.4 cm long and draw its perpendicular bisector. Measure the
 3. With $B$ as centre and the same radius, draw two arcs, cutting the previously drawn arcs at points $C$ and $D$ respectively.
 4. Join $CD$, intersecting $AB$ at a point $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-01.jpg?height=325&width=471&top_left_y=1137&top_left_x=724)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-002.jpg)
 
 Then, $CD$ is the required perpendicular bisector of $AB$ at the point $O$.
 
@@ -70,7 +70,7 @@ $\therefore OC$ is the bisector of $\angle AOB$.
 
 ### Example: 2
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-02.jpg?height=299&width=326&top_left_y=938&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-003.jpg)
 
 Draw an angle of $110^{\circ}$ with the help of a protractor and bisect it. Measure each of these angles. Justify your answer.
 
@@ -82,7 +82,7 @@ Draw an angle of $110^{\circ}$ with the help of a protractor and bisect it. Meas
 4. With $Q$ as centre and with the same radius, draw another arc, cutting the previous arc at a point $C$.
 5. Join $OC$ and produce it beyond $C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-02.jpg?height=321&width=426&top_left_y=1417&top_left_x=769)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-004.jpg)
 
 Then, $OC$ is the required bisector of $\angle AOB$.
 
@@ -118,7 +118,7 @@ Construct an angle of $60^{\circ}$ using ruler and compasses only. Justify your 
 3. With $P$ as centre and the same radius as above, draw an arc, cutting the previous arc at $Q$.
 4. Join $OQ$ and produce it to a point $B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-03.jpg?height=310&width=330&top_left_y=1167&top_left_x=865)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-005.jpg)
 
 Then, $\angle AOB$ is the required angle of measure $60^{\circ}$.
 
@@ -146,7 +146,7 @@ Construct an angle of $30^{\circ}$ using ruler and compasses only.
 
 Then, $\angle AOC=30^{\circ}$ is the required angle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-04.jpg?height=305&width=330&top_left_y=338&top_left_x=865)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-006.jpg)
 
 ---
 
@@ -162,7 +162,7 @@ Construct an angle of $15^{\circ}$ using ruler and compasses only.
 
 Then, $\angle AOD=15^{\circ}$ is the required angle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-04.jpg?height=311&width=334&top_left_y=779&top_left_x=863)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-007.jpg)
 
 ---
 
@@ -178,7 +178,7 @@ Construct an angle of $120^{\circ}$, using ruler and compasses only.
 4. With $Q$ as centre and the same radius, draw yet another arc, cutting the arc drawn in Step (ii) at $R$.
 5. Join $OR$ and produce it to a point $B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-04.jpg?height=303&width=469&top_left_y=1256&top_left_x=728)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-008.jpg)
 
 Then, $\angle AOB$ is the required angle of measure $120^{\circ}$.
 
@@ -197,7 +197,7 @@ Construct an angle of $90^{\circ}$, using ruler and compasses only.
 5. With $Q$ and $R$ as centres and the same radius, draw two arcs intersecting each other at $M$.
 6. Join $OM$ and produce it to a point $B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-05.jpg?height=343&width=422&top_left_y=169&top_left_x=775)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-009.jpg)
 
 Then, $\angle AOB$ is the required angle of measure $90^{\circ}$.
 
@@ -215,7 +215,7 @@ Construct an angle of $45^{\circ}$, using ruler and compasses only.
 Then, clearly, $\angle AOC=45^{\circ}$.
 Hence, $\angle AOC$ is the required angle of measure $45^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-05.jpg?height=344&width=418&top_left_y=861&top_left_x=779)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-010.jpg)
 
 ---
 
@@ -282,7 +282,7 @@ Then, $\triangle ABC$ is the required triangle.
 5. Clearly, the angle opposite to the smallest side is smallest. So, $\angle B$ is the smallest angle.
 6. So, we draw $BD$, the bisector of $\angle B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-07.jpg?height=365&width=438&top_left_y=171&top_left_x=761)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-011.jpg)
 
 On measuring, we find that $\angle ABD=\angle CBD=20^{\circ}$.
 
@@ -300,7 +300,7 @@ Construct an equilateral triangle whose altitude is $4 \mathrm{~cm}$. Give justi
 4. From $D$, set off $DA=4 \mathrm{~cm}$, cutting $DE$ at $A$.
 5. Construct $\angle DAB=30^{\circ}$ and $\angle DAC=30^{\circ}$, meeting $XY$ at $B$ and $C$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-07.jpg?height=393&width=549&top_left_y=745&top_left_x=646)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-012.jpg)
 
 Then, $\triangle ABC$ is the required equilateral triangle.
 
@@ -354,7 +354,7 @@ Then, $\triangle ABC$ is the required triangle.
 
 #### Verification
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-08.jpg?height=429&width=390&top_left_y=445&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-013.jpg)
 
 On measuring, we find that $AB+AC=(4+5) \mathrm{cm}=9 \mathrm{~cm}$.
 
@@ -393,7 +393,7 @@ Then, $\triangle ABC$ is the required right triangle.
 On measuring, we find that
 $AB+AC=(3+5) \mathrm{cm}=8 \mathrm{~cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-09.jpg?height=401&width=311&top_left_y=167&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-014.jpg)
 
 ---
 
@@ -416,7 +416,7 @@ Then, $\triangle ABC$ is the required triangle.
 
 #### Verification
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-09.jpg?height=289&width=402&top_left_y=845&top_left_x=789)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-015.jpg)
 
 On measuring, we find that $AB=6.1 \mathrm{~cm}$ and $AC=3.1 \mathrm{~cm}$.
 $\therefore (AB-AC)=(6.1-3.1) \mathrm{cm}=3 \mathrm{~cm}$.
@@ -448,7 +448,7 @@ Then, $\triangle ABC$ is the required triangle.
 
 #### Verification
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-10.jpg?height=365&width=426&top_left_y=169&top_left_x=773)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-016.jpg)
 
 On measuring, we find that $AC=5.4 \mathrm{~cm}$ and $AB=3.4 \mathrm{~cm}$.
 $\therefore (AC-AB)=(5.4-3.4) \mathrm{cm}=2 \mathrm{~cm}$.
@@ -478,7 +478,7 @@ Construct a $\triangle ABC$ in which $AB=4.5 \mathrm{~cm}, BC=6 \mathrm{~cm}$ an
 
 Then, $\triangle ABC$ is the required triangle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-10.jpg?height=446&width=328&top_left_y=1284&top_left_x=867)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-017.jpg)
 
 ---
 
@@ -498,7 +498,7 @@ Then, $\triangle ABC$ is the required triangle, right angled at $A$.
 
 #### Justification
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-11.jpg?height=514&width=424&top_left_y=221&top_left_x=773)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-018.jpg)
 
 We know that an angle in a semicircle is a right angle and therefore, $\angle BAC=90^{\circ}$.
 Also, $BA=4 \mathrm{~cm}$ and $BC=6 \mathrm{~cm}$.
@@ -522,7 +522,7 @@ Then, $\triangle ABC$ is the required triangle.
 
 #### Justification
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-11.jpg?height=326&width=817&top_left_y=1602&top_left_x=249)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-019.jpg)
 
 Since $B$ lies on the perpendicular bisector of $AP$, we have $BA=BP$.
 Since $C$ lies on the perpendicular bisector of $AQ$, we have $CA=CQ$.
@@ -572,7 +572,7 @@ Then, $\triangle ABC$ is the required triangle.
 
 #### Verification
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-12.jpg?height=505&width=730&top_left_y=1441&top_left_x=281)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-020.jpg)
 
 On measuring, we find that
 $AB=3 \mathrm{~cm}, BC=4.5 \mathrm{~cm}$ and $CA=6 \mathrm{~cm}$.
@@ -604,7 +604,7 @@ Construct a rhombus each of whose sides is of length $3.4 \mathrm{~cm}$ and one 
 
 Then, $ABCD$ is the required rhombus.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-13.jpg?height=369&width=742&top_left_y=1542&top_left_x=277)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-021.jpg)
 
 ---
 
@@ -621,7 +621,7 @@ Construct a rhombus whose diagonals are $4 \mathrm{~cm}$ and $6 \mathrm{~cm}$ in
 
 Then, $ABCD$ is the required rhombus.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-14.jpg?height=553&width=320&top_left_y=281&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Geometrical-Constructions/class-09-Ch-13-A-BooK-022.jpg)
 
 ---
 

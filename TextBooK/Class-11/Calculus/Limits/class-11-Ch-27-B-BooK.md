@@ -18,7 +18,7 @@ If we keep $BC$ fixed and go on decreasing $\theta$, we find that $A$ keeps on c
 $\therefore$ when $\theta \rightarrow 0$ then $A \rightarrow C$.
 $\therefore \theta \rightarrow 0 \Rightarrow CA \rightarrow 0$ and $BA \rightarrow BC$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_418343bfb917f863182dg-15.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Calculus/Limits/class-11-Ch-27-B-BooK-001.jpg)
 
 $$
 \begin{aligned}

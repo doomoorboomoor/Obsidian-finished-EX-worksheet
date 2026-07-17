@@ -11,13 +11,13 @@ Reflex $\angle AOB = 2 \angle ACB$, when $\widehat{AB}$ is a major arc.
 **CONSTRUCTION** Join $AB$ and $CO$. Produce $CO$ to a point $D$ outside the circle.
 
 (i)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-35.jpg?height=289&width=213&top_left_y=1598&top_left_x=269)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-001.jpg)
 
 (ii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-35.jpg?height=293&width=251&top_left_y=1594&top_left_x=515)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-002.jpg)
 
 (iii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-35.jpg?height=291&width=230&top_left_y=1598&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-003.jpg)
 
 **PROOF** Clearly, there are three cases.
 
@@ -58,7 +58,7 @@ $$
 
 **PROOF** We know that the angle subtended by an arc at the centre of a circle is twice the angle formed by it at any point on the remaining part of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-36.jpg?height=297&width=307&top_left_y=1252&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-004.jpg)
 
 $$
 \begin{array}{ll}
@@ -79,7 +79,7 @@ $$
 
 **CONSTRUCTION** Join $OA$ and $OB$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-37.jpg?height=289&width=307&top_left_y=169&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-005.jpg)
 
 **PROOF** Since $\widehat{AB}$ subtends $\angle AOB$ at the centre and $\angle ACB$ at the remaining part of the circle, we have
 $$
@@ -99,13 +99,13 @@ Hence, $\widehat{AB}$ is a semicircle.
 **CONSTRUCTION** Join $OA$ and $OB$.
 
 (i)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-37.jpg?height=225&width=245&top_left_y=1026&top_left_x=257)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-006.jpg)
 
 (ii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-37.jpg?height=220&width=253&top_left_y=1031&top_left_x=519)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-007.jpg)
 
 (iii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-37.jpg?height=229&width=243&top_left_y=1022&top_left_x=799)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-008.jpg)
 
 **PROOF** We know that angle made by an arc at the centre of a circle $= 2 \times$ (angle made by the arc at any point on its remaining part). ... (i)
 
@@ -144,8 +144,8 @@ Hence, in all the cases we have $\angle ACB = \angle ADB$.
 
 **CONSTRUCTION** Draw the circle through three noncollinear points $A, B$ and $C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-38.jpg?height=273&width=307&top_left_y=954&top_left_x=348)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-38.jpg?height=267&width=269&top_left_y=968&top_left_x=684)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-009.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-010.jpg)
 
 **PROOF** If $D$ lies on the circle passing through $A, B$ and $C$ then clearly the result follows.
 
@@ -168,22 +168,22 @@ Hence, the points $A, B, C, D$ are concyclic.
 If $O$ is the centre of a circle, find the value of $x$ in each of the following figures:
 
 (i)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-39.jpg?height=224&width=217&top_left_y=344&top_left_x=289)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-011.jpg)
 
 (ii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-39.jpg?height=251&width=257&top_left_y=340&top_left_x=535)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-012.jpg)
 
 (iii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-39.jpg?height=234&width=233&top_left_y=334&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-013.jpg)
 
 (iv)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-39.jpg?height=220&width=235&top_left_y=636&top_left_x=285)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-014.jpg)
 
 (v)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-39.jpg?height=210&width=249&top_left_y=648&top_left_x=543)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-015.jpg)
 
 (vi)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-39.jpg?height=232&width=235&top_left_y=648&top_left_x=823)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-016.jpg)
 
 #### Solution:
 (i) $\angle BDC = \angle BAC = 30^{\circ}$ [$\angle s$ in the same segment]. In $\triangle BCD$, the sum of the angles is $180^{\circ}$.
@@ -239,22 +239,22 @@ $$
 If $O$ is the centre of the circle, find the value of $x$ in each of the following figures:
 
 (i)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-40.jpg?height=228&width=249&top_left_y=632&top_left_x=285)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-017.jpg)
 
 (ii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-40.jpg?height=228&width=253&top_left_y=652&top_left_x=547)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-018.jpg)
 
 (iii)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-40.jpg?height=222&width=239&top_left_y=652&top_left_x=827)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-019.jpg)
 
 (iv)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-40.jpg?height=236&width=249&top_left_y=930&top_left_x=289)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-020.jpg)
 
 (v)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-40.jpg?height=234&width=253&top_left_y=936&top_left_x=559)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-021.jpg)
 
 (vi)
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-40.jpg?height=228&width=223&top_left_y=942&top_left_x=843)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-022.jpg)
 
 #### Solution:
 (i) In $\triangle ADC$, we have
@@ -310,7 +310,7 @@ In the given figure, $AB$ is a diameter of the circle $C(O, r)$ and the radius $
 #### Solution:
 $OA = OD = r \Rightarrow \angle OAD = \angle ODA$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-41.jpg?height=291&width=307&top_left_y=1020&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-023.jpg)
 
 In $\triangle OAD$, we have
 $$
@@ -353,7 +353,7 @@ $$
 $$
 Hence, $\angle x + \angle y = \angle z$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-42.jpg?height=383&width=271&top_left_y=169&top_left_x=515)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-024.jpg)
 
 ---
 
@@ -363,7 +363,7 @@ In the given figure, $O$ is the centre of the circle. Prove that $\angle XO_Z = 
 #### Solution:
 Join $OY$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-42.jpg?height=289&width=265&top_left_y=1147&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-025.jpg)
 
 Now, arc $XY$ subtends $\angle XOY$ at the centre and $\angle XZY$ at a point $Z$ on the remaining part of the circle.
 $$
@@ -389,7 +389,7 @@ If $O$ is the circumcentre of a $\triangle ABC$ and $OD \perp BC$, prove that $\
 #### Solution:
 **GIVEN** A $\triangle ABC$ whose circumcentre is $O$ and $OD \perp BC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-43.jpg?height=293&width=273&top_left_y=485&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Circles/class-09-Ch-12-B-BooK-026.jpg)
 
 **TO PROVE** $\angle BOD = \angle A$.
 

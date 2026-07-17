@@ -20,7 +20,7 @@ $$
 \end{aligned}
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-07.jpg?height=382&width=436&top_left_y=676&top_left_x=761)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/ThreeDimensional-Geometry/class-11-Ch-26-C-BooK-001.jpg)
 
 Similarly, $x=\frac{m x_2+n x_1}{m+n}$ and $y=\frac{m y_2+n y_1}{m+n}$.
 
@@ -76,7 +76,7 @@ $$
 
 Let $G$ be the centroid of triangle $ABC$. Then, $G$ lies on $AD$ and divides it in the ratio $2:1$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-08.jpg?height=266&width=458&top_left_y=616&top_left_x=737)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/ThreeDimensional-Geometry/class-11-Ch-26-C-BooK-002.jpg)
 
 $\therefore$ the coordinates of $G$ are
 
@@ -201,7 +201,7 @@ $$
 \left(\frac{3-1}{2}, \frac{-1+1}{2}, \frac{2+2}{2}\right), \text{ i.e., } (1,0,2).
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-10.jpg?height=212&width=326&top_left_y=894&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/ThreeDimensional-Geometry/class-11-Ch-26-C-BooK-003.jpg)
 
 But, the midpoints of the diagonals of a parallelogram always coincide.
 
@@ -223,7 +223,7 @@ $\frac{x_2+x_3}{2}=1; \frac{y_2+y_3}{2}=5; \frac{z_2+z_3}{2}=-1;$
 $\frac{x_3+x_1}{2}=0; \frac{y_3+y_1}{2}=4; \frac{z_3+z_1}{2}=-2;$
 $\frac{x_1+x_2}{2}=2; \frac{y_1+y_2}{2}=3$ and $\frac{z_1+z_2}{2}=4$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-10.jpg?height=235&width=410&top_left_y=1580&top_left_x=789)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Coordinate-Geometry/ThreeDimensional-Geometry/class-11-Ch-26-C-BooK-004.jpg)
 
 Thus,
 $x_2+x_3=2; x_3+x_1=0; x_1+x_2=4$

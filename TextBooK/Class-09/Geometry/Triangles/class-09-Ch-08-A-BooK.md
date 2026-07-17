@@ -27,13 +27,13 @@ A triangle has six parts—three sides and three angles.
 
 - **Right-Angled Triangle**: A triangle in which one of the angles measures $90^{\circ}$ is called a right-angled triangle or simply a right triangle. In a right-angled triangle, the side opposite to the right angle is called its **hypotenuse** and the remaining two sides are called its **legs**. In the given figure, $\triangle ABC$ is a right triangle in which $\angle B=90^{\circ}$, $AC$ is the hypotenuse, and $AB, BC$ are its legs.
 
-    ![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-02.jpg?height=254&width=279&top_left_y=167&top_left_x=920)
+    ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-001.jpg)
 
 - **Acute-Angled Triangle**: A triangle in which every angle measures more than $0^{\circ}$ but less than $90^{\circ}$ is called an acute-angled triangle. In the given figure, $ABC$ is a triangle in which every angle is an acute angle. $\therefore \triangle ABC$ is an acute-angled triangle.
 
 - **Obtuse-Angled Triangle**: A triangle in which one of the angles measures more than $90^{\circ}$ but less than $180^{\circ}$ is called an obtuse-angled triangle.
 
-    ![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-02.jpg?height=174&width=309&top_left_y=765&top_left_x=886)
+    ![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-002.jpg)
 
     In the given figure, $PQR$ is a triangle in which $\angle PQR$ is an obtuse angle. $\therefore \triangle PQR$ is an obtuse-angled triangle.
 
@@ -47,7 +47,7 @@ The **median** of a triangle corresponding to any side is the line segment joini
 
 In the given figure, $D, E, F$ are the respective midpoints of sides $BC, CA$ and $AB$ of $\triangle ABC$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-02.jpg?height=210&width=269&top_left_y=1198&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-003.jpg)
 
 $\therefore AD$ is the median, corresponding to side $BC$.
 $BE$ is the median, corresponding to side $CA$.
@@ -61,7 +61,7 @@ The medians of a triangle are concurrent, i.e., they intersect each other at the
 
 The **altitude** of a triangle corresponding to any side is the length of perpendicular drawn from the opposite vertex to that side.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-03.jpg?height=180&width=281&top_left_y=169&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-004.jpg)
 
 The side on which the perpendicular is being drawn, is called its base. In the given figure, $AL \perp BC$; $BM \perp CA$ and $CN \perp AB$.
 $\therefore AL$ is the altitude, corresponding to base $BC$.
@@ -78,7 +78,7 @@ The point of intersection of the internal bisectors of the angles of a triangle 
 
 In the given figure, the internal bisectors of the angles of $\triangle ABC$ intersect at $I$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-03.jpg?height=248&width=281&top_left_y=1039&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-005.jpg)
 
 $\therefore I$ is the incentre of $\triangle ABC$. Let $ID \perp BC$. Then, a circle with centre $I$ and radius $ID$ is called the incircle of $\triangle ABC$.
 
@@ -88,7 +88,7 @@ The point of intersection of the perpendicular bisectors of the sides of a trian
 
 In the given figure, the right bisectors of the sides of $\triangle ABC$ intersect at $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-03.jpg?height=249&width=241&top_left_y=1441&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-006.jpg)
 
 $\therefore O$ is the circumcentre of $\triangle ABC$. With $O$ as centre and radius equal to $OA=OB=OC$, we draw a circle passing through the vertices of the given triangle. This circle is called the circumcircle of $\triangle ABC$.
 
@@ -107,7 +107,7 @@ $\therefore O$ is the circumcentre of $\triangle ABC$. With $O$ as centre and ra
 
 Let $ABC$ be a triangle, one of whose sides $BC$ is produced to $D$. Then, $\angle ACD$ is called an **exterior angle** (or remote angle), while $\angle ABC$ and $\angle BAC$ are called its **interior opposite angles**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-04.jpg?height=277&width=485&top_left_y=700&top_left_x=710)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-007.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ The sum of the angles of a triangle is $180^{\circ}$.
 ***Proof:***
 $DAE \| BC$ and $AB$ is the transversal.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-04.jpg?height=196&width=338&top_left_y=1111&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-008.jpg)
 
 $\therefore \angle 4=\angle 2$ [alternate interior $\angle$s].
 
@@ -155,7 +155,7 @@ If a side of a triangle is produced then the exterior angle so formed is equal t
 ***Proof:***
 We know that the sum of the angles of a triangle is $180^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-05.jpg?height=251&width=456&top_left_y=253&top_left_x=741)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-009.jpg)
 
 $$
 \therefore \quad \angle 1+\angle 2+\angle 3=180^{\circ}. \quad ... (i)
@@ -178,7 +178,7 @@ Hence, $\angle 4=\angle 1+\angle 2$.
 ***Proof:***
 We know that an exterior angle of a triangle is equal to the sum of the interior opposite angles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-05.jpg?height=217&width=460&top_left_y=873&top_left_x=737)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-010.jpg)
 
 $$
 \therefore \quad \angle 4=\angle 1+\angle 2 .
@@ -279,7 +279,7 @@ In a $\triangle ABC$, the bisectors of $\angle B$ and $\angle C$ intersect each 
 
 ***Proof:*** We know that the sum of the angles of a triangle is $180^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-07.jpg?height=248&width=322&top_left_y=296&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-011.jpg)
 
 $$
 \begin{align*}
@@ -311,7 +311,7 @@ In a $\triangle ABC$, the sides $AB$ and $AC$ are produced to points $D$ and $E$
 
 Since $ABD$ is a line, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-07.jpg?height=337&width=358&top_left_y=1264&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-012.jpg)
 
 $$
 \begin{align*}
@@ -352,7 +352,7 @@ In a $\triangle ABC, BE \perp AC, \angle EBC=40^{\circ}$ and $\angle CAD=30^{\ci
 We know that the sum of the angles of a triangle is $180^{\circ}$.
 In $\triangle BCE$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-08.jpg?height=311&width=297&top_left_y=1403&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-013.jpg)
 
 $$
 \begin{aligned}
@@ -375,7 +375,7 @@ In the given figure, the side $BC$ of $\triangle ABC$ has been produced to a poi
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-09.jpg?height=195&width=342&top_left_y=281&top_left_x=855)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-014.jpg)
 
 Side $BC$ of $\triangle ABC$ has been produced to $D$.
 $\therefore \angle ACD=\angle BAC+\angle ABC$
@@ -406,7 +406,7 @@ In a $\triangle ABC, \angle B>\angle C$. If $AD \perp BC$ and $AE$ is the bisect
 
 Since $AE$ is the bisector of $\angle BAC$, we have
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-09.jpg?height=259&width=336&top_left_y=1312&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-015.jpg)
 
 $$
 \angle BAE=\angle CAE . \tag{i}
@@ -451,7 +451,7 @@ If two parallel lines are cut by a transversal, prove that the bisectors of the 
 
 ***Proof:*** $AB \| CD$ and $t$ is a transversal.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-10.jpg?height=279&width=287&top_left_y=829&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-016.jpg)
 
 $$
 \begin{array}{cc}
@@ -481,7 +481,7 @@ A $\triangle ABC$ is right angled at $A$ and $L$ is a point on $BC$ such that $A
 
 We know that in a right-angled triangle, the sum of the two acute angles is $90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-10.jpg?height=212&width=348&top_left_y=1522&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-017.jpg)
 
 So, in right triangle $\triangle ALB$, we have
 $$
@@ -517,7 +517,7 @@ Then, in $\triangle BOC$, $\angle CBO+\angle BCO = 180^{\circ} - 90^{\circ} = 90
 
 $\Rightarrow \frac{1}{2} \angle B+\frac{1}{2} \angle C=90^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-11.jpg?height=249&width=320&top_left_y=636&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-018.jpg)
 
 $\Rightarrow \angle B+\angle C=180^{\circ}$
 $\Rightarrow \angle A=0^{\circ}\left[\because \angle A+\angle B+\angle C=180^{\circ}\right]$.
@@ -534,7 +534,7 @@ In the given figure, prove that $x=\alpha+\beta+\gamma$.
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-11.jpg?height=299&width=345&top_left_y=1224&top_left_x=475)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-019.jpg)
 
 Join $B$ and $D$ and produce $BD$ to $E$. Let $\angle ABD=p^{\circ}, \angle CBD=q^{\circ}$ and let $\angle ADE=s^{\circ}$ and $\angle CDE=t^{\circ}$.
 
@@ -542,7 +542,7 @@ Then, $p+q=\beta$ and $s+t=x$.
 
 Now, side $BD$ of $\triangle ABD$ has been produced to $E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-11.jpg?height=305&width=398&top_left_y=1538&top_left_x=799)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-020.jpg)
 
 $$
 \therefore \quad s=p+\alpha . \tag{i}
@@ -573,7 +573,7 @@ The side $BC$ of $\triangle ABC$ is produced to $D$. The bisector of $\angle A$ 
 
 Side $BE$ of $\triangle ABE$ has been produced to $C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-12.jpg?height=244&width=460&top_left_y=457&top_left_x=737)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-021.jpg)
 
 $$
 \begin{array}{ll}
@@ -606,7 +606,7 @@ In the given figure, $\triangle ABC$ is an isosceles triangle in which $AB=AC$ a
 
 We know that the angles opposite to equal sides of a triangle are equal.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-12.jpg?height=313&width=426&top_left_y=1216&top_left_x=773)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-022.jpg)
 
 $\therefore AB=AC \Rightarrow \angle B=\angle C$.
 
@@ -626,7 +626,7 @@ In the given figure, side BC of $\triangle ABC$ is produced to form ray $BD$ and
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-13.jpg?height=208&width=465&top_left_y=169&top_left_x=732)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-023.jpg)
 
 $CE \| BA$ and $AC$ is the transversal.
 $\therefore \angle ACE=\angle A \quad \ldots$ (i) [alternate interior $\angle$s].
@@ -656,7 +656,7 @@ In $\triangle ABC$, it is given that $\angle A=70^{\circ}$, $\angle B=52^{\circ}
 
 We know that the sum of the angles of a triangle is $180^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-13.jpg?height=287&width=338&top_left_y=944&top_left_x=865)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-024.jpg)
 
 $$
 \begin{aligned}
@@ -689,7 +689,7 @@ In the given figure, $PQ \perp PS, PQ \| SR$, $\angle SQR=28^{\circ}$ and $\angl
 
 $PQ \| SRT$ and $QR$ is a transversal.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-14.jpg?height=240&width=324&top_left_y=169&top_left_x=871)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-025.jpg)
 
 $\therefore \angle PQR=\angle QRT$ [alternate interior angles]
 $\Rightarrow \angle PQS+\angle SQR=\angle QRT$
@@ -714,7 +714,7 @@ In the given figure, lines $AB$ and $CD$ intersect at a point $P$ such that $\an
 
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-14.jpg?height=225&width=380&top_left_y=1022&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Triangles/class-09-Ch-08-A-BooK-026.jpg)
 
 We know that the sum of the angles of a triangle is $180^{\circ}$.
 In $\triangle ACP$, we have

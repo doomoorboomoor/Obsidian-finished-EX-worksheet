@@ -14,7 +14,7 @@ Let $X'OX$ and $YOY'$ be the coordinate axes.
 Let $A(x_{1}, y_{1})$ and $B(x_{2}, y_{2})$ be the end points of the given line segment $AB$.
 Let $P(x, y)$ be the point which divides $AB$ in the ratio $m: n$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-15.jpg?height=444&width=547&top_left_y=1041&top_left_x=374)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Coordinate-Geometry/Coordinate-Geometry/class-10-Ch-06-B-BooK-001.jpg)
 
 Then, $\frac{AP}{PB} = \frac{m}{n}$.
 Draw $AL \perp OX$; $BM \perp OX$; $PN \perp OX$; $AR \perp PN$; and $PS \perp BM$.

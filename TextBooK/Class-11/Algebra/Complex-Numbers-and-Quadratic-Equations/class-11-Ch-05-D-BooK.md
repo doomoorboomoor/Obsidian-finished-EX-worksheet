@@ -4,7 +4,7 @@
 
 Let $X^{\prime} O X$ and $Y O Y^{\prime}$ be the mutually perpendicular lines, known as the **x-axis** and the **y-axis** respectively. The complex number ($x+i y$) corresponds to the ordered pair ($x, y$) and it can be represented by the point $P(x, y)$ in the x-y plane. The x-y plane is known as the **complex plane**, or the **Argand plane**. The x-axis is called the **real axis** and the y-axis is called the **imaginary axis**.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f3356a581ee986a39296g-42.jpg?height=416&width=557&top_left_y=557&top_left_x=372)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Complex-Numbers-and-Quadratic-Equations/class-11-Ch-05-D-BooK-001.jpg)
 
 Note that every number on the x-axis is a real number, while each on the y-axis is an imaginary number.
 
@@ -37,7 +37,7 @@ Clearly, $x=r \cos \theta$ and $y=r \sin \theta$.
 
 $\therefore \quad z=r(\cos \theta+i \sin \theta)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f3356a581ee986a39296g-42.jpg?height=414&width=491&top_left_y=1506&top_left_x=708)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Complex-Numbers-and-Quadratic-Equations/class-11-Ch-05-D-BooK-002.jpg)
 
 This is called the **polar form**, or **trigonometric form**, or **modulus-amplitude form**, of $z$.
 
@@ -72,10 +72,10 @@ The value of $\theta$ such that $-\pi<\theta \leq \pi$ is called the **principal
    - (iii) When $z$ lies in quad. III; then, $\theta=(\alpha-\pi)$ or $(\pi+\alpha)$ $\Rightarrow \arg (z)=(\alpha-\pi)$ or $(\pi+\alpha)$.
    - (iv) When $z$ lies in quad. IV; then, $\theta=-\alpha$ or $\theta=(2 \pi-\alpha)$ $\Rightarrow \arg (z)=-\alpha$ or $(2 \pi-\alpha)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f3356a581ee986a39296g-44.jpg?height=331&width=418&top_left_y=179&top_left_x=189)
-![](https://cdn.mathpix.com/cropped/2025_09_25_f3356a581ee986a39296g-44.jpg?height=331&width=422&top_left_y=179&top_left_x=684)
-![](https://cdn.mathpix.com/cropped/2025_09_25_f3356a581ee986a39296g-44.jpg?height=338&width=424&top_left_y=567&top_left_x=191)
-![](https://cdn.mathpix.com/cropped/2025_09_25_f3356a581ee986a39296g-44.jpg?height=338&width=426&top_left_y=567&top_left_x=682)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Complex-Numbers-and-Quadratic-Equations/class-11-Ch-05-D-BooK-003.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Complex-Numbers-and-Quadratic-Equations/class-11-Ch-05-D-BooK-004.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Complex-Numbers-and-Quadratic-Equations/class-11-Ch-05-D-BooK-005.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-11/Algebra/Complex-Numbers-and-Quadratic-Equations/class-11-Ch-05-D-BooK-006.jpg)
 
 ---
 

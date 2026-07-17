@@ -6,7 +6,7 @@ A **circle** is a collection of all points in a plane which are at a constant di
 
 **Tangent:** A line meeting a circle only in one point is called a **tangent** to the circle at that point.
 
-!(https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-01.jpg?height=213&width=287&top_left_y=539&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-046.jpg)
 
 The point at which the tangent line intersects the circle is called the **point of contact**.
 
@@ -14,7 +14,7 @@ The point at which the tangent line intersects the circle is called the **point 
 
 Consider a line $l$ which is a secant to a circle with centre $O$. Let $PQ$ be the corresponding chord of this secant. If we rotate the secant anticlockwise about the point $P$ then point $Q$ comes closer to the point $P$. Let $Q_{1}$, $Q_{2}$, $Q_{3}$ etc., be the positions of $Q$ as the secant goes on rotating then we find these positions getting closer to $P$ sequentially. Finally, as the position of $Q$ coincides with $P$, the secant is reduced to a tangent at point $P$.
 
-!(https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-01.jpg?height=308&width=297&top_left_y=1022&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-047.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ Consider a line $l$ which is a secant to a circle with centre $O$. Let $PQ$ be t
 2.  There is **one and only one tangent** passing through a point lying **on** a circle.
 3.  There are **exactly two tangents** through a point lying **outside** a circle. In the figure, $PT$ and $PT^{\prime}$ are two tangents from a point $P$ lying outside the circle.
 
-!(https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-01.jpg?height=381&width=303&top_left_y=1482&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-048.jpg)
 
 **Length of a tangent:** The length of the segment of the tangent from the external point $P$ to the point of contact with the circle is called the **length of the tangent** from the point $P$ to the circle.
 
@@ -44,7 +44,7 @@ $OP \perp AB$.
 **Construction:**
 Take a point $Q$, other than $P$, on $AB$. Join $OQ$.
 
-![Image for Theorem 1 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-02.jpg?height=216&width=390&top_left_y=495&top_left_x=805)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-001.jpg)
 
 **Proof:**
 $Q$ is a point on the tangent $AB$, other than the point of contact $P$.
@@ -75,7 +75,7 @@ A circle with centre $O$ in which $OP$ is a radius and $AB$ is a line through $P
 **To Prove:**
 $AB$ is a tangent to the circle at the point $P$.
 
-![Image for Theorem 2 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-02.jpg?height=217&width=390&top_left_y=1723&top_left_x=805)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-002.jpg)
 
 **Construction:**
 Take a point $Q$, different from $P$, on $AB$. Join $OQ$.
@@ -106,7 +106,7 @@ $AP = AQ$.
 **Construction:**
 Join $OP$, $OQ$ and $OA$.
 
-![Image for Theorem 3 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-03.jpg?height=182&width=318&top_left_y=902&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-003.jpg)
 
 **Proof:**
 $AP$ is a tangent at $P$ and $OP$ is the radius through $P$.
@@ -146,7 +146,7 @@ A circle with centre $O$ and a point $A$ outside it. Also, $AP$ and $AQ$ are the
 **To Prove:**
 $\angle AOP = \angle AOQ$ and $\angle OAP = \angle OAP$.
 
-![Image for Theorem 4 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-04.jpg?height=178&width=316&top_left_y=173&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-004.jpg)
 
 **Proof:**
 In $\triangle AOP$ and $\triangle AOQ$, we have
@@ -173,7 +173,7 @@ $AC = BC$.
 **Construction:**
 Join $OC$.
 
-![Image for Theorem 5 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-04.jpg?height=214&width=217&top_left_y=942&top_left_x=978)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-005.jpg)
 
 **Proof:**
 $AB$ is a tangent to the smaller circle at the point $C$ and $OC$ is the radius through $C$.
@@ -196,7 +196,7 @@ $CD \| EF$.
 **Proof:**
 $CD$ is the tangent to the circle at the point $A$.
 
-![Image for Theorem 6 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-04.jpg?height=216&width=269&top_left_y=1665&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-006.jpg)
 
 $\therefore \quad CD \perp OA \Rightarrow \angle OAD = 90^{\circ} \Rightarrow \angle BAD = 90^{\circ}$.
 $EF$ is the tangent to the circle at the point $B$.
@@ -224,7 +224,7 @@ $OG \| CD$ and $AO$ cuts them.
 $\therefore \quad \angle CAO + \angle GOA = 180^{\circ}$
 $\Rightarrow \quad 90^{\circ} + \angle GOA = 180^{\circ} \quad [\because OA \perp CD]$
 
-![Image for Theorem 7 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-05.jpg?height=219&width=318&top_left_y=686&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-007.jpg)
 
 $\Rightarrow \angle GOA = 90^{\circ}$.
 Similarly, $\angle GOB = 90^{\circ}$.
@@ -254,7 +254,7 @@ $$
 \end{array}
 $$
 
-![Image for Theorem 8 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-05.jpg?height=220&width=366&top_left_y=1538&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-008.jpg)
 
 But, we know that the sum of all the angles of a quadrilateral is $360^{\circ}$.
 
@@ -283,7 +283,7 @@ $\therefore \quad OP \perp PT$ and similarly, $OP \perp PT^{\prime}$
 $\Rightarrow \angle OPT = 90^{\circ}$ and $\angle OPT^{\prime} = 90^{\circ}$.
 $\Rightarrow \quad \angle \mathrm{OPT}=\angle \mathrm{OPT} T^{\prime}$
 
-![Image for Theorem 9 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-06.jpg?height=192&width=209&top_left_y=608&top_left_x=986)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-009.jpg)
 
 This is possible only when $PT$ and $PT^{\prime}$ coincide.
 Hence, there is one and only one tangent at any point on the circumference of a circle.
@@ -298,7 +298,7 @@ Let $PT$ be a tangent to a circle with centre $O$, where $P$ is the point of con
 Let $PQ \perp PT$, where $Q$ lies on the circle, i.e., $\angle QPT = 90^{\circ}$.
 If possible, let $PQ$ not pass through the centre $O$.
 
-![Image for Theorem 10 proof](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-06.jpg?height=220&width=249&top_left_y=1079&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-010.jpg)
 
 Join $PO$ and produce it to meet the circle at $R$.
 Then $PO$ being the radius through the point of contact, we have
@@ -325,7 +325,7 @@ Let $O$ be the centre of the given circle.
 Then, $OP=10 \mathrm{~cm}$. Also, $PT=8 \mathrm{~cm}$.
 Join $OT$.
 
-![Diagram for Example 1](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-07.jpg?height=184&width=338&top_left_y=360&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-011.jpg)
 
 Now, $PT$ is a tangent at $T$ and $OT$ is the radius through the point of contact $T$.
 $\therefore \quad OT \perp PT$.
@@ -347,7 +347,7 @@ $PQ$ is a tangent at $P$ and $OP$ is the radius through the point of contact $P$
 $\therefore \quad OP \perp PQ$.
 In right $\triangle OPQ$, we have
 
-![Diagram for Example 2](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-07.jpg?height=185&width=334&top_left_y=1175&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-012.jpg)
 
 $$
 \begin{aligned}
@@ -366,7 +366,7 @@ In the given figure, $AB$ is the diameter of a circle with centre $O$ and $AT$ i
 
 $\angle AOQ=58^{\circ}$
 
-![Diagram for Example 3](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-07.jpg?height=234&width=370&top_left_y=1516&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-013.jpg)
 
 $\Rightarrow \angle ABQ=\frac{1}{2} \angle AOQ=29^{\circ}$
 $[\because$ the angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle]
@@ -389,7 +389,7 @@ $$
 
 Tangents $PA$ and $PB$ are drawn from an external point $P$ to two concentric circles with centre $O$ and radii 8 cm and 5 cm respectively, as shown in the figure. If $AP=15 \mathrm{~cm}$ then find the length of $BP$. [CBSE 2012]
 
-![Diagram for Example 4 (larger circle)](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-08.jpg?height=232&width=289&top_left_y=620&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-014.jpg)
 
 #### Solution:
 
@@ -411,7 +411,7 @@ $$
 
 [by Pythagoras' theorem]
 
-![Diagram for Example 4 (smaller circle)](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-08.jpg?height=233&width=289&top_left_y=1131&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-015.jpg)
 
 $\Rightarrow OP=\sqrt{OA^{2}+AP^{2}}=\sqrt{8^{2}+15^{2}} \mathrm{~cm}=\sqrt{289} \mathrm{~cm}=17 \mathrm{~cm}$.
 In right $\triangle OBP$, we have
@@ -433,7 +433,7 @@ Thus, the length of $BP=\sqrt{264} \mathrm{~cm}=16.25 \mathrm{~cm}$ (approx).
 
 In the given figure, two circles touch each other at the point C. Prove that the common tangent to the circles at $C$, bisects the common tangent at $P$ and $Q$. [CBSE 2013]
 
-![Diagram for Example 5](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-08.jpg?height=207&width=314&top_left_y=1723&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-016.jpg)
 
 #### Solution:
 
@@ -468,7 +468,7 @@ Two concentric circles of radii $a$ and $b(a>b)$ are given. Find the length of t
 
 Let $O$ be the common centre of the two circles and $AB$ be the chord of the larger circle which touches the smaller circle at $C$. Join $OA$ and $OC$. Then, $OA=a$ and $OC=b$.
 
-![Diagram for Example 6](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-09.jpg?height=216&width=229&top_left_y=922&top_left_x=968)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-017.jpg)
 
 Now, $OC \perp AB$ and $OC$ bisects $AB$
 $[\because$ the chord of the larger circle touching the smaller circle, is bisected at the point of contact].
@@ -489,7 +489,7 @@ Two concentric circles are of radii 7 cm and $r \mathrm{~cm}$ respectively, wher
 
 Let $O$ be the common centre of the two circles and $AB$ be the chord of the larger circle which touches the smaller circle at $C$. Then, $AB=46 \mathrm{~cm}$.
 
-![Diagram for Example 7](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-09.jpg?height=213&width=213&top_left_y=1723&top_left_x=982)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-018.jpg)
 
 Join $OA$ and $OC$. Then, $OA=r \mathrm{~cm}$ and $OC=7 \mathrm{~cm}$.
 Now, $OC \perp AB$ and $OC$ bisects $AB$. [See Theorem 5.]
@@ -511,7 +511,7 @@ $\Rightarrow r \mathrm{~cm}=\sqrt{7^{2}+23^{2}} \mathrm{~cm}=\sqrt{578} \mathrm{
 
 In the given figure, the radii of two concentric circles are 13 cm and $8 \mathrm{~cm} . AB$ is a diameter of the bigger circle and $BD$ is a tangent to the smaller circle touching it at $D$. Find the length of AD. [HOTS] [CBSE 2014]
 
-![Diagram for Example 8](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-10.jpg?height=216&width=221&top_left_y=596&top_left_x=978)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-019.jpg)
 
 #### Solution:
 
@@ -566,7 +566,7 @@ $OP$ is the right bisector of $AB$.
 **Construction:**
 Join $AB$. Let $AB$ intersect $OP$ at $M$.
 
-![Diagram for Example 9](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-11.jpg?height=215&width=310&top_left_y=241&top_left_x=881)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-020.jpg)
 
 **Proof:**
 In $\triangle MAP$ and $\triangle MBP$, we have
@@ -606,7 +606,7 @@ Prove that the tangents at the extremities of any chord of a circle, make equal 
 **Given:**
 $AB$ is any chord of a circle with centre $O$. Tangents at the extremities $A$ and $B$ of this chord meet at an external point $P$. Chord $AB$ intersects the line segment $OP$ at $M$.
 
-![Diagram for Example 10](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-11.jpg?height=217&width=316&top_left_y=1304&top_left_x=879)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-021.jpg)
 
 **To Prove:**
 $\angle MAP=\angle MBP$.
@@ -644,7 +644,7 @@ $P$ is the midpoint of $\widehat{QR}$
 $\Rightarrow \overparen{QP}=\overparen{PR}$
 $\Rightarrow \text{chord } QP=\text{chord } PR$
 
-![Diagram for Example 11](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-12.jpg?height=216&width=338&top_left_y=489&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-022.jpg)
 
 $[\because \text{in a circle, if two arcs are equal, then their corresponding chords are equal}]$
 $\therefore \quad \angle PQR=\angle PRQ$
@@ -658,7 +658,7 @@ $\Rightarrow \quad QR \| ST . \quad[\because \angle TPR \text{ and } \angle PRQ 
 
 In the given figure, $AB$ is a chord of length 9.6 cm of a circle with centre $O$ and radius 6 cm . The tangents at $A$ and $B$ intersect at $P$. Find the length of $PA$. [CBSE 2009C, '13C, '15]
 
-![Diagram for Example 12](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-12.jpg?height=293&width=396&top_left_y=1047&top_left_x=801)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-023.jpg)
 
 **Given:**
 A circle with centre $O$ and radius $6 \mathrm{~cm} . AB$ is a chord of length 9.6 cm . The tangents at $A$ and $B$ intersect at $P$.
@@ -717,7 +717,7 @@ Two tangents $PA$ and $PB$ are drawn to a circle with centre $O$ from an externa
 **Given:**
 A circle with centre $O$ and $PA, PB$ are the tangents on it from a point $P$ outside it.
 
-![Diagram for Example 13](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-13.jpg?height=289&width=400&top_left_y=1055&top_left_x=799)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-024.jpg)
 
 **To Prove:**
 $\angle APB=2 \angle OAB$.
@@ -756,7 +756,7 @@ $$
 \end{aligned}
 $$
 
-![Diagram for Example 14 (Incircle of a triangle)](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-14.jpg?height=245&width=245&top_left_y=563&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-025.jpg)
 
 #### Solution:
 
@@ -796,7 +796,7 @@ $$
 
 In the given figure, a circle is inscribed in a triangle $P Q R$. If $P Q=10 \mathrm{~cm}$, $Q R=8 \mathrm{~cm}$ and $P R=12 \mathrm{~cm}$, find the lengths of $Q M, R N$ and $P L$. [CBSE 2012]
 
-![Diagram for Example 15](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-14.jpg?height=241&width=307&top_left_y=1697&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-026.jpg)
 
 #### Solution:
 
@@ -825,7 +825,7 @@ $\therefore \quad Q M=y=3 \mathrm{~cm}, R N=z=5 \mathrm{~cm}, P L=x=7 \mathrm{~c
 
 A circle is inscribed in a $\triangle A B C$, touching $B C, C A$ and $A B$ at $P, Q$ and $R$ respectively, as shown in the given figure. If $A B=10 \mathrm{~cm}$, $A Q=7 \mathrm{~cm}$ and $C Q=5 \mathrm{~cm}$ then find the length of $B C$. [CBSE 2009C]
 
-![Diagram for Example 16](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-15.jpg?height=248&width=249&top_left_y=737&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-027.jpg)
 
 #### Solution:
 
@@ -847,7 +847,7 @@ $$
 
 A circle is touching the side BC of $\triangle A B C$ at $P$ and touching $A B$ and $A C$ produced at $Q$ and $R$ respectively. Prove that $A Q=\frac{1}{2}$ (perimeter of $\triangle A B C$). [CBSE 2001, '02, '06, '14, '17]
 
-![Diagram for Example 17](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-15.jpg?height=325&width=281&top_left_y=1409&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-028.jpg)
 
 We know that the lengths of tangents drawn from an external point to a circle are **equal**.
 $\therefore A Q=A R, \quad \ldots$ (i) [tangents from $A$ ]
@@ -887,7 +887,7 @@ $P A$ and $P B$ are tangents to the circle with centre $O$ from an external poin
 **To Prove:**
 Quadrilateral $A O B P$ is cyclic.
 
-![Diagram for Example 18](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-16.jpg?height=213&width=318&top_left_y=857&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-029.jpg)
 
 **Proof:**
 We know that the tangent at any point of a circle is perpendicular to radius through the point of contact.
@@ -911,7 +911,7 @@ $\therefore$ **quadrilateral $O A P B$ is cyclic** [since both pairs of opposite
 
 In the given figure, tangents $P Q$ and $P R$ are drawn from an external point $P$ to a circle with centre $O$, such that $\angle R P Q=30^{\circ}$. A chord $R S$ is drawn parallel to the tangent $P Q$. Find $\angle R Q S$.
 
-![Diagram for Example 19](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-16.jpg?height=243&width=430&top_left_y=1612&top_left_x=765)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-030.jpg)
 
 #### Solution:
 
@@ -935,7 +935,7 @@ Prove that
 (a) $A B+C Q=A C+B Q$
 (b) area $(\triangle A B C)=\frac{1}{2}($ perimeter of $\triangle A B C) \times r$.
 
-![Diagram for Example 20](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-17.jpg?height=319&width=318&top_left_y=1047&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-031.jpg)
 [CBSE 2013]
 
 We know that the lengths of tangents from an exterior point to a circle are **equal**.
@@ -988,7 +988,7 @@ In the given figure, $A B C$ is a right-angled triangle with $A B=6 \mathrm{~cm}
 
 Join $O A, O B$ and $O C$.
 
-![Diagram for Example 21](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-18.jpg?height=397&width=277&top_left_y=912&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-032.jpg)
 
 Draw $O D \perp A B, O E \perp B C$ and $O F \perp C A$.
 Then, $O D=O E=O F=r \mathrm{~cm}$.
@@ -1009,7 +1009,7 @@ Hence, the radius of the inscribed circle is **2 cm**.
 
 A triangle $A B C$ is drawn to circumscribe a circle of radius 4 cm such that the segments BD and $D C$ into which $B C$ is divided by the point of contact $D$ are of lengths 6 cm and 8 cm respectively. Find the lengths of the sides $A B$ and $A C$. [HOTS] [CBSE 2014]
 
-![Diagram for Example 22](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-19.jpg?height=325&width=404&top_left_y=171&top_left_x=791)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-033.jpg)
 
 We know that the lengths of tangents drawn from an exterior point to a circle are **equal**.
 
@@ -1072,7 +1072,7 @@ $$
 
 In the given figure, a triangle $A B C$ is drawn to circumscribe a circle of radius 3 cm , such that the segments $B D$ and $D C$ into which $B C$ is divided by the point of contact $D$ are of lengths 6 cm and 8 cm respectively. Find the side $A B$, if the area of $\triangle A B C$ is $63 \mathrm{~cm}^{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-20.jpg?height=323&width=408&top_left_y=173&top_left_x=789)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-034.jpg)
 
 #### Solution:
 
@@ -1088,7 +1088,7 @@ $$
 
 [CBSE 2010, '11, '15]
 
-![Diagram for Example 23](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-20.jpg?height=291&width=404&top_left_y=583&top_left_x=793)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-035.jpg)
 
 And so, $A B=A F+B F=(x+6) \mathrm{cm} ; B C=B D+C D=14 \mathrm{~cm}$;
 
@@ -1114,7 +1114,7 @@ $$
 
 In the given figure, $X P$ and $X Q$ are two tangents to the circle with centre $O$, drawn from an external point $X . A R B$ is another tangent, touching the circle at $R$. Prove that $X A+A R=X B+B R . \quad$ [CBSE 2014]
 
-![Diagram for Example 24](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-20.jpg?height=278&width=372&top_left_y=1409&top_left_x=826)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-036.jpg)
 
 We know that the lengths of tangents drawn from an exterior point to a circle are **equal**.
 
@@ -1148,7 +1148,7 @@ $$
 \end{aligned}
 $$
 
-![Diagram for Example 25](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-21.jpg?height=252&width=217&top_left_y=447&top_left_x=982)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-037.jpg)
 
 and $\angle Q P O=\frac{1}{2} \times \angle Q P R=\frac{1}{2} \times 120^{\circ}=60^{\circ}$.
 $[\because$ the two tangents drawn from an external point are equally inclined to the line segment joining the centre to that point and so $\angle Q P O=\angle R P O]$
@@ -1172,7 +1172,7 @@ A quadrilateral $A B C D$ is drawn to circumscribe a circle, as shown in the fig
 
 We know that the lengths of tangents drawn from an exterior point to a circle are **equal**.
 
-![Diagram for Example 26](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-21.jpg?height=244&width=326&top_left_y=1200&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-038.jpg)
 
 $$
 \begin{array}{ll}
@@ -1205,7 +1205,7 @@ Hence, $A B+C D=A D+B C$.
 
 In the given figure, $A B C D$ is a quadrilateral such that $\angle D=90^{\circ}$. A circle with centre $O$ and radius $r$, touches the sides $A B, B C, C D$ and $D A$ at $P, Q, R$ and $S$ respectively. If $B C=40 \mathrm{~cm}, C D=25 \mathrm{~cm}$ and $B P=28 \mathrm{~cm}$, find $r$.
 
-![Diagram for Example 27](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-22.jpg?height=262&width=253&top_left_y=169&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-039.jpg)
 
 It is given that $\angle D=90^{\circ}$.
 Also, $\angle \mathrm{ORD}=\angle \mathrm{OSD}=90^{\circ}$. [ $\because$ tangent at a point is perpendicular to the radius through the point of contact]
@@ -1234,7 +1234,7 @@ $A B=B C=C D=A D$.
 **Proof:**
 We know that the lengths of tangents drawn from an exterior point to a circle are **equal**.
 
-![Diagram for Example 28](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-22.jpg?height=242&width=281&top_left_y=1484&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-040.jpg)
 
 $\therefore \quad A P=A S$, ... (i) [tangents from $A$ ]
 $B P=B Q$, ... (ii) [tangents from $B$ ]
@@ -1272,7 +1272,7 @@ and $\angle A O D+\angle B O C=180^{\circ}$.
 **Construction:**
 Join $O P, O Q, O R$ and $O S$.
 
-![Diagram for Example 29](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-23.jpg?height=263&width=297&top_left_y=831&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-041.jpg)
 
 **Proof:**
 We know that the tangents drawn from an external point of a circle subtend equal angles at the **centre**.
@@ -1294,7 +1294,7 @@ In the given figure, $P A$ is a tangent from an external point $P$ to a circle w
 
 We know that the tangent at a point to a circle is perpendicular to the radius passing through the point of **contact**.
 
-![Diagram for Example 30](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-23.jpg?height=213&width=366&top_left_y=1586&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-042.jpg)
 
 $\therefore \quad \angle \mathrm{OAP}=90^{\circ}$.
 Now, $\angle A O P+\angle B O P=180^{\circ}$
@@ -1313,7 +1313,7 @@ From a point $P$, two tangents $P A$ and $P B$ are drawn to a circle $C(O, r)$. 
 
 Let $O P$ meet the circle at $Q$.
 
-![Diagram for Example 31](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-24.jpg?height=283&width=398&top_left_y=515&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-043.jpg)
 
 Join $O A$ and $A Q$.
 Clearly, $O A \perp A P \Rightarrow \angle O A P=90^{\circ}$ [radius through the point of contact is perpendicular to the tangent].
@@ -1337,7 +1337,7 @@ Hence, $\triangle P A B$ is an **equilateral triangle**.
 
 In the given figure, $X Y$ and $X^{\prime} Y^{\prime}$ are two parallel tangents to a circle with centre $O$ and another tangent $A B$ with point of contact $C$ intersects $X Y$ at $A$ and $X^{\prime} Y^{\prime}$ at $B$. Prove that $\angle A O B=90^{\circ}$.
 
-![Diagram for Example 32](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-24.jpg?height=242&width=390&top_left_y=1655&top_left_x=805)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-044.jpg)
 
 #### Solution:
 
@@ -1388,7 +1388,7 @@ $B D=B E, \ldots$ (ii) [tangents from $B$ ]
 $C E=C F$.... (iii) [tangents from $C$ ]
 Now, $A B=A C$ [given]
 
-![Diagram for Example 33](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-25.jpg?height=260&width=285&top_left_y=1200&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-10/Geometry/Circles/class-10-Ch-08-A-BooK-045.jpg)
 
 $\Rightarrow A D+B D=A F+C F$
 $\Rightarrow B D=C F$

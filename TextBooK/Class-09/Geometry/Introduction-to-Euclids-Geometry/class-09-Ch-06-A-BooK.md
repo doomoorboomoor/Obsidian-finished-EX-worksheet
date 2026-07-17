@@ -53,11 +53,11 @@ Self-evident true statements used throughout mathematics and not specifically li
 
 **Postulate 1:** A straight line may be drawn from any one point to any other point.
 *Euclid assumed that there is a unique line joining two distinct points.*
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-02.jpg?height=250&width=601&top_left_y=1349&top_left_x=348)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-001.jpg)
 
 **Postulate 2:** A terminated line can be produced indefinitely.
 *In present-day term, we say that a line segment can be extended on either side to form a line.*
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-02.jpg?height=171&width=587&top_left_y=1761&top_left_x=356)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-002.jpg)
 
 **Postulate 3:** A circle can be drawn with any centre and any radius.
 
@@ -66,11 +66,11 @@ Self-evident true statements used throughout mathematics and not specifically li
 **Postulate 5 (Playfair's axiom):** If a straight line falling on two straight lines makes the interior angles on the same side of it taken together less than two right angles, then the two straight lines, if produced indefinitely, meet on that side on which the sum of the angles is less than two right angles.
 
 In the given figure, the line $AB$ falls on two straight lines $CD$ and $EF$ cutting them at the points $G$ and $H$ such that $\angle CGH+\angle EHG<180^{\circ}$ on the left side of $AB$. So, the straight lines $CD$ and $EF$ when produced on the left-hand side will meet at a point.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-03.jpg?height=353&width=531&top_left_y=443&top_left_x=668)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-003.jpg)
 
 Later on, the fifth postulate was modified as under:
 *'For every line $L$ and for every point $P$ not lying on $L$, there exists a unique line $M$ passing through $P$ and parallel to $L$.'*
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-03.jpg?height=112&width=505&top_left_y=966&top_left_x=396)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-004.jpg)
 
 An **Important Result**: Two distinct intersecting lines cannot be parallel to the same line.
 
@@ -94,36 +94,36 @@ An **Important Result**: Two distinct intersecting lines cannot be parallel to t
 **Point:** A point is an exact location. A fine dot represents a point. We denote a point by a capital letter- $A, B, P, Q$, etc. In the given figure, $P$ is a point.
 
 **Line Segment:** The straight path between two points $A$ and $B$ is called the line segment $\overline{AB}$. The points $A$ and $B$ are called the end points of the line segment $\overline{AB}$. A line segment has a definite length. The distance between two points $A$ and $B$ is equal to the length of the line segment $\overline{AB}$. Clearly, $\overline{AB}$ and $\overline{BA}$ denote the same line segment.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-04.jpg?height=43&width=293&top_left_y=314&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-005.jpg)
 
 **Ray:** A line segment $\overline{AB}$ when extended indefinitely in one direction is the ray $\overrightarrow{AB}$. Ray $\overrightarrow{AB}$ has one end point $A$. A ray has no definite length. A ray cannot be drawn, it can simply be represented on the plane of a paper.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-04.jpg?height=47&width=336&top_left_y=745&top_left_x=855)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-006.jpg)
 
 **Line:** A line segment $\overline{AB}$ when extended indefinitely in both the directions is called the line $\overleftrightarrow{AB}$. A line has no end points. A line has no definite length. A line cannot be drawn, it can simply be represented on the plane of a paper. Sometimes, we label lines by small letters $l$, $m, n$, etc.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-04.jpg?height=47&width=382&top_left_y=1071&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-007.jpg)
 
 **Half-line:** Let $A, B$ and $C$ be any three points on a given line $l$ such that $A$ lies between $B$ and $C$ and we delete the point $A$. Then, each of the two remaining parts is a half-line.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-04.jpg?height=53&width=430&top_left_y=1419&top_left_x=765)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-008.jpg)
 
 **Incidence Axioms on Lines:**
 - A line contains infinitely many points.
 - Through a given point, infinitely many lines can be drawn.
 - One and only one line can be drawn to pass through two given points $A$ and $B$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-04.jpg?height=196&width=378&top_left_y=1687&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-009.jpg)
 
 **Collinear Points:** Three or more than three points are said to be collinear, if there is a line which contains them all. In the given figure $A, B, C$ are collinear points, while $P, Q, R$ are noncollinear.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-05.jpg?height=45&width=375&top_left_y=211&top_left_x=634)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-010.jpg)
 
 **Intersecting Lines:** Two lines having a common point are called intersecting lines. The point common to two given lines is called their point of intersection. In the given figure, the lines $AB$ and $CD$ intersect at a point $O$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-05.jpg?height=130&width=471&top_left_y=404&top_left_x=724)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-011.jpg)
 
 **Concurrent Lines:** Three or more lines intersecting at the same point are said to be concurrent. In the given figure, lines $l, m, n$ pass through the same point $P$ and therefore, they are concurrent.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-05.jpg?height=188&width=261&top_left_y=644&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-012.jpg)
 
 **Plane:** A plane is a surface such that every point of the line joining any two points on it, lies on it. Examples: The surface of a smooth wall; the surface of the top of the table; the surface of a smooth blackboard; the surface of a sheet of paper, etc., are close examples of a plane. These surfaces are limited in extent but the geometrical plane extends endlessly in all directions.
 
 **Parallel Lines:** Two lines $l$ and $m$ in a plane are said to be parallel, if they have no point in common and we write, $l \parallel m$. The distance between two parallel lines always remains the same.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-05.jpg?height=84&width=358&top_left_y=1171&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-013.jpg)
 
 ---
 
@@ -150,7 +150,7 @@ Hence, two distinct lines cannot have more than one point in common.
 ### Parallel Lines Axiom
 
 If $P$ is a point outside a given line $l$, then one and only one line can be drawn to pass through $P$ and parallel to $l$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-06.jpg?height=114&width=418&top_left_y=1316&top_left_x=777)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-014.jpg)
 Thus, we can say that two intersecting lines cannot be both parallel to a given line.
 
 ---
@@ -164,7 +164,7 @@ Thus, through a point $P$ outside $n$, there are two lines $l$ and $m$, both par
 But, two distinct intersecting lines cannot be parallel to the same line.
 So, we arrive at a contradiction.
 Since the contradiction arises by assuming that $l$ is not parallel to $m$, hence $l \parallel m$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-06.jpg?height=120&width=366&top_left_y=1759&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-015.jpg)
 
 ---
 
@@ -186,7 +186,7 @@ Hence, $A, B, C, D, E$ are collinear.
 If $A, B$ and $C$ are three points on a line and $B$ lies between $A$ and $C$ (as shown in the given figure), then prove that $AB+BC=AC$.
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-07.jpg?height=48&width=514&top_left_y=1147&top_left_x=487)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-016.jpg)
 
 It is clear from the given figure that $AC$ coincides with $AB+BC$. By Euclid's Axiom 4, we know that the things that coincide with one another are equal to one another.
 $$
@@ -200,7 +200,7 @@ $$
 If a point $C$ lies between two points $A$ and $B$ such that $AC=BC$, then prove that $AC=\frac{1}{2} AB$.
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-07.jpg?height=43&width=398&top_left_y=1683&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-017.jpg)
 
 Let us consider three points $A, C$ and $B$ on a line such that $AC=BC$. Then, $AC=CB \quad[\because \overline{BC}=\overline{CB}]$.
 By Euclid's Axiom 2, we know that if equals be added to equals, then the wholes are equal.
@@ -220,7 +220,7 @@ Hence, $AC=\frac{1}{2} AB$.
 In the given figure, if $AC=BD$, then prove that $AB=CD$.
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-08.jpg?height=47&width=402&top_left_y=358&top_left_x=793)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-018.jpg)
 
 By Euclid's Axiom 2, we know that if equals be subtracted from equals, then the remainders are equal.
 $$
@@ -257,7 +257,7 @@ Prove that an equilateral triangle can be constructed on any given line segment.
 #### Solution:
 
 Let $AB$ be the line segment of given length. With $A$ as centre and $AB$ as the radius, draw a circle. With $B$ as centre and $BA$ as the radius, draw another circle, cutting the first circle at $C$. Join $AC$ and $BC$ to form $\triangle ABC$.
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-08.jpg?height=250&width=262&top_left_y=1333&top_left_x=459)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-019.jpg)
 
 $$
 \begin{array}{ll}
@@ -277,7 +277,7 @@ Hence, $\triangle ABC$ is an equilateral triangle.
 In the given figure, $C$ is the midpoint of $AB, D$ is the midpoint of $XY$ and $AC=XD$. Using an Euclid's axiom, prove that $AB=XY$.
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-09.jpg?height=409&width=265&top_left_y=169&top_left_x=932)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-020.jpg)
 
 We have
 $$
@@ -316,7 +316,7 @@ Hence, $AX=CY$.
 In the given figure, we have $\angle 1=\angle 3$ and $\angle 2=\angle 4$. Show that $\angle A=\angle C$.
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-09.jpg?height=377&width=380&top_left_y=1375&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-021.jpg)
 
 In the given figure, it is given that
 $$
@@ -335,7 +335,7 @@ Hence, $\angle A=\angle C$.
 In the given figure, we have $\angle 1=\angle 3, \angle 2=\angle 4$ and $\angle 3=\angle 4$. Prove that $\angle 1=\angle 2$.
 #### Solution:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-10.jpg?height=305&width=297&top_left_y=169&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/TextBooK/Class-09/Geometry/Introduction-to-Euclids-Geometry/class-09-Ch-06-A-BooK-022.jpg)
 
 Euclid's Axiom 1 says, the things which are equal to the same thing are equal to one another.
 $$
