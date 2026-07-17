@@ -40,7 +40,7 @@ review: false
 
 (i) In Figure (1), $O$ is the centre of the circle. If $\angle O A B=40^{\circ}$ and $\angle O C B=30^{\circ}$, find $\angle A O C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-50.jpg?height=289&width=295&top_left_y=1252&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-001.jpg)
 
 (1)
 
@@ -61,7 +61,7 @@ review: false
 
 (ii) In Figure (2), $A, B$ and $C$ are three points on the circle with centre $O$ such that $\angle A O B=90^{\circ}$ and $\angle A O C=110^{\circ}$. Find $\angle B A C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-50.jpg?height=289&width=291&top_left_y=1345&top_left_x=624)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-002.jpg)
 
 (2)
 
@@ -79,7 +79,7 @@ review: false
 
 2. In the given figure, $O$ is the centre of the circle and $\angle A O B=70^{\circ}$. Calculate the values of
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-50.jpg?height=285&width=265&top_left_y=1683&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-003.jpg)
 
 #### Question 02/i
 
@@ -122,7 +122,7 @@ review: false
 
 3. In the given figure, $O$ is the centre of the circle. If $\angle P B C=25^{\circ}$ and $\angle A P B=110^{\circ}$, find the value of $\angle A D B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-51.jpg?height=264&width=301&top_left_y=169&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-004.jpg)
 
 - Answer:
 
@@ -141,7 +141,7 @@ review: false
 
 4. In the given figure, $O$ is the centre of the circle. If $\angle A B D=35^{\circ}$ and $\angle B A C=70^{\circ}$, find $\angle A C B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-51.jpg?height=282&width=267&top_left_y=453&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-005.jpg)
 
 - Answer:
 
@@ -160,7 +160,7 @@ review: false
 
 5. In the given figure, $O$ is the centre of the circle. If $\angle A C B=50^{\circ}$, find $\angle O A B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-51.jpg?height=305&width=269&top_left_y=737&top_left_x=928)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-006.jpg)
 
 - Answer:
 
@@ -176,7 +176,7 @@ review: false
 
 6. In the given figure, $\angle A B D=54^{\circ}$ and $\angle B C D=43^{\circ}$, calculate
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-51.jpg?height=297&width=309&top_left_y=1059&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-007.jpg)
 
 #### Question 06/i
 
@@ -236,7 +236,7 @@ review: false
 
 7. In the adjoining figure, $D E$ is a chord parallel to diameter $A C$ of the circle with centre $O$. If $\angle C B D=60^{\circ}$, calculate $\angle C D E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-51.jpg?height=287&width=309&top_left_y=1371&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-008.jpg)
 
 - Answer:
 
@@ -255,7 +255,7 @@ review: false
 
 8. In the adjoining figure, $O$ is the centre of a circle. Chord $C D$ is parallel to diameter $A B$. If $\angle A B C=25^{\circ}$, calculate $\angle C E D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-51.jpg?height=289&width=311&top_left_y=1671&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-009.jpg)
 
 - Answer:
 
@@ -271,7 +271,7 @@ review: false
 
 9. In the given figure, $A B$ and $C D$ are straight lines through the centre $O$ of a circle. If $\angle A O C=80^{\circ}$ and $\angle C D E=40^{\circ}$, find
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-52.jpg?height=323&width=414&top_left_y=167&top_left_x=785)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-010.jpg)
 
 #### Question 09/i
 
@@ -314,7 +314,7 @@ review: false
 
 10. In the given figure, $O$ is the centre of a circle, $\angle A O B=40^{\circ}$ and $\angle B D C=100^{\circ}$, find $\angle O B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-52.jpg?height=291&width=273&top_left_y=523&top_left_x=924)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-011.jpg)
 
 - Answer:
 
@@ -333,7 +333,7 @@ review: false
 
 11. In the adjoining figure, chords $A C$ and $B D$ of a circle with centre $O$, intersect at right angles at $E$. If $\angle O A B=25^{\circ}$, calculate $\angle E B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-52.jpg?height=313&width=291&top_left_y=865&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-012.jpg)
 
 - Answer:
 
@@ -349,7 +349,7 @@ review: false
 
 12. In the given figure, $O$ is the centre of a circle in which $\angle O A B=20^{\circ}$ and $\angle O C B=55^{\circ}$. Find
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-52.jpg?height=291&width=289&top_left_y=1232&top_left_x=908)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-013.jpg)
 
 #### Question 12/i
 
@@ -392,7 +392,7 @@ review: false
 
 13. In the given figure, $O$ is the centre of the circle and $\angle B C O=30^{\circ}$. Find $x$ and $y$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-52.jpg?height=291&width=295&top_left_y=1572&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-014.jpg)
 
 - Answer:
 
@@ -411,7 +411,7 @@ review: false
 
 14. In the given figure, $O$ is the centre of the circle, $B D=O D$ and $C D \perp A B$. Find $\angle C A B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-53.jpg?height=279&width=305&top_left_y=171&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-015.jpg)
 
 - Answer:
 
@@ -430,7 +430,7 @@ review: false
 
 15. In the given figure, $P Q$ is a diameter of a circle with centre $O$. If $\angle P Q R=65^{\circ}, \angle S P R=40^{\circ}$ and $\angle P Q M=50^{\circ}$, find $\angle Q P R, \angle Q P M$ and $\angle P R S$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-53.jpg?height=289&width=311&top_left_y=491&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-016.jpg)
 
 - Answer:
 
@@ -449,7 +449,7 @@ review: false
 
 16. In the figure given below, $P$ and $Q$ are centres of two circles, intersecting at $B$ and $C$, and $A C D$ is a straight line.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-53.jpg?height=351&width=535&top_left_y=908&top_left_x=380)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-017.jpg)
 
 If $\angle A P B=150^{\circ}$ and $\angle B Q D=x^{\circ}$, find the value of $x$.
 
@@ -470,7 +470,7 @@ If $\angle A P B=150^{\circ}$ and $\angle B Q D=x^{\circ}$, find the value of $x
 
 17. In the given figure, $\angle B A C=30^{\circ}$. Show that $B C$ is equal to the radius of the circumcircle of $\triangle A B C$ whose centre is $O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-53.jpg?height=293&width=275&top_left_y=1320&top_left_x=924)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-018.jpg)
 
 - Answer:
 
@@ -490,7 +490,7 @@ If $\angle A P B=150^{\circ}$ and $\angle B Q D=x^{\circ}$, find the value of $x
 18. In the given figure, $A B$ and $C D$ are two chords of a circle, intersecting each other at a point $E$. Prove that
 $\angle A E C=\frac{1}{2}$ (angle subtended by arc CXA. at the centre + angle subtended by $\operatorname{arc} D Y B$ at the centre).
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-53.jpg?height=291&width=297&top_left_y=1647&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-019.jpg)
 
 - Answer:
 
@@ -906,6 +906,6 @@ $x=150$
 > 
 > Hence, $\angle A E C=\frac{1}{2}(\angle A O C+\angle D O B)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-56.jpg?height=281&width=289&top_left_y=652&top_left_x=906)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20B%20Ex-020.jpg)
 
 ---

@@ -34,7 +34,7 @@ review: false
 
 In the adjoining figure, $A O B$ is a straight line. Find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-12.jpg?height=184&width=309&top_left_y=1421&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-001.jpg)
 
 - Answer:
 
@@ -53,7 +53,7 @@ In the adjoining figure, $A O B$ is a straight line. Find the value of $x$.
 
 In the adjoining figure, $A O B$ is a straight line. Find the value of $x$. Hence, find $\angle A O C$ and $\angle B O D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-12.jpg?height=196&width=376&top_left_y=1659&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-002.jpg)
 
 - Answer:
 
@@ -72,7 +72,7 @@ In the adjoining figure, $A O B$ is a straight line. Find the value of $x$. Henc
 
 In the adjoining figure, $A O B$ is a straight line. Find the value of $x$. Hence, find $\angle A O C, \angle C O D$ and $\angle B O D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-13.jpg?height=198&width=309&top_left_y=171&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-003.jpg)
 
 - Answer:
 
@@ -91,7 +91,7 @@ In the adjoining figure, $A O B$ is a straight line. Find the value of $x$. Henc
 
 In the adjoining figure, $x: y: z=5: 4: 6$. If $X O Y$ is a straight line, find the values of $x, y$ and $z$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-13.jpg?height=193&width=318&top_left_y=398&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-004.jpg)
 
 - Answer:
 
@@ -110,7 +110,7 @@ In the adjoining figure, $x: y: z=5: 4: 6$. If $X O Y$ is a straight line, find 
 
 In the adjoining figure, what value of $x$ will make $A O B$, a straight line?
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-13.jpg?height=172&width=398&top_left_y=644&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-005.jpg)
 
 - Answer:
 
@@ -129,7 +129,7 @@ In the adjoining figure, what value of $x$ will make $A O B$, a straight line?
 
 Two lines $A B$ and $C D$ intersect at $O$. If $\angle A O C=50^{\circ}$, find $\angle A O D, \angle B O D$ and $\angle B O C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-13.jpg?height=148&width=251&top_left_y=857&top_left_x=944)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-006.jpg)
 
 - Answer:
 
@@ -148,7 +148,7 @@ Two lines $A B$ and $C D$ intersect at $O$. If $\angle A O C=50^{\circ}$, find $
 
 In the adjoining figure, three coplanar lines $A B$, $C D$ and $E F$ intersect at a point $O$, forming angles as shown. Find the values of $x, y, z$ and $t$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-13.jpg?height=301&width=301&top_left_y=1047&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-007.jpg)
 
 - Answer:
 
@@ -167,7 +167,7 @@ In the adjoining figure, three coplanar lines $A B$, $C D$ and $E F$ intersect a
 
 In the adjoining figure, three coplanar lines $A B$, $C D$ and $E F$ intersect at a point $O$. Find the value of $x$. Hence, find $\angle A O D, \angle C O E$ and $\angle A O E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-13.jpg?height=299&width=301&top_left_y=1387&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-008.jpg)
 
 - Answer:
 
@@ -220,7 +220,7 @@ If two straight lines intersect each other in such a way that one of the angles 
 
 Two lines $A B$ and $C D$ intersect at a point $O$ such that $\angle B O C+\angle A O D=280^{\circ}$, as shown in the figure. Find all the four angles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-14.jpg?height=130&width=265&top_left_y=171&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-009.jpg)
 
 - Answer:
 
@@ -239,7 +239,7 @@ Two lines $A B$ and $C D$ intersect at a point $O$ such that $\angle B O C+\angl
 
 Two lines $A B$ and $C D$ intersect each other at a point $O$ such that $\angle A O C: \angle A O D=5: 7$. Find all the angles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-14.jpg?height=162&width=253&top_left_y=342&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-010.jpg)
 
 - Answer:
 
@@ -258,7 +258,7 @@ Two lines $A B$ and $C D$ intersect each other at a point $O$ such that $\angle 
 
 In the given figure, three lines $A B, C D$ and $E F$ intersect at a point $O$ such that $\angle A O E=35^{\circ}$ and $\angle B O D=40^{\circ}$. Find the measure of $\angle A O C, \angle B O F, \angle C O F$ and $\angle D O E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-14.jpg?height=215&width=342&top_left_y=541&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-011.jpg)
 
 - Answer:
 
@@ -277,7 +277,7 @@ In the given figure, three lines $A B, C D$ and $E F$ intersect at a point $O$ s
 
 In the given figure, the two lines $A B$ and $C D$ intersect at a point O such that $\angle B O C=125^{\circ}$. Find the values of $x, y$ and $z$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-14.jpg?height=295&width=368&top_left_y=791&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-012.jpg)
 
 - Answer:
 
@@ -528,7 +528,7 @@ $x=55, y=125, z=55$
 > $\therefore \quad \angle 1=\angle 4$ and $\angle 2=\angle 3$. [vert. opp. $\angle$ ]
 > But, $\angle 1=\angle 2 \Rightarrow \angle 4=\angle 3$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-15.jpg?height=156&width=271&top_left_y=1345&top_left_x=920)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20B%20Ex-013.jpg)
 
 ---
 

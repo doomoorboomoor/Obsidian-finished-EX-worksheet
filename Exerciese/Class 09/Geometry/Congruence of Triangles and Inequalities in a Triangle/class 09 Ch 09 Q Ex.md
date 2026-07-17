@@ -281,7 +281,7 @@ In the given figure, $A B>A C$. Then, which of the following is true?
 (c) $A B>A D$
 (d) Cannot be determined
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-39.jpg?height=220&width=273&top_left_y=1095&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20Q%20Ex-001.jpg)
 
 - Answer:
 
@@ -304,7 +304,7 @@ In the given figure, $A B>A C$. If $B O$ and $C O$ are the bisectors of $\angle 
 (b) $O B>O C$
 (c) $O B<O C$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-39.jpg?height=228&width=301&top_left_y=1361&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20Q%20Ex-002.jpg)
 
 - Answer:
 
@@ -328,7 +328,7 @@ In the given figure, $A B=A C$ and $O B=O C$. Then, $\angle A B O: \angle A C O=
 (c) $1: 2$
 (d) none of these
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-39.jpg?height=249&width=297&top_left_y=1610&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20Q%20Ex-003.jpg)
 
 - Answer:
 
@@ -675,7 +675,7 @@ Drawing a $\triangle A B C$ with $A B=3 \mathrm{~cm}, B C=4 \mathrm{~cm}$ and $C
 >
 > So, $\triangle C A B \cong \triangle P Q R$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-41.jpg?height=91&width=100&top_left_y=596&top_left_x=253)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20Q%20Ex-004.jpg)
 
 ---
 
@@ -870,7 +870,7 @@ Drawing a $\triangle A B C$ with $A B=3 \mathrm{~cm}, B C=4 \mathrm{~cm}$ and $C
 >
 > $\therefore \quad \angle A B O: \angle A C O=1: 1$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-41.jpg?height=245&width=249&top_left_y=1683&top_left_x=946)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20Q%20Ex-005.jpg)
 
 ---
 
@@ -898,7 +898,7 @@ Drawing a $\triangle A B C$ with $A B=3 \mathrm{~cm}, B C=4 \mathrm{~cm}$ and $C
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-42.jpg?height=247&width=253&top_left_y=233&top_left_x=944)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20Q%20Ex-006.jpg)
 
 ---
 

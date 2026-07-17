@@ -148,7 +148,7 @@ Two parallel chords of lengths 30 cm and 16 cm are drawn on the opposite sides o
 
 In the given figure, the diameter $C D$ of a circle with centre $O$ is perpendicular to chord $A B$. If $A B=12 \mathrm{~cm}$ and $C E=3 \mathrm{~cm}$, calculate the radius of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-30.jpg?height=316&width=271&top_left_y=1308&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -167,7 +167,7 @@ In the given figure, the diameter $C D$ of a circle with centre $O$ is perpendic
 
 In the given figure, a circle with centre $O$ is given in which a diameter $A B$ bisects the chord $C D$ at a point $E$ such that $C E=E D=8 \mathrm{~cm}$ and $E B=4 \mathrm{~cm}$. Find the radius of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-30.jpg?height=266&width=309&top_left_y=1645&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-002.jpg)
 
 - Answer:
 
@@ -186,7 +186,7 @@ In the given figure, a circle with centre $O$ is given in which a diameter $A B$
 
 In the adjoining figure, $O D$ is perpendicular to the chord $A B$ of a circle with centre $O$. If $B C$ is a diameter, show that $A C \| D O$ and $A C=2 \times O D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-31.jpg?height=262&width=291&top_left_y=169&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-003.jpg)
 
 - Answer:
 
@@ -205,7 +205,7 @@ In the adjoining figure, $O D$ is perpendicular to the chord $A B$ of a circle w
 
 In the given figure, $O$ is the centre of a circle in which chords $A B$ and $C D$ intersect at $P$ such that $P O$ bisects $\angle B P D$. Prove that $A B=C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-31.jpg?height=280&width=295&top_left_y=455&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-004.jpg)
 
 - Answer:
 
@@ -258,7 +258,7 @@ Prove that two different circles cannot intersect each other at more than two po
 
 Two circles of radii 10 cm and 8 cm intersect each other, and the length of the common chord is 12 cm . Find the distance between their centres.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-31.jpg?height=265&width=410&top_left_y=978&top_left_x=787)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-005.jpg)
 
 - Answer:
 
@@ -277,7 +277,7 @@ Two circles of radii 10 cm and 8 cm intersect each other, and the length of the 
 
 Two equal circles intersect in $P$ and $Q$. A straight line through $P$ meets the circles in $A$ and $B$. Prove that $Q A=Q B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-31.jpg?height=267&width=454&top_left_y=1268&top_left_x=741)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-006.jpg)
 
 - Answer:
 
@@ -313,7 +313,7 @@ If a diameter of a circle bisects each of the two chords of a circle then prove 
 
 In the adjoining figure, two circles with centres at $A$ and $B$, and of radii 5 cm and 3 cm touch each other internally. If the perpendicular bisector of $A B$ meets the bigger circle in $P$ and $Q$, find the length of $P Q$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-31.jpg?height=305&width=269&top_left_y=1643&top_left_x=928)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-007.jpg)
 
 - Answer:
 
@@ -332,7 +332,7 @@ In the adjoining figure, two circles with centres at $A$ and $B$, and of radii 5
 
 In the given figure, $A B$ is a chord of a circle with centre $O$ and $A B$ is produced to $C$ such that $B C=O B$. Also, $C O$ is joined and produced to meet the circle in $D$. If $\angle A C D=y^{\circ}$ and $\angle A O D=x^{\circ}$, prove that $x=3 y$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-32.jpg?height=289&width=396&top_left_y=169&top_left_x=799)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-008.jpg)
 
 - Answer:
 
@@ -368,7 +368,7 @@ $A B$ and $A C$ are two chords of a circle of radius $r$ such that $A B=2 A C$. 
 
 In the adjoining figure, $O$ is the centre of a circle. If $A B$ and $A C$ are chords of the circle such that $A B=A C, O P \perp A B$ and $O Q \perp A C$, prove that $P B=Q C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-32.jpg?height=283&width=289&top_left_y=616&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-009.jpg)
 
 - Answer:
 
@@ -387,7 +387,7 @@ In the adjoining figure, $O$ is the centre of a circle. If $A B$ and $A C$ are c
 
 In the adjoining figure, $B C$ is a diameter of a circle with centre $O$. If $A B$ and $C D$ are two chords such that $A B \| C D$, prove that $A B=C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-32.jpg?height=269&width=293&top_left_y=930&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-010.jpg)
 
 - Answer:
 
@@ -423,7 +423,7 @@ An equilateral triangle of side 9 cm is inscribed in a circle. Find the radius o
 
 In the adjoining figure, $A B$ and $A C$ are two equal chords of a circle with centre $O$. Show that $O$ lies on the bisector of $\angle B A C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-32.jpg?height=269&width=281&top_left_y=1312&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-011.jpg)
 
 - Answer:
 
@@ -442,7 +442,7 @@ In the adjoining figure, $A B$ and $A C$ are two equal chords of a circle with c
 
 In the adjoining figure, $O P Q R$ is a square. A circle drawn with centre $O$ cuts the square in $X$ and $Y$. Prove that $Q X=Q Y$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-32.jpg?height=273&width=277&top_left_y=1602&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-012.jpg)
 
 - Answer:
 
@@ -619,7 +619,7 @@ $3 \sqrt{3} \mathrm{~cm}$
 >
 > Thus, $P F \perp C D$, and so $O F \perp C D \Rightarrow C F=F D$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-33.jpg?height=312&width=277&top_left_y=1175&top_left_x=920)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-013.jpg)
 
 ---
 
@@ -712,7 +712,7 @@ $3 \sqrt{3} \mathrm{~cm}$
 > \end{array}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-34.jpg?height=291&width=253&top_left_y=171&top_left_x=944)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-014.jpg)
 
 ---
 
@@ -770,7 +770,7 @@ $3 \sqrt{3} \mathrm{~cm}$
 >
 > Hence, $4 q^{2}=3 r^{2}+p^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-34.jpg?height=289&width=267&top_left_y=829&top_left_x=930)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-015.jpg)
 
 ---
 
@@ -840,7 +840,7 @@ $3 \sqrt{3} \mathrm{~cm}$
 >
 > $\therefore \quad$ radius $=A G=\frac{2}{3} A D=\left(\frac{2}{3} \times \frac{9 \sqrt{3}}{2}\right) \mathrm{cm}=3 \sqrt{3} \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-35.jpg?height=289&width=273&top_left_y=169&top_left_x=926)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-016.jpg)
 
 ---
 
@@ -912,6 +912,6 @@ $3 \sqrt{3} \mathrm{~cm}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-35.jpg?height=263&width=402&top_left_y=716&top_left_x=797)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20A%20Ex-017.jpg)
 
 ---

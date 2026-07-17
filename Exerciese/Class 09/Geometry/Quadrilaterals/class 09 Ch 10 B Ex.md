@@ -38,7 +38,7 @@ review: false
 
 In the adjoining figure, $A B C D$ is a parallelogram in which $\angle A=72^{\circ}$. Calculate $\angle B, \angle C$ and $\angle D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-23.jpg?height=193&width=277&top_left_y=1441&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-001.jpg)
 
 - Answer:
 
@@ -57,7 +57,7 @@ In the adjoining figure, $A B C D$ is a parallelogram in which $\angle A=72^{\ci
 
 In the adjoining figure, $A B C D$ is a parallelogram in which $\angle D A B=80^{\circ}$ and $\angle D B C=60^{\circ}$. Calculate $\angle C D B$ and $\angle A D B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-23.jpg?height=206&width=263&top_left_y=1667&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-002.jpg)
 
 - Answer:
 
@@ -76,7 +76,7 @@ In the adjoining figure, $A B C D$ is a parallelogram in which $\angle D A B=80^
 
 In the adjoining figure, $M$ is the midpoint of side $B C$ of a parallelogram $A B C D$ such that $\angle B A M=\angle D A M$. Prove that $A D=2 C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-24.jpg?height=212&width=370&top_left_y=169&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-003.jpg)
 
 - Answer:
 
@@ -92,7 +92,7 @@ In the adjoining figure, $M$ is the midpoint of side $B C$ of a parallelogram $A
 
 In the adjoining figure, $A B C D$ is a parallelogram in which $\angle A=60^{\circ}$. If the bisectors of $\angle A$ and $\angle B$ meet $D C$ at $P$, prove that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-24.jpg?height=181&width=346&top_left_y=422&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-004.jpg)
 
 #### Question 04/i
 
@@ -149,7 +149,7 @@ $D C=2 A D$
 
 In the adjoining figure, $A B C D$ is a parallelogram in which $\angle B A O=35^{\circ}$, $\angle D A O=40^{\circ}$ and $\angle C O D=105^{\circ}$. Calculate:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-24.jpg?height=218&width=307&top_left_y=662&top_left_x=888)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-005.jpg)
 
 #### Question 05/i
 
@@ -298,7 +298,7 @@ In each of the figures given below, $A B C D$ is a rhombus. Find the value of $x
 
 Figure (i)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-24.jpg?height=235&width=303&top_left_y=1407&top_left_x=173)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-006.jpg)
 
 - Answer:
 
@@ -317,7 +317,7 @@ Figure (i)
 
 Figure (ii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-24.jpg?height=217&width=285&top_left_y=1421&top_left_x=501)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-007.jpg)
 
 - Answer:
 
@@ -336,7 +336,7 @@ Figure (ii)
 
 Figure (iii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-24.jpg?height=229&width=331&top_left_y=1413&top_left_x=791)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-008.jpg)
 
 - Answer:
 
@@ -393,7 +393,7 @@ In each of the figures given below, $A B C D$ is a rectangle. Find the values of
 
 Figure (i)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-25.jpg?height=229&width=271&top_left_y=261&top_left_x=334)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-009.jpg)
 
 - Answer:
 
@@ -412,7 +412,7 @@ Figure (i)
 
 Figure (ii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-25.jpg?height=227&width=269&top_left_y=261&top_left_x=696)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-010.jpg)
 
 - Answer:
 
@@ -448,7 +448,7 @@ In a rhombus $A B C D$, the altitude from $D$ to the side $A B$ bisects $A B$. F
 
 In the adjoining figure, $A B C D$ is a square. A line segment $C X$ cuts $A B$ at $X$ and the diagonal $B D$ at $O$ such that $\angle C O D=80^{\circ}$ and $\angle O X A=x^{\circ}$. Find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-25.jpg?height=250&width=225&top_left_y=624&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-011.jpg)
 
 - Answer:
 
@@ -484,7 +484,7 @@ In a rhombus $A B C D$ show that diagonal $A C$ bisects $\angle A$ as well as $\
 
 In a parallelogram $A B C D$, points $M$ and $N$ have been taken on opposite sides $A B$ and $C D$ respectively such that $A M=C N$. Show that $A C$ and $M N$ bisect each other.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-25.jpg?height=197&width=293&top_left_y=990&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-012.jpg)
 
 - Answer:
 
@@ -503,7 +503,7 @@ In a parallelogram $A B C D$, points $M$ and $N$ have been taken on opposite sid
 
 In the adjoining figure, $A B C D$ is a parallelogram. If $P$ and $Q$ are points on $A D$ and $B C$ respectively such that $A P=\frac{1}{3} A D$ and $C Q=\frac{1}{3} B C$, prove that $A Q C P$ is a parallelogram.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-25.jpg?height=188&width=297&top_left_y=1224&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-013.jpg)
 
 - Answer:
 
@@ -522,7 +522,7 @@ In the adjoining figure, $A B C D$ is a parallelogram. If $P$ and $Q$ are points
 
 In the adjoining figure, $A B C D$ is a parallelogram whose diagonals intersect each other at $O$. A line segment $E O F$ is drawn to meet $A B$ at $E$ and $D C$ at $F$. Prove that $O E=O F$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-25.jpg?height=199&width=295&top_left_y=1457&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-014.jpg)
 
 - Answer:
 
@@ -596,7 +596,7 @@ diagonal $B D$ bisects $\angle B$ as well as $\angle D$
 
 In the adjoining figure, $A B C D$ is a parallelogram in which $A B$ is produced to $E$ so that $B E=A B$. Prove that $E D$ bisects $B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-26.jpg?height=190&width=356&top_left_y=169&top_left_x=839)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-015.jpg)
 
 - Answer:
 
@@ -615,7 +615,7 @@ In the adjoining figure, $A B C D$ is a parallelogram in which $A B$ is produced
 
 In the adjoining figure, $A B C D$ is a parallelogram and $E$ is the midpoint of side $B C$. If $D E$ and $A B$ when produced meet at $F$, prove that $A F=2 A B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-26.jpg?height=172&width=318&top_left_y=390&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-016.jpg)
 
 - Answer:
 
@@ -668,7 +668,7 @@ $K, L, M$ and $N$ are points on the sides $A B, B C, C D$ and $D A$ respectively
 
 A $\triangle A B C$ is given. If lines are drawn through $A, B$, $C$, parallel respectively to the sides $B C, C A$ and $A B$, forming $\triangle P Q R$, as shown in the adjoining figure, show that $B C=\frac{1}{2} Q R$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-26.jpg?height=171&width=209&top_left_y=863&top_left_x=990)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-017.jpg)
 
 - Answer:
 
@@ -687,7 +687,7 @@ A $\triangle A B C$ is given. If lines are drawn through $A, B$, $C$, parallel r
 
 In the adjoining figure, $\triangle A B C$ is a triangle and through $A, B, C$ lines are drawn, parallel respectively to $B C$, $C A$ and $A B$, intersecting at $P, Q$ and $R$. Prove that the perimeter of $\triangle P Q R$ is double the perimeter of $\triangle A B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-26.jpg?height=166&width=209&top_left_y=1105&top_left_x=988)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-018.jpg)
 
 - Answer:
 
@@ -934,7 +934,7 @@ $60^{\circ}, 120^{\circ}, 60^{\circ}, 120^{\circ}$
 > $\therefore \quad A B=A D=D B \Rightarrow \triangle A B D$ is equilateral.
 > So, $\angle A=60^{\circ} \Rightarrow \angle B=120^{\circ}, \angle C=60^{\circ}, \angle D=120^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-27.jpg?height=206&width=297&top_left_y=646&top_left_x=898)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-019.jpg)
 
 ---
 
@@ -963,7 +963,7 @@ $x=130$
 > $\triangle A B C \cong \triangle A D C(\because A D=A B, C D=C B, A C=A C)$
 > $\therefore \quad \angle B A C=\angle D A C$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-27.jpg?height=210&width=297&top_left_y=894&top_left_x=898)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-020.jpg)
 
 ---
 
@@ -1007,7 +1007,7 @@ $60^{\circ}, 120^{\circ}, 60^{\circ}, 120^{\circ}$
 > In $\triangle A B N$, we have $\angle A=60^{\circ}$.
 > And so, $\angle B=120^{\circ}, \angle C=60^{\circ}, \angle D=120^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-27.jpg?height=188&width=293&top_left_y=1256&top_left_x=902)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-021.jpg)
 
 ---
 
@@ -1053,7 +1053,7 @@ $60^{\circ}, 120^{\circ}, 60^{\circ}, 120^{\circ}$
 > (sum of $\angle$ s of a $\triangle$ is $180^{\circ}$ ).
 > Similarly, $\angle G F H=\angle E H F=90^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-27.jpg?height=378&width=434&top_left_y=1570&top_left_x=757)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20B%20Ex-022.jpg)
 
 ---
 

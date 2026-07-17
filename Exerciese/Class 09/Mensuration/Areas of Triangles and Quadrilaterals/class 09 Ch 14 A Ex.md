@@ -475,7 +475,7 @@ The sides of a quadrilateral $A B C D$ taken in order are $6 \mathrm{~cm}, 8 \ma
 
 Find the perimeter and area of a quadrilateral $A B C D$ in which $B C=12 \mathrm{~cm}, C D=9 \mathrm{~cm}, B D=15 \mathrm{~cm}$, $D A=17 \mathrm{~cm}$ and $\angle A B D=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-19.jpg?height=238&width=201&top_left_y=1651&top_left_x=994)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -494,7 +494,7 @@ Find the perimeter and area of a quadrilateral $A B C D$ in which $B C=12 \mathr
 
 Find the perimeter and area of the quadrilateral $A B C D$ in which $A B=21 \mathrm{~cm}$, $\angle B A C=90^{\circ}, A C=20 \mathrm{~cm}, C D=42 \mathrm{~cm}$ and $A D=34 \mathrm{~cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-20.jpg?height=190&width=384&top_left_y=167&top_left_x=815)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-002.jpg)
 
 - Answer:
 
@@ -513,7 +513,7 @@ Find the perimeter and area of the quadrilateral $A B C D$ in which $A B=21 \mat
 
 Find the area of the quadrilateral $A B C D$ in which $B C D$ is an equilateral triangle, each of whose sides is $26 \mathrm{~cm}, A D=24 \mathrm{~cm}$ and $\angle B A D=90^{\circ}$. Also, find the perimeter of the quadrilateral. (Given, $\sqrt{3}=1.73$.)
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-20.jpg?height=247&width=237&top_left_y=388&top_left_x=958)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-003.jpg)
 
 - Answer:
 
@@ -532,7 +532,7 @@ Find the area of the quadrilateral $A B C D$ in which $B C D$ is an equilateral 
 
 Find the area of a parallelogram $A B C D$ in which $A B=28 \mathrm{~cm}, B C=26 \mathrm{~cm}$ and diagonal $A C=30 \mathrm{~cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-20.jpg?height=206&width=273&top_left_y=660&top_left_x=922)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-004.jpg)
 
 - Answer:
 
@@ -551,7 +551,7 @@ Find the area of a parallelogram $A B C D$ in which $A B=28 \mathrm{~cm}, B C=26
 
 Find the area of a parallelogram $A B C D$ in which $A B=14 \mathrm{~cm}, B C=10 \mathrm{~cm}$ and $A C=16 \mathrm{~cm}$. (Given, $\sqrt{3}=1.73$.)
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-20.jpg?height=184&width=281&top_left_y=894&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-005.jpg)
 
 - Answer:
 
@@ -570,7 +570,7 @@ Find the area of a parallelogram $A B C D$ in which $A B=14 \mathrm{~cm}, B C=10
 
 In the given figure, $A B C D$ is a quadrilateral in which diagonal $B D=64 \mathrm{~cm}, A L \perp B D$ and $C M \perp B D$ such that $A L=16.8 \mathrm{~cm}$ and $C M=13.2 \mathrm{~cm}$. Calculate the area of the quadrilateral $A B C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-20.jpg?height=188&width=241&top_left_y=1115&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-006.jpg)
 
 - Answer:
 
@@ -606,7 +606,7 @@ The area of a trapezium is $475 \mathrm{~cm}^{2}$ and its height is 19 cm . Find
 
 In the given figure, a $\triangle A B C$ has been given in which $A B=7.5 \mathrm{~cm}, \quad A C=6.5 \mathrm{~cm}$ and $B C=7 \mathrm{~cm}$. On base $B C$, a parallelogram $D B C E$ of the same area as that of $\triangle A B C$ is constructed. Find the height $D L$ of the parallelogram.
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-20.jpg?height=261&width=320&top_left_y=1419&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-007.jpg)
 
 - Answer:
 
@@ -693,7 +693,7 @@ The difference between the semiperimeter and the sides of a $\triangle A B C$ ar
 
 A floral design on a floor is made up of 16 tiles, each triangular in shape having sides $16 \mathrm{~cm}, 12 \mathrm{~cm}$ and 20 cm . Find the cost of polishing the tiles at ₹ 1 per sq cm.
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-21.jpg?height=353&width=358&top_left_y=612&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-008.jpg)
 
 - Answer:
 
@@ -712,7 +712,7 @@ A floral design on a floor is made up of 16 tiles, each triangular in shape havi
 
 An umbrella is made by stitching 12 triangular pieces of cloth, each measuring ( $50 \mathrm{~cm} \times 20 \mathrm{~cm} \times 50 \mathrm{~cm}$ ). Find the area of the cloth used in it.
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-21.jpg?height=422&width=370&top_left_y=1000&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-009.jpg)
 
 - Answer:
 
@@ -731,7 +731,7 @@ An umbrella is made by stitching 12 triangular pieces of cloth, each measuring (
 
 In the given figure, $A B C D$ is a square with diagonal 44 cm . How much paper of each shade is needed to make a kite given in the figure?
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-21.jpg?height=406&width=287&top_left_y=1461&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-010.jpg)
 
 - Answer:
 
@@ -750,7 +750,7 @@ In the given figure, $A B C D$ is a square with diagonal 44 cm . How much paper 
 
 A rectangular lawn, 75 m by 60 m , has two roads, each road 4 m wide, running through the middle of the lawn, one parallel to length and the other parallel to breadth, as shown in the figure. Find the cost of gravelling the roads at ₹ 50 per $\mathrm{m}^{2}$.
 
-![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-22.jpg?height=323&width=473&top_left_y=167&top_left_x=724)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-011.jpg)
 
 - Answer:
 
@@ -1047,7 +1047,7 @@ $83.06 \mathrm{~cm}^{2}$
 > $\therefore \quad A C=A B=41 \mathrm{~cm}$.
 > Hence, perimeter $=(41+41+80) \mathrm{cm}=162 \mathrm{~cm}$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-23.jpg?height=208&width=285&top_left_y=815&top_left_x=912)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-012.jpg)
 >
 
 ---
@@ -1105,7 +1105,7 @@ $20 \sqrt{30} \mathrm{~cm}^{2}$
 > \text { = ₹ } 84000 \text {. }
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-23.jpg?height=307&width=416&top_left_y=1230&top_left_x=781)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-013.jpg)
 >
 
 ---
@@ -1245,7 +1245,7 @@ $46.76 \mathrm{~cm}^{2}$
 > \end{aligned}
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-24.jpg?height=273&width=253&top_left_y=535&top_left_x=942)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-014.jpg)
 >
 
 ---
@@ -1403,7 +1403,7 @@ $23 \mathrm{~cm}, 27 \mathrm{~cm}$
 > $$
 > Total cost of ploughing $=₹(4800 \times 5)=₹ 24000$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-24.jpg?height=281&width=281&top_left_y=1155&top_left_x=914)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-015.jpg)
 >
 
 ---
@@ -1423,7 +1423,7 @@ $374 \mathrm{~m}^{2}$
 > =(34 \times 11) \mathrm{m}^{2}=374 \mathrm{~m}^{2} .
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-24.jpg?height=104&width=223&top_left_y=1570&top_left_x=966)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-016.jpg)
 >
 
 ---
@@ -1448,7 +1448,7 @@ $374 \mathrm{~m}^{2}$
 > \end{aligned}
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_10_01_beb10328809ee14b8484g-24.jpg?height=235&width=243&top_left_y=1711&top_left_x=952)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20A%20Ex-017.jpg)
 >
 
 ---

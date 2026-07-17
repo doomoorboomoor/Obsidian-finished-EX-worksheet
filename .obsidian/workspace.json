@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8758307ec669888",
+        "id": "2af0963703206b62",
         "type": "tabs",
         "children": [
           {
-            "id": "77c8b6054d312faf",
+            "id": "e6d001fdb32e99dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,11 +176,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "77c8b6054d312faf",
+  "active": "7eb46dcd034babb5",
   "lastOpenFiles": [
+    "_resources/class-09-Ch-09-A-BooK",
+    "_resources",
+    "TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-A-BooK.md",
     "EX/Class 09/Algebra/Factorisation of Polynomials/class 09 Ch 03 A Ex.md"
   ]
 }

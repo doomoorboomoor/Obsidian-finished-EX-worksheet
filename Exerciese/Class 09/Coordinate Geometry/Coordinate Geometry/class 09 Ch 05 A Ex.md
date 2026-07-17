@@ -246,7 +246,7 @@ $O(0,0)$
 
 Write down the coordinates of each of the following points $A, B, C, D$ and $E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-09.jpg?height=716&width=871&top_left_y=261&top_left_x=213)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Coordinate%20Geometry/Coordinate%20Geometry/class%2009%20Ch%2005%20A%20Ex-001.jpg)
 
 - Answer:
 

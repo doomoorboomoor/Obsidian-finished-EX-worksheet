@@ -919,7 +919,7 @@ Construct a $\triangle A B C$ in which $\angle B=45^{\circ}, \angle C=60^{\circ}
 >
 > (v) Construct $\angle L A B=45^{\circ}$ and $\angle M A C=60^{\circ}$, meeting $X Y$ at $B$ and $C$ respectively. Then, $\triangle A B C$ is the required triangle.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-15.jpg?height=346&width=533&top_left_y=1449&top_left_x=666)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Geometrical%20Constructions/class%2009%20Ch%2013%20A%20Ex-001.jpg)
 
 ---
 

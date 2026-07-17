@@ -85,7 +85,7 @@ In the given figure, $B O C$ is a diameter of a circle and $A B=A C$. Then, $\an
 (c) $60^{\circ}$
 (d) $90^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-83.jpg?height=229&width=245&top_left_y=656&top_left_x=952)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-001.jpg)
 
 - Answer:
 
@@ -108,7 +108,7 @@ In the given figure, $O$ is the centre of a circle and $\angle A C B=30^{\circ}$
 (c) $60^{\circ}$
 (d) $90^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-83.jpg?height=216&width=213&top_left_y=898&top_left_x=986)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-002.jpg)
 
 - Answer:
 
@@ -131,7 +131,7 @@ In the given figure, $O$ is the centre of a circle. If $\angle \mathrm{OAB}=40^{
 (c) $80^{\circ}$
 (d) $100^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-83.jpg?height=227&width=205&top_left_y=1139&top_left_x=990)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-003.jpg)
 
 - Answer:
 
@@ -154,7 +154,7 @@ In the given figure, $A O B$ is a diameter of a circle with centre $O$ such that
 (c) 18 cm
 (d) 6 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-83.jpg?height=208&width=247&top_left_y=1381&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-004.jpg)
 
 - Answer:
 
@@ -177,7 +177,7 @@ $A B$ and $C D$ are two equal chords of a circle with centre $O$ such that $\ang
 (c) $120^{\circ}$
 (d) $40^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-83.jpg?height=244&width=241&top_left_y=1659&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-005.jpg)
 
 - Answer:
 
@@ -200,7 +200,7 @@ In the given figure, $C D$ is the diameter of a circle with centre $O$ and $C D$
 (c) 7.5 cm
 (d) 8 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-84.jpg?height=248&width=207&top_left_y=169&top_left_x=990)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-006.jpg)
 
 - Answer:
 
@@ -223,7 +223,7 @@ In the given figure, $O$ is the centre of a circle and diameter $A B$ bisects th
 (c) 6 cm
 (d) 8 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-84.jpg?height=224&width=243&top_left_y=445&top_left_x=952)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-007.jpg)
 
 - Answer:
 
@@ -246,7 +246,7 @@ In the given figure, $B O C$ is a diameter of a circle with centre $O$. If $A B$
 (c) 15 cm
 (d) 10 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-84.jpg?height=203&width=215&top_left_y=726&top_left_x=982)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-008.jpg)
 
 - Answer:
 
@@ -269,7 +269,7 @@ In the given figure, $A B$ is a chord of a circle with centre $O$ and $A B$ is p
 (c) $90^{\circ}$
 (d) $100^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-84.jpg?height=225&width=332&top_left_y=958&top_left_x=863)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-009.jpg)
 
 - Answer:
 
@@ -292,7 +292,7 @@ In the given figure, $A B$ is a chord of a circle with centre $O$ and $B O C$ is
 (c) 15 cm
 (d) 7.5 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-84.jpg?height=201&width=205&top_left_y=1280&top_left_x=994)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-010.jpg)
 
 - Answer:
 
@@ -378,7 +378,7 @@ In the given figure, $\triangle A B C$ and $\triangle D B C$ are inscribed in a 
 (c) $70^{\circ}$
 (d) $80^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-85.jpg?height=224&width=221&top_left_y=165&top_left_x=978)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-011.jpg)
 
 - Answer:
 
@@ -416,7 +416,7 @@ In the given figure, $\triangle A B C$ and $\triangle D B C$ are inscribed in a 
 > 
 > Distance of the chord from the centre $=12 \mathrm{~cm}$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-89.jpg?height=272&width=275&top_left_y=608&top_left_x=922)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-012.jpg)
 
 ---
 
@@ -433,7 +433,7 @@ In the given figure, $\triangle A B C$ and $\triangle D B C$ are inscribed in a 
 > $\Rightarrow A L=\sqrt{225}=15$
 > $\Rightarrow \quad A B=(2 \times A L)=(2 \times 15) \mathrm{cm}=30 \mathrm{~cm}$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-89.jpg?height=200&width=205&top_left_y=906&top_left_x=990)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-013.jpg)
 
 ---
 
@@ -491,7 +491,7 @@ In the given figure, $\triangle A B C$ and $\triangle D B C$ are inscribed in a 
 > $\Rightarrow O L=\sqrt{64}=8 \mathrm{~cm}$.
 > $\therefore \quad$ distance of $C D$ from $A B=8 \mathrm{~cm}$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-89.jpg?height=202&width=241&top_left_y=1484&top_left_x=954)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-014.jpg)
 
 ---
 
@@ -610,7 +610,7 @@ In the given figure, $\triangle A B C$ and $\triangle D B C$ are inscribed in a 
 > Then, $A G: G D=2: 1$.
 > $\therefore \quad$ radius $=A G=\frac{2}{3} A D=\left(\frac{2}{3} \times \frac{9 \sqrt{3}}{2}\right) \mathrm{cm}=3 \sqrt{3} \mathrm{~cm}$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1420fb83d83a67cfb178g-90.jpg?height=225&width=215&top_left_y=1151&top_left_x=982)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Circles/class%2009%20Ch%2012%20Q%20Ex-015.jpg)
 
 ---
 

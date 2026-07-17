@@ -272,9 +272,9 @@ In the given figure, side $B C$ of $\triangle A B C$ is produced to $D$. If $\an
 
 In the given figure, the side $B C$ of $\triangle A B C$ has been produced on the left-hand side from $B$ to $D$ and on the right-hand side from $C$ to $E$. If $\angle A B D=106^{\circ}$ and $\angle A C E=118^{\circ}$, find the measure of each angle of the triangle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-15.jpg?height=204&width=465&top_left_y=1361&top_left_x=734)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-001.jpg)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-15.jpg?height=213&width=487&top_left_y=1598&top_left_x=712)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-002.jpg)
 
 - Answer:
 
@@ -297,7 +297,7 @@ Calculate the value of $x$ in each of the following figures.
 
 (i)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-16.jpg?height=349&width=535&top_left_y=217&top_left_x=104)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-003.jpg)
 
 - Answer:
 
@@ -316,7 +316,7 @@ Calculate the value of $x$ in each of the following figures.
 
 (ii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-16.jpg?height=244&width=426&top_left_y=314&top_left_x=769)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-004.jpg)
 
 - Answer:
 
@@ -335,7 +335,7 @@ Calculate the value of $x$ in each of the following figures.
 
 (iii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-16.jpg?height=261&width=511&top_left_y=732&top_left_x=116)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-005.jpg)
 
 - Answer:
 
@@ -354,7 +354,7 @@ Calculate the value of $x$ in each of the following figures.
 
 (iv)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-16.jpg?height=373&width=412&top_left_y=628&top_left_x=777)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-006.jpg)
 
 - Answer:
 
@@ -373,7 +373,7 @@ Calculate the value of $x$ in each of the following figures.
 
 (v)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-16.jpg?height=256&width=397&top_left_y=1055&top_left_x=173)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-007.jpg)
 
 - Answer:
 
@@ -392,7 +392,7 @@ Calculate the value of $x$ in each of the following figures.
 
 (vi)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-16.jpg?height=200&width=418&top_left_y=1097&top_left_x=773)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-008.jpg)
 
 - Answer:
 
@@ -411,7 +411,7 @@ Calculate the value of $x$ in each of the following figures.
 
 In the figure given alongside, $A B\|C D, \quad E F\| B C, \quad \angle B A C=60^{\circ}$ and $\angle D H F=50^{\circ}$. Find $\angle G C H$ and $\angle A G H$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-16.jpg?height=249&width=467&top_left_y=1389&top_left_x=724)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-009.jpg)
 
 - Answer:
 
@@ -430,7 +430,7 @@ In the figure given alongside, $A B\|C D, \quad E F\| B C, \quad \angle B A C=60
 
 Calculate the value of $x$ in the given figure.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-16.jpg?height=291&width=436&top_left_y=1661&top_left_x=759)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-010.jpg)
 
 - Answer:
 
@@ -449,7 +449,7 @@ Calculate the value of $x$ in the given figure.
 
 In the given figure, $A D$ divides $\angle B A C$ in the ratio $1: 3$ and $A D=D B$. Determine the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-17.jpg?height=299&width=493&top_left_y=261&top_left_x=404)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-011.jpg)
 
 - Answer:
 
@@ -468,7 +468,7 @@ In the given figure, $A D$ divides $\angle B A C$ in the ratio $1: 3$ and $A D=D
 
 If the sides of a triangle are produced in order, prove that the sum of the exterior angles so formed is equal to four right angles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-17.jpg?height=289&width=402&top_left_y=600&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-012.jpg)
 
 - Answer:
 
@@ -487,7 +487,7 @@ If the sides of a triangle are produced in order, prove that the sum of the exte
 
 In the adjoining figure, show that $\angle A+\angle B+\angle C+\angle D+\angle E+\angle F=360^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-17.jpg?height=341&width=299&top_left_y=922&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-013.jpg)
 
 - Answer:
 
@@ -506,7 +506,7 @@ In the adjoining figure, show that $\angle A+\angle B+\angle C+\angle D+\angle E
 
 In the given figure, $A M \perp B C$ and $A N$ is the bisector of $\angle A$. If $\angle A B C=70^{\circ}$ and $\angle A C B=20^{\circ}$, find $\angle M A N$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-17.jpg?height=220&width=527&top_left_y=1377&top_left_x=386)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-014.jpg)
 
 - Answer:
 
@@ -525,7 +525,7 @@ In the given figure, $A M \perp B C$ and $A N$ is the bisector of $\angle A$. If
 
 In the given figure, $B A D \| E F, \angle A E F=55^{\circ}$ and $\angle A C B=25^{\circ}$, find $\angle A B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-17.jpg?height=295&width=366&top_left_y=1618&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-015.jpg)
 
 - Answer:
 
@@ -544,7 +544,7 @@ In the given figure, $B A D \| E F, \angle A E F=55^{\circ}$ and $\angle A C B=2
 
 In a $\triangle A B C$, it is given that $\angle A: \angle B: \angle C=3: 2: 1 \quad$ and $\quad C D \perp A C$. Find $\angle E C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-18.jpg?height=208&width=418&top_left_y=169&top_left_x=773)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-016.jpg)
 
 - Answer:
 
@@ -563,7 +563,7 @@ In a $\triangle A B C$, it is given that $\angle A: \angle B: \angle C=3: 2: 1 \
 
 In the given figure, $A B \| D E$ and $B D \| F G$ such that $\angle A B C=50^{\circ}$ and $\angle F G H=120^{\circ}$. Find the values of $x$ and $y$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-18.jpg?height=313&width=603&top_left_y=491&top_left_x=346)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-017.jpg)
 
 - Answer:
 
@@ -582,7 +582,7 @@ In the given figure, $A B \| D E$ and $B D \| F G$ such that $\angle A B C=50^{\
 
 In the given figure, $A B \| C D$ and $E F$ is a transversal. If $\angle A E F=65^{\circ}, \angle D F G=30^{\circ}$, $\angle E G F=90^{\circ}$ and $\angle G E F=x^{\circ}$, find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-18.jpg?height=194&width=378&top_left_y=823&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-018.jpg)
 
 - Answer:
 
@@ -601,7 +601,7 @@ In the given figure, $A B \| C D$ and $E F$ is a transversal. If $\angle A E F=6
 
 In the given figure, $A B \| C D$, $\angle B A E=65^{\circ}$ and $\angle O E C=20^{\circ}$. Find $\angle E C O$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-18.jpg?height=337&width=440&top_left_y=1039&top_left_x=759)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-019.jpg)
 
 - Answer:
 
@@ -620,7 +620,7 @@ In the given figure, $A B \| C D$, $\angle B A E=65^{\circ}$ and $\angle O E C=2
 
 In the given figure, $A B \| C D$ and $E F$ is a transversal, cutting them at $G$ and $H$ respectively. If $\angle E G B=35^{\circ}$ and $Q P \perp E F$, find the measure of $\angle P Q H$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-18.jpg?height=277&width=469&top_left_y=1409&top_left_x=726)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-020.jpg)
 
 - Answer:
 
@@ -639,7 +639,7 @@ In the given figure, $A B \| C D$ and $E F$ is a transversal, cutting them at $G
 
 In the given figure, $A B \| C D$ and $E F \perp A B$. If $E G$ is the transversal such that $\angle G E D=130^{\circ}$, find $\angle E G F$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-18.jpg?height=219&width=414&top_left_y=1709&top_left_x=777)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-021.jpg)
 
 - Answer:
 
@@ -945,7 +945,7 @@ $x=90$
 > $A D=D B \Rightarrow \angle D B A=\angle B A D=18^{\circ}$.
 > $\angle A+\angle B+\angle C=180^{\circ} \Rightarrow 72^{\circ}+18^{\circ}+x^{\circ}=180^{\circ} \Rightarrow x=90$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-19.jpg?height=211&width=364&top_left_y=1423&top_left_x=833)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-022.jpg)
 
 ---
 
@@ -984,7 +984,7 @@ $x=90$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_41ac3a3c0b1691daf6acg-20.jpg?height=339&width=295&top_left_y=169&top_left_x=902)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Triangles/class%2009%20Ch%2008%20Q%20Ex-023.jpg)
 
 ---
 

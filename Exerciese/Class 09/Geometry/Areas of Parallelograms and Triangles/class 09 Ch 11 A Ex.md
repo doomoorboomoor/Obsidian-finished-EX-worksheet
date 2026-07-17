@@ -44,7 +44,7 @@ Which of the following figures lie on the same base and between the same paralle
 
 (i)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-25.jpg?height=252&width=236&top_left_y=894&top_left_x=173)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -63,7 +63,7 @@ Which of the following figures lie on the same base and between the same paralle
 
 (ii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-25.jpg?height=204&width=289&top_left_y=930&top_left_x=523)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-002.jpg)
 
 - Answer:
 
@@ -82,7 +82,7 @@ Which of the following figures lie on the same base and between the same paralle
 
 (iii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-25.jpg?height=178&width=311&top_left_y=946&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-003.jpg)
 
 - Answer:
 
@@ -101,7 +101,7 @@ Which of the following figures lie on the same base and between the same paralle
 
 (iv)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-25.jpg?height=190&width=293&top_left_y=1208&top_left_x=120)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-004.jpg)
 
 - Answer:
 
@@ -120,7 +120,7 @@ Which of the following figures lie on the same base and between the same paralle
 
 (v)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-25.jpg?height=180&width=247&top_left_y=1212&top_left_x=533)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-005.jpg)
 
 - Answer:
 
@@ -139,7 +139,7 @@ Which of the following figures lie on the same base and between the same paralle
 
 (vi)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-25.jpg?height=200&width=229&top_left_y=1204&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-006.jpg)
 
 - Answer:
 
@@ -159,7 +159,7 @@ Which of the following figures lie on the same base and between the same paralle
 In the adjoining figure, show that $A B C D$ is a parallelogram.
 Calculate the area of $\| \mathrm{gm} A B C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-25.jpg?height=237&width=320&top_left_y=1469&top_left_x=875)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-007.jpg)
 
 - Answer:
 
@@ -178,7 +178,7 @@ Calculate the area of $\| \mathrm{gm} A B C D$.
 
 In a parallelogram $A B C D$, it is being given that $A B=10 \mathrm{~cm}$ and the altitudes corresponding to the sides $A B$ and $A D$ are $D L=6 \mathrm{~cm}$ and $B M=8 \mathrm{~cm}$, respectively. Find $A D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-25.jpg?height=213&width=400&top_left_y=1731&top_left_x=797)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-008.jpg)
 
 - Answer:
 
@@ -235,7 +235,7 @@ Calculate the areas given below.
 
 (i) Calculate the area of quad. $A B C D$, given in Fig. (i).
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-26.jpg?height=242&width=319&top_left_y=475&top_left_x=231)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-009.jpg)
 
 - Answer:
 
@@ -254,7 +254,7 @@ Calculate the areas given below.
 
 (ii) Calculate the area of trap. $P Q R S$, given in Fig. (ii).
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-26.jpg?height=260&width=426&top_left_y=463&top_left_x=676)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-010.jpg)
 
 - Answer:
 
@@ -273,7 +273,7 @@ Calculate the areas given below.
 
 In the adjoining figure, $A B C D$ is a trapezium in which $A B \| D C ; A B=7 \mathrm{~cm} ; A D=B C=5 \mathrm{~cm}$ and the distance between $A B$ and $D C$ is 4 cm . Find the length of $D C$ and hence, find the area of trap. $A B C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-26.jpg?height=196&width=334&top_left_y=829&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-011.jpg)
 
 - Answer:
 
@@ -296,7 +296,7 @@ $$
 \operatorname{ar}(\text { quad. } A B C D)=\frac{1}{2} \times B D \times(A L+C M) .
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-26.jpg?height=271&width=233&top_left_y=1063&top_left_x=962)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-012.jpg)
 
 - Answer:
 
@@ -332,7 +332,7 @@ $M$ is the midpoint of the side $A B$ of a parallelogram $A B C D$. If $\operato
 
 In the adjoining figure, $A B C D$ is a quadrilateral in which diag. $B D=14 \mathrm{~cm}$. If $A L \perp B D$ and $C M \perp B D$ such that $A L=8 \mathrm{~cm}$ and $C M=6 \mathrm{~cm}$, find the area of quad. $A B C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-26.jpg?height=272&width=173&top_left_y=1474&top_left_x=1022)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-013.jpg)
 
 - Answer:
 
@@ -372,7 +372,7 @@ In the adjoining figure, $M N P Q$ and $A B P Q$ are parallelograms and $T$ is a
 
 (i) $\operatorname{ar}(M N P Q)=\operatorname{ar}(A B P Q)$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-27.jpg?height=190&width=303&top_left_y=167&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-014.jpg)
 
 - Answer:
 
@@ -409,7 +409,7 @@ In the adjoining figure, $M N P Q$ and $A B P Q$ are parallelograms and $T$ is a
 In the adjoining figure, $A B C D$ is a trapezium in which $A B \| D C$ and its diagonals $A C$ and $B D$ intersect at $O$.
 Prove that $\operatorname{ar}(\triangle A O D)=\operatorname{ar}(\triangle B O C)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-27.jpg?height=204&width=330&top_left_y=443&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-015.jpg)
 
 - Answer:
 
@@ -432,7 +432,7 @@ In the adjoining figure, $D E \| B C$. Prove that
 
 (i) $\operatorname{ar}(\triangle A C D)=\operatorname{ar}(\triangle A B E)$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-27.jpg?height=186&width=259&top_left_y=670&top_left_x=936)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-016.jpg)
 
 - Answer:
 
@@ -506,7 +506,7 @@ $$
 \operatorname{ar}(\triangle A B C)=\operatorname{ar}(\triangle A B D)
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-27.jpg?height=253&width=285&top_left_y=1022&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-017.jpg)
 
 - Answer:
 
@@ -568,7 +568,7 @@ $$
 \operatorname{ar}(\triangle A B C)=\operatorname{ar}(\triangle A D C)
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-27.jpg?height=196&width=207&top_left_y=1494&top_left_x=988)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-018.jpg)
 
 - Answer:
 
@@ -588,7 +588,7 @@ $$
 The vertex $A$ of $\triangle A B C$ is joined to a point $D$ on the side $B C$. The midpoint of $A D$ is $E$.
 Prove that $\quad \operatorname{ar}(\triangle B E C)=\frac{1}{2} \operatorname{ar}(\triangle A B C)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-27.jpg?height=188&width=261&top_left_y=1719&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-019.jpg)
 
 - Answer:
 
@@ -607,7 +607,7 @@ Prove that $\quad \operatorname{ar}(\triangle B E C)=\frac{1}{2} \operatorname{a
 
 $D$ is the midpoint of side $B C$ of $\triangle A B C$ and $E$ is the midpoint of $B D$. If $O$ is the midpoint of $A E$, prove that $\operatorname{ar}(\triangle B O E)=\frac{1}{8} \operatorname{ar}(\triangle A B C)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-28.jpg?height=184&width=257&top_left_y=173&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-020.jpg)
 
 - Answer:
 
@@ -626,7 +626,7 @@ $D$ is the midpoint of side $B C$ of $\triangle A B C$ and $E$ is the midpoint o
 
 In a trapezium $A B C D, A B \| D C$ and $M$ is the midpoint of $B C$. Through $M$, a line $P Q \| A D$ has been drawn which meets $A B$ in $P$ and $D C$ produced in $Q$, as shown in the adjoining figure.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-28.jpg?height=160&width=259&top_left_y=394&top_left_x=936)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-021.jpg)
 
 Prove that $\operatorname{ar}(A B C D)=\operatorname{ar}(A P Q D)$.
 
@@ -648,7 +648,7 @@ Prove that $\operatorname{ar}(A B C D)=\operatorname{ar}(A P Q D)$.
 In the adjoining figure, $A B C D$ is a quadrilateral. A line through $D$, parallel to $A C$, meets $B C$ produced in $P$.
 Prove that $\operatorname{ar}(\triangle A B P)=\operatorname{ar}($ quad. $A B C D)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-28.jpg?height=250&width=241&top_left_y=624&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-022.jpg)
 
 - Answer:
 
@@ -667,7 +667,7 @@ Prove that $\operatorname{ar}(\triangle A B P)=\operatorname{ar}($ quad. $A B C 
 
 In the adjoining figure, $\triangle A B C$ and $\triangle D B C$ are on the same base $B C$ with $A$ and $D$ on opposite sides of $B C$ such that $\operatorname{ar}(\triangle A B C)=\operatorname{ar}(\triangle D B C)$. Show that $B C$ bisects $A D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-28.jpg?height=200&width=318&top_left_y=910&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-023.jpg)
 
 - Answer:
 
@@ -686,7 +686,7 @@ In the adjoining figure, $\triangle A B C$ and $\triangle D B C$ are on the same
 
 $A B C D$ is a parallelogram in which $B C$ is produced to $P$ such that $C P=B C$, as shown in the adjoining figure. $A P$ intersects $C D$ at $M$. If $\operatorname{ar}(D M B)=7 \mathrm{~cm}^{2}$, find the area of parallelogram $A B C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-28.jpg?height=271&width=259&top_left_y=1137&top_left_x=936)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-024.jpg)
 
 - Answer:
 
@@ -730,7 +730,7 @@ $$
 \operatorname{ar}(\| \mathrm{gm} P Q R S)=\frac{1}{2} \times \operatorname{ar}(\| \mathrm{gm} A B C D) .
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-28.jpg?height=168&width=249&top_left_y=1598&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-025.jpg)
 
 - Answer:
 
@@ -791,7 +791,7 @@ $$
 \operatorname{ar}(\triangle A B C)=2 \operatorname{ar}(\triangle D B C) .
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-29.jpg?height=266&width=253&top_left_y=302&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-026.jpg)
 
 - Answer:
 
@@ -814,7 +814,7 @@ $$
 \operatorname{ar}(\text { pentagon } A B C D E)=\operatorname{ar}(\triangle D G F) .
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-29.jpg?height=190&width=217&top_left_y=620&top_left_x=978)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-027.jpg)
 
 - Answer:
 
@@ -833,7 +833,7 @@ $$
 
 In the adjoining figure, $C E \| A D$ and $C F \| B A$. Prove that $\operatorname{ar}(\triangle C B G)=\operatorname{ar}(\triangle A F G)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-29.jpg?height=237&width=364&top_left_y=845&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-028.jpg)
 
 - Answer:
 
@@ -856,7 +856,7 @@ $$
 \operatorname{ar}(\triangle A B D): \operatorname{ar}(\triangle A D C)=m: n .
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-29.jpg?height=211&width=239&top_left_y=1123&top_left_x=958)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-029.jpg)
 
 - Answer:
 
@@ -875,7 +875,7 @@ $$
 
 In a trapezium $A B C D, A B \| D C, A B=a \mathrm{~cm}$, and $D C=b \mathrm{~cm}$. If $M$ and $N$ are the midpoints of the nonparallel sides, $A D$ and $B C$ respectively then find the ratio of $\operatorname{ar}(D C N M)$ and $\operatorname{ar}(M N B A)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-29.jpg?height=180&width=293&top_left_y=1373&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-030.jpg)
 
 - Answer:
 
@@ -915,7 +915,7 @@ $$
 
 In the adjoining figure, $D$ and $E$ are respectively the midpoints of sides $A B$ and $A C$ of $\triangle A B C$. If $P Q \| B C$ and $C D P$ and $B E Q$ are straight lines then prove that $\operatorname{ar}(\triangle A B Q)=\operatorname{ar}(\triangle A C P)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-29.jpg?height=199&width=452&top_left_y=1743&top_left_x=747)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-031.jpg)
 
 - Answer:
 
@@ -934,7 +934,7 @@ In the adjoining figure, $D$ and $E$ are respectively the midpoints of sides $A 
 
 In the adjoining figure, $A B C D$ and $B Q S C$ are two parallelograms. Prove that $\operatorname{ar}(\triangle R S C)=\operatorname{ar}(\triangle P Q B)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-30.jpg?height=226&width=293&top_left_y=171&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-032.jpg)
 
 - Answer:
 
@@ -1127,7 +1127,7 @@ $98 \mathrm{~cm}^{2}$
 > 
 > And so, $\operatorname{ar}(\triangle A B C)=2 \operatorname{ar}(\triangle A M C)=16 \mathrm{~cm}^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-30.jpg?height=177&width=289&top_left_y=1151&top_left_x=906)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-033.jpg)
 
 ---
 
@@ -1155,7 +1155,7 @@ $(a+3 b):(3 a+b)$
 > $[\because \Delta$ and $\| \mathrm{gm}$ have same base and lie between same parallels].
 > $\therefore \quad \operatorname{ar}(\triangle A P B)=\operatorname{ar}(\triangle B Q C)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-30.jpg?height=188&width=265&top_left_y=1421&top_left_x=930)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-034.jpg)
 
 ---
 
@@ -1224,7 +1224,7 @@ $(a+3 b):(3 a+b)$
 > $\triangle B C E$ and $\triangle B C D$ are on the same base $B C$ and have equal area. So, their corresponding altitudes must be equal.
 > $\therefore \quad D E \| B C$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-31.jpg?height=182&width=233&top_left_y=406&top_left_x=962)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-035.jpg)
 
 ---
 
@@ -1242,7 +1242,7 @@ $(a+3 b):(3 a+b)$
 > $\therefore \quad \operatorname{ar}(\triangle D P O)+\operatorname{ar}(\triangle A D O)=\operatorname{ar}(\triangle B P O)+\operatorname{ar}(\triangle A B O)$
 > $\Rightarrow \quad \operatorname{ar}(\triangle A D P)=\operatorname{ar}(\triangle A B P)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-31.jpg?height=194&width=273&top_left_y=614&top_left_x=926)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-036.jpg)
 
 ---
 
@@ -1329,7 +1329,7 @@ $(a+3 b):(3 a+b)$
 > 
 > Now, $\triangle A L O \cong \triangle D M O$. Therefore, $O A=O D$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-31.jpg?height=204&width=309&top_left_y=1526&top_left_x=890)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-037.jpg)
 
 ---
 
@@ -1376,7 +1376,7 @@ $(a+3 b):(3 a+b)$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-32.jpg?height=192&width=334&top_left_y=330&top_left_x=861)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-038.jpg)
 
 ---
 
@@ -1399,7 +1399,7 @@ $(a+3 b):(3 a+b)$
 > \end{array}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-32.jpg?height=198&width=265&top_left_y=666&top_left_x=930)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-039.jpg)
 
 ---
 
@@ -1423,7 +1423,7 @@ $(a+3 b):(3 a+b)$
 > In $\triangle A D C, A E$ is a median and so $\operatorname{ar}(\triangle A D E)=\operatorname{ar}(\triangle A E C)$.
 > $\therefore \quad \operatorname{ar}(\triangle A B D)=\operatorname{ar}(\triangle A D E)=\operatorname{ar}(\triangle A E C)=\frac{1}{3} \operatorname{ar}(\triangle A B C)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-32.jpg?height=194&width=245&top_left_y=946&top_left_x=950)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-040.jpg)
 
 ---
 
@@ -1502,7 +1502,7 @@ $(a+3 b):(3 a+b)$
 > and $\operatorname{ar}(M N B A)=\frac{1}{2} \times(M N+A B) \times P Q=\frac{1}{2} \times\left(\frac{a+b}{2}+a\right) \times h=\frac{h}{4} \times(3 a+b)$.
 > $\therefore \quad \operatorname{ar}($ DCNM $): \operatorname{ar}($ MNBA $)=(a+3 b):(3 a+b)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-33.jpg?height=176&width=285&top_left_y=177&top_left_x=906)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-041.jpg)
 
 ---
 
@@ -1516,7 +1516,7 @@ $(a+3 b):(3 a+b)$
 >
 > $\frac{\operatorname{ar}(A B F E)}{\operatorname{ar}(E F C D)}=\frac{24+3 \times 16}{3 \times 24+16}=\frac{72}{88}=\frac{9}{11}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-33.jpg?height=176&width=221&top_left_y=608&top_left_x=970)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20A%20Ex-042.jpg)
 
 ---
 

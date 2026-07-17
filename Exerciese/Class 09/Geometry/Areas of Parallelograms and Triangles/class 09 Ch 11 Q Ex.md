@@ -43,10 +43,10 @@ Out of the following given figures, which are on the same base but not between t
 (c)
 (d)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-33.jpg?height=134&width=224&top_left_y=1725&top_left_x=157)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-33.jpg?height=206&width=249&top_left_y=1655&top_left_x=394)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-33.jpg?height=164&width=251&top_left_y=1699&top_left_x=662)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-33.jpg?height=160&width=259&top_left_y=1699&top_left_x=940)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-001.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-002.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-003.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-004.jpg)
 
 - Answer:
 
@@ -70,10 +70,10 @@ In which of the following figures, you find polygons on the same base and betwee
 (c)
 (d)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-34.jpg?height=161&width=214&top_left_y=285&top_left_x=227)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-34.jpg?height=161&width=208&top_left_y=285&top_left_x=471)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-34.jpg?height=156&width=209&top_left_y=285&top_left_x=716)
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-34.jpg?height=177&width=178&top_left_y=269&top_left_x=972)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-005.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-006.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-007.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-008.jpg)
 
 - Answer:
 
@@ -117,7 +117,7 @@ The area of quadrilateral $A B C D$ in the given figure is
 (c) $114 \mathrm{~cm}^{2}$
 (d) $195 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-34.jpg?height=247&width=358&top_left_y=678&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-009.jpg)
 
 - Answer:
 
@@ -140,7 +140,7 @@ The area of trapezium $A B C D$ in the given figure is
 (c) $124 \mathrm{~cm}^{2}$
 (d) $155 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-34.jpg?height=189&width=374&top_left_y=1010&top_left_x=821)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-010.jpg)
 
 - Answer:
 
@@ -184,7 +184,7 @@ In the given figure, $A B C D$ is a $\| \mathrm{gm}$ in which diagonals $A C$ an
 (c) $39 \mathrm{~cm}^{2}$
 (d) $13 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-34.jpg?height=196&width=257&top_left_y=1502&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-011.jpg)
 
 - Answer:
 
@@ -207,7 +207,7 @@ In the given figure, $A B C D$ is a $\| \mathrm{gm}$ in which $D L \perp A B$. I
 (c) $20 \mathrm{~cm}^{2}$
 (d) $196 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-34.jpg?height=193&width=291&top_left_y=1735&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-012.jpg)
 
 - Answer:
 
@@ -230,7 +230,7 @@ The area of $\| \mathrm{gm} A B C D$ is
 (c) $D C \times D L$
 (d) $A D \times D L$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-35.jpg?height=196&width=301&top_left_y=169&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-013.jpg)
 
 - Answer:
 
@@ -273,7 +273,7 @@ Then, $\operatorname{ar}(\triangle B M P)=\frac{1}{2} \operatorname{ar}(\| \math
 (a) true
 (b) false
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-35.jpg?height=198&width=332&top_left_y=533&top_left_x=863)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-014.jpg)
 
 - Answer:
 
@@ -359,7 +359,7 @@ In the given figure, $A B C D$ is a trapezium such that $A L \perp D C$ and $B M
 (c) $55 \mathrm{~cm}^{2}$
 (d) $27.5 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-35.jpg?height=166&width=330&top_left_y=1447&top_left_x=865)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-015.jpg)
 
 - Answer:
 
@@ -382,7 +382,7 @@ In a quadrilateral $A B C D$, it is given that $B D=16 \mathrm{~cm}$. If $A L \p
 (c) $64 \mathrm{~cm}^{2}$
 (d) $96 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-35.jpg?height=275&width=277&top_left_y=1671&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-016.jpg)
 
 - Answer:
 
@@ -407,7 +407,7 @@ Then, $A C: B D=$ ?
 (c) $3: 1$
 (d) $3: 2$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-36.jpg?height=297&width=175&top_left_y=177&top_left_x=1020)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-017.jpg)
 
 - Answer:
 
@@ -430,7 +430,7 @@ In the given figure, $A B C D$ and $A B F E$ are parallelograms such that $\oper
 (c) $6 \mathrm{~cm}^{2}$
 (d) $8 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-36.jpg?height=196&width=245&top_left_y=511&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-018.jpg)
 
 - Answer:
 
@@ -453,7 +453,7 @@ $\triangle A B C$ and $\triangle B D E$ are two equilateral triangles such that 
 (c) $\sqrt{3}: 2$
 (d) $3: 4$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-36.jpg?height=232&width=249&top_left_y=797&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-019.jpg)
 
 - Answer:
 
@@ -476,7 +476,7 @@ In a $\| \mathrm{gm} A B C D$, if $P$ and $Q$ are midpoints of $A B$ and $C D$ r
 (c) $6 \mathrm{~cm}^{2}$
 (d) $9 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-36.jpg?height=170&width=342&top_left_y=1065&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-020.jpg)
 
 - Answer:
 
@@ -499,7 +499,7 @@ The figure formed by joining the midpoints of the adjacent sides of a rectangle 
 (c) trapezium of area $24 \mathrm{~cm}^{2}$
 (d) rhombus of area $24 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-36.jpg?height=193&width=277&top_left_y=1300&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-021.jpg)
 
 - Answer:
 
@@ -522,7 +522,7 @@ In $\triangle A B C$, if $D$ is the midpoint of $B C$ and $E$ is the midpoint of
 (c) $\frac{1}{4} \operatorname{ar}(\triangle A B C)$
 (d) $\frac{2}{3} \operatorname{ar}(\triangle A B C)$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-36.jpg?height=227&width=284&top_left_y=1648&top_left_x=912)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-022.jpg)
 
 - Answer:
 
@@ -545,7 +545,7 @@ The vertex $A$ of $\triangle A B C$ is joined to a point $D$ on $B C$. If $E$ is
 (c) $\frac{1}{4} \operatorname{ar}(\triangle A B C)$
 (d) $\frac{1}{6} \operatorname{ar}(\triangle A B C)$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-37.jpg?height=244&width=291&top_left_y=169&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-023.jpg)
 
 - Answer:
 
@@ -568,7 +568,7 @@ In $\triangle A B C$, it is given that $D$ is the midpoint of $B C$; $E$ is the 
 (c) $\frac{1}{6} \operatorname{ar}(\triangle A B C)$
 (d) $\frac{1}{8} \operatorname{ar}(\triangle A B C)$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-37.jpg?height=285&width=275&top_left_y=430&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-024.jpg)
 
 - Answer:
 
@@ -612,7 +612,7 @@ In the given figure, $A B C D$ is a trapezium in which $A B \| D C$ such that $A
 (c) $(3 a+b):(a+3 b)$
 (d) $(2 a+b):(3 a+b)$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-37.jpg?height=200&width=291&top_left_y=922&top_left_x=904)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-025.jpg)
 
 - Answer:
 
@@ -656,7 +656,7 @@ In the given figure, a $\| \mathrm{gm} A B C D$ and a rectangle $A B E F$ are of
 (c) perimeter of $A B C D>$ perimeter of $A B E F$
 (d) perimeter of $A B C D=\frac{1}{2}$ (perimeter of $A B E F$ )
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-37.jpg?height=194&width=261&top_left_y=1355&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-026.jpg)
 
 - Answer:
 
@@ -679,7 +679,7 @@ In the given figure, $A B C D$ is a rectangle inscribed in a quadrant of a circl
 (c) $44 \mathrm{~cm}^{2}$
 (d) $48 \mathrm{~cm}^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-37.jpg?height=269&width=277&top_left_y=1671&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-027.jpg)
 
 - Answer:
 
@@ -702,7 +702,7 @@ Which of the following is a false statement?
 (c) In a $\triangle A B C$, if $E$ is the midpoint of median $A D$ then $\operatorname{ar}(\triangle B E D)=\frac{1}{4} \operatorname{ar}(\triangle A B C)$.
 (d) In a trap. $A B C D$, it is given that $A B \| D C$ and the diagonals $A C$ and $B D$ intersect at $O$. Then, $\operatorname{ar}(\triangle A O B)=\operatorname{ar}(\triangle C O D)$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-38.jpg?height=229&width=291&top_left_y=273&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-028.jpg)
 
 - Answer:
 
@@ -725,7 +725,7 @@ Which of the following is a false statement?
 (c) A parallelogram and a rectangle on the same base and between the same parallels are equal in area.
 (d) If the area of a $\| \mathrm{gm}$ with one side 24 cm and corresponding height $h \mathrm{~cm}$ is $192 \mathrm{~cm}^{2}$ then $h=8 \mathrm{~cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-38.jpg?height=204&width=297&top_left_y=527&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-029.jpg)
 
 - Answer:
 
@@ -753,7 +753,7 @@ Which is true?
 (c) I and II
 (d) II and III
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-38.jpg?height=199&width=297&top_left_y=1296&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-030.jpg)
 
 - Answer:
 
@@ -1041,7 +1041,7 @@ The correct answer is: (a)/(b)/(c)/(d).
 > \end{aligned}
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-40.jpg?height=200&width=293&top_left_y=1264&top_left_x=902)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-031.jpg)
 
 ---
 
@@ -1454,7 +1454,7 @@ The correct answer is: (a)/(b)/(c)/(d).
 > $\therefore \quad \operatorname{ar}(\triangle A B C)=\left(\frac{1}{2} \times 8 \times 4 \sqrt{3}\right) \mathrm{cm}^{2}=16 \sqrt{3} \mathrm{~cm}^{2}$.
 > Thus, Reason (R) is true.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c695d6ccf21fb709bd20g-43.jpg?height=245&width=257&top_left_y=213&top_left_x=938)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Areas%20of%20Parallelograms%20and%20Triangles/class%2009%20Ch%2011%20Q%20Ex-032.jpg)
 > 
 > Assertion (A): Area of the trapezium $=\left\{\frac{1}{2}(25+15) \times 6\right\} \mathrm{cm}^{2}=120 \mathrm{~cm}^{2}$.
 > $\therefore \quad$ Assertion (A) is true.

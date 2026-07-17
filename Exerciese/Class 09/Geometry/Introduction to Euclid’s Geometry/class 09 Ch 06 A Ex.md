@@ -172,7 +172,7 @@ Plane
 
 In the adjoining figure, name:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-10.jpg?height=386&width=398&top_left_y=1582&top_left_x=799)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Introduction%20to%20Euclid%E2%80%99s%20Geometry/class%2009%20Ch%2006%20A%20Ex-001.jpg)
 
 
 
@@ -313,7 +313,7 @@ Concurrent lines
 
 In the adjoining figure, name:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-11.jpg?height=244&width=380&top_left_y=173&top_left_x=815)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Introduction%20to%20Euclid%E2%80%99s%20Geometry/class%2009%20Ch%2006%20A%20Ex-002.jpg)
 
 
 
@@ -397,7 +397,7 @@ Two line segments
 
 From the given figure, name the following:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-11.jpg?height=285&width=495&top_left_y=535&top_left_x=700)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Introduction%20to%20Euclid%E2%80%99s%20Geometry/class%2009%20Ch%2006%20A%20Ex-003.jpg)
 
 
 
@@ -778,7 +778,7 @@ Two lines are parallel only when they have no point in common.
 
 In the given figure, $L$ and $M$ are the midpoints of $A B$ and $B C$ respectively.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_45fe7b9ca65c9f5568d3g-12.jpg?height=365&width=364&top_left_y=169&top_left_x=831)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Introduction%20to%20Euclid%E2%80%99s%20Geometry/class%2009%20Ch%2006%20A%20Ex-004.jpg)
 
 
 

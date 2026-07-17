@@ -194,7 +194,7 @@ In $\triangle A B C, \angle A=100^{\circ}$ and $\angle C=50^{\circ}$. Which is i
 
 In $\triangle A B C$, side $A B$ is produced to $D$ such that $B D=B C$. If $\angle A=70^{\circ}$ and $\angle B=60^{\circ}$, prove the following:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-35.jpg?height=204&width=342&top_left_y=173&top_left_x=853)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-001.jpg)
 
 #### Question 04/i
 
@@ -237,7 +237,7 @@ Prove that $A D>A C$.
 
 In the given figure, $\angle B<\angle A$ and $\angle C<\angle D$. Show that $A D<B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-35.jpg?height=217&width=378&top_left_y=418&top_left_x=817)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-002.jpg)
 
 - Answer:
 
@@ -256,7 +256,7 @@ In the given figure, $\angle B<\angle A$ and $\angle C<\angle D$. Show that $A D
 
 $A B$ and $C D$ are respectively the smallest and largest sides of a quadrilateral $A B C D$. Show that $\angle A>\angle C$ and $\angle B>\angle D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-35.jpg?height=329&width=235&top_left_y=700&top_left_x=962)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-003.jpg)
 
 - Answer:
 
@@ -317,7 +317,7 @@ $$
 
 In $\triangle A B C, \angle B=35^{\circ}, \angle C=65^{\circ}$ and the bisector of $\angle B A C$ meets $B C$ in $X$. Arrange $A X, B X$ and $C X$ in descending order.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-35.jpg?height=243&width=366&top_left_y=1232&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-004.jpg)
 
 - Answer:
 
@@ -336,7 +336,7 @@ In $\triangle A B C, \angle B=35^{\circ}, \angle C=65^{\circ}$ and the bisector 
 
 In the given figure, $P Q>P R$ and $Q S$ and $R S$ are the bisectors of $\angle Q$ and $\angle R$ respectively. Show that $S Q>S R$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-35.jpg?height=210&width=293&top_left_y=1516&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-005.jpg)
 
 - Answer:
 
@@ -386,7 +386,7 @@ Prove that in a triangle, other than an equilateral triangle, angle opposite the
 
 In the given figure, prove the following:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-36.jpg?height=285&width=261&top_left_y=169&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-006.jpg)
 
 #### Question 13/i
 
@@ -484,7 +484,7 @@ $O A+O B+O C>\frac{1}{2}(A B+B C+C A)$
 
 In the given figure, $A D \perp B C$ and $C D>B D$. Show that $A C>A B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-36.jpg?height=197&width=322&top_left_y=700&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-007.jpg)
 
 - Answer:
 
@@ -503,7 +503,7 @@ In the given figure, $A D \perp B C$ and $C D>B D$. Show that $A C>A B$.
 
 In the given figure, $D$ is a point on side $B C$ of a $\triangle A B C$ and $E$ is a point such that $C D=D E$. Prove that $A B+A C>B E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-36.jpg?height=279&width=269&top_left_y=950&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-008.jpg)
 
 - Answer:
 
@@ -712,9 +712,9 @@ $A C$
 >
 > Similarly, by joining $B$ and $D$, we may prove that $\angle B>\angle D$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-37.jpg?height=313&width=225&top_left_y=177&top_left_x=664)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-009.jpg)
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-37.jpg?height=317&width=229&top_left_y=173&top_left_x=966)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-010.jpg)
 
 ---
 
@@ -747,7 +747,7 @@ $A C$
 >
 > Adding respective sides of (i) and (ii), we get the required result.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-37.jpg?height=249&width=257&top_left_y=567&top_left_x=938)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-011.jpg)
 
 ---
 
@@ -775,7 +775,7 @@ $A C$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-37.jpg?height=247&width=261&top_left_y=857&top_left_x=934)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-012.jpg)
 
 ---
 
@@ -823,7 +823,7 @@ $B X>A X>C X$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-37.jpg?height=205&width=285&top_left_y=1417&top_left_x=906)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-013.jpg)
 
 ---
 
@@ -930,7 +930,7 @@ $B X>A X>C X$
 >
 > [adding (i) and (ii)]
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-38.jpg?height=208&width=291&top_left_y=523&top_left_x=906)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-014.jpg)
 >
 > $$
 > \begin{aligned}
@@ -1003,7 +1003,7 @@ $B X>A X>C X$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-38.jpg?height=195&width=322&top_left_y=1153&top_left_x=877)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20B%20Ex-015.jpg)
 
 ---
 

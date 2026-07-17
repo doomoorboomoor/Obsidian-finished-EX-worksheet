@@ -40,7 +40,7 @@ $P, Q, R$ and $S$ are respectively the midpoints of the sides $A B, B C, C D$ an
 
 (i) $P Q \| A C$ and $P Q=\frac{1}{2} A C$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-40.jpg?height=231&width=237&top_left_y=1405&top_left_x=960)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-001.jpg)
 
 - Answer:
 
@@ -110,7 +110,7 @@ A square is inscribed in an isosceles right triangle so that the square and the 
 
 In the adjoining figure, $A B C D$ is a $\| \mathrm{gm}$ in which $E$ and $F$ are the midpoints of $A B$ and $C D$ respectively. If $G H$ is a line segment that cuts $A D, E F$ and $B C$ at $G, P$ and $H$ respectively, prove that $G P=P H$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-41.jpg?height=230&width=356&top_left_y=169&top_left_x=839)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-002.jpg)
 
 - Answer:
 
@@ -146,7 +146,7 @@ $M$ and $N$ are points on opposite sides $A D$ and $B C$ of a parallelogram $A B
 
 In the adjoining figure, $P Q R S$ is a trapezium in which $P Q \| S R$ and $M$ is the midpoint of $P S$. A line segment $M N \| P Q$ meets $Q R$ at $N$. Show that $N$ is the midpoint of $Q R$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-41.jpg?height=197&width=336&top_left_y=551&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-003.jpg)
 
 - Answer:
 
@@ -179,7 +179,7 @@ In a parallelogram $P Q R S, P Q=12 \mathrm{~cm}$ and $P S=9 \mathrm{~cm}$. The 
 
 In the adjoining figure, $A B C D$ is a trapezium in which $A B \| D C$ and $P, Q$ are the midpoints of $A D$ and $B C$ respectively. $D Q$ and $A B$ when produced meet at $E$. Also, $A C$ and $P Q$ intersect at $R$. Prove that
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-41.jpg?height=204&width=430&top_left_y=902&top_left_x=767)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-004.jpg)
 
 #### Question 07/i
 
@@ -239,7 +239,7 @@ In the adjoining figure, $A B C D$ is a trapezium in which $A B \| D C$ and $P, 
 
 In the adjoining figure, $A D$ is a median of $\triangle A B C$ and $D E \| B A$. Show that $B E$ is also a median of $\triangle A B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-41.jpg?height=208&width=320&top_left_y=1200&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-005.jpg)
 
 - Answer:
 
@@ -258,7 +258,7 @@ In the adjoining figure, $A D$ is a median of $\triangle A B C$ and $D E \| B A$
 
 In the adjoining figure, $A D$ and $B E$ are the medians of $\triangle A B C$ and $D F \| B E$. Show that $C F=\frac{1}{4} A C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-41.jpg?height=182&width=322&top_left_y=1435&top_left_x=875)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-006.jpg)
 
 - Answer:
 
@@ -294,7 +294,7 @@ Prove that the line segments joining the middle points of the sides of a triangl
 
 In the adjoining figure, $D, E, F$ are the midpoints of the sides $B C, C A$ and $A B$ respectively, of $\triangle A B C$. Show that $\angle E D F=\angle A, \angle D E F=\angle B$ and $\angle D F E=\angle C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-41.jpg?height=227&width=283&top_left_y=1725&top_left_x=914)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-007.jpg)
 
 - Answer:
 
@@ -475,7 +475,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 >
 > $\therefore \quad C E=E B$ (c.p.c.t.).
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-42.jpg?height=241&width=265&top_left_y=1256&top_left_x=930)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-008.jpg)
 
 ---
 
@@ -515,7 +515,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 >
 > $\therefore \quad M O=N O$ (c.p.c.t.).
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-42.jpg?height=216&width=311&top_left_y=1635&top_left_x=888)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-009.jpg)
 
 ---
 
@@ -553,7 +553,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 >
 > $\Rightarrow R T=R M=S R-S M=(12-9) \mathrm{cm}=3 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-43.jpg?height=287&width=388&top_left_y=171&top_left_x=809)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-010.jpg)
 
 ---
 
@@ -605,7 +605,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 >
 > Similarly, $\triangle D E F \cong \triangle F B D$ and $\triangle D E F \cong \triangle E D C$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-43.jpg?height=220&width=275&top_left_y=620&top_left_x=922)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-011.jpg)
 
 ---
 
@@ -659,7 +659,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 > \left[\because A S=B Q, \angle A=\angle B=90^{\circ} \text { and } A P=B P\right] \text {.
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-43.jpg?height=220&width=299&top_left_y=1055&top_left_x=898)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-012.jpg)
 >
 > $\therefore \quad P S=P Q$.
 >
@@ -685,7 +685,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 >
 > $\therefore \quad O E R F$ is a $\| \mathrm{gm}$. So, $\angle F R E=\angle E O F=90^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-43.jpg?height=267&width=293&top_left_y=1357&top_left_x=904)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-013.jpg)
 >
 > Thus, $P Q R S$ is a $\| \mathrm{gm}$ with $\angle R=90^{\circ}$.
 >
@@ -713,7 +713,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 >
 > [Note $P Q R S$ is a $\| \mathrm{gm}$.]
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-43.jpg?height=213&width=257&top_left_y=1727&top_left_x=938)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-014.jpg)
 
 ---
 
@@ -731,7 +731,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 >
 > Since $A C=B D$; we have $P Q=Q R=R S=S P$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-44.jpg?height=206&width=277&top_left_y=169&top_left_x=918)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-015.jpg)
 
 ---
 
@@ -755,7 +755,7 @@ The midpoints of the sides $A B, B C, C D$ and $D A$ of a quadrilateral $A B C D
 >
 > $\therefore \quad P Q R S$ is a rectangle.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-44.jpg?height=255&width=257&top_left_y=428&top_left_x=940)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20C%20Ex-016.jpg)
 
 ---
 

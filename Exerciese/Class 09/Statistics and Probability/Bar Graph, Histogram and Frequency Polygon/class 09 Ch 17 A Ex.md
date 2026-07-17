@@ -278,7 +278,7 @@ Draw a bar graph to represent the above data.
 
 Look at the bar graph given below. Read it carefully and answer the following questions.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_58caa7c7cb46e29f8ad2g-13.jpg?height=887&width=981&top_left_y=227&top_left_x=173)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Statistics%20and%20Probability/Bar%20Graph%2C%20Histogram%20and%20Frequency%20Polygon/class%2009%20Ch%2017%20A%20Ex-001.jpg)
 
 #### Question 12/i.
 

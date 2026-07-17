@@ -70,7 +70,7 @@ review: false
 
 3. In the adjoining figure, $A B C D$ is a trapezium in which $A B \| D C$. If $\angle A=55^{\circ}$ and $\angle B=70^{\circ}$, find $\angle C$ and $\angle D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-07.jpg?height=187&width=340&top_left_y=404&top_left_x=855)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -86,7 +86,7 @@ review: false
 
 4. In the adjoining figure, $A B C D$ is a square and $\triangle E D C$ is an equilateral triangle. Prove that
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-07.jpg?height=345&width=217&top_left_y=636&top_left_x=978)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20A%20Ex-002.jpg)
 
 #### Question 04/i
 
@@ -129,7 +129,7 @@ review: false
 
 5. In the adjoining figure, $B M \perp A C$ and $D N \perp A C$. If $B M=D N$, prove that $A C$ bisects $B D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-07.jpg?height=209&width=384&top_left_y=1022&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20A%20Ex-003.jpg)
 
 - Answer:
 
@@ -145,7 +145,7 @@ review: false
 
 6. In the given figure, $A B C D$ is a quadrilateral in which $A B=A D$ and $B C=D C$. Prove that
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-07.jpg?height=277&width=211&top_left_y=1268&top_left_x=984)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20A%20Ex-004.jpg)
 
 #### Question 06/i
 
@@ -202,7 +202,7 @@ review: false
 
 7. In the given figure, $A B C D$ is a square and $\angle P Q R=90^{\circ}$. If $P B=Q C=D R$, prove that
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-07.jpg?height=217&width=207&top_left_y=1582&top_left_x=988)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20A%20Ex-005.jpg)
 
 #### Question 07/i
 
@@ -276,7 +276,7 @@ review: false
 
 9. In the adjoining figure, $A B C D$ is a quadrilateral and $A C$ is one of its diagonals. Prove that
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-08.jpg?height=186&width=309&top_left_y=171&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20A%20Ex-006.jpg)
 
 #### Question 09/i
 

@@ -36,7 +36,7 @@ review: false
 
 1. In the given figure, $l \| m$ and a transversal $t$ cuts them. If $\angle 1=120^{\circ}$, find the measure of each of the remaining marked angles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-29.jpg?height=217&width=314&top_left_y=823&top_left_x=877)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-001.jpg)
 
 - Answer:
 
@@ -55,7 +55,7 @@ review: false
 
 2. In the given figure, $l \| m$ and a transversal $t$ cuts them. If $\angle 7=80^{\circ}$, find the measure of each of the remaining marked angles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-29.jpg?height=283&width=402&top_left_y=1063&top_left_x=793)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-002.jpg)
 
 - Answer:
 
@@ -74,7 +74,7 @@ review: false
 
 3. In the given figure, $l \| m$ and a transversal $t$ cuts them. If $\angle 1: \angle 2=2: 3$, find the measure of each of the marked angles.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-29.jpg?height=289&width=406&top_left_y=1365&top_left_x=791)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-003.jpg)
 
 - Answer:
 
@@ -93,7 +93,7 @@ review: false
 
 4. For what value of $x$ will the lines $l$ and $m$ be parallel to each other?
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-29.jpg?height=287&width=404&top_left_y=1669&top_left_x=793)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-004.jpg)
 
 - Answer:
 
@@ -112,7 +112,7 @@ review: false
 
 5. For what value of $x$ will the lines $l$ and $m$ be parallel to each other?
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-30.jpg?height=289&width=405&top_left_y=217&top_left_x=445)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-005.jpg)
 
 - Answer:
 
@@ -131,7 +131,7 @@ review: false
 
 6. In the given figure, $A B \| C D$ and $B C \| E D$. Find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-30.jpg?height=338&width=430&top_left_y=587&top_left_x=434)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-006.jpg)
 
 - Answer:
 
@@ -150,7 +150,7 @@ review: false
 
 7. In the given figure, $A B\|C D\| E F$. Find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-30.jpg?height=271&width=523&top_left_y=1008&top_left_x=386)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-007.jpg)
 
 - Answer:
 
@@ -169,7 +169,7 @@ review: false
 
 8. In the given figure, $A B \| C D$. Find the values of $x, y$ and $z$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-30.jpg?height=222&width=450&top_left_y=1363&top_left_x=422)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-008.jpg)
 
 - Answer:
 
@@ -192,7 +192,7 @@ review: false
 
 (i)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-30.jpg?height=229&width=279&top_left_y=1695&top_left_x=185)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-009.jpg)
 
 - Answer:
 
@@ -211,7 +211,7 @@ review: false
 
 (ii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-30.jpg?height=231&width=273&top_left_y=1697&top_left_x=523)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-010.jpg)
 
 - Answer:
 
@@ -230,7 +230,7 @@ review: false
 
 (iii)
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-30.jpg?height=233&width=285&top_left_y=1703&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-011.jpg)
 
 - Answer:
 
@@ -249,7 +249,7 @@ review: false
 
 10. In the given figure, $A B \| C D$. Find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-31.jpg?height=355&width=434&top_left_y=233&top_left_x=430)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-012.jpg)
 
 - Answer:
 
@@ -268,7 +268,7 @@ review: false
 
 11. In the given figure, $A B \| P Q$. Find the values of $x$ and $y$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-31.jpg?height=313&width=389&top_left_y=700&top_left_x=455)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-013.jpg)
 
 - Answer:
 
@@ -287,7 +287,7 @@ review: false
 
 12. In the given figure, $A B \| C D$. Find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-31.jpg?height=317&width=349&top_left_y=1123&top_left_x=475)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-014.jpg)
 
 - Answer:
 
@@ -306,7 +306,7 @@ review: false
 
 13. In the given figure, $A B \| C D$. Find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-31.jpg?height=289&width=341&top_left_y=1552&top_left_x=483)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-015.jpg)
 
 - Answer:
 
@@ -325,7 +325,7 @@ review: false
 
 14. In the given figure, $A B \| C D$. Find the value of $x, y$ and $z$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-32.jpg?height=297&width=533&top_left_y=225&top_left_x=380)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-016.jpg)
 
 - Answer:
 
@@ -344,7 +344,7 @@ review: false
 
 15. In the given figure, $A B \| C D$. Prove that $\angle B A E-\angle E C D=\angle A E C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-32.jpg?height=313&width=446&top_left_y=604&top_left_x=426)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-017.jpg)
 
 - Answer:
 
@@ -363,7 +363,7 @@ review: false
 
 16. In the given figure, $A B \| C D$. Prove that $p+q-r=180$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-32.jpg?height=225&width=385&top_left_y=998&top_left_x=455)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-018.jpg)
 
 - Answer:
 
@@ -382,7 +382,7 @@ review: false
 
 17. In the given figure, $A B \| C D$ and $E F \| G H$. Find the values of $x, y, z$ and $t$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-32.jpg?height=295&width=357&top_left_y=1306&top_left_x=469)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-019.jpg)
 
 - Answer:
 
@@ -401,7 +401,7 @@ review: false
 
 18. In the given figure, $A B \| C D$ and a transversal $t$ cuts them at $E$ and $F$ respectively. If $E G$ and $F G$ are the bisectors of $\angle B E F$ and $\angle E F D$ respectively, prove that $\angle E G F=90^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-32.jpg?height=341&width=382&top_left_y=1635&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-020.jpg)
 
 - Answer:
 
@@ -420,7 +420,7 @@ review: false
 
 19. In the given figure, $A B \| C D$ and a transversal $t$ cuts them at $E$ and $F$ respectively. If $E P$ and $F Q$ are the bisectors of $\angle A E F$ and $\angle E F D$ respectively, prove that $E P \| F Q$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-33.jpg?height=341&width=382&top_left_y=169&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-021.jpg)
 
 - Answer:
 
@@ -439,7 +439,7 @@ review: false
 
 20. In the given figure, $B A \| E D$ and $B C \| E F$. Show that $\angle A B C=\angle D E F$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-33.jpg?height=225&width=289&top_left_y=587&top_left_x=503)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-022.jpg)
 
 - Answer:
 
@@ -458,7 +458,7 @@ review: false
 
 21. In the given figure, $B A \| E D$ and $B C \| E F$. Show that $\angle A B C+\angle D E F=180^{\circ}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-33.jpg?height=244&width=289&top_left_y=922&top_left_x=503)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-023.jpg)
 
 - Answer:
 
@@ -477,7 +477,7 @@ review: false
 
 22. In the given figure, $m$ and $n$ are two plane mirrors perpendicular to each other. Show that the incident ray $C A$ is parallel to the reflected ray $B D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-33.jpg?height=347&width=360&top_left_y=1196&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-024.jpg)
 
 - Answer:
 
@@ -496,7 +496,7 @@ review: false
 
 23. In the figure given below, state which lines are parallel and why?
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-33.jpg?height=331&width=434&top_left_y=1621&top_left_x=430)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-025.jpg)
 
 - Answer:
 
@@ -671,7 +671,7 @@ $x=105, y=75, z=50$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-35.jpg?height=226&width=338&top_left_y=173&top_left_x=857)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-026.jpg)
 
 ---
 
@@ -704,7 +704,7 @@ $x=105, y=75, z=50$
 > \end{array}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-35.jpg?height=225&width=326&top_left_y=430&top_left_x=857)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-027.jpg)
 
 ---
 
@@ -729,7 +729,7 @@ $x=105, y=75, z=50$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-35.jpg?height=228&width=287&top_left_y=741&top_left_x=908)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-028.jpg)
 
 ---
 
@@ -756,7 +756,7 @@ $x=110$
 > $\angle B A E+\angle A E F=180^{\circ}$
 > $\Rightarrow x+\left(20^{\circ}+50^{\circ}\right)=180^{\circ} \Rightarrow x^{\circ}=110^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-35.jpg?height=309&width=352&top_left_y=1006&top_left_x=839)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-029.jpg)
 
 ---
 
@@ -856,7 +856,7 @@ $x=35, y=70, z=75$
 > So, $\angle C E F+\angle E C D=\angle B A E+\angle A E F$
 > $\Rightarrow \quad \angle B A E-\angle E C D=\angle C E F-\angle A E F=\angle A E C$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-36.jpg?height=287&width=382&top_left_y=457&top_left_x=813)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-030.jpg)
 
 ---
 
@@ -875,7 +875,7 @@ $x=35, y=70, z=75$
 > $p^{\circ}+\angle 1+\angle 2-r^{\circ}=180^{\circ} \quad$ [adding]
 > $\therefore \quad p+q-r=180 \quad\left[\because \angle 1+\angle 2=q^{\circ}\right]$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-36.jpg?height=251&width=364&top_left_y=783&top_left_x=833)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-031.jpg)
 
 ---
 
@@ -959,7 +959,7 @@ $x=60, y=60, z=70, t=70$
 > $E F \| B C$ and $D P$ is the transversal.
 > $\therefore \quad \angle D P C=\angle D E F \quad$ [corresponding $\angle]$ ].
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-37.jpg?height=220&width=285&top_left_y=169&top_left_x=910)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-032.jpg)
 > 
 > Hence, $\angle A B C=\angle D E F$.
 
@@ -991,7 +991,7 @@ $x=60, y=60, z=70, t=70$
 > 
 > Hence, $\angle A B C+\angle D E F=180^{\circ}$ [using (ii)].
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-37.jpg?height=242&width=285&top_left_y=453&top_left_x=906)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-033.jpg)
 
 ---
 
@@ -1053,7 +1053,7 @@ $A B \| C D, D E$ not parallel to $A C$
 > $\therefore \quad \angle 3=\angle 2 \quad\left(\right.$ each $\left.=90^{\circ}\right)$
 > But these are corresponding angles.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_e97ef562f1d61fa42038g-37.jpg?height=260&width=342&top_left_y=1324&top_left_x=855)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Lines%20and%20Angles/class%2009%20Ch%2007%20C%20Ex-034.jpg)
 >
 > $\therefore \quad p \| q$.
 

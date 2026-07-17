@@ -82,7 +82,7 @@ In the adjoining figure, $A B C D$ is a parallelogram in which $\angle B A D=75^
 (c) $45^{\circ}$
 (d) $50^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-44.jpg?height=178&width=261&top_left_y=1242&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-001.jpg)
 
 - Answer:
 
@@ -609,7 +609,7 @@ In the given figure, $A B C D$ is a parallelogram in which $\angle B D C=45^{\ci
 (c) $60^{\circ}$
 (d) $75^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-47.jpg?height=178&width=257&top_left_y=167&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-002.jpg)
 
 - Answer:
 
@@ -653,7 +653,7 @@ In the given figure, $A B C D$ is a $\| \mathrm{gm}$ and $E$ is the midpoint of 
 (c) $A F=3 A B$
 (d) $A F^{2}=2 A B^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-47.jpg?height=186&width=352&top_left_y=503&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-003.jpg)
 
 - Answer:
 
@@ -718,7 +718,7 @@ In a trapezium $A B C D, E$ and $F$ be the midpoints of the diagonals $A C$ and 
 (c) $\frac{1}{2}(A B+C D)$
 (d) $\frac{1}{2}(A B-C D)$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-47.jpg?height=188&width=257&top_left_y=1208&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-004.jpg)
 
 - Answer:
 
@@ -741,7 +741,7 @@ In the given figure, $A B C D$ is a parallelogram, $M$ is the midpoint of $B D$ 
 (c) $90^{\circ}$
 (d) $30^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-47.jpg?height=232&width=245&top_left_y=1478&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-005.jpg)
 
 - Answer:
 
@@ -764,7 +764,7 @@ In the given figure, $A B C D$ is a rhombus. Then,
 (c) $A C^{2}+B D^{2}=4 A B^{2}$
 (d) $2\left(A C^{2}+B D^{2}\right)=3 A B^{2}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-47.jpg?height=229&width=247&top_left_y=1727&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-006.jpg)
 
 - Answer:
 
@@ -787,7 +787,7 @@ In a trapezium $A B C D$, if $A B \| C D$ then $\left(A C^{2}+B D^{2}\right)=$ ?
 (c) $A B^{2}+C D^{2}+2 A D \cdot B C$
 (d) $B C^{2}+A D^{2}+2 A B \cdot C D$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-48.jpg?height=176&width=231&top_left_y=173&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-007.jpg)
 
 - Answer:
 
@@ -831,7 +831,7 @@ In the given figure, $A D$ is a median of $\triangle A B C$ and $E$ is the midpo
 (c) $\frac{2}{3} A C$
 (d) $\frac{3}{4} A C$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-48.jpg?height=247&width=273&top_left_y=571&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-008.jpg)
 
 - Answer:
 
@@ -854,7 +854,7 @@ The diagonals $A C$ and $B D$ of a parallelogram $A B C D$ intersect each other 
 (c) $45^{\circ}$
 (d) $50^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-48.jpg?height=233&width=261&top_left_y=857&top_left_x=936)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-009.jpg)
 
 - Answer:
 
@@ -1092,7 +1092,7 @@ In a quadrilateral $P Q R S$, the diagonals $P R$ and $Q S$ bisect each other. I
 
 In the adjoining figure, $B D E F$ and $A F D E$ are parallelograms. Is $A F=F B$ ? Why or why not?
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-49.jpg?height=219&width=273&top_left_y=1016&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-010.jpg)
 
 - Answer:
 
@@ -1332,7 +1332,7 @@ Match the following columns:
 | (c) The diagonals of a square are | (r) 8.5 cm |
 | (d) The diagonals of a rhombus bisect each other | (s) 6.5 cm |
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-52.jpg?height=218&width=341&top_left_y=326&top_left_x=229)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-011.jpg)
 
 The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 
@@ -1402,7 +1402,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > $\therefore \angle A D O=180^{\circ}-\left(50^{\circ}+90^{\circ}\right)=40^{\circ} \quad\left(\right.$ sum of $\angle$ s of a $\triangle$ is $\left.180^{\circ}\right)$.
 > Thus, $\angle A D B=\angle A D O=40^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-53.jpg?height=223&width=261&top_left_y=372&top_left_x=934)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-012.jpg)
 
 ---
 
@@ -1422,7 +1422,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > $\Rightarrow A B=\sqrt{100} \mathrm{~cm}=10 \mathrm{~cm}$.
 > So, each side $=10 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-53.jpg?height=216&width=237&top_left_y=620&top_left_x=954)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-013.jpg)
 
 ---
 
@@ -1466,7 +1466,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > \end{array}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-53.jpg?height=229&width=239&top_left_y=869&top_left_x=956)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-014.jpg)
 
 ---
 
@@ -1486,7 +1486,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > $[\because O A=O D$ since diagonals of a rectangles are equal and bisect each other].
 > $\angle A O D=180^{\circ}-(\angle O A D+\angle O D A)=180^{\circ}-\left(55^{\circ}+55^{\circ}\right)=70^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-53.jpg?height=196&width=241&top_left_y=1129&top_left_x=954)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-015.jpg)
 
 ---
 
@@ -1520,7 +1520,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > $\Rightarrow \angle A+\angle B=260^{\circ} \Rightarrow \frac{1}{2} \angle A+\frac{1}{2} \angle B=130^{\circ}$.
 > $\Rightarrow \angle A O B=\left(180^{\circ}-130^{\circ}\right)=50^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-53.jpg?height=307&width=259&top_left_y=1407&top_left_x=938)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-016.jpg)
 
 ---
 
@@ -1538,7 +1538,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > $\frac{1}{2} \angle A+\frac{1}{2} \angle B+\angle A O B=180^{\circ} \Rightarrow 90^{\circ}+\angle A O B=180^{\circ}$.
 > $\therefore \quad \angle A O B=90^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-53.jpg?height=217&width=238&top_left_y=1711&top_left_x=779)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-017.jpg)
 
 ---
 
@@ -1572,7 +1572,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-54.jpg?height=256&width=299&top_left_y=173&top_left_x=896)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-018.jpg)
 
 ---
 
@@ -1706,7 +1706,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > Now, $P Q R S$ is a $\| \mathrm{gm}$ with one angle $\angle P=90^{\circ}$.
 > $\therefore \quad P Q R S$ is a rectangle if $A C \perp B D$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-54.jpg?height=277&width=293&top_left_y=817&top_left_x=902)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-019.jpg)
 
 ---
 
@@ -1724,7 +1724,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 >
 > If $A C=B D$ then $P Q=Q R=S R=P S$, i.e., $P Q R S$ will be a rhombus.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-54.jpg?height=207&width=259&top_left_y=1129&top_left_x=936)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-020.jpg)
 
 ---
 
@@ -1830,8 +1830,8 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 >
 > Hence, $A<B$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-54.jpg?height=132&width=212&top_left_y=1663&top_left_x=741)
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-54.jpg?height=92&width=217&top_left_y=1711&top_left_x=978)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-021.jpg)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-022.jpg)
 
 ---
 
@@ -1875,7 +1875,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > $M N=M P+P N=\frac{1}{2} B P+\frac{1}{2} P C=\frac{1}{2}(B P+P C)=\frac{1}{2} B C$.
 > $\therefore \quad D E \| M N$ and $D E=M N \quad$ (each equal to $\frac{1}{2} B C$ )
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-55.jpg?height=222&width=283&top_left_y=300&top_left_x=914)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-023.jpg)
 >
 > $\Rightarrow \quad$ DENM is a $\| \mathrm{gm}$.
 
@@ -1911,7 +1911,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > $\therefore \quad O A=\frac{1}{2} A C, O B=\frac{1}{2} B D$ and $\angle A O B=90^{\circ}$.
 > $\therefore \quad A B^{2}=O A^{2}+O B^{2}=\frac{1}{4} A C^{2}+\frac{1}{4} B D^{2}$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-55.jpg?height=216&width=241&top_left_y=763&top_left_x=954)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-024.jpg)
 >
 > $\Rightarrow \quad 4 A B^{2}=\left(A C^{2}+B D^{2}\right)$.
 
@@ -1933,7 +1933,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > $\therefore \quad B D^{2}=A D^{2}+A B^{2}-2 A B \cdot B F$
 > $\therefore \quad\left(A C^{2}+B D^{2}\right)=\left(B C^{2}+A D^{2}\right)+2 A B(A B-A E-B F)$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-55.jpg?height=210&width=229&top_left_y=1051&top_left_x=966)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-025.jpg)
 >
 > $$
 > =B C^{2}+A D^{2}+2 A B \cdot E F=B C^{2}+A D^{2}+2 A B \cdot C D .
@@ -1994,7 +1994,7 @@ The correct answer is: (a)-......, (b)—......, (c)-......, (d)—......
 > So, $F$ is the midpoint of $A G$.
 > $\therefore \quad A F=F G=G C \quad[\because G$ is the midpoint of $F C]$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2884ef595d718654ac8bg-55.jpg?height=237&width=253&top_left_y=1421&top_left_x=942)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Quadrilaterals/class%2009%20Ch%2010%20Q%20Ex-026.jpg)
 >
 > $\therefore \quad A F=\frac{1}{3} A C$.
 

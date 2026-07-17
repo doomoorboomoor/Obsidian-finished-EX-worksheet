@@ -502,7 +502,7 @@ The area of an equilateral triangle is $81 \sqrt{3} \mathrm{~cm}^{2}$. Its heigh
 > $a^{2}=\left[(8)^{2}+(6)^{2}\right] \mathrm{cm}^{2}=(64+36) \mathrm{cm}^{2}=100 \mathrm{~cm}^{2} \Rightarrow a=10 \mathrm{~cm}$.
 > $\therefore \quad$ perimeter $=(10+10+16) \mathrm{cm}=36 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_bc1add08c778f160f60eg-42.jpg?height=246&width=255&top_left_y=326&top_left_x=942)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Mensuration/Areas%20of%20Triangles%20and%20Quadrilaterals/class%2009%20Ch%2014%20Q%20Ex-001.jpg)
 >
 
 ---

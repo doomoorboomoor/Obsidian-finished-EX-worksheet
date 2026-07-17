@@ -33,7 +33,7 @@ review: false
 
 In the given figure, $A B \| C D$ and $O$ is the midpoint of $A D$. Show that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-20.jpg?height=237&width=237&top_left_y=1022&top_left_x=958)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-001.jpg)
 
 #### Question 01/i
 
@@ -76,7 +76,7 @@ In the given figure, $A B \| C D$ and $O$ is the midpoint of $A D$. Show that:
 
 In the given figure, $A D$ and $B C$ are equal perpendiculars to a line segment $A B$. Show that $C D$ bisects $A B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-20.jpg?height=247&width=287&top_left_y=1308&top_left_x=908)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-002.jpg)
 
 - Answer:
 
@@ -95,7 +95,7 @@ In the given figure, $A D$ and $B C$ are equal perpendiculars to a line segment 
 
 In the given figure, two parallel lines $l$ and $m$ are intersected by two parallel lines $p$ and $q$. Show that $\triangle A B C \cong \triangle C D A$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-20.jpg?height=332&width=358&top_left_y=1588&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-003.jpg)
 
 - Answer:
 
@@ -111,7 +111,7 @@ In the given figure, two parallel lines $l$ and $m$ are intersected by two paral
 
 $A D$ is an altitude of an isosceles $\triangle A B C$ in which $A B=A C$. Show that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-21.jpg?height=254&width=297&top_left_y=171&top_left_x=898)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-004.jpg)
 
 #### Question 04/i
 
@@ -151,7 +151,7 @@ $A D$ is an altitude of an isosceles $\triangle A B C$ in which $A B=A C$. Show 
 
 In the given figure, $B E$ and $C F$ are two equal altitudes of $\triangle A B C$. Show that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-21.jpg?height=250&width=299&top_left_y=455&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-005.jpg)
 
 #### Question 05/i
 
@@ -191,7 +191,7 @@ In the given figure, $B E$ and $C F$ are two equal altitudes of $\triangle A B C
 
 $\triangle A B C$ and $\triangle D B C$ are two isosceles triangles on the same base $B C$ and vertices $A$ and $D$ are on the same side of $B C$. If $A D$ is extended to intersect $B C$ at $E$, show that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-21.jpg?height=250&width=293&top_left_y=747&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-006.jpg)
 
 #### Question 06/i
 
@@ -268,7 +268,7 @@ $\triangle A B C$ and $\triangle D B C$ are two isosceles triangles on the same 
 
 In the given figure, if $x=y$ and $A B=C B$ then prove that $A E=C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-21.jpg?height=253&width=350&top_left_y=1105&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-007.jpg)
 
 - Answer:
 
@@ -284,7 +284,7 @@ In the given figure, if $x=y$ and $A B=C B$ then prove that $A E=C D$.
 
 In the given figure, line $l$ is the bisector of an angle $\angle A$ and $B$ is any point on $l$. If $B P$ and $B Q$ are perpendiculars from $B$ to the arms of $\angle A$, show that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-21.jpg?height=229&width=301&top_left_y=1397&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-008.jpg)
 
 #### Question 08/i
 
@@ -358,7 +358,7 @@ $\triangle A B C$ is a right triangle right angled at $A$ such that $A B=A C$ an
 
 In the given figure, $O A=O B$ and $O P=O Q$. Prove that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-22.jpg?height=232&width=251&top_left_y=169&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-009.jpg)
 
 #### Question 11/i
 
@@ -401,7 +401,7 @@ In the given figure, $O A=O B$ and $O P=O Q$. Prove that:
 
 In the given figure, $A B C$ is an equilateral triangle; $P Q \| A C$ and $A C$ is produced to $R$ such that $C R=B P$. Prove that $Q R$ bisects $P C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-22.jpg?height=256&width=289&top_left_y=451&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-010.jpg)
 
 - Answer:
 
@@ -417,7 +417,7 @@ In the given figure, $A B C$ is an equilateral triangle; $P Q \| A C$ and $A C$ 
 
 In the given figure, $A B C D$ is a quadrilateral in which $A B \| D C$ and $P$ is the midpoint of $B C$. On producing, $A P$ and $D C$ meet at $Q$. Prove that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-22.jpg?height=186&width=334&top_left_y=777&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-011.jpg)
 
 #### Question 13/i
 
@@ -460,7 +460,7 @@ In the given figure, $A B C D$ is a quadrilateral in which $A B \| D C$ and $P$ 
 
 In the given figure, $A B C D$ is a square and $P$ is a point inside it such that $P B=P D$. Prove that $C P A$ is a straight line.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-22.jpg?height=231&width=205&top_left_y=1000&top_left_x=990)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-012.jpg)
 
 - Answer:
 
@@ -479,7 +479,7 @@ In the given figure, $A B C D$ is a square and $P$ is a point inside it such tha
 
 In the given figure, $O$ is a point in the interior of square $A B C D$ such that $\triangle O A B$ is an equilateral triangle. Show that $\triangle O C D$ is an isosceles triangle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-22.jpg?height=229&width=205&top_left_y=1272&top_left_x=990)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-013.jpg)
 
 - Answer:
 
@@ -498,7 +498,7 @@ In the given figure, $O$ is a point in the interior of square $A B C D$ such tha
 
 In the adjoining figure, $X$ and $Y$ are respectively two points on equal sides $A B$ and $A C$ of $\triangle A B C$ such that $A X=A Y$. Prove that $C X=B Y$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-22.jpg?height=253&width=255&top_left_y=1542&top_left_x=940)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-014.jpg)
 
 - Answer:
 
@@ -517,7 +517,7 @@ In the adjoining figure, $X$ and $Y$ are respectively two points on equal sides 
 
 In $\triangle A B C, D$ is the midpoint of $B C$. If $D L \perp A B$ and $D M \perp A C$ such that $D L=D M$, prove that $A B=A C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-23.jpg?height=214&width=299&top_left_y=171&top_left_x=896)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-015.jpg)
 
 - Answer:
 
@@ -536,7 +536,7 @@ In $\triangle A B C, D$ is the midpoint of $B C$. If $D L \perp A B$ and $D M \p
 
 In $\triangle A B C, A B=A C$ and the bisectors of $\angle B$ and $\angle C$ meet at a point $O$. Prove that $B O=C O$ and the ray $A O$ is the bisector of $\angle A$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-23.jpg?height=257&width=303&top_left_y=422&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-016.jpg)
 
 - Answer:
 
@@ -623,7 +623,7 @@ $P$ is a point on the bisector of $\angle A B C$. If the line through $P$, paral
 
 The image of an object placed at a point $A$ before a plane mirror $L M$ is seen at the point $B$ by an observer at $D$, as shown in the figure. Prove that the image is as far behind the mirror as the object is in front of the mirror.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-23.jpg?height=214&width=422&top_left_y=1214&top_left_x=775)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-017.jpg)
 
 - Answer:
 
@@ -642,7 +642,7 @@ The image of an object placed at a point $A$ before a plane mirror $L M$ is seen
 
 In the adjoining figure, explain how one can find the breadth of the river without crossing it.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-23.jpg?height=245&width=450&top_left_y=1465&top_left_x=747)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-018.jpg)
 
 - Answer:
 
@@ -776,7 +776,7 @@ In a $\triangle A B C, D$ is the midpoint of side $A C$ such that $B D=\frac{1}{
 > In $\triangle B D E, \angle 4=\angle B \Rightarrow D E=B E \Rightarrow D A=D E=B E$.
 > Now, $B C=B E+E C=A D+A C$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-24.jpg?height=261&width=233&top_left_y=998&top_left_x=962)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-019.jpg)
 
 ---
 
@@ -914,7 +914,7 @@ In a $\triangle A B C, D$ is the midpoint of side $A C$ such that $B D=\frac{1}{
 > as $A N=B N, \angle A N D=\angle B N C$ and $D N=C N$.
 > $\therefore \quad A D=B C$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-25.jpg?height=208&width=446&top_left_y=495&top_left_x=745)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-020.jpg)
 
 ---
 
@@ -934,7 +934,7 @@ In a $\triangle A B C, D$ is the midpoint of side $A C$ such that $B D=\frac{1}{
 >
 > $\angle M O C=\angle O B C+\angle O C B=2 \angle O B C=\angle B=\angle A B C$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-25.jpg?height=253&width=297&top_left_y=813&top_left_x=898)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-021.jpg)
 
 ---
 
@@ -966,7 +966,7 @@ In a $\triangle A B C, D$ is the midpoint of side $A C$ such that $B D=\frac{1}{
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-25.jpg?height=249&width=366&top_left_y=1103&top_left_x=829)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-022.jpg)
 
 ---
 
@@ -982,7 +982,7 @@ In a $\triangle A B C, D$ is the midpoint of side $A C$ such that $B D=\frac{1}{
 > $\therefore \quad \angle 1=\angle 3 \Rightarrow \angle 2=\angle 3 \quad[\because \angle 1=\angle 2$ (given) $]$.
 > $\therefore \quad P Q=B Q$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-25.jpg?height=233&width=269&top_left_y=1461&top_left_x=922)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-023.jpg)
 
 ---
 
@@ -1061,7 +1061,7 @@ In a $\triangle A B C, D$ is the midpoint of side $A C$ such that $B D=\frac{1}{
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_6efc6062a3fff7670a58g-26.jpg?height=259&width=223&top_left_y=694&top_left_x=976)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Geometry/Congruence%20of%20Triangles%20and%20Inequalities%20in%20a%20Triangle/class%2009%20Ch%2009%20A%20Ex-024.jpg)
 
 ---
 

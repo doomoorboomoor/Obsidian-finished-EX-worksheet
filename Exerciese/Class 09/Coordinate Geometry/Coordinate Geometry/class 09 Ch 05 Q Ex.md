@@ -802,7 +802,7 @@ The area of $\triangle A O B$ having vertices $A(0,6), O(0,0)$ and $B(6,0)$ is
 > Clearly, $O A=C B=3$ units and $O C=A B=4$ units.
 > $\therefore \quad O A B C$ is a rectangle.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-12.jpg?height=198&width=348&top_left_y=966&top_left_x=847)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Coordinate%20Geometry/Coordinate%20Geometry/class%2009%20Ch%2005%20Q%20Ex-001.jpg)
 >
 
 ---
@@ -834,7 +834,7 @@ The area of $\triangle A O B$ having vertices $A(0,6), O(0,0)$ and $B(6,0)$ is
 >
 > Perpendicular distance of $A(3,4)$ from the $y$-axis is 3 .
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-12.jpg?height=237&width=354&top_left_y=1248&top_left_x=845)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Coordinate%20Geometry/Coordinate%20Geometry/class%2009%20Ch%2005%20Q%20Ex-002.jpg)
 >
 
 ---
@@ -941,7 +941,7 @@ The area of $\triangle A O B$ having vertices $A(0,6), O(0,0)$ and $B(6,0)$ is
 >
 > $\operatorname{ar}(\triangle A O B)=\left(\frac{1}{2} \times 6 \times 6\right)$ sq units $=18$ sq units.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_1e88b3977bc5a2e7bd73g-12.jpg?height=255&width=269&top_left_y=1562&top_left_x=926)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2009/Coordinate%20Geometry/Coordinate%20Geometry/class%2009%20Ch%2005%20Q%20Ex-003.jpg)
 >
 
 ---
