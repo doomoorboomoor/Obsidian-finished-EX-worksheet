@@ -65,7 +65,7 @@ In the given figure, $R Q$ is a tangent to the circle with centre $O$. If $S Q=6
 (c) 5 cm
 (d) 8 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-35.jpg?height=198&width=181&top_left_y=761&top_left_x=1014)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20Q%20Ex-001.jpg)
 
 - Answer:
 
@@ -88,7 +88,7 @@ In a circle of radius 7 cm , tangent $P T$ is drawn from a point $P$ such that $
 (c) 25 cm
 (d) 18 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-35.jpg?height=172&width=356&top_left_y=1000&top_left_x=839)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20Q%20Ex-002.jpg)
 
 - Answer:
 
@@ -155,7 +155,7 @@ In the given figure, $P T$ is a tangent to the circle with centre $O$. If $O T=6
 (c) 12 cm
 (d) 16 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-35.jpg?height=184&width=251&top_left_y=1679&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20Q%20Ex-003.jpg)
 
 - Answer:
 
@@ -179,7 +179,7 @@ In the given figure, point $P$ is 26 cm away from the centre $O$ of a circle and
 (c) 13 cm
 (d) 15 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-36.jpg?height=168&width=251&top_left_y=177&top_left_x=944)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20Q%20Ex-004.jpg)
 
 - Answer:
 
@@ -225,7 +225,7 @@ In the given figure, $A B$ and $A C$ are tangents to the circle with centre $O$ 
 (c) $120^{\circ}$
 (d) $140^{\circ}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-36.jpg?height=232&width=372&top_left_y=612&top_left_x=825)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20Q%20Ex-005.jpg)
 
 - Answer:
 
@@ -331,7 +331,7 @@ If a chord $A B$ subtends an angle of $60^{\circ}$ at the centre of a circle, th
 >
 > $A B=\sqrt{O A^{2}+O B^{2}}=\sqrt{10^{2}+10^{2}}=10 \sqrt{2} \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-44.jpg?height=174&width=173&top_left_y=1407&top_left_x=1022)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20Q%20Ex-006.jpg)
 
 ---
 
@@ -351,7 +351,7 @@ If a chord $A B$ subtends an angle of $60^{\circ}$ at the centre of a circle, th
 >
 > $[\because$ in a triangle, angles opposite equal sides are equal $]$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-44.jpg?height=213&width=328&top_left_y=1602&top_left_x=871)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20Q%20Ex-007.jpg)
 
 ---
 
@@ -387,7 +387,7 @@ If a chord $A B$ subtends an angle of $60^{\circ}$ at the centre of a circle, th
 >
 > $\therefore \angle A O B+\angle A P B=180^{\circ} \Rightarrow \angle A P B=180^{\circ}-60^{\circ}=120^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-45.jpg?height=206&width=225&top_left_y=169&top_left_x=966)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20Q%20Ex-008.jpg)
 
 ---
 

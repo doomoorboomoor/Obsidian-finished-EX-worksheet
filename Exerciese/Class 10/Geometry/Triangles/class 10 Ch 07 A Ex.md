@@ -78,7 +78,7 @@ If $A B=13.3 \mathrm{~cm}, A C=11.9 \mathrm{~cm}$ and $E C=5.1 \mathrm{~cm}$, fi
 
 If $\frac{A D}{D B}=\frac{4}{7}$ and $A C=6.6 \mathrm{~cm}$, find $A E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-018.jpg?height=265&width=277&top_left_y=362&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -139,7 +139,7 @@ $A D=x \mathrm{~cm}, D B=(x-2) \mathrm{cm}$, $A E=(x+2) \mathrm{cm}$ and $E C=(x
 
 $A D=4 \mathrm{~cm}, D B=(x-4) \mathrm{cm}, A E=8 \mathrm{~cm}$ and $E C=(3 x-19) \mathrm{cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-018.jpg?height=257&width=316&top_left_y=793&top_left_x=875)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-002.jpg)
 
 - Answer:
 
@@ -219,7 +219,7 @@ $A B=11.7 \mathrm{~cm}, A C=11.2 \mathrm{~cm}, B D=6.5 \mathrm{~cm}$ and $A E=4.
 
 $A B=10.8 \mathrm{~cm}, A D=6.3 \mathrm{~cm}, A C=9.6 \mathrm{~cm}$ and $E C=4 \mathrm{~cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-018.jpg?height=227&width=289&top_left_y=1282&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-003.jpg)
 
 - Answer:
 
@@ -280,7 +280,7 @@ If $A B=6.4 \mathrm{~cm}, A C=8 \mathrm{~cm}$ and $B D=5.6 \mathrm{~cm}$, find $
 
 If $A B=10 \mathrm{~cm}, A C=14 \mathrm{~cm}$ and $B C=6 \mathrm{~cm}$, find $B D$ and $D C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-018.jpg?height=253&width=330&top_left_y=1610&top_left_x=865)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-004.jpg)
 
 - Answer:
 
@@ -360,7 +360,7 @@ $\frac{D M}{M N}=\frac{D C}{B N}$
 
 $\frac{D N}{D M}=\frac{A N}{D C}$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-019.jpg?height=204&width=348&top_left_y=169&top_left_x=847)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-005.jpg)
 
 - Answer:
 
@@ -398,7 +398,7 @@ Show that the line segment which joins the midpoints of the oblique sides of a t
 
 In the adjoining figure, $A B C D$ is a trapezium in which $C D \| A B$ and its diagonals intersect at $O$. If $A O=(2 x+1) \mathrm{cm}, O C=(5 x-7) \mathrm{cm}$, $D O=(7 x-5) \mathrm{cm}$ and $O B=(7 x+1) \mathrm{cm}$, find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-019.jpg?height=202&width=342&top_left_y=509&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-006.jpg)
 
 - Answer:
 
@@ -436,7 +436,7 @@ In a $\triangle A B C, M$ and $N$ are points on the sides $A B$ and $A C$ respec
 
 $\triangle A B C$ and $\triangle D B C$ lie on the same side of $B C$, as shown in the figure. From a point $P$ on $B C, P Q \| A B$ and $P R \| B D$ are drawn, meeting $A C$ at $Q$ and $C D$ at $R$ respectively. Prove that $Q R \| A D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-019.jpg?height=213&width=259&top_left_y=853&top_left_x=934)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-007.jpg)
 
 - Answer:
 
@@ -455,7 +455,7 @@ $\triangle A B C$ and $\triangle D B C$ lie on the same side of $B C$, as shown 
 
 In the given figure, side $B C$ of $\triangle A B C$ is bisected at $D$ and $O$ is any point on $A D . B O$ and $C O$ produced meet $A C$ and $A B$ at $E$ and $F$ respectively, and $A D$ is produced to $X$ so that $D$ is the midpoint of $O X$. Prove that $A O: A X=A F: A B$ and show that $E F \| B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-019.jpg?height=277&width=271&top_left_y=1103&top_left_x=924)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-008.jpg)
 
 - Answer:
 
@@ -474,7 +474,7 @@ In the given figure, side $B C$ of $\triangle A B C$ is bisected at $D$ and $O$ 
 
 $A B C D$ is a parallelogram in which $P$ is the midpoint of $D C$ and $Q$ is a point on $A C$ such that $C Q=\frac{1}{4} A C$. If $P Q$ produced meets $B C$ at $R$, prove that $R$ is the midpoint of $B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-019.jpg?height=196&width=326&top_left_y=1409&top_left_x=871)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-009.jpg)
 
 - Answer:
 
@@ -493,7 +493,7 @@ $A B C D$ is a parallelogram in which $P$ is the midpoint of $D C$ and $Q$ is a 
 
 In the adjoining figure, $A B C$ is a triangle in which $A B=A C$. If $D$ and $E$ are points on $A B$ and $A C$ respectively such that $A D=A E$, show that the points $B, C, E$ and $D$ are concyclic.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-019.jpg?height=285&width=275&top_left_y=1655&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-010.jpg)
 
 - Answer:
 
@@ -513,7 +513,7 @@ In the adjoining figure, $A B C$ is a triangle in which $A B=A C$. If $D$ and $E
 In $\triangle A B C$, the bisector of $\angle B$ meets $A C$ at $D$. A line $P Q \| A C$ meets $A B, B C$ and $B D$ at $P, Q$ and $R$ respectively.
 Show that $P R \times B Q=Q R \times B P$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-020.jpg?height=252&width=289&top_left_y=169&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-011.jpg)
 
 - Answer:
 
@@ -763,7 +763,7 @@ $B C=7.2 \mathrm{~cm}$
 > \end{aligned}
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-020.jpg?height=293&width=303&top_left_y=1242&top_left_x=888)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-012.jpg)
 
 ---
 
@@ -801,7 +801,7 @@ $x=2$
 > \Rightarrow \frac{A M}{M B}=\frac{A N}{N C} \Rightarrow M N \| B C
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-020.jpg?height=265&width=322&top_left_y=1610&top_left_x=873)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-013.jpg)
 
 ---
 
@@ -848,7 +848,7 @@ $x=2$
 > From (i) and (ii), we get $\frac{A F}{A B}=\frac{A E}{A C}$.
 > Hence, $F E \| B C$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-021.jpg?height=341&width=309&top_left_y=334&top_left_x=886)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-014.jpg)
 
 ---
 
@@ -871,7 +871,7 @@ $x=2$
 > So, $P Q \| D S$ and therefore, $Q R \| S B$.
 > In $\triangle C S B, Q$ is the midpoint of $C S$ and $Q R \| S B$, so $R$ is the midpoint of $B C$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-021.jpg?height=198&width=320&top_left_y=928&top_left_x=875)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-015.jpg)
 
 ---
 
@@ -894,7 +894,7 @@ $x=2$
 > $\Rightarrow$ quad. $B C E D$ is cyclic.
 > Hence, the points $B, C, E, D$ are concyclic.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-021.jpg?height=267&width=309&top_left_y=1226&top_left_x=890)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20A%20Ex-016.jpg)
 
 ---
 

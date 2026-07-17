@@ -433,7 +433,7 @@ A medicine capsule is in the shape of a cylinder with two hemispheres stuck to e
 A wooden article was made by scooping out a hemisphere from each end of a cylinder, as shown in the figure. If the height of the cylinder is 20 cm and its base is of diameter 7 cm , find the total surface area of the article when it is ready.
 [CBSE 2008C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-22.jpg?height=265&width=165&top_left_y=414&top_left_x=1026)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Volume%20and%20Surface%20Areas%20of%20Solids/class%2010%20Ch%2017%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -572,7 +572,7 @@ A spherical glass vessel has a cylindrical neck 7 cm long and 4 cm in diameter. 
 
 The given figure represents a solid consisting of a cylinder surmounted by a cone at one end and a hemisphere at the other. Find the volume of the solid.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-23.jpg?height=266&width=557&top_left_y=171&top_left_x=402)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Volume%20and%20Surface%20Areas%20of%20Solids/class%2010%20Ch%2017%20A%20Ex-002.jpg)
 
 - Answer:
 
@@ -674,7 +674,7 @@ A toy is in the shape of a right circular cylinder with a hemisphere on one end 
 
 The inner diameter of a glass is 7 cm and it has a raised portion in the bottom in the shape of a hemisphere, as shown in the figure. If the height of the glass is 16 cm , find the apparent capacity and the actual capacity of the glass.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-23.jpg?height=758&width=233&top_left_y=1194&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Volume%20and%20Surface%20Areas%20of%20Solids/class%2010%20Ch%2017%20A%20Ex-003.jpg)
 
 - Answer:
 

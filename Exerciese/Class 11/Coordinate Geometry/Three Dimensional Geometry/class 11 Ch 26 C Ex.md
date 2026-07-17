@@ -274,7 +274,7 @@ $(3,-2,-1),(4,-5,1)$
 > 
 > Let $P$ and $Q$ be the points of trisection of $A B$. Then, $P$ divides $A B$ in the ratio $1: 2$ and $Q$ divides $A B$ in the ratio $2: 1$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-12.jpg?height=54&width=487&top_left_y=1582&top_left_x=404)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Coordinate%20Geometry/Three%20Dimensional%20Geometry/class%2011%20Ch%2026%20C%20Ex-001.jpg)
 
 ---
 

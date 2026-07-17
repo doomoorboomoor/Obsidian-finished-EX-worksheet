@@ -230,7 +230,7 @@ A guy wire attached to a vertical pole of height 18 m is 24 m long and has a sta
 In the given figure, $O$ is a point inside a $\triangle P Q R$ such that $\angle P O R=90^{\circ}, O P=6 \mathrm{~cm}$ and $O R=8 \mathrm{~cm}$. If $P Q=24 \mathrm{~cm}$ and $Q R=26 \mathrm{~cm}$, prove that $\triangle P Q R$ is right-angled.
 [CBSE 2006, '09C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-088.jpg?height=238&width=356&top_left_y=322&top_left_x=839)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-001.jpg)
 
 - Answer:
 
@@ -377,7 +377,7 @@ In the given figure, $\angle A C B=90^{\circ}$ and $C D \perp A B$.
 
 Prove that $\frac{B C^{2}}{A C^{2}}=\frac{B D}{A D}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-088.jpg?height=190&width=338&top_left_y=1258&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-002.jpg)
 
 - Answer:
 
@@ -393,7 +393,7 @@ Prove that $\frac{B C^{2}}{A C^{2}}=\frac{B D}{A D}$.
 
 In the given figure, $D$ is the midpoint of side $B C$ and $A E \perp B C$. If $B C=a, A C=b, A B=c, E D=x, A D=p$ and $A E=h$, prove that
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-088.jpg?height=265&width=354&top_left_y=1598&top_left_x=843)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-003.jpg)
 
 #### Question 17/i
 
@@ -474,7 +474,7 @@ $$
 \left(A D^{2}-A C^{2}\right)=B D \cdot C D
 $$
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-089.jpg?height=212&width=348&top_left_y=171&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-004.jpg)
 
 - Answer:
 
@@ -494,7 +494,7 @@ $$
 $A B C$ is an isosceles triangle, rightangled at $B$. Similar triangles $A C D$ and $A B E$ are constructed on sides $A C$ and $A B$. Find the ratio between the areas of $\triangle A B E$ and $\triangle A C D$.
 [CBSE 2002]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-089.jpg?height=378&width=245&top_left_y=424&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-005.jpg)
 
 - Answer:
 
@@ -527,7 +527,7 @@ An aeroplane leaves an airport and flies due north at a speed of 1000 km per hou
 
 In a $\triangle A B C, A D$ is a median and $A L \perp B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-089.jpg?height=232&width=350&top_left_y=1071&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-006.jpg)
 
 Prove that:
 
@@ -589,7 +589,7 @@ Prove that:
 
 Naman is doing fly-fishing in a stream. The tip of his fishing rod is 1.8 m above the surface of the water and the fly at the end of the string rests on the water 3.6 m away from him and 2.4 m from the point directly under the tip of the rod. Assuming that the string (from the tip of his rod to the fly) is taut, how much string does he have out (see the adjoining figure)? If he pulls in the string at the rate of 5 cm per second, what will be the horizontal distance of the fly from him after 12 seconds?
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-089.jpg?height=291&width=444&top_left_y=1423&top_left_x=753)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-007.jpg)
 
 - Answer:
 
@@ -761,7 +761,7 @@ $\frac{a \sqrt{15}}{2}$ units
 > Draw $A D \perp B C$. Then, $D$ is the midpoint of $B C$ and so $B D=\frac{a}{2}$.
 > $A D^{2}=A B^{2}-B D^{2}=4 a^{2}-\frac{a^{2}}{4}=\frac{15 a^{2}}{4} \Rightarrow A D=\frac{a \sqrt{15}}{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-090.jpg?height=323&width=285&top_left_y=942&top_left_x=912)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-008.jpg)
 
 ---
 
@@ -828,7 +828,7 @@ $6 \sqrt{3} \mathrm{~cm}$
 > \end{align*}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-090.jpg?height=237&width=382&top_left_y=1296&top_left_x=813)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-009.jpg)
 
 ---
 
@@ -857,7 +857,7 @@ $6 \sqrt{3} \mathrm{~cm}$
 >
 > Dividing (i) by (ii), we get $\frac{B C^{2}}{A C^{2}}=\frac{B D}{A D}$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-091.jpg?height=212&width=394&top_left_y=177&top_left_x=797)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-010.jpg)
 
 ---
 
@@ -880,7 +880,7 @@ $6 \sqrt{3} \mathrm{~cm}$
 >
 > (ii) $A B^{2}=A E^{2}+B E^{2}$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-091.jpg?height=238&width=346&top_left_y=447&top_left_x=849)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-011.jpg)
 >
 > $$
 > \begin{aligned}
@@ -938,7 +938,7 @@ $6 \sqrt{3} \mathrm{~cm}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-091.jpg?height=226&width=392&top_left_y=942&top_left_x=799)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-012.jpg)
 
 ---
 
@@ -977,7 +977,7 @@ $300 \sqrt{61} \mathrm{~km}$
 > \end{equation*}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-091.jpg?height=281&width=382&top_left_y=1274&top_left_x=813)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-013.jpg)
 
 ---
 
@@ -1002,7 +1002,7 @@ $300 \sqrt{61} \mathrm{~km}$
 > \end{align*}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-091.jpg?height=223&width=394&top_left_y=1588&top_left_x=801)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-014.jpg)
 
 ---
 
@@ -1070,7 +1070,7 @@ $300 \sqrt{61} \mathrm{~km}$
 > =(5 \times 12) \mathrm{cm}=60 \mathrm{~cm}=0.6 \mathrm{~m} .
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-092.jpg?height=261&width=404&top_left_y=539&top_left_x=791)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20D%20Ex-015.jpg)
 >
 > So, after 12 s , we have $B C^{\prime}=(3-0.6) \mathrm{m}=2.4 \mathrm{~m}$ and $B M=1.8 \mathrm{~m}$.
 >

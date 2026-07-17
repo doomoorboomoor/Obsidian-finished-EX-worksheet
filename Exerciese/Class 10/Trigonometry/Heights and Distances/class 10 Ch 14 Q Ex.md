@@ -669,7 +669,7 @@ An observer 1.5 m tall is 28.5 m away from a tower and the angle of elevation of
 > $\Rightarrow \tan \theta=\frac{12}{4 \sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}}=\sqrt{3}=\tan 60^{\circ}$
 > $\Rightarrow \theta=60^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-38.jpg?height=277&width=285&top_left_y=1667&top_left_x=906)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20Q%20Ex-001.jpg)
 
 ---
 
@@ -823,7 +823,7 @@ An observer 1.5 m tall is 28.5 m away from a tower and the angle of elevation of
 >
 > Thus, $\frac{x}{h}=\frac{x}{20} \Rightarrow h=20 \mathrm{~m}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-39.jpg?height=321&width=400&top_left_y=1639&top_left_x=791)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20Q%20Ex-002.jpg)
 
 ---
 
@@ -842,7 +842,7 @@ An observer 1.5 m tall is 28.5 m away from a tower and the angle of elevation of
 > $\therefore \quad \frac{C D}{E C}=\frac{A B}{A E} \Rightarrow \frac{x}{7.5}=\frac{1.5}{4.5}=\frac{1}{3} \Rightarrow x=\left(7.5 \times \frac{1}{3}\right)=2.5$.
 > Hence, the height of the lamp-post is 2.5 m .
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-40.jpg?height=186&width=330&top_left_y=227&top_left_x=865)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20Q%20Ex-003.jpg)
 
 ---
 
@@ -952,7 +952,7 @@ An observer 1.5 m tall is 28.5 m away from a tower and the angle of elevation of
 > But, $O A=O C$.
 > $\therefore \quad x \sqrt{3}=\frac{y}{\sqrt{3}} \Rightarrow 3 x=y \Rightarrow \frac{x}{y}=\frac{1}{3} \Rightarrow x: y=1: 3$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-40.jpg?height=325&width=368&top_left_y=1572&top_left_x=831)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20Q%20Ex-004.jpg)
 
 ---
 
@@ -1094,7 +1094,7 @@ An observer 1.5 m tall is 28.5 m away from a tower and the angle of elevation of
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-41.jpg?height=246&width=483&top_left_y=1665&top_left_x=712)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20Q%20Ex-005.jpg)
 
 ---
 
@@ -1152,6 +1152,6 @@ An observer 1.5 m tall is 28.5 m away from a tower and the angle of elevation of
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-42.jpg?height=376&width=376&top_left_y=676&top_left_x=813)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20Q%20Ex-006.jpg)
 
 ---

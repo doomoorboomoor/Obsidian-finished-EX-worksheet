@@ -343,7 +343,7 @@ Write the steps of construction to construct the tangents to a circle from an ex
 >
 > Draw a circle with centre $O$ and radius 3 cm . Draw a radius $O A$ and produce it to $B$. Make $\angle A O P=60^{\circ}$. Draw $P Q \perp O P$, meeting $O B$ at $Q$. Then, $P Q$ is the desired tangent such that $\angle O Q P=30^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_abaee9a7495f7b0fed6bg-15.jpg?height=277&width=406&top_left_y=845&top_left_x=793)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Constructions/class%2010%20Ch%2009%20B%20Ex-001.jpg)
 
 ---
 

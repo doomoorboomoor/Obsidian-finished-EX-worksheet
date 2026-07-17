@@ -134,7 +134,7 @@ review: false
 
 2. In the given figure, $\triangle O D C \sim \triangle O B A, \angle B O C=115^{\circ}$ and $\angle C D O=70^{\circ}$. Find:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-046.jpg?height=353&width=213&top_left_y=1200&top_left_x=982)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-001.jpg)
 
 #### Question 02/i
 
@@ -216,7 +216,7 @@ review: false
 
 3. In the given figure, $\triangle O A B \sim \triangle O C D$. If $A B=8 \mathrm{~cm}, B O=6.4 \mathrm{~cm}, O C=3.5 \mathrm{~cm}$ and $C D=5 \mathrm{~cm}$, find:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-046.jpg?height=257&width=253&top_left_y=1614&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-002.jpg)
 
 #### Question 03/i
 
@@ -263,7 +263,7 @@ review: false
 
 4. In the given figure, if $\angle A D E=\angle B$, show that $\triangle A D E \sim \triangle A B C$. If $A D=3.8 \mathrm{~cm}, A E=3.6 \mathrm{~cm}, B E=2.1 \mathrm{~cm}$ and $B C=4.2 \mathrm{~cm}$, find $D E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-047.jpg?height=270&width=255&top_left_y=171&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-003.jpg)
 
 - Answer:
 
@@ -321,7 +321,7 @@ review: false
 
 7. In the given figure, $\angle C A B=90^{\circ}$ and $A D \perp B C$. Show that $\triangle B D A \sim \triangle B A C$. If $A C=75 \mathrm{~cm}, A B=1 \mathrm{~m}$ and $B C=1.25 \mathrm{~m}$, find $A D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-047.jpg?height=301&width=390&top_left_y=741&top_left_x=807)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-004.jpg)
 
 - Answer:
 
@@ -340,7 +340,7 @@ review: false
 
 8. In the given figure, $\angle A B C=90^{\circ}$ and $B D \perp A C$. If $A B=5.7 \mathrm{~cm}, B D=3.8 \mathrm{~cm}$ and $C D=5.4 \mathrm{~cm}$, find $B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-047.jpg?height=285&width=368&top_left_y=1099&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-005.jpg)
 
 - Answer:
 
@@ -359,7 +359,7 @@ review: false
 
 9. In the given figure, $\angle A B C=90^{\circ}$ and $B D \perp A C$. If $B D=8 \mathrm{~cm}, A D=4 \mathrm{~cm}$, find $C D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-047.jpg?height=287&width=350&top_left_y=1443&top_left_x=847)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-006.jpg)
 
 - Answer:
 
@@ -397,7 +397,7 @@ review: false
 
 11. $A B C D$ is a parallelogram and $E$ is a point on $B C$. If the diagonal $B D$ intersects $A E$ at $F$, prove that $A F \times F B=E F \times F D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-048.jpg?height=220&width=334&top_left_y=177&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-007.jpg)
 
 - Answer:
 
@@ -416,7 +416,7 @@ review: false
 
 12. In the given figure, $D B \perp B C, D E \perp A B$ and $A C \perp B C$. Prove that $\frac{B E}{D E}=\frac{A C}{B C}$. [CBSE 2008]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-048.jpg?height=217&width=305&top_left_y=434&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-008.jpg)
 
 - Answer:
 
@@ -454,7 +454,7 @@ review: false
 
 14. In an isosceles $\triangle A B C$, the base $A B$ is produced both ways in $P$ and $Q$ such that $A P \times B Q=A C^{2}$. Prove that $\triangle A C P \sim \triangle B C Q$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-048.jpg?height=241&width=326&top_left_y=821&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-009.jpg)
 
 - Answer:
 
@@ -473,7 +473,7 @@ review: false
 
 15. In the given figure, $\angle 1=\angle 2$ and $\frac{A C}{B D}=\frac{C B}{C E}$. Prove that $\triangle A C B \sim \triangle D C E$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-048.jpg?height=253&width=326&top_left_y=1097&top_left_x=869)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-010.jpg)
 
 - Answer:
 
@@ -492,7 +492,7 @@ review: false
 
 16. $A B C D$ is a quadrilateral in which $A D=B C$. If $P, Q, R, S$ be the midpoints of $A B, A C, C D$ and $B D$ respectively, show that $P Q R S$ is a rhombus.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-048.jpg?height=239&width=334&top_left_y=1387&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-011.jpg)
 
 - Answer:
 
@@ -508,7 +508,7 @@ review: false
 
 17. In a circle, two chords $A B$ and $C D$ intersect at a point $P$ inside the circle. Prove that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-048.jpg?height=228&width=245&top_left_y=1679&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-012.jpg)
 
 #### Question 17/a
 
@@ -552,7 +552,7 @@ review: false
 
 18. Two chords $A B$ and $C D$ of a circle intersect at a point $P$ outside the circle. Prove that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-049.jpg?height=254&width=356&top_left_y=169&top_left_x=841)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-013.jpg)
 
 #### Question 18/a
 
@@ -596,7 +596,7 @@ review: false
 
 19. In a right triangle $A B C$, right-angled at $B$, $D$ is a point on hypotenuse such that $B D \perp A C$. If $D P \perp A B$ and $D Q \perp B C$ then prove that:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-049.jpg?height=295&width=261&top_left_y=469&top_left_x=936)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-014.jpg)
 
 #### Question 19/a
 
@@ -994,7 +994,7 @@ $C D=16 \mathrm{~cm}$
 > Thus, $\angle C A P=\angle C B Q$ and $\frac{A P}{A C}=\frac{B C}{B Q}$.
 > $\therefore \quad \triangle A C P \sim \triangle B C Q$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-050.jpg?height=245&width=336&top_left_y=1538&top_left_x=861)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-015.jpg)
 
 ---
 
@@ -1016,7 +1016,7 @@ $C D=16 \mathrm{~cm}$
 >
 > $\therefore \quad \triangle A C B \sim \triangle D C E$ [SAS-similarity].
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-051.jpg?height=252&width=326&top_left_y=171&top_left_x=869)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-016.jpg)
 
 ---
 
@@ -1042,7 +1042,7 @@ $C D=16 \mathrm{~cm}$
 > In $\triangle C D B, S R \| B C$ and $S R=\frac{1}{2} B C=\frac{1}{2} D A$.
 > $\therefore \quad S P \| R Q$ and $P Q \| S R$ and $P Q=R Q=S P=S R$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-051.jpg?height=243&width=338&top_left_y=509&top_left_x=857)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-017.jpg)
 
 ---
 
@@ -1066,7 +1066,7 @@ $C D=16 \mathrm{~cm}$
 > $$
 > And so, $\frac{P A}{P D}=\frac{P C}{P B} \Rightarrow P A \cdot P B=P C \cdot P D$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-051.jpg?height=232&width=249&top_left_y=1047&top_left_x=946)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-018.jpg)
 
 ---
 
@@ -1114,7 +1114,7 @@ $C D=16 \mathrm{~cm}$
 > $\therefore \quad \triangle P A C \sim \triangle P D B$ [by AA-similarity]
 > And so, $\frac{P A}{P D}=\frac{P C}{P B} \Rightarrow P A \cdot P B=P C \cdot P D$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-051.jpg?height=245&width=354&top_left_y=1310&top_left_x=837)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-019.jpg)
 
 ---
 
@@ -1158,7 +1158,7 @@ $C D=16 \mathrm{~cm}$
 > $\therefore \quad \triangle B Q D \sim \triangle D Q C$ [by AA-similarity]
 > And so, $\frac{B Q}{D Q}=\frac{D Q}{Q C} \Rightarrow D Q^{2}=B Q \cdot Q C \Rightarrow D Q^{2}=D P \cdot Q C \quad[\because B Q=D P]$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-051.jpg?height=295&width=259&top_left_y=1645&top_left_x=936)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20B%20Ex-020.jpg)
 
 ---
 

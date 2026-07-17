@@ -175,7 +175,7 @@ Join $A B$ to get the required graph.
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-38.jpg?height=748&width=797&top_left_y=1184&top_left_x=269)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Functions/class%2011%20Ch%2003%20D%20Ex-001.jpg)
 
 
 
@@ -222,7 +222,7 @@ Join $A B C D$ and $D E F G$ to get the required graph.
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-39.jpg?height=796&width=945&top_left_y=491&top_left_x=205)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Functions/class%2011%20Ch%2003%20D%20Ex-002.jpg)
 
 | $x$ | -3 | -2 | -1 |
 | :---: | :-: | :-: | :-: |
@@ -277,7 +277,7 @@ Graph of the curve, $f(x)=\sqrt{x}$
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-40.jpg?height=476&width=1087&top_left_y=406&top_left_x=108)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Functions/class%2011%20Ch%2003%20D%20Ex-003.jpg)
 
 
 
@@ -326,7 +326,7 @@ Remember: $\sqrt[3]{3}=1.4$ and $\sqrt[3]{5}=1.7$.
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_d151f9018eef695a9ce3g-40.jpg?height=406&width=995&top_left_y=1445&top_left_x=151)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Functions/class%2011%20Ch%2003%20D%20Ex-004.jpg)
 
 
 

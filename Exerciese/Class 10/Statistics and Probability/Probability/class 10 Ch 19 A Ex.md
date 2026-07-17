@@ -357,7 +357,7 @@ A child has a die whose 6 faces show the letters given below:
 
 The die is thrown once. What is the probability of getting
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_147c6c3aefe240b708f5g-16.jpg?height=78&width=553&top_left_y=376&top_left_x=372)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Statistics%20and%20Probability/Probability/class%2010%20Ch%2019%20A%20Ex-001.jpg)
 
 #### Question 06/i
 
@@ -988,7 +988,7 @@ a number which is a perfect square.
 
 A game of chance consists of spinning an arrow which is equally likely to come to rest pointing to one of the numbers $1,2,3, \ldots, 12$ as shown in the figure. What is the probability that it will point to
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_147c6c3aefe240b708f5g-17.jpg?height=251&width=255&top_left_y=1161&top_left_x=940)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Statistics%20and%20Probability/Probability/class%2010%20Ch%2019%20A%20Ex-002.jpg)
 
 #### Question 25/i
 

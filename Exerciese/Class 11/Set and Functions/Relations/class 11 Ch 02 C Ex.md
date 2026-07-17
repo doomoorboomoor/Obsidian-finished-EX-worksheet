@@ -671,7 +671,7 @@ $\operatorname{dom}(R)=\{3,5,7\}$ and range $(R)=\{2,4,6\}$
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1481dc25820428c93bfg-18.jpg?height=309&width=623&top_left_y=1298&top_left_x=229)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Relations/class%2011%20Ch%2002%20C%20Ex-001.jpg)
 
 ---
 
@@ -783,7 +783,7 @@ co-domain of $R=\{1,2,3,4,5,6\}$
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c1481dc25820428c93bfg-19.jpg?height=313&width=631&top_left_y=306&top_left_x=229)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Relations/class%2011%20Ch%2002%20C%20Ex-002.jpg)
 
 ---
 

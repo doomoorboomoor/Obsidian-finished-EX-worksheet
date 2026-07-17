@@ -374,7 +374,7 @@ $5$ units
 > =\sqrt{(4-0)^{2}+(0-3)^{2}}=\sqrt{25}=5 \text{ units. }
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-45.jpg?height=246&width=402&top_left_y=1651&top_left_x=539)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Coordinate%20Geometry/Coordinate%20Geometry/class%2010%20Ch%2006%20C%20Ex-001.jpg)
 
 ---
 
@@ -450,7 +450,7 @@ $3: 5$
 > 
 > Midpoint of $B D=\left(\frac{5+2}{2}, \frac{-1+6}{2}\right)=\left(\frac{7}{2}, \frac{5}{2}\right)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-46.jpg?height=255&width=420&top_left_y=678&top_left_x=775)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Coordinate%20Geometry/Coordinate%20Geometry/class%2010%20Ch%2006%20C%20Ex-002.jpg)
 
 ---
 

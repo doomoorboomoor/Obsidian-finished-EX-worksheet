@@ -504,7 +504,7 @@ $$
 
 Find the linear inequations for which the shaded area is the solution set in the figure given below.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-18.jpg?height=599&width=893&top_left_y=273&top_left_x=229)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Algebra/Linear%20Inequations%20In%20two%20variables/class%2011%20Ch%2007%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -524,7 +524,7 @@ Find the linear inequations for which the shaded area is the solution set in the
 
 Find the linear inequations for which the shaded area in the figure given below, is the solution set.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_f51f2dc6ee1364149324g-18.jpg?height=794&width=845&top_left_y=1049&top_left_x=249)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Algebra/Linear%20Inequations%20In%20two%20variables/class%2011%20Ch%2007%20A%20Ex-002.jpg)
 
 - Answer:
 

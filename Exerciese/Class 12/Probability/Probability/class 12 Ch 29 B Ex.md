@@ -951,7 +951,7 @@ Let $S_{1}$ and $S_{2}$ be the two switches and let their probabilities of worki
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_eccdfaae35d7bcd4e470g-24.jpg?height=113&width=569&top_left_y=1202&top_left_x=377)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Probability/Probability/class%2012%20Ch%2029%20B%20Ex-001.jpg)
 
 
 
@@ -978,7 +978,7 @@ Let $S_{1}$ and $S_{2}$ be two the switches and let their probabilities of worki
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_eccdfaae35d7bcd4e470g-24.jpg?height=221&width=653&top_left_y=1520&top_left_x=334)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Probability/Probability/class%2012%20Ch%2029%20B%20Ex-002.jpg)
 
 
 

@@ -2015,7 +2015,7 @@ If $\sec 5 A=\operatorname{cosec}\left(A-36^{\circ}\right)$ and $5 A$ is an acut
 > $\Rightarrow A B=\sqrt{9 x^{2}}=3 x$.
 > $\therefore \quad \sec \theta=\frac{A C}{A B}=\frac{\sqrt{10} x}{3 x}=\frac{\sqrt{10}}{3}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_336675faa88a60b0c9d3g-42.jpg?height=216&width=257&top_left_y=173&top_left_x=942)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Trigonometric%20Identities/class%2010%20Ch%2013%20Q%20Ex-001.jpg)
 
 ---
 

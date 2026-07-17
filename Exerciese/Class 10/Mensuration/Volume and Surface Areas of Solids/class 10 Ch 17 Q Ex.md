@@ -62,7 +62,7 @@ A shuttlecock used for playing badminton is the combination of
 (c) a cone and a hemisphere
 (d) a cylinder and a sphere
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-63.jpg?height=212&width=162&top_left_y=1647&top_left_x=1016)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Volume%20and%20Surface%20Areas%20of%20Solids/class%2010%20Ch%2017%20Q%20Ex-001.jpg)
 
 - Answer:
 
@@ -85,7 +85,7 @@ A funnel is the combination of
 (c) a cylinder and frustum of a cone
 (d) a cone and a hemisphere
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-64.jpg?height=216&width=156&top_left_y=165&top_left_x=1031)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Volume%20and%20Surface%20Areas%20of%20Solids/class%2010%20Ch%2017%20Q%20Ex-002.jpg)
 
 - Answer:
 

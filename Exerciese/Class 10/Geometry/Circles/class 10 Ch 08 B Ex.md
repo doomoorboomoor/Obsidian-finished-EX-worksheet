@@ -41,7 +41,7 @@ review: false
 In the adjoining figure, a circle touches all the four sides of a quadrilateral $A B C D$ whose sides are $A B=6 \mathrm{~cm}, B C=9 \mathrm{~cm}$ and $C D=8 \mathrm{~cm}$. Find the length of side $A D$.
 [CBSE 2011]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-30.jpg?height=245&width=253&top_left_y=1441&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-001.jpg)
 
 - Answer:
 
@@ -61,7 +61,7 @@ In the adjoining figure, a circle touches all the four sides of a quadrilateral 
 In the given figure, $P A$ and $P B$ are two tangents to the circle with centre $O$. If $\angle A P B=50^{\circ}$ then what is the measure of $\angle O A B$.
 [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-30.jpg?height=245&width=352&top_left_y=1707&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-002.jpg)
 
 - Answer:
 
@@ -81,7 +81,7 @@ In the given figure, $P A$ and $P B$ are two tangents to the circle with centre 
 In the given figure, $O$ is the centre of a circle. $P T$ and $P Q$ are tangents to the circle from an external point $P$. If $\angle T P Q=70^{\circ}$, find $\angle T R Q$.
 [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-31.jpg?height=246&width=289&top_left_y=169&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-003.jpg)
 
 - Answer:
 
@@ -101,7 +101,7 @@ In the given figure, $O$ is the centre of a circle. $P T$ and $P Q$ are tangents
 In the given figure, common tangents $A B$ and $C D$ to the two circles with centres $O_{1}$ and $O_{2}$ intersect at $E$. Prove that $A B=C D$.
 [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-31.jpg?height=248&width=527&top_left_y=455&top_left_x=668)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-004.jpg)
 
 - Answer:
 
@@ -120,7 +120,7 @@ In the given figure, common tangents $A B$ and $C D$ to the two circles with cen
 
 If $P T$ is a tangent to a circle with centre $O$ and $P Q$ is a chord of the circle such that $\angle Q P T=70^{\circ}$, then find the measure of $\angle P O Q$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-31.jpg?height=208&width=249&top_left_y=745&top_left_x=946)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-005.jpg)
 
 - Answer:
 
@@ -140,7 +140,7 @@ If $P T$ is a tangent to a circle with centre $O$ and $P Q$ is a chord of the ci
 In the given figure, a triangle $A B C$ is drawn to circumscribe a circle of radius 2 cm such that the segments $B D$ and $D C$ into which $B C$ is divided by the point of contact $D$, are of lengths 4 cm and 3 cm respectively. If the area of $\triangle A B C=21 \mathrm{~cm}^{2}$ then find the lengths of sides $A B$ and $A C$.
 [CBSE 2011]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-31.jpg?height=226&width=283&top_left_y=1059&top_left_x=912)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-006.jpg)
 
 - Answer:
 
@@ -195,7 +195,7 @@ Prove that the perpendicular at the point of contact of the tangent to a circle 
 In the given figure, two tangents $R Q$ and $R P$ are drawn from an external point $R$ to the circle with centre $O$. If $\angle P R Q=120^{\circ}$, then prove that $O R=P R+R Q$.
 [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-31.jpg?height=267&width=225&top_left_y=1663&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-007.jpg)
 
 - Answer:
 
@@ -215,7 +215,7 @@ In the given figure, two tangents $R Q$ and $R P$ are drawn from an external poi
 In the given figure, a circle inscribed in a triangle $A B C$ touches the sides $A B, B C$ and $C A$ at points $D$, $E$ and $F$ respectively. If $A B=14 \mathrm{~cm}, B C=8 \mathrm{~cm}$ and $C A=12 \mathrm{~cm}$. Find the lengths $A D, B E$ and $C F$.
 [CBSE 2013]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-32.jpg?height=287&width=191&top_left_y=171&top_left_x=1006)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-008.jpg)
 
 - Answer:
 
@@ -234,7 +234,7 @@ In the given figure, a circle inscribed in a triangle $A B C$ touches the sides 
 
 In the given figure, $O$ is the centre of the circle. $P A$ and $P B$ are tangents. Show that $A O B P$ is a cyclic quadrilateral. [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-32.jpg?height=252&width=326&top_left_y=475&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-009.jpg)
 
 - Answer:
 
@@ -272,7 +272,7 @@ In two concentric circles, a chord of length 8 cm of the larger circle touches t
 In the given figure, $P Q$ is a chord of a circle with centre $O$ and $P T$ is a tangent. If $\angle Q P T=60^{\circ}$, find $\angle P R Q$.
 [HOTS] [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-32.jpg?height=209&width=301&top_left_y=877&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-010.jpg)
 
 - Answer:
 
@@ -291,7 +291,7 @@ In the given figure, $P Q$ is a chord of a circle with centre $O$ and $P T$ is a
 
 In the given figure, $P A$ and $P B$ are two tangents to the circle with centre $O$. If $\angle A P B=60^{\circ}$ then find the measure of $\angle O A B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-32.jpg?height=216&width=299&top_left_y=1110&top_left_x=900)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-011.jpg)
 
 - Answer:
 
@@ -372,7 +372,7 @@ $55^{\circ}$
 > Now, $\angle T R Q=\frac{1}{2} \times \angle T O Q=\frac{1}{2} \times 110^{\circ}=55^{\circ}$
 > $[\because$ the angle subtended by an arc of a circle at the centre is double the angle subtended by it at any point on the remaining part of the circle].
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-33.jpg?height=239&width=291&top_left_y=249&top_left_x=904)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-012.jpg)
 
 ---
 
@@ -410,7 +410,7 @@ $140^{\circ}$
 > $\therefore \quad \angle P O Q=2 \angle P R Q=2 \times 70^{\circ}=140^{\circ}$.
 > $[\because$ angle subtended by an arc on the centre is double the angle subtended at any point on the remaining part of the circle.]
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-33.jpg?height=204&width=265&top_left_y=781&top_left_x=930)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-013.jpg)
 
 ---
 
@@ -439,7 +439,7 @@ $A B=7.5 \mathrm{~cm}, A C=6.5 \mathrm{~cm}$
 > $\Rightarrow \quad 21=\frac{1}{2} \times\{(x+4)+(4+3)+(3+x)\} \times 2 \Rightarrow x=3.5$.
 > $\therefore A B=(x+4) \mathrm{cm}=7.5 \mathrm{~cm} ; A C=(x+3) \mathrm{cm}=6.5 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-33.jpg?height=229&width=285&top_left_y=1103&top_left_x=910)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-014.jpg)
 
 ---
 
@@ -460,7 +460,7 @@ $A B=7.5 \mathrm{~cm}, A C=6.5 \mathrm{~cm}$
 > Now, $O P=3 \mathrm{~cm}, O A=5 \mathrm{~cm} \Rightarrow A P=\sqrt{O A^{2}-O P^{2}}=\sqrt{5^{2}-3^{2}}=4$.
 > $\therefore \quad A B=2 A P=8 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-33.jpg?height=219&width=217&top_left_y=1566&top_left_x=978)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-015.jpg)
 
 ---
 
@@ -498,7 +498,7 @@ $A B=7.5 \mathrm{~cm}, A C=6.5 \mathrm{~cm}$
 > Similarly, $R Q=\frac{1}{2} \times O R$.
 > $\therefore \quad P R+R Q=O R$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-34.jpg?height=273&width=225&top_left_y=201&top_left_x=970)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-016.jpg)
 
 ---
 
@@ -517,7 +517,7 @@ $A D=9 \mathrm{~cm}, B E=5 \mathrm{~cm}, C F=3 \mathrm{~cm}$
 > Solving, $x=9, y=5, z=3$.
 > $\therefore \quad A D=x=9 \mathrm{~cm}, B E=y=5 \mathrm{~cm}, C F=z=3 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-34.jpg?height=287&width=189&top_left_y=753&top_left_x=1006)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-017.jpg)
 
 ---
 
@@ -551,7 +551,7 @@ $A D=9 \mathrm{~cm}, B E=5 \mathrm{~cm}, C F=3 \mathrm{~cm}$
 > Now, $O A=5 \mathrm{~cm}, A P=4 \mathrm{~cm} \Rightarrow O P=\sqrt{O A^{2}-A P^{2}}=\sqrt{5^{2}-4^{2}}=3$.
 > $\therefore$ radius of smaller circle $=O P=3 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-34.jpg?height=289&width=287&top_left_y=1103&top_left_x=910)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-018.jpg)
 
 ---
 
@@ -575,7 +575,7 @@ $120^{\circ}$
 > $[\because P M Q R$ is a cyclic quadrilateral $]$
 > $\Rightarrow \angle P R Q=180^{\circ}-\angle P M Q=180^{\circ}-60^{\circ}=120^{\circ}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-34.jpg?height=200&width=301&top_left_y=1562&top_left_x=894)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20B%20Ex-019.jpg)
 
 ---
 

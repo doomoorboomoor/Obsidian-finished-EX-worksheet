@@ -472,7 +472,7 @@ Two circular pieces of equal radii and maximum area, touching each other are cut
 In the given figure, $A B C D$ is a square of side 4 cm . A quadrant of a circle of radius 1 cm is drawn at each vertex of the square and a circle of diameter 2 cm is also drawn. Find the area of the shaded region. [Use $\pi=3.14$.]
 [CBSE 2012]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-46.jpg?height=309&width=275&top_left_y=1204&top_left_x=920)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-001.jpg)
 
 - Answer:
 
@@ -510,7 +510,7 @@ From a rectangular sheet of paper $A B C D$ with $A B=40 \mathrm{~cm}$ and $A D=
 In the given figure, $O A B C$ is a square of side 7 cm . If $C O P B$ is a quadrant of a circle with centre $C$ find the area of the shaded region.
 [CBSE 2012]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-46.jpg?height=259&width=233&top_left_y=1663&top_left_x=962)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-002.jpg)
 
 - Answer:
 
@@ -530,7 +530,7 @@ In the given figure, $O A B C$ is a square of side 7 cm . If $C O P B$ is a quad
 In the given figure, three sectors of a circle of radius 7 cm , making angles of $60^{\circ}, 80^{\circ}$ and $40^{\circ}$ at the centre are shaded. Find the area of the shaded region.
 [CBSE 2012]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-47.jpg?height=279&width=277&top_left_y=167&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-003.jpg)
 
 - Answer:
 
@@ -550,7 +550,7 @@ In the given figure, three sectors of a circle of radius 7 cm , making angles of
 In the given figure, $P Q$ and $A B$ are respectively the arcs of two concentric circles of radii 7 cm and 3.5 cm with centre $O$. If $\angle P O Q=30^{\circ}$, find the area of the shaded region.
 [CBSE 2012]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-47.jpg?height=208&width=332&top_left_y=487&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-004.jpg)
 
 - Answer:
 
@@ -570,7 +570,7 @@ In the given figure, $P Q$ and $A B$ are respectively the arcs of two concentric
 In the given figure, find the area of the shaded region, if $A B C D$ is a square of side 14 cm and $A P D$ and $B P C$ are semicircles.
 [CBSE 2012]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-47.jpg?height=293&width=265&top_left_y=720&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-005.jpg)
 
 - Answer:
 
@@ -590,7 +590,7 @@ In the given figure, find the area of the shaded region, if $A B C D$ is a squar
 In the given figure, the shape of the top of a table is that of a sector of a circle with centre $O$ and $\angle A O B=90^{\circ}$. If $A O=O B=42 \mathrm{~cm}$ then find the perimeter of the top of the table.
 [CBSE 2012]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-47.jpg?height=220&width=229&top_left_y=1051&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-006.jpg)
 
 - Answer:
 
@@ -609,7 +609,7 @@ In the given figure, the shape of the top of a table is that of a sector of a ci
 
 In the given figure, $A B C D$ is a square of side $7 \mathrm{~cm}, D P B A$ and $D Q B C$ are quadrants of circles each of the radius 7 cm . Find the area of shaded region.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-47.jpg?height=224&width=233&top_left_y=1337&top_left_x=958)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-007.jpg)
 
 - Answer:
 
@@ -629,7 +629,7 @@ In the given figure, $A B C D$ is a square of side $7 \mathrm{~cm}, D P B A$ and
 In the given figure, $O A B C$ is a quadrant of a circle with centre $O$ and radius 3.5 cm . If $O D=2 \mathrm{~cm}$, find the area of the shaded region.
 [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-47.jpg?height=275&width=297&top_left_y=1596&top_left_x=894)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-008.jpg)
 
 - Answer:
 
@@ -649,7 +649,7 @@ In the given figure, $O A B C$ is a quadrant of a circle with centre $O$ and rad
 Find the perimeter of the shaded region in the figure, if $A B C D$ is a square of side 14 cm and $A P B$ and $C P D$ are semicircles.
 [CBSE 2011]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-48.jpg?height=295&width=267&top_left_y=179&top_left_x=924)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-009.jpg)
 
 - Answer:
 
@@ -687,7 +687,7 @@ In a circle of radius 7 cm , a square $A B C D$ is inscribed. Find the area of t
 In the given figure, $A P B$ and $C Q D$ are semicircles of diameter 7 cm each, while $A R C$ an $B S D$ are semicircles of diameter 14 cm each. Find the (i) perimeter, (ii) area of the shaded region.
 [CBSE 2011]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-48.jpg?height=313&width=501&top_left_y=757&top_left_x=430)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-010.jpg)
 
 - Answer:
 
@@ -707,7 +707,7 @@ In the given figure, $A P B$ and $C Q D$ are semicircles of diameter 7 cm each, 
 In the given figure, $P S R, R T Q$ and $P A Q$ are three semicircles of diameter $10 \mathrm{~cm}, 3 \mathrm{~cm}$ and 7 cm respectively. Find the perimeter of shaded region. [Use $\pi=3.14$.]
 [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-48.jpg?height=335&width=493&top_left_y=1226&top_left_x=434)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-011.jpg)
 
 - Answer:
 
@@ -727,7 +727,7 @@ In the given figure, $P S R, R T Q$ and $P A Q$ are three semicircles of diamete
 In the given figure, a square $O A B C$ is inscribed in a quadrant $O P B Q$ of a circle. If $O A=20 \mathrm{~cm}$, find the area of the shaded region. [Use $\pi=3.14$.]
 [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-48.jpg?height=269&width=269&top_left_y=1610&top_left_x=926)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-012.jpg)
 
 - Answer:
 
@@ -747,7 +747,7 @@ In the given figure, a square $O A B C$ is inscribed in a quadrant $O P B Q$ of 
 In the given figure, $A P B$ and $A Q O$ are semicircles and $A O=O B$. If the perimeter of the figure is 40 cm , find the area of the shaded region.
 [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-49.jpg?height=317&width=434&top_left_y=310&top_left_x=430)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-013.jpg)
 
 - Answer:
 
@@ -785,7 +785,7 @@ Find the area of a quadrant of a circle whose circumference is 44 cm .
 In the given figure, find the area of the shaded region, where $A B C D$ is a square of side 14 cm and all circles are of the same diameter.
 [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-49.jpg?height=309&width=281&top_left_y=745&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-014.jpg)
 
 - Answer:
 
@@ -805,7 +805,7 @@ In the given figure, find the area of the shaded region, where $A B C D$ is a sq
 Find the area of the shaded region in the given figure, if $A B C D$ is a rectangle with sides 8 cm and 6 cm and $O$ is the centre of the circle.
 [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-49.jpg?height=281&width=289&top_left_y=1075&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-015.jpg)
 
 - Answer:
 
@@ -876,7 +876,7 @@ The cost of fencing a circular field at the rate of ₹ 25 per metre is ₹ 5500
 
 A park is in the form of a rectangle 120 m by 90 m . At the centre of the park, there is a circular lawn as shown in the figure. The area of the park excluding the lawn is $2950 \mathrm{~m}^{2}$. Find the radius of the circular lawn. [Given, $\pi=3.14$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-49.jpg?height=176&width=245&top_left_y=1731&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-016.jpg)
 
 - Answer:
 
@@ -895,7 +895,7 @@ A park is in the form of a rectangle 120 m by 90 m . At the centre of the park, 
 
 In the given figure, $P Q S R$ represents a flower bed. If $O P=21 \mathrm{~m}$ and $O R=14 \mathrm{~m}$, find the area of the flower bed.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-50.jpg?height=234&width=229&top_left_y=165&top_left_x=966)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-017.jpg)
 
 - Answer:
 
@@ -914,7 +914,7 @@ In the given figure, $P Q S R$ represents a flower bed. If $O P=21 \mathrm{~m}$ 
 
 In the given figure, $O$ is the centre of the bigger circle, and $A C$ is its diameter. Another circle with $A B$ as diameter is drawn. If $A C=54 \mathrm{~cm}$ and $B C=10 \mathrm{~cm}$, find the area of the shaded region.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-50.jpg?height=297&width=293&top_left_y=434&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-018.jpg)
 
 - Answer:
 
@@ -934,7 +934,7 @@ In the given figure, $O$ is the centre of the bigger circle, and $A C$ is its di
 From a thin metallic piece in the shape of a trapezium $A B C D$ in which $A B \| C D$ and $\angle B C D=90^{\circ}$, a quarter circle $B F E C$ is removed. Given, $A B=B C=3.5 \mathrm{~cm}$ and $D E=2 \mathrm{~cm}$, calculate the area of remaining (shaded) part of metal sheet.
 [CBSE 2011]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-50.jpg?height=264&width=322&top_left_y=765&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-019.jpg)
 
 - Answer:
 
@@ -953,7 +953,7 @@ From a thin metallic piece in the shape of a trapezium $A B C D$ in which $A B \
 
 Find the area of the major segment $A P B$ of a circle of radius 35 cm and $\angle A O B=90^{\circ}$, as shown in the given figure.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-50.jpg?height=206&width=160&top_left_y=1063&top_left_x=1035)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-020.jpg)
 
 - Answer:
 
@@ -1056,7 +1056,7 @@ $8 a \mathrm{~cm}$
 > =(4 \times 2 a)=8 a \mathrm{~cm} .
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-51.jpg?height=156&width=156&top_left_y=926&top_left_x=640)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-021.jpg)
 
 ---
 
@@ -1104,7 +1104,7 @@ $16 \pi$
 > =7\left(\frac{22}{7}+2\right) \mathrm{cm}=36 \mathrm{~cm} .
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-51.jpg?height=83&width=152&top_left_y=1228&top_left_x=672)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-022.jpg)
 
 ---
 
@@ -1237,7 +1237,7 @@ $\pi : 2$
 > Area of the circle $=\left(\pi r^{2}\right) \mathrm{cm}^{2}$.
 > Area of the square $=\frac{1}{2} \times(\text { diagonal })^{2}=\frac{1}{2} \times 4 r^{2}=\left(2 r^{2}\right) \mathrm{cm}^{2}$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-52.jpg?height=152&width=157&top_left_y=443&top_left_x=1026)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-023.jpg)
 > 
 > $\therefore \quad$ required ratio $=\pi r^{2}: 2 r^{2}=\pi: 2$.
 
@@ -1414,7 +1414,7 @@ $812 \mathrm{~cm}^{2}$
 > =(1120-308) \mathrm{cm}^{2}=812 \mathrm{~cm}^{2} .
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-53.jpg?height=214&width=301&top_left_y=493&top_left_x=894)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-024.jpg)
 
 ---
 
@@ -1598,7 +1598,7 @@ $63 \mathrm{~cm}^{2}$
 > Area of the square $=\frac{1}{2} d^{2}=\left(\frac{1}{2} \times 14 \times 14\right) \mathrm{cm}^{2}=91 \mathrm{~cm}^{2}$.
 > Area of the circle $=\left(\frac{22}{7} \times 7 \times 7\right) \mathrm{cm}^{2 .}=154 \mathrm{~cm}^{2}$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-54.jpg?height=168&width=169&top_left_y=668&top_left_x=1026)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-025.jpg)
 > 
 > Required area $=(154-91) \mathrm{cm}^{2}=63 \mathrm{~cm}^{2}$.
 
@@ -1694,7 +1694,7 @@ $96.25 \mathrm{~cm}^{2}$
 > =\left(77+\frac{77}{4}\right) \mathrm{cm}^{2}=\frac{385}{4} \mathrm{~cm}^{2}=96.25 \mathrm{~cm}^{2} .
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-55.jpg?height=152&width=152&top_left_y=165&top_left_x=1039)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-026.jpg)
 
 ---
 
@@ -1795,7 +1795,7 @@ $616 \mathrm{~m}^{2}$
 > So, diag. $A C=2 r$.
 > $\operatorname{ar}(\text{square } A B C D)=\frac{1}{2} \times(\text{diagonal})^{2}=\left\{\frac{1}{2} \times(2 r)^{2}\right\}$ sq units $=\left(2 r^{2}\right)$ sq units.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-55.jpg?height=152&width=154&top_left_y=1429&top_left_x=1037)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20B%20Ex-027.jpg)
 
 ---
 

@@ -778,7 +778,7 @@ $P\left(\frac{-2}{7}, \frac{-20}{7}\right)$
 > \text { i.e., } P\left(\frac{3 \times 2+4 \times(-2)}{3+4}, \frac{3 \times(-4)+4 \times(-2)}{3+4}\right)=P\left(\frac{-2}{7}, \frac{-20}{7}\right) .
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-28.jpg?height=72&width=374&top_left_y=269&top_left_x=817)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Coordinate%20Geometry/Coordinate%20Geometry/class%2010%20Ch%2006%20B%20Ex-001.jpg)
 
 ---
 
@@ -809,7 +809,7 @@ $k=2$
 > (3 \times 2)+k(-4+1)=0 \Rightarrow 3 k=6 \Rightarrow k=2 .
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-28.jpg?height=72&width=434&top_left_y=680&top_left_x=761)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Coordinate%20Geometry/Coordinate%20Geometry/class%2010%20Ch%2006%20B%20Ex-002.jpg)
 
 ---
 
@@ -843,7 +843,7 @@ $P(2,4), Q(3,2), R(4,0)$
 > $Q$ divides $A B$ in the ratio $2: 2=1: 1$.
 > $R$ divides $A B$ in the ratio $3: 1$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-28.jpg?height=73&width=487&top_left_y=1091&top_left_x=708)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Coordinate%20Geometry/Coordinate%20Geometry/class%2010%20Ch%2006%20B%20Ex-003.jpg)
 
 ---
 
@@ -872,7 +872,7 @@ $p=\frac{7}{3}, q=0$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-28.jpg?height=69&width=414&top_left_y=1224&top_left_x=781)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Coordinate%20Geometry/Coordinate%20Geometry/class%2010%20Ch%2006%20B%20Ex-004.jpg)
 
 ---
 
@@ -1241,7 +1241,7 @@ $P(0,4 \sqrt{3})$ or $P(0,-4 \sqrt{3})$ and $R(4,0)$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-30.jpg?height=327&width=515&top_left_y=1423&top_left_x=680)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Coordinate%20Geometry/Coordinate%20Geometry/class%2010%20Ch%2006%20B%20Ex-005.jpg)
 
 ---
 
@@ -1279,7 +1279,7 @@ $A(3 \sqrt{3}, 0)$ or $A(-3 \sqrt{3}, 0)$ and $B(0,3)$; $[a(3 \sqrt{3}, 0), b(0,
 > 
 > So, the coordinates of $A$ are $(3 \sqrt{3}, 0)$ or $(-3 \sqrt{3}, 0)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_836ee4d67995a4306a0cg-31.jpg?height=452&width=481&top_left_y=185&top_left_x=708)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Coordinate%20Geometry/Coordinate%20Geometry/class%2010%20Ch%2006%20B%20Ex-006.jpg)
 
 ---
 

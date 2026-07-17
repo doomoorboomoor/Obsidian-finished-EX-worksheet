@@ -91,7 +91,7 @@ Two concentric circles are of radii 6.5 cm and 2.5 cm . Find the length of the c
 In the given figure, a circle inscribed in a triangle $A B C$, touches the sides $A B, B C$ and $A C$ at points $D, E$ and $F$ respectively. If $A B=12 \mathrm{~cm}, B C=8 \mathrm{~cm}$ and $A C=10 \mathrm{~cm}$, find the lengths of $A D$, $B E$ and $C F$.
 [CBSE 2013]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-26.jpg?height=295&width=384&top_left_y=459&top_left_x=813)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -110,7 +110,7 @@ In the given figure, a circle inscribed in a triangle $A B C$, touches the sides
 
 In the given figure, $P A$ and $P B$ are the tangent segments to a circle with centre $O$. Show that the points $A, O, B$ and $P$ are concyclic.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-26.jpg?height=226&width=364&top_left_y=799&top_left_x=833)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-002.jpg)
 
 - Answer:
 
@@ -129,7 +129,7 @@ In the given figure, $P A$ and $P B$ are the tangent segments to a circle with c
 
 In the given figure, the chord $A B$ of the larger of the two concentric circles, with centre $O$, touches the smaller circle at $C$. Prove that $A C=C B$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-26.jpg?height=253&width=259&top_left_y=1079&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-003.jpg)
 
 - Answer:
 
@@ -149,7 +149,7 @@ In the given figure, the chord $A B$ of the larger of the two concentric circles
 From an external point $P$, tangents $P A$ and $P B$ are drawn to a circle with centre $O$. If $C D$ is the tangent to the circle at a point $E$ and $P A=14 \mathrm{~cm}$, find the perimeter of $\triangle P C D$.
 [CBSE 2002]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-26.jpg?height=212&width=350&top_left_y=1377&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-004.jpg)
 
 - Answer:
 
@@ -169,7 +169,7 @@ From an external point $P$, tangents $P A$ and $P B$ are drawn to a circle with 
 A circle is inscribed in a $\triangle A B C$ touching $A B, B C$ and $A C$ at $P, Q$ and $R$ respectively. If $A B=10 \mathrm{~cm}, A R=7 \mathrm{~cm}$ and $C R=5 \mathrm{~cm}$, find the length of $B C$.
 [CBSE 2009C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-26.jpg?height=293&width=404&top_left_y=1635&top_left_x=791)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-005.jpg)
 
 - Answer:
 
@@ -188,7 +188,7 @@ A circle is inscribed in a $\triangle A B C$ touching $A B, B C$ and $A C$ at $P
 
 In the given figure, a circle touches all the four sides of a quadrilateral $A B C D$ whose three sides are $A B=6 \mathrm{~cm}, B C=7 \mathrm{~cm}$ and $C D=4 \mathrm{~cm}$. Find $A D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-27.jpg?height=240&width=257&top_left_y=173&top_left_x=938)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-006.jpg)
 
 - Answer:
 
@@ -208,7 +208,7 @@ In the given figure, a circle touches all the four sides of a quadrilateral $A B
 In the given figure, an isosceles triangle $A B C$, with $A B=A C$, circumscribes a circle. Prove that the point of contact $P$ bisects the base $B C$.
 [CBSE 2012, '17]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-27.jpg?height=319&width=346&top_left_y=457&top_left_x=851)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-007.jpg)
 
 - Answer:
 
@@ -227,7 +227,7 @@ In the given figure, an isosceles triangle $A B C$, with $A B=A C$, circumscribe
 
 In the given figure, $O$ is the centre of two concentric circles of radii 4 cm and 6 cm respectively. $P A$ and $P B$ are tangents to the outer and inner circle respectively. If $P A=10 \mathrm{~cm}$, find the length of $P B$ up to one place of decimal.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-27.jpg?height=229&width=446&top_left_y=809&top_left_x=751)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-008.jpg)
 
 - Answer:
 
@@ -247,7 +247,7 @@ In the given figure, $O$ is the centre of two concentric circles of radii 4 cm a
 In the given figure, a triangle $A B C$ is drawn to circumscribe a circle of radius 3 cm such that the segments $B D$ and $D C$ into which $B C$ is divided by the point of contact $D$, are of lengths 6 cm and 9 cm respectively. If the area of $\triangle A B C=54 \mathrm{~cm}^{2}$ then find the lengths of sides $A B$ and $A C$.
 [CBSE 2011, '15]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-27.jpg?height=323&width=402&top_left_y=1129&top_left_x=793)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-009.jpg)
 
 - Answer:
 
@@ -267,7 +267,7 @@ In the given figure, a triangle $A B C$ is drawn to circumscribe a circle of rad
 $P Q$ is a chord of length 4.8 cm of a circle of radius 3 cm . The tangents at $P$ and $Q$ intersect at a point $T$ as shown in the figure. Find the length of $T P$.
 [CBSE 2013C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-27.jpg?height=245&width=354&top_left_y=1546&top_left_x=845)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-010.jpg)
 
 - Answer:
 
@@ -305,7 +305,7 @@ Prove that the line segment joining the points of contact of two parallel tangen
 In the given figure, a circle with centre $O$, is inscribed in a quadrilateral $A B C D$ such that it touches the side $B C, A B, A D$ and $C D$ at points $P, Q, R$ and $S$ respectively. If $A B=29 \mathrm{~cm}, A D=23 \mathrm{~cm}, \angle B=90^{\circ}$ and $D S=5 \mathrm{~cm}$ then find the radius of the circle.
 [CBSE 2008, '13]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-28.jpg?height=258&width=257&top_left_y=173&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-011.jpg)
 
 - Answer:
 
@@ -325,7 +325,7 @@ In the given figure, a circle with centre $O$, is inscribed in a quadrilateral $
 In the given figure, $O$ is the centre of the circle and $T P$ is the tangent to the circle from an external point $T$. If $\angle P B T=30^{\circ}$, prove that $B A: A T=2: 1$.
 [HOTS] [CBSE 2015]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-28.jpg?height=245&width=324&top_left_y=507&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-012.jpg)
 
 - Answer:
 
@@ -387,7 +387,7 @@ $A D=7 \mathrm{~cm}, B E=5 \mathrm{~cm}, C F=3 \mathrm{~cm}$
 >
 > $\therefore \quad A D=x=7 \mathrm{~cm}, B E=y=5 \mathrm{~cm}, C F=z=3 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-28.jpg?height=295&width=390&top_left_y=1246&top_left_x=807)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-013.jpg)
 
 ---
 
@@ -409,7 +409,7 @@ $A D=7 \mathrm{~cm}, B E=5 \mathrm{~cm}, C F=3 \mathrm{~cm}$
 >
 > $\Rightarrow$ quad. $A O B P$ is cyclic $[\because$ a quad. is cyclic if the sum of a pair of opposite angles is $180^{\circ}$ ].
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-28.jpg?height=225&width=364&top_left_y=1582&top_left_x=837)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-014.jpg)
 
 ---
 
@@ -447,7 +447,7 @@ $A D=7 \mathrm{~cm}, B E=5 \mathrm{~cm}, C F=3 \mathrm{~cm}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-29.jpg?height=224&width=362&top_left_y=173&top_left_x=833)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-015.jpg)
 
 ---
 
@@ -473,7 +473,7 @@ $B C=8 \mathrm{~cm}$
 >
 > And so, $B C=B Q+C Q=(3+5) \mathrm{cm}=8 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-29.jpg?height=266&width=360&top_left_y=463&top_left_x=837)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-016.jpg)
 
 ---
 
@@ -513,7 +513,7 @@ $A D=3 \mathrm{~cm}$
 >
 > $\Rightarrow \quad P$ bisects the base $B C$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-29.jpg?height=291&width=311&top_left_y=849&top_left_x=886)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-017.jpg)
 
 ---
 
@@ -577,7 +577,7 @@ $T P=4 \mathrm{~cm}$
 >
 > $\therefore \quad T P=4 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-29.jpg?height=271&width=352&top_left_y=1224&top_left_x=845)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-018.jpg)
 
 ---
 
@@ -607,7 +607,7 @@ $T P=4 \mathrm{~cm}$
 >
 > Hence, $P O Q$ is a straight line passing through $O$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_c310d75fc3e617fdd4a2g-29.jpg?height=237&width=344&top_left_y=1715&top_left_x=853)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Circles/class%2010%20Ch%2008%20A%20Ex-019.jpg)
 
 ---
 

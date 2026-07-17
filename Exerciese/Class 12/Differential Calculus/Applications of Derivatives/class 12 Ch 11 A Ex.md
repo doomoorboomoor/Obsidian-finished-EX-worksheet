@@ -355,7 +355,7 @@ A $13-\mathrm{m}$ long ladder is leaning against a wall. The bottom of the ladde
 
 A man is moving away from a $40-\mathrm{m}$ high tower at a speed of $2 \mathrm{~m} / \mathrm{s}$. Find the rate at which the angle of elevation of the top of the tower is changing when he is at a distance of 30 metres from the foot of the tower. Assume that the eye level of the man is 1.6 m from the ground.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-140.jpg?height=235&width=300&top_left_y=1599&top_left_x=907)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Calculus/Applications%20of%20Derivatives/class%2012%20Ch%2011%20A%20Ex-001.jpg)
 
 - Answer:
 

@@ -963,7 +963,7 @@ In a school, students decided to plant trees in and around the school to reduce 
 
 In a potato race, a bucket is placed at the starting point, which is 5 m from the first potato, and the other potatoes are placed 3 m apart in a straight line. There are 10 potatoes in the line. A competitor starts from the bucket, picks up the nearest potato, runs back with it, drops it in the bucket, runs back to pick up the next potato, runs to the bucket to drop it in, and he continues in the same way until all the potatoes are in the bucket. What is the total distance the competitor has to run?
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6a90a2ac4c85e1f600e0g-41.jpg?height=79&width=575&top_left_y=475&top_left_x=382)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Algebra/Arithmetic%20Progression/class%2010%20Ch%2005%20C%20Ex-001.jpg)
 
 - Answer:
 
@@ -982,7 +982,7 @@ In a potato race, a bucket is placed at the starting point, which is 5 m from th
 
 There are 25 trees at equal distances of 5 m in a line with a water tank, the distance of the water tank from the nearest tree being 10 m . A gardener waters all the trees separately, starting from the water tank and returning back to the water tank after watering each tree to get water for the next. Find the total distance covered by the gardener in order to water all the trees.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_6a90a2ac4c85e1f600e0g-41.jpg?height=156&width=807&top_left_y=849&top_left_x=265)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Algebra/Arithmetic%20Progression/class%2010%20Ch%2005%20C%20Ex-002.jpg)
 
 - Answer:
 

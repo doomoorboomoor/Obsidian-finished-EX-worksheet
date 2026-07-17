@@ -1078,7 +1078,7 @@ $31^{\circ} 30^{\prime}$
 > \end{aligned}
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ca81cf7921381f23bae3g-10.jpg?height=342&width=356&top_left_y=990&top_left_x=845)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Trigonometry/Measurement%20of%20Angles/class%2011%20Ch%2014%20A%20Ex-001.jpg)
 
 ---
 
@@ -1105,7 +1105,7 @@ $\left(\frac{11}{45}\right)^{\mathrm{c}}, 14^{\circ}$
 > \end{aligned}
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ca81cf7921381f23bae3g-10.jpg?height=283&width=233&top_left_y=1419&top_left_x=966)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Trigonometry/Measurement%20of%20Angles/class%2011%20Ch%2014%20A%20Ex-002.jpg)
 
 ---
 

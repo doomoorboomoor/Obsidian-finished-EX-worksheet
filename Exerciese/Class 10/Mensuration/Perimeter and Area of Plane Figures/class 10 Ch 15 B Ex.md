@@ -455,7 +455,7 @@ The cost of fencing a square lawn at ₹ 14 per metre is ₹ 28000 . Find the co
 
 In the given figure, $ABCD$ is a quadrilateral in which diagonal $BD=24 \mathrm{~cm}, AL \perp BD$ and $CM \perp BD$ such that $AL=9 \mathrm{~cm}$ and $CM=12 \mathrm{~cm}$. Calculate the area of the quadrilateral.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-15.jpg?height=196&width=245&top_left_y=958&top_left_x=950)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20B%20Ex-001.jpg)
 
 - Answer:
 
@@ -474,7 +474,7 @@ In the given figure, $ABCD$ is a quadrilateral in which diagonal $BD=24 \mathrm{
 
 Find the area of the quadrilateral $ABCD$ in which $AD=24 \mathrm{~cm}, \angle BAD=90^{\circ}$ and $\triangle BCD$ is an equilateral triangle having each side equal to $26 \mathrm{~cm}$. Also, find the perimeter of the quadrilateral. [Given, $\sqrt{3}=1.73$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-15.jpg?height=236&width=237&top_left_y=1180&top_left_x=954)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20B%20Ex-002.jpg)
 
 - Answer:
 
@@ -493,7 +493,7 @@ Find the area of the quadrilateral $ABCD$ in which $AD=24 \mathrm{~cm}, \angle B
 
 Find the perimeter and area of the quadrilateral $ABCD$ in which $AB=17 \mathrm{~cm}$, $AD=9 \mathrm{~cm}, CD=12 \mathrm{~cm}, \angle ACB=90^{\circ}$ and $AC=15 \mathrm{~cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-15.jpg?height=227&width=197&top_left_y=1435&top_left_x=994)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20B%20Ex-003.jpg)
 
 - Answer:
 
@@ -512,7 +512,7 @@ Find the perimeter and area of the quadrilateral $ABCD$ in which $AB=17 \mathrm{
 
 Find the area of the quadrilateral $ABCD$ in which $AB=42 \mathrm{~cm}$, $BC=21 \mathrm{~cm}, CD=29 \mathrm{~cm}, DA=34 \mathrm{~cm}$ and diagonal $BD=20 \mathrm{~cm}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-15.jpg?height=178&width=479&top_left_y=1776&top_left_x=410)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20B%20Ex-004.jpg)
 
 - Answer:
 
@@ -582,7 +582,7 @@ The area of a parallelogram is $392 \mathrm{~m}^{2}$. If its altitude is twice t
 
 The adjacent sides of a parallelogram $ABCD$ measure $34 \mathrm{~cm}$ and $20 \mathrm{~cm}$, and the diagonal $AC$ measures $42 \mathrm{~cm}$. Find the area of the parallelogram.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-16.jpg?height=172&width=281&top_left_y=495&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20B%20Ex-005.jpg)
 
 - Answer:
 
@@ -799,7 +799,7 @@ $35 \mathrm{~cm}, 420 \mathrm{~cm}^{2}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-17.jpg?height=176&width=269&top_left_y=229&top_left_x=926)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20B%20Ex-006.jpg)
 
 ---
 
@@ -897,7 +897,7 @@ $240 \mathrm{~m}^{2}$
 > Inner area $= (30 \times 13) \mathrm{~m}^{2} = 390 \mathrm{~m}^{2}$.
 > Grass area $= (630-390) \mathrm{~m}^{2} = 240 \mathrm{~m}^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-17.jpg?height=156&width=245&top_left_y=982&top_left_x=942)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20B%20Ex-007.jpg)
 
 ---
 
@@ -1264,7 +1264,7 @@ $216 \mathrm{~cm}^{2}$
 > $(15)^{2} = 9^{2}+x^{2} \Rightarrow x^{2} = (225-81) = 144 \Rightarrow x = \sqrt{144} = 12 \mathrm{~cm}$.
 > $\therefore \quad \text{other diagonal} = 2x = 24 \mathrm{~cm}$. Area $= \left(\frac{1}{2} \times d_{1} \times d_{2}\right) \mathrm{~cm}^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-18.jpg?height=181&width=193&top_left_y=1602&top_left_x=1002)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20B%20Ex-008.jpg)
 
 ---
 

@@ -482,7 +482,7 @@ Four cows are tethered at the four corners of a square field of side 50 m such t
 
 In the given figure, $O P Q R$ is a rhombus, three of whose vertices lie on a circle with centre $O$. If the area of the rhombus is $32 \sqrt{3} \mathrm{~cm}^{2}$, find the radius of the circle.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-30.jpg?height=188&width=189&top_left_y=165&top_left_x=1006)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -692,7 +692,7 @@ Four equal circles are described about the four corners of a square so that each
 
 Four equal circles, each of radius 5 cm , touch each other, as shown in the figure. Find the area included between them. [Take $\pi=3.14$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-30.jpg?height=223&width=237&top_left_y=1306&top_left_x=958)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-002.jpg)
 
 - Answer:
 
@@ -711,7 +711,7 @@ Four equal circles, each of radius 5 cm , touch each other, as shown in the figu
 
 Four equal circles, each of radius $a$ units, touch each other. Show that the area between them is $\left(\frac{6}{7} a^{2}\right)$ sq units.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-30.jpg?height=251&width=253&top_left_y=1550&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-003.jpg)
 
 - Answer:
 
@@ -730,7 +730,7 @@ Four equal circles, each of radius $a$ units, touch each other. Show that the ar
 
 Three equal circles, each of radius 6 cm , touch one another as shown in the figure. Find the area enclosed between them. [Take $\pi=3.14$ and $\sqrt{3}=1.732$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-31.jpg?height=200&width=213&top_left_y=161&top_left_x=978)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-004.jpg)
 
 - Answer:
 
@@ -766,7 +766,7 @@ If three circles of radius $a$ each, are drawn such that each touches the other 
 
 In the given figure, $A B C D$ is a trapezium of area $24.5 \mathrm{~cm}^{2}$. If $A D \| B C$, $\angle D A B=90^{\circ}, A D=10 \mathrm{~cm}, B C=4 \mathrm{~cm}$ and $A B E$ is quadrant of a circle then find the area of the shaded region. [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-31.jpg?height=219&width=333&top_left_y=694&top_left_x=483)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-005.jpg)
 
 - Answer:
 
@@ -789,7 +789,7 @@ $A B C D$ is a field in the shape of a trapezium, $A D \| B C, \angle A B C=90^{
 
 total area of the four sectors,
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-31.jpg?height=245&width=346&top_left_y=960&top_left_x=849)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-006.jpg)
 
 - Answer:
 
@@ -825,7 +825,7 @@ area of the remaining portion, given that $A D=55 \mathrm{~m}, B C=45 \mathrm{~m
 
 Find the area of the shaded region in the given figure, where a circular arc of radius 6 cm has been drawn with vertex of an equilateral triangle of side 12 cm as centre and a sector of circle of radius 6 cm with centre $B$ is made. [Use $\sqrt{3}=1.73$ and $\pi=3.14$.] [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-31.jpg?height=256&width=217&top_left_y=1361&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-007.jpg)
 
 - Answer:
 
@@ -844,7 +844,7 @@ Find the area of the shaded region in the given figure, where a circular arc of 
 
 In the given figure, $A B C D$ is a rectangle with $A B=80 \mathrm{~cm}$ and $B C=70 \mathrm{~cm}, \angle A E D=90^{\circ}$ and $D E=42 \mathrm{~cm}$. A semicircle is drawn, taking $B C$ as diameter. Find the area of the shaded region. [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-31.jpg?height=212&width=281&top_left_y=1683&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-008.jpg)
 
 - Answer:
 
@@ -863,7 +863,7 @@ In the given figure, $A B C D$ is a rectangle with $A B=80 \mathrm{~cm}$ and $B 
 
 In the given figure, from a rectangular region $A B C D$ with $A B=20 \mathrm{~cm}$, a right triangle $A E D$ with $A E=9 \mathrm{~cm}$ and $D E=12 \mathrm{~cm}$, is cut off. On the other end, taking $B C$ as diameter, a semicircle is added on outside the region. Find the area of the shaded region. [Use $\pi=3.14$.] [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-32.jpg?height=174&width=283&top_left_y=201&top_left_x=906)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-009.jpg)
 
 - Answer:
 
@@ -882,7 +882,7 @@ In the given figure, from a rectangular region $A B C D$ with $A B=20 \mathrm{~c
 
 In the given figure, $O$ is the centre of the circle with $A C=24 \mathrm{~cm}, A B=7 \mathrm{~cm}$ and $\angle B O D=90^{\circ}$. Find the area of shaded region. [Use $\pi=3.14$.] [CBSE 2012, '17]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-32.jpg?height=215&width=201&top_left_y=523&top_left_x=990)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-010.jpg)
 
 - Answer:
 
@@ -901,7 +901,7 @@ In the given figure, $O$ is the centre of the circle with $A C=24 \mathrm{~cm}, 
 
 In the given figure, a circle is inscribed in an equilateral triangle $A B C$ of side 12 cm . Find the radius of inscribed circle and the area of the shaded region. [Use $\sqrt{3}=1.73$ and $\pi=3.14$.] [CBSE 2014]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-32.jpg?height=232&width=265&top_left_y=785&top_left_x=930)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-011.jpg)
 
 - Answer:
 
@@ -920,7 +920,7 @@ In the given figure, a circle is inscribed in an equilateral triangle $A B C$ of
 
 On a circular table cover of radius 42 cm , a design is formed by a girl leaving an equilateral triangle $A B C$ in the middle, as shown in the figure. Find the covered area of the design. [Use $\sqrt{3}=1.73$ and $\pi=\frac{22}{7}$.] [CBSE 2013C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-32.jpg?height=212&width=207&top_left_y=1067&top_left_x=982)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-012.jpg)
 
 - Answer:
 
@@ -1007,7 +1007,7 @@ The area of an equilateral triangle is $49 \sqrt{3} \mathrm{~cm}^{2}$. Taking ea
 
 A child draws the figure of an aeroplane as shown. Here, the wings $A B C D$ and $F G H I$ are parallelograms, the tail $D E F$ is an isosceles triangle, the cockpit $C K I$ is a semicircle and $C D F I$ is a square. In the given figure, $B P \perp C D$, $H Q \perp F I \quad$ and $\quad E L \perp D F$. If $\quad C D=8 \mathrm{~cm}$, $B P=H Q=4 \mathrm{~cm}$ and $D E=E F=5 \mathrm{~cm}$, find the area of the whole figure. [Take $\pi=3.14$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-33.jpg?height=291&width=295&top_left_y=189&top_left_x=902)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-013.jpg)
 
 - Answer:
 
@@ -1060,7 +1060,7 @@ A round table cover has six equal designs as shown in the given figure. If the r
 
 In the given figure, $P Q=24 \mathrm{~cm}, P R=7 \mathrm{~cm}$ and $O$ is the centre of the circle. Find the area of the shaded region. [Take $\pi=3.14$.] [CBSE 2009]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-33.jpg?height=627&width=336&top_left_y=652&top_left_x=861)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-014.jpg)
 
 - Answer:
 
@@ -1079,7 +1079,7 @@ In the given figure, $P Q=24 \mathrm{~cm}, P R=7 \mathrm{~cm}$ and $O$ is the ce
 
 In the given figure, $\triangle A B C$ is right-angled at $A$. Find the area of the shaded region if $A B=6 \mathrm{~cm}, B C=10 \mathrm{~cm}$ and $O$ is the centre of the incircle of $\triangle A B C$. [Take $\pi=3.14$.] [CBSE 2009]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-33.jpg?height=271&width=545&top_left_y=1425&top_left_x=418)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-015.jpg)
 
 - Answer:
 
@@ -1098,7 +1098,7 @@ In the given figure, $\triangle A B C$ is right-angled at $A$. Find the area of 
 
 In the given figure, $\triangle A B C$ is right-angled at $A$.Semicircles are drawn on $A B, A C$ and $B C$ as diameters. It is given that $A B=3 \mathrm{~cm}$ and $A C=4 \mathrm{~cm}$. Find the area of the shaded region. [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-33.jpg?height=219&width=366&top_left_y=1709&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-016.jpg)
 
 - Answer:
 
@@ -1117,7 +1117,7 @@ In the given figure, $\triangle A B C$ is right-angled at $A$.Semicircles are dr
 
 $P Q R S$ is a diameter of a circle of radius 6 cm . The lengths $P Q, Q R$ and $R S$ are equal. Semicircles are drawn with $P Q$ and $Q S$ as diameters, as shown in the given figure. If $P S=12 \mathrm{~cm}$, find the perimeter and area of the shaded region. [Take $\pi=3.14$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-34.jpg?height=240&width=281&top_left_y=193&top_left_x=910)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-017.jpg)
 
 - Answer:
 
@@ -1153,8 +1153,8 @@ The inside perimeter of a running track shown in the figure is 400 m . The lengt
 
 In the given figure, $A B C D$ is a rectangle of dimensions $21 \mathrm{~cm} \times 14 \mathrm{~cm}$. A semicircle is drawn with $B C$ as diameter. Find the area and the perimeter of the shaded region in the figure. [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-34.jpg?height=174&width=346&top_left_y=541&top_left_x=849)
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-34.jpg?height=224&width=366&top_left_y=749&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-018.jpg)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-019.jpg)
 
 - Answer:
 
@@ -1173,7 +1173,7 @@ In the given figure, $A B C D$ is a rectangle of dimensions $21 \mathrm{~cm} \ti
 
 In the given figure, two concentric circles with centre $O$ have radii 21 cm and 42 cm . If $\angle A O B=60^{\circ}$, find the area of the shaded region. [Use $\pi=\frac{22}{7}$.] [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-34.jpg?height=281&width=273&top_left_y=1006&top_left_x=918)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-020.jpg)
 
 - Answer:
 
@@ -1192,7 +1192,7 @@ In the given figure, two concentric circles with centre $O$ have radii 21 cm and
 
 Three semicircles each of diameter 3 cm , a circle of diameter 4.5 cm and a semicircle of radius 4.5 cm are drawn in the given figure. Find the area of the shaded region. [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-34.jpg?height=265&width=404&top_left_y=1308&top_left_x=791)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-021.jpg)
 
 - Answer:
 
@@ -1211,7 +1211,7 @@ Three semicircles each of diameter 3 cm , a circle of diameter 4.5 cm and a semi
 
 In the given figure, the side of square is 28 cm and radius of each circle is half of the length of the side of the square, where $O$ and $O^{\prime}$ are centres of the circles. Find the area of shaded region. [CBSE 2017]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-34.jpg?height=388&width=394&top_left_y=1590&top_left_x=801)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-022.jpg)
 
 - Answer:
 
@@ -1230,7 +1230,7 @@ In the given figure, the side of square is 28 cm and radius of each circle is ha
 
 With the vertices $A, B$ and $C$ of a triangle $A B C$ as centres, arcs are drawn with radii 5 cm each as shown in the given figure. If $A B=14 \mathrm{~cm}$, $B C=48 \mathrm{~cm}$ and $C A=50 \mathrm{~cm}$ then find the area of the shaded region. [Use $\pi=3.14$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-35.jpg?height=248&width=235&top_left_y=157&top_left_x=960)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-023.jpg)
 
 - Answer:
 
@@ -1249,7 +1249,7 @@ With the vertices $A, B$ and $C$ of a triangle $A B C$ as centres, arcs are draw
 
 If the diameters of the concentric circles shown in the figure below are in the ratio $1: 2$ : 3 then find the ratio of the areas of three regions.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-35.jpg?height=252&width=253&top_left_y=475&top_left_x=942)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-024.jpg)
 
 - Answer:
 
@@ -1498,7 +1498,7 @@ $(12.56 \mathrm{~cm}, 62.8 \mathrm{~cm}), 13.08 \mathrm{~cm}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-36.jpg?height=277&width=235&top_left_y=1296&top_left_x=962)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-025.jpg)
 
 ---
 
@@ -1532,7 +1532,7 @@ $14.25 \mathrm{~cm}^{2}, 142.75 \mathrm{~cm}^{2}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-37.jpg?height=252&width=233&top_left_y=161&top_left_x=958)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-026.jpg)
 
 ---
 
@@ -1558,7 +1558,7 @@ $1085.07 \mathrm{~cm}^{2}, 4458.93 \mathrm{~cm}^{2}$
 >
 > $\operatorname{ar}(\text{major segment})=\left[\left(\frac{22}{7} \times 42 \times 42\right)-1085.07\right] \mathrm{cm}^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-37.jpg?height=257&width=237&top_left_y=535&top_left_x=954)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-027.jpg)
 
 ---
 
@@ -1584,7 +1584,7 @@ $81.3 \mathrm{~cm}^{2}, 2744.7 \mathrm{~cm}^{2}$
 >
 > $\operatorname{ar}(\text{major segment } BDAB)=\left(\pi R^{2}-81.3\right) \mathrm{cm}^{2}=(2826-81.3)=2744.7 \mathrm{~cm}^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-37.jpg?height=281&width=237&top_left_y=821&top_left_x=954)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-028.jpg)
 
 ---
 
@@ -1684,7 +1684,7 @@ $346.5 \mathrm{~m}^{2}, 3293.5 \mathrm{~m}^{2}$
 >
 > Area ungrazed $=[(70 \times 52)-346.5] \mathrm{m}^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-38.jpg?height=203&width=382&top_left_y=406&top_left_x=813)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-029.jpg)
 
 ---
 
@@ -1711,7 +1711,7 @@ $36.69 \mathrm{~m}^{2}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-38.jpg?height=261&width=249&top_left_y=638&top_left_x=946)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-030.jpg)
 
 ---
 
@@ -1735,7 +1735,7 @@ $537.5 \mathrm{~m}^{2}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-38.jpg?height=225&width=165&top_left_y=958&top_left_x=1030)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-031.jpg)
 
 ---
 
@@ -1765,7 +1765,7 @@ $537.5 \mathrm{~m}^{2}$
 > Area of the rhombus $=\frac{1}{2} \times OQ \times PR=\frac{1}{2} \times r \times \sqrt{3} r=\frac{\sqrt{3}}{2} r^{2}$.
 > $\therefore \quad \frac{\sqrt{3}}{2} r^{2}=32 \sqrt{3} \Rightarrow r=8 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-38.jpg?height=189&width=189&top_left_y=1320&top_left_x=1002)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-032.jpg)
 
 ---
 
@@ -1789,7 +1789,7 @@ $78.5 \mathrm{~cm}^{2}$
 >
 > $\therefore \quad$ radius of the circumscribed circle $=5 \sqrt{2} \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-38.jpg?height=140&width=144&top_left_y=1683&top_left_x=1047)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-033.jpg)
 
 ---
 
@@ -1819,7 +1819,7 @@ $\pi: 2$
 > Area of the circle $=\left(\pi r^{2}\right) \mathrm{cm}^{2}$.
 > Area of the square $=\frac{1}{2} \times(\text{diagonal})^{2}=\frac{1}{2} \times 4 r^{2}=\left(2 r^{2}\right) \mathrm{cm}^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-39.jpg?height=152&width=152&top_left_y=173&top_left_x=1033)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-034.jpg)
 
 ---
 
@@ -1846,7 +1846,7 @@ $\pi: 2$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-39.jpg?height=247&width=195&top_left_y=390&top_left_x=1000)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-035.jpg)
 
 ---
 
@@ -1989,7 +1989,7 @@ $21.5 \mathrm{~cm}^{2}$
 > Required area $=$ (area of the square $ABCD$ with $a=10 \mathrm{~cm}$)
 > -4 (area of a sector with $r=5 \mathrm{~cm}, \theta=90^{\circ}$).
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-40.jpg?height=217&width=217&top_left_y=575&top_left_x=974)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-036.jpg)
 
 ---
 
@@ -2021,7 +2021,7 @@ $5.76 \mathrm{~cm}^{2}$
 > Required area $=$ (area of the $\triangle ABC$ with each side $a=12 \mathrm{~cm}$)
 > -3 (area of a sector with $r=6 \mathrm{~cm}, \theta=60^{\circ}$).
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-40.jpg?height=204&width=221&top_left_y=896&top_left_x=974)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-037.jpg)
 
 ---
 
@@ -2289,7 +2289,7 @@ $3255.21 \mathrm{~cm}^{2}$
 >
 > Note: $a=r \sqrt{3}$ in case of circumcircle.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-42.jpg?height=216&width=205&top_left_y=946&top_left_x=986)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-038.jpg)
 
 ---
 
@@ -2329,7 +2329,7 @@ $28.5 \mathrm{~cm}^{2}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-42.jpg?height=259&width=233&top_left_y=1681&top_left_x=966)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-039.jpg)
 
 ---
 
@@ -2354,7 +2354,7 @@ $6594 \mathrm{~m}^{2}$, ₹ 131880
 >
 > Cost of levelling $=₹(6594 \times 20)=₹ 131880$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-43.jpg?height=230&width=233&top_left_y=163&top_left_x=966)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-040.jpg)
 
 ---
 
@@ -2386,7 +2386,7 @@ $7.77 \mathrm{~cm}^{2}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-43.jpg?height=328&width=354&top_left_y=420&top_left_x=845)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-041.jpg)
 
 ---
 
@@ -2512,7 +2512,7 @@ $11.44 \mathrm{~cm}^{2}$
 > = \left\{\frac{1}{2} \times AB \times AC-\pi \times 2^{2}\right\} \mathrm{cm}^{2}=\left(\frac{1}{2} \times 6 \times 8-3.14 \times 4\right) \mathrm{cm}^{2}=11.44 \mathrm{~cm}^{2}.
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_cdb9d4033e4cabf7f3beg-44.jpg?height=267&width=549&top_left_y=841&top_left_x=356)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Area%20of%20Circle%2C%20Sector%20and%20Segment/class%2010%20Ch%2016%20A%20Ex-042.jpg)
 
 ---
 

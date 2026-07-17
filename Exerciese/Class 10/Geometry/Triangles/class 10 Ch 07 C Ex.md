@@ -172,7 +172,7 @@ The areas of two similar triangles are $100 \mathrm{~cm}^{2}$ and $64 \mathrm{~c
 
 In the given figure, $A B C$ is a triangle and $P Q$ is a straight line meeting $A B$ in $P$ and $A C$ in $Q$. If $A P=1 \mathrm{~cm}, P B=3 \mathrm{~cm}, A Q=1.5 \mathrm{~cm}$, $Q C=4.5 \mathrm{~cm}$, prove that area of $\triangle A P Q$ is $\frac{1}{16}$ of the area of $\triangle A B C$. [CBSE 2005]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-064.jpg?height=275&width=324&top_left_y=463&top_left_x=873)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20C%20Ex-001.jpg)
 
 - Answer:
 
@@ -191,7 +191,7 @@ In the given figure, $A B C$ is a triangle and $P Q$ is a straight line meeting 
 
 In the given figure, $D E \parallel B C$. If $D E=3 \mathrm{~cm}$, $B C=6 \mathrm{~cm}$ and $\operatorname{ar}(\triangle A D E)=15 \mathrm{~cm}^{2}$, find the area of $\triangle A B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-064.jpg?height=263&width=370&top_left_y=779&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20C%20Ex-002.jpg)
 
 - Answer:
 
@@ -210,7 +210,7 @@ In the given figure, $D E \parallel B C$. If $D E=3 \mathrm{~cm}$, $B C=6 \mathr
 
 $\triangle A B C$ is right-angled at $A$ and $A D \perp B C$. If $B C=13 \mathrm{~cm}$ and $A C=5 \mathrm{~cm}$, find the ratio of the areas of $\triangle A B C$ and $\triangle A D C$. [CBSE 2000C]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-064.jpg?height=283&width=370&top_left_y=1075&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20C%20Ex-003.jpg)
 
 - Answer:
 
@@ -229,7 +229,7 @@ $\triangle A B C$ is right-angled at $A$ and $A D \perp B C$. If $B C=13 \mathrm
 
 In the given figure, $D E \parallel B C$ and $D E: B C=3: 5$. Calculate the ratio of the areas of $\triangle A D E$ and the trapezium $B C E D$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-064.jpg?height=253&width=362&top_left_y=1393&top_left_x=837)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20C%20Ex-004.jpg)
 
 - Answer:
 
@@ -248,7 +248,7 @@ In the given figure, $D E \parallel B C$ and $D E: B C=3: 5$. Calculate the rati
 
 In $\triangle A B C, D$ and $E$ are the midpoints of $A B$ and $A C$ respectively. Find the ratio of the areas of $\triangle A D E$ and $\triangle A B C$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-064.jpg?height=257&width=370&top_left_y=1679&top_left_x=829)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20C%20Ex-005.jpg)
 
 - Answer:
 

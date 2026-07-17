@@ -807,7 +807,7 @@ $$
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ca3791f7309a267d86eg-03.jpg?height=385&width=442&top_left_y=495&top_left_x=757)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Coordinate%20Geometry/Three%20Dimensional%20Geometry/class%2011%20Ch%2026%20A%20Ex-001.jpg)
 
 
 

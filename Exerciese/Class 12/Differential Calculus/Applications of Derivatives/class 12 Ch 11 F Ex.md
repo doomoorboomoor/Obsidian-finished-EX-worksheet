@@ -774,7 +774,7 @@ length $=4 \sqrt{6} \mathrm{~cm}$, breadth $=4 \sqrt{6} \mathrm{~cm}$, perimeter
 > 
 > Then, $B C=\sqrt{2} a=C D$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-202.jpg?height=352&width=402&top_left_y=1552&top_left_x=811)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Calculus/Applications%20of%20Derivatives/class%2012%20Ch%2011%20F%20Ex-001.jpg)
 >
 
 ---
@@ -857,7 +857,7 @@ breadth $=\frac{20}{(\pi+4)} \mathrm{m}$, height $=\frac{10}{(\pi+4)} \mathrm{m}
 > 
 > $\therefore \quad A$ is maximum when $x=\frac{20}{(\pi+4)}$ and $y=\frac{10}{(\pi+4)}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-203.jpg?height=214&width=215&top_left_y=1068&top_left_x=998)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Calculus/Applications%20of%20Derivatives/class%2012%20Ch%2011%20F%20Ex-002.jpg)
 >
 
 ---
@@ -884,7 +884,7 @@ $2 \mathrm{~cm}, 128 \mathrm{~cm}^{3}$
 > 
 > $\therefore \quad V$ is maximum when $x=2$ and maximum $V=\left[(12-4)^{2} \times 2\right] \mathrm{cm}^{3}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-203.jpg?height=262&width=256&top_left_y=1501&top_left_x=949)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Calculus/Applications%20of%20Derivatives/class%2012%20Ch%2011%20F%20Ex-003.jpg)
 >
 
 ---
@@ -959,7 +959,7 @@ $r=\left(\frac{500}{\pi}\right)^{1 / 3} \mathrm{~cm}, h=\frac{1000}{\pi^{1 / 3}(
 > 
 > Maximum volume $=\frac{1}{3} \pi \times \frac{8 a^{2}}{9} \times \frac{4 a}{3}=\frac{8}{27} \times\left(\frac{4}{3} \pi a^{3}\right)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-204.jpg?height=311&width=288&top_left_y=762&top_left_x=917)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Calculus/Applications%20of%20Derivatives/class%2012%20Ch%2011%20F%20Ex-004.jpg)
 >
 
 ---
@@ -1060,7 +1060,7 @@ $(4,-4)$
 > 
 > $\therefore \frac{r}{r_{1}}=\frac{2 h-h}{2 h}=\frac{1}{2} \Leftrightarrow r_{1}=2 r=$ diameter of the cylinder.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-205.jpg?height=286&width=286&top_left_y=524&top_left_x=923)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Calculus/Applications%20of%20Derivatives/class%2012%20Ch%2011%20F%20Ex-005.jpg)
 >
 
 ---
@@ -1126,7 +1126,7 @@ length $=r \sqrt{2}$, breadth $=\frac{r \sqrt{2}}{2}$, area $=r^{2}$ sq units
 > 
 > Maximum area $=2 x y=\frac{r \sqrt{2} \times r \sqrt{2}}{2}=r^{2}$ sq units.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_4c9510ea0d4c9f57f674g-205.jpg?height=190&width=316&top_left_y=1677&top_left_x=897)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Calculus/Applications%20of%20Derivatives/class%2012%20Ch%2011%20F%20Ex-006.jpg)
 >
 
 ---

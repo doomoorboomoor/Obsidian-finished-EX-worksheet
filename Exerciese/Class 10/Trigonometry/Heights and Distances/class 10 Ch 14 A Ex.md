@@ -873,7 +873,7 @@ According to pollution control norms, the minimum height of a smokeemitting chim
 > $\therefore \quad x=75 \times \frac{2}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}}$
 > $=50 \sqrt{3}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-29.jpg?height=305&width=245&top_left_y=459&top_left_x=946)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-001.jpg)
 
 ---
 
@@ -903,7 +903,7 @@ According to pollution control norms, the minimum height of a smokeemitting chim
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-29.jpg?height=478&width=338&top_left_y=797&top_left_x=853)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-002.jpg)
 
 ---
 
@@ -931,7 +931,7 @@ According to pollution control norms, the minimum height of a smokeemitting chim
 > 
 > $\therefore \quad h^{2}=100 \tan \theta \times \cot \theta=100 \Rightarrow h=10$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-29.jpg?height=245&width=354&top_left_y=1304&top_left_x=837)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-003.jpg)
 
 ---
 
@@ -957,7 +957,7 @@ According to pollution control norms, the minimum height of a smokeemitting chim
 > \frac{B D}{A B}=\tan 60^{\circ}=\sqrt{3} \Rightarrow \frac{120+x}{120}=\sqrt{3} \text {. Find } x \text {. }
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-29.jpg?height=342&width=269&top_left_y=1590&top_left_x=926)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-004.jpg)
 
 ---
 
@@ -989,7 +989,7 @@ According to pollution control norms, the minimum height of a smokeemitting chim
 > $\Rightarrow B C=\frac{40 \mathrm{~m}}{\sqrt{3}} \Rightarrow B C=\frac{40 \mathrm{~m}}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}}=\frac{40 \sqrt{3}}{3} \mathrm{~m}$.
 > (i) Height of the tower $=B C=\frac{40 \sqrt{3}}{3} \mathrm{~m}=23.1 \mathrm{~m}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-30.jpg?height=329&width=336&top_left_y=324&top_left_x=859)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-005.jpg)
 
 ---
 
@@ -1064,7 +1064,7 @@ According to pollution control norms, the minimum height of a smokeemitting chim
 > And, $\frac{A C}{O A}=\tan 60^{\circ} \Rightarrow \frac{H}{75 \mathrm{~m}}=\sqrt{3} \Rightarrow H=75 \sqrt{3} \mathrm{~m}$.
 > Hence, the required height is $(H-h) \mathrm{m}=(50 \sqrt{3}) \mathrm{m}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-30.jpg?height=408&width=342&top_left_y=1169&top_left_x=853)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-006.jpg)
 
 ---
 
@@ -1111,7 +1111,7 @@ $20 \sqrt{3} \mathrm{~m} ; 20 \mathrm{~m}$ from left pole and 60 m from right po
 > $\therefore \quad$ height $=20 \sqrt{3} \mathrm{~m}$.
 > $P$ is 20 m from left pole and 60 m from right pole.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-30.jpg?height=301&width=587&top_left_y=1590&top_left_x=612)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-007.jpg)
 
 ---
 
@@ -1137,7 +1137,7 @@ $20 \sqrt{3} \mathrm{~m} ; 20 \mathrm{~m}$ from left pole and 60 m from right po
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-31.jpg?height=229&width=505&top_left_y=402&top_left_x=686)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-008.jpg)
 
 ---
 
@@ -1241,7 +1241,7 @@ $10 \sqrt{3} \mathrm{~m}, 10 \mathrm{~m}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-31.jpg?height=313&width=241&top_left_y=1453&top_left_x=954)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-009.jpg)
 
 ---
 
@@ -1266,7 +1266,7 @@ $10 \sqrt{3} \mathrm{~m}, 10 \mathrm{~m}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-32.jpg?height=252&width=318&top_left_y=177&top_left_x=873)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-010.jpg)
 
 ---
 
@@ -1303,7 +1303,7 @@ $10 \sqrt{3} \mathrm{~m}, 10 \mathrm{~m}$
 > 
 > We should comply with the prescribed rules and contribute to the cleanliness of the environment.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-32.jpg?height=404&width=334&top_left_y=491&top_left_x=857)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-011.jpg)
 
 ---
 
@@ -1339,7 +1339,7 @@ $10 \sqrt{3} \mathrm{~m}, 10 \mathrm{~m}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-32.jpg?height=414&width=241&top_left_y=998&top_left_x=954)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-012.jpg)
 
 ---
 
@@ -1421,7 +1421,7 @@ $17.32 \mathrm{~m}, 30 \mathrm{~m}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-33.jpg?height=361&width=376&top_left_y=370&top_left_x=823)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-013.jpg)
 
 ---
 
@@ -1495,7 +1495,7 @@ $27.71 \mathrm{~m}, 64 \mathrm{~m}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-33.jpg?height=403&width=352&top_left_y=1502&top_left_x=845)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-014.jpg)
 
 ---
 
@@ -1537,7 +1537,7 @@ $27.71 \mathrm{~m}, 64 \mathrm{~m}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-34.jpg?height=333&width=358&top_left_y=189&top_left_x=837)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-015.jpg)
 
 ---
 
@@ -1570,7 +1570,7 @@ $439.2 \mathrm{~km} / \mathrm{hr}$
 > Thus, the aeroplane covers 1830 m in 15 seconds.
 > $\therefore \quad$ its speed $=\left(\frac{1830}{15} \times \frac{60 \times 60}{1000}\right) \mathrm{km} / \mathrm{hr}=439.2 \mathrm{~km} / \mathrm{hr}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-34.jpg?height=232&width=392&top_left_y=753&top_left_x=799)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-016.jpg)
 
 ---
 
@@ -1607,7 +1607,7 @@ $439.2 \mathrm{~km} / \mathrm{hr}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-34.jpg?height=210&width=362&top_left_y=1343&top_left_x=833)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-017.jpg)
 
 ---
 
@@ -1641,7 +1641,7 @@ $439.2 \mathrm{~km} / \mathrm{hr}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-34.jpg?height=209&width=446&top_left_y=1727&top_left_x=745)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-018.jpg)
 
 ---
 
@@ -1687,7 +1687,7 @@ $439.2 \mathrm{~km} / \mathrm{hr}$
 > =(3 \times 2.414) \mathrm{m}=7.242 \mathrm{~m} \approx 7.24 \mathrm{~m} .
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-35.jpg?height=297&width=390&top_left_y=519&top_left_x=807)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-019.jpg)
 
 ---
 
@@ -1726,7 +1726,7 @@ $439.2 \mathrm{~km} / \mathrm{hr}$
 > 
 > Hence, the length of the ladder is 3.46 m .
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ac3e5606dba3f9804f32g-35.jpg?height=390&width=205&top_left_y=946&top_left_x=990)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Heights%20and%20Distances/class%2010%20Ch%2014%20A%20Ex-020.jpg)
 
 ---
 

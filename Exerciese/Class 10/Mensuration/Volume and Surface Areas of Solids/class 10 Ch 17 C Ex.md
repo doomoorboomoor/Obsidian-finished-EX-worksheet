@@ -485,7 +485,7 @@ A fez, the cap used by the Turks, is shaped like the frustum of a cone. If its r
 
 An oil funnel made of tin sheet consists of a 10 cm long cylindrical portion attached to a frustum of a cone. If the total height is 22 cm , diameter of the cylindrical portion is 8 cm and the diameter of the top of the funnel is 18 cm , find the area of the tin sheet required to make the funnel.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-58.jpg?height=575&width=309&top_left_y=1345&top_left_x=890)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Volume%20and%20Surface%20Areas%20of%20Solids/class%2010%20Ch%2017%20C%20Ex-001.jpg)
 
 - Answer:
 
@@ -723,7 +723,7 @@ $1068.57 \mathrm{~m}^{2}$
 > 
 > $=\{\pi l(R+r)+\pi r L\} \mathrm{m}^{2}=\frac{22}{7} \times\{(25 \times 13)+(3 \times 5)\} \mathrm{m}^{2}=1068.57 \mathrm{~m}^{2}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-59.jpg?height=366&width=309&top_left_y=1139&top_left_x=886)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Volume%20and%20Surface%20Areas%20of%20Solids/class%2010%20Ch%2017%20C%20Ex-002.jpg)
 
 ---
 
@@ -747,7 +747,7 @@ $892.6 \mathrm{~m}^{2}$
 > =\left\{\frac{22}{7} \times 10 \times(13+7)+\frac{22}{7} \times 7 \times 12\right\} \mathrm{m}^{2} .
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_2ee37d889f9ae4cecf02g-59.jpg?height=332&width=324&top_left_y=1594&top_left_x=871)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Volume%20and%20Surface%20Areas%20of%20Solids/class%2010%20Ch%2017%20C%20Ex-003.jpg)
 
 ---
 

@@ -540,7 +540,7 @@ $y^{2}-x^{2}-2 x y \frac{d y}{d x}=0$
 > 
 > Put the value of $a$ from (ii) in (i), we get the desired differential equation.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_dd7839792b746be86d8eg-020.jpg?height=292&width=396&top_left_y=958&top_left_x=809)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Equations/Differential%20Equations%20and%20Their%20Formation/class%2012%20Ch%2018%20C%20Ex-001.jpg)
 
 ---
 
@@ -595,7 +595,7 @@ $(x+y)^{2}\left\{1+\left(\frac{d y}{d x}\right)^{2}\right\}=\left(x+y \frac{d y}
 > 
 > Put this value of $a$ in (i) to get the required equation.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_dd7839792b746be86d8eg-020.jpg?height=382&width=388&top_left_y=1267&top_left_x=819)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Equations/Differential%20Equations%20and%20Their%20Formation/class%2012%20Ch%2018%20C%20Ex-002.jpg)
 
 ---
 
@@ -622,7 +622,7 @@ $y^{2}\left(\frac{d y}{d x}\right)^{2}+y^{2}=1$
 > $$
 > 
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_dd7839792b746be86d8eg-020.jpg?height=274&width=357&top_left_y=1652&top_left_x=850)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2012/Differential%20Equations/Differential%20Equations%20and%20Their%20Formation/class%2012%20Ch%2018%20C%20Ex-003.jpg)
 
 ---
 

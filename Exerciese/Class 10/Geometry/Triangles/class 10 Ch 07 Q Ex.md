@@ -166,7 +166,7 @@ In the given figure, $O$ is a point inside a $\triangle M N P$ such that $\angle
 (c) 33 cm
 (d) 35 cm
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-097.jpg?height=192&width=386&top_left_y=1264&top_left_x=809)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20Q%20Ex-001.jpg)
 
 - Answer:
 

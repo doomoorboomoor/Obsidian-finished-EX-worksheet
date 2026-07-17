@@ -657,7 +657,7 @@ $\{1,2,3,4\}$
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-18.jpg?height=51&width=837&top_left_y=1256&top_left_x=229)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Algebra/Linear%20Inequations%20In%20one%20variable/class%2011%20Ch%2006%20A%20Ex-001.jpg)
 
 
 
@@ -685,7 +685,7 @@ $\{\ldots,-3,-2,-1,0,1,2,3,4\}$
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-18.jpg?height=55&width=835&top_left_y=1377&top_left_x=231)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Algebra/Linear%20Inequations%20In%20one%20variable/class%2011%20Ch%2006%20A%20Ex-002.jpg)
 
 
 
@@ -713,7 +713,7 @@ $\{-3,-4,-5,-6, \ldots\}$
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-18.jpg?height=55&width=837&top_left_y=1498&top_left_x=229)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Algebra/Linear%20Inequations%20In%20one%20variable/class%2011%20Ch%2006%20A%20Ex-003.jpg)
 
 
 
@@ -743,7 +743,7 @@ $(-\infty,-2.5)$
 
 
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cb938bfeefa58112de07g-18.jpg?height=81&width=837&top_left_y=1621&top_left_x=229)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Algebra/Linear%20Inequations%20In%20one%20variable/class%2011%20Ch%2006%20A%20Ex-004.jpg)
 
 
 

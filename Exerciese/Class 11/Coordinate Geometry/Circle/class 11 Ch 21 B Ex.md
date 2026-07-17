@@ -862,6 +862,6 @@ $B(7,-8)$
 > 
 > $\therefore \quad\left(\frac{-1+\alpha}{2}=3\right.$ and $\left.\frac{3+\beta}{2}=\frac{-5}{2}\right) \Rightarrow(\alpha=7$ and $\beta=-8)$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_bbc7d4e8c38ce902bda4g-14.jpg?height=287&width=424&top_left_y=853&top_left_x=773)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Coordinate%20Geometry/Circle/class%2011%20Ch%2021%20B%20Ex-001.jpg)
 
 ---

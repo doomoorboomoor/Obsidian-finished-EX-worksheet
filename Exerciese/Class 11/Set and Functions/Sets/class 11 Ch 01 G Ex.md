@@ -632,7 +632,7 @@ the number of students who have not offered any of these subjects.
 > 
 > $n(B-A) + n(A \cap B) = n(B)$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-45.jpg?height=248&width=358&top_left_y=455&top_left_x=841)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Sets/class%2011%20Ch%2001%20G%20Ex-001.jpg)
 
 ---
 
@@ -689,7 +689,7 @@ the number of students who have not offered any of these subjects.
 > 
 > $n(A \cup B) = n(A) + n(B) - n(A \cap B)$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-45.jpg?height=249&width=359&top_left_y=730&top_left_x=838)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Sets/class%2011%20Ch%2001%20G%20Ex-002.jpg)
 
 ---
 
@@ -786,7 +786,7 @@ the number of students who have not offered any of these subjects.
 > n(C_{1} \cup C_{2}) = n(C_{1}) + n(C_{2}) - n(C_{1} \cap C_{2}) = (120+50-30) = 140
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-45.jpg?height=251&width=342&top_left_y=1177&top_left_x=853)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Sets/class%2011%20Ch%2001%20G%20Ex-003.jpg)
 
 ---
 
@@ -834,7 +834,7 @@ the number of students who have not offered any of these subjects.
 > 
 > $n(A \cup B) = n(A) + n(B) - n(A \cap B) = (50+42-24) = 68$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-45.jpg?height=247&width=360&top_left_y=1451&top_left_x=837)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Sets/class%2011%20Ch%2001%20G%20Ex-004.jpg)
 
 ---
 
@@ -885,7 +885,7 @@ the number of students who have not offered any of these subjects.
 > 
 > Number of people who like tennis = $25 + 10 = 35$.
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-46.jpg?height=254&width=358&top_left_y=169&top_left_x=839)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Sets/class%2011%20Ch%2001%20G%20Ex-005.jpg)
 
 ---
 
@@ -945,7 +945,7 @@ the number of students who have not offered any of these subjects.
 > = (a+e+g) = (8+10+12) = 30
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-46.jpg?height=327&width=358&top_left_y=636&top_left_x=839)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Sets/class%2011%20Ch%2001%20G%20Ex-006.jpg)
 
 ---
 
@@ -983,7 +983,7 @@ the number of students who have not offered any of these subjects.
 > = (0+3+10+5) = 18
 > $$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-46.jpg?height=337&width=358&top_left_y=978&top_left_x=839)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Sets/class%2011%20Ch%2001%20G%20Ex-007.jpg)
 
 ---
 
@@ -1035,7 +1035,7 @@ the number of students who have not offered any of these subjects.
 > 
 > $a = 3300$
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_49d42c5198e966b87447g-46.jpg?height=331&width=374&top_left_y=1572&top_left_x=825)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Set%20and%20Functions/Sets/class%2011%20Ch%2001%20G%20Ex-008.jpg)
 
 ---
 

@@ -285,7 +285,7 @@ If $\triangle A B C \sim \triangle D E F$ such that $2 A B=D E$ and $B C=6 \math
 
 In the given figure, $D E \| B C$ such that $A D=x \mathrm{~cm}, D B=(3 x+4) \mathrm{cm}, A E=(x+3) \mathrm{cm}$ and $E C=(3 x+19) \mathrm{cm}$. Find the value of $x$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-093.jpg?height=192&width=239&top_left_y=360&top_left_x=960)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20E%20Ex-001.jpg)
 
 - Answer:
 
@@ -456,7 +456,7 @@ Two triangles $D E F$ and $G H K$ are such that $\angle D=48^{\circ}$ and $\angl
 
 In the given figure, $M N \| B C$ and $A M: M B=1: 2$. Find $\frac{\operatorname{area}(\triangle A M N)}{\operatorname{area}(\triangle A B C)}$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-093.jpg?height=253&width=352&top_left_y=1427&top_left_x=847)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20E%20Ex-002.jpg)
 
 - Answer:
 
@@ -551,7 +551,7 @@ If the lengths of the sides $B C, C A$ and $A B$ of a $\triangle A B C$ are $a, 
 
 In the given figure, $\angle A M N=\angle M B C=76^{\circ}$. If $p, q$ and $r$ are the lengths of $A M, M B$ and $B C$ respectively then express the length of $M N$ in terms of $p, q$ and $r$.
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-094.jpg?height=329&width=340&top_left_y=404&top_left_x=857)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20E%20Ex-003.jpg)
 
 - Answer:
 
@@ -947,7 +947,7 @@ $21 \mathrm{~cm}^{2}$
 > $\frac{\operatorname{ar}(\triangle A O B)}{\operatorname{ar}(\triangle C O D)}=\frac{A B^{2}}{C D^{2}}=\left(\frac{A B}{C D}\right)^{2}=\frac{4}{1} \quad[\because \triangle A O B \sim \triangle C O D]$
 > $\Rightarrow \quad \operatorname{ar}(\triangle C O D)=\frac{1}{4} \times \operatorname{ar}(\triangle A O B)$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-095.jpg?height=208&width=352&top_left_y=813&top_left_x=845)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20E%20Ex-004.jpg)
 
 ---
 
@@ -1040,7 +1040,7 @@ $\frac{1}{9}$
 > Let $A D \perp B C$. Then, $D$ is the midpoint of $B C$.
 > Altitude $A D=\sqrt{A C^{2}-D C^{2}}=\sqrt{25^{2}-7^{2}} \mathrm{~cm}=24 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-095.jpg?height=277&width=223&top_left_y=1602&top_left_x=976)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20E%20Ex-005.jpg)
 
 ---
 
@@ -1069,7 +1069,7 @@ $B D=\frac{a c}{b+c} ; D C=\frac{a b}{b+c}$
 > Now, $\frac{B D}{D C}=\frac{A B}{A C} \quad$ [by angle-bisector theorem]
 > $\Rightarrow \quad \frac{x}{a-x}=\frac{c}{b} \Rightarrow x=\frac{a c}{b+c}$ and so, $a-x=\frac{a b}{b+c}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-096.jpg?height=260&width=396&top_left_y=169&top_left_x=801)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20E%20Ex-006.jpg)
 
 ---
 
@@ -1109,7 +1109,7 @@ $M N=\frac{a c}{a+b}$
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-096.jpg?height=285&width=426&top_left_y=608&top_left_x=771)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20E%20Ex-007.jpg)
 
 ---
 
@@ -1174,7 +1174,7 @@ T
 > \end{aligned}
 > $$
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_97258cbb4988c33e0722g-096.jpg?height=227&width=297&top_left_y=1137&top_left_x=898)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Geometry/Triangles/class%2010%20Ch%2007%20E%20Ex-008.jpg)
 
 ---
 

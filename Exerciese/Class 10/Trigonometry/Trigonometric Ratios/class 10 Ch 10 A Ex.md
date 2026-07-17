@@ -424,7 +424,7 @@ If $\sec \theta=\frac{17}{8}$, verify that $\frac{\left(3-4 \sin ^{2} \theta\rig
 
 In the adjoining figure, $\angle B=90^{\circ}, \angle B A C=\theta^{\circ}, B C=C D=4 \mathrm{~cm}$ and $A D=10 \mathrm{~cm}$. Find:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cc52b83dc44bbcf3c9f8g-13.jpg?height=325&width=305&top_left_y=1494&top_left_x=892)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Trigonometric%20Ratios/class%2010%20Ch%2010%20A%20Ex-001.jpg)
 
 #### Question 24/i
 
@@ -731,7 +731,7 @@ In a right $\triangle A B C$, right-angled at $B$, if $\tan A=1$ then verify tha
 
 In the figure of $\triangle P Q R, \angle P=\theta^{\circ}$ and $\angle R=\phi^{\circ}$. Find:
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_cc52b83dc44bbcf3c9f8g-14.jpg?height=216&width=211&top_left_y=934&top_left_x=984)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Trigonometry/Trigonometric%20Ratios/class%2010%20Ch%2010%20A%20Ex-002.jpg)
 
 #### Question 33/i
 

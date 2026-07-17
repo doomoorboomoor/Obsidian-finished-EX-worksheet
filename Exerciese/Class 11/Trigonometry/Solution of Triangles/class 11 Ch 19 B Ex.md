@@ -68,7 +68,7 @@ A town $B$ is 12 km south and 18 km west of a town $A$. Show that the bearing of
 
 At the foot of a mountain, the angle of elevation of its summit is $45^{\circ}$. After ascending 1 km towards the mountain up an incline of $30^{\circ}$, the elevation changes to $60^{\circ}$ (as shown in the given figure). Find the height of the mountain. [Given: $\sqrt{3}=1.73$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_33803a237c3ec25a4487g-19.jpg?height=258&width=309&top_left_y=888&top_left_x=886)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Trigonometry/Solution%20of%20Triangles/class%2011%20Ch%2019%20B%20Ex-001.jpg)
 
 - Answer:
 
@@ -114,7 +114,7 @@ At the foot of a mountain, the angle of elevation of its summit is $45^{\circ}$.
 > 
 > Hence, the required distance between the boats is 55.68 km .
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_33803a237c3ec25a4487g-19.jpg?height=273&width=326&top_left_y=1534&top_left_x=865)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Trigonometry/Solution%20of%20Triangles/class%2011%20Ch%2019%20B%20Ex-002.jpg)
 
 ---
 
@@ -150,7 +150,7 @@ At the foot of a mountain, the angle of elevation of its summit is $45^{\circ}$.
 > 
 > Hence, the distance of $B$ from $A$ is 21.63 km .
 > 
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_33803a237c3ec25a4487g-20.jpg?height=307&width=326&top_left_y=302&top_left_x=869)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2011/Trigonometry/Solution%20of%20Triangles/class%2011%20Ch%2019%20B%20Ex-003.jpg)
 
 ---
 

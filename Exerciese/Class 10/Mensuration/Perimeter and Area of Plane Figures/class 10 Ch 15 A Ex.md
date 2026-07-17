@@ -378,7 +378,7 @@ Find the area and perimeter of an isosceles right triangle, each of whose equal 
 
 In the given figure, $\triangle A B C$ is an equilateral triangle the length of whose side is equal to 10 cm , and $\triangle D B C$ is right-angled at $D$ and $B D=8 \mathrm{~cm}$. Find the area of the shaded region. [Take $\sqrt{3}=1.732$.]
 
-![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-06.jpg?height=235&width=229&top_left_y=718&top_left_x=970)
+![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20A%20Ex-001.jpg)
 
 - Answer:
 
@@ -612,7 +612,7 @@ $25 \mathrm{~cm}, 750 \mathrm{~cm}^{2}$
 > 
 > $\therefore \quad$ base $=16 \mathrm{~cm}$, height $=6 \mathrm{~cm}$.
 >
-> ![](https://cdn.mathpix.com/cropped/2025_09_25_ec977b3f43b62157e306g-07.jpg?height=208&width=205&top_left_y=890&top_left_x=990)
+> ![](file:///C:/Obsidian-finished-EX-worksheet_resources/Exerciese/Class%2010/Mensuration/Perimeter%20and%20Area%20of%20Plane%20Figures/class%2010%20Ch%2015%20A%20Ex-002.jpg)
 
 ---
 
