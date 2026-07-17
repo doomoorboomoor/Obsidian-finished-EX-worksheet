@@ -11,10 +11,14 @@
             "id": "e6d001fdb32e99dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Exerciese/Class 09/Coordinate Geometry/Coordinate Geometry/class 09 Ch 05 A Ex.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "class 09 Ch 05 A Ex"
             }
           }
         ]
@@ -180,11 +184,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7eb46dcd034babb5",
+  "active": "e6d001fdb32e99dd",
   "lastOpenFiles": [
+    "TextBooK/Class-09/Geometry/Congruence-of-Triangles-and-Inequalities-in-a-Triangle/class-09-Ch-09-A-BooK.md",
+    "TextBooK/Class-09/Algebra/Factorisation-of-Polynomials/class-09-Ch-03-A-BooK.md",
+    "TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-A-BooK.md",
+    "Exerciese/Class 12/3D Geometry/Straight Line in Space/class 12 Ch 27 A Ex.md",
+    "Exerciese/Class 12/Vector Algebra/Product of Three Vectors/class 12 Ch 25 A Ex.md",
+    "Exerciese/Class 12/Vector Algebra/Cross, or Vector, Product of Vectors/class 12 Ch 24 A Ex.md",
+    "Exerciese/Class 12/Vector Algebra/Scalar or Dot Product of Vectors/class 12 Ch 23 A Ex.md",
     "_resources/class-09-Ch-09-A-BooK",
     "_resources",
-    "TextBooK/Class-09/Algebra/Linear-Equations-in-Two-Variables/class-09-Ch-04-A-BooK.md",
     "EX/Class 09/Algebra/Factorisation of Polynomials/class 09 Ch 03 A Ex.md"
   ]
 }
